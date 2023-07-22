@@ -8,8 +8,12 @@ namespace yugioh_card_scraper.Scraper
     {
         int pagesCount = 1;
         const int elementsPerPage = 100;
+        readonly string cookie = "";
 
-        internal CardMetadaScraper(string uriFormat, int[] delayRange, DirectoryInfo cacheDirectory) : base(uriFormat, delayRange, cacheDirectory) { }
+        internal CardMetadaScraper(string uriFormat, int[] delayRange, DirectoryInfo cacheDirectory, string cookie) : base(uriFormat, delayRange, cacheDirectory)
+        {
+            this.cookie = cookie;
+        }
 
         protected override HttpRequestMessage CreateNewRequest<T>(T data)
         {
@@ -24,7 +28,7 @@ namespace yugioh_card_scraper.Scraper
                 RequestUri = new Uri(string.Format(uriFormat, page.ToString(), elementsPerPage)),
                 Headers =
                     {
-                        { "cookie", "Analytics=2; CountryCd=--; Edgescape=1; JSESSIONID=4E9152D23BC21988D74308B913F4FF51; visid_incap_1363207=vSuCi8qYQMKErCH5xusggQGjmGQAAAAAQUIPAAAAAADIsgEfl126BB8wVE8sB7Wp; AG=2; OptanonAlertBoxClosed=2023-06-28T04:34:35.245Z; AO=2; _ga_DSVT4C66K4=deleted; _ga_BKZXYG3T1Z=GS1.2.1688412799.8.1.1688412870.50.0.0; nlbi_1363207=3WUtL00hSm8nh5lXxbLhpQAAAADRpy+lEU9KoJqQ68nVtsJf; _gid=GA1.2.49161900.1689882647; incap_ses_1527_1363207=+Ihqa3zqwwL1No/22v4wFe+auWQAAAAA5a/c6HKvmavw21DvQbnUNg==; incap_ses_1474_1363207=CABmWq/kmEaB/wGAtbN0FJT2uWQAAAAAbJf7cc7P9WbGexlfko9u+A==; _gat_UA-97638476-6=1; _ga_DSVT4C66K4=GS1.1.1689908889.23.1.1689909130.0.0.0; _ga=GA1.1.1737813437.1687926875; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Jul+21+2023+00^%^3A12^%^3A10+GMT-0300+(Hora+padr^%^C3^%^A3o+de+Bras^%^C3^%^ADlia)&version=202211.2.0&isIABGlobal=false&hosts=&consentId=ebc3d197-6c76-450e-a5a4-723ecb6d37d4&interactionCount=2&landingPath=NotLandingPage&groups=C0001^%^3A1^%^2CC0003^%^3A1^%^2CC0002^%^3A1^%^2CC0004^%^3A1&AwaitingReconsent=false&geolocation=BR^%^3BPE; _ga_QJ8ZYXGZTQ=GS1.1.1689908891.13.1.1689909130.0.0.0; _ga_H6LPQNDD8W=GS1.1.1689908891.13.1.1689909130.59.0.0; AWSALB=t0UxXIGp3qaRccyEpiQ+VMsrtp24LgEq4/icIdnRcIpZf5n2JImg2XadUkYgXeWAT6NnKA+4tIpONCG9VLKArnV//JC97rDSH60uxseMNEBcxugTO1+CwYnP7Yzr; AWSALBCORS=t0UxXIGp3qaRccyEpiQ+VMsrtp24LgEq4/icIdnRcIpZf5n2JImg2XadUkYgXeWAT6NnKA+4tIpONCG9VLKArnV//JC97rDSH60uxseMNEBcxugTO1+CwYnP7Yzr" },
+                        { "cookie", cookie },
                         { "authority", "www.db.yugioh-card.com" },
                         { "accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" },
                         { "accept-language", "en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7" },
