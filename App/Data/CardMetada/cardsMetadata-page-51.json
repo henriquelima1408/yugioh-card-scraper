@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Herald of Green Light",
+    "CardID": "6693"
+  },
+  {
+    "CardName": "Herald of Mirage Lights",
+    "CardID": "14934"
+  },
+  {
+    "CardName": "Herald of Orange Light",
+    "CardID": "7673"
+  },
+  {
+    "CardName": "Herald of Perfection",
+    "CardID": "7674"
+  },
+  {
+    "CardName": "Herald of Pure Light",
+    "CardID": "10661"
+  },
+  {
+    "CardName": "Herald of Purple Light",
+    "CardID": "6692"
+  },
+  {
+    "CardName": "Herald of the Abyss",
+    "CardID": "13950"
+  },
+  {
+    "CardName": "Herald of the Arc Light",
+    "CardID": "11384"
+  },
+  {
+    "CardName": "Herald of Ultimateness",
+    "CardID": "11377"
+  },
+  {
+    "CardName": "Heraldic Beast Aberconway",
+    "CardID": "10234"
+  },
+  {
+    "CardName": "Heraldic Beast Amphisbaena",
+    "CardID": "10974"
+  },
+  {
+    "CardName": "Heraldic Beast Basilisk",
+    "CardID": "10372"
+  },
+  {
+    "CardName": "Heraldic Beast Berners Falcon",
+    "CardID": "10235"
+  },
+  {
+    "CardName": "Heraldic Beast Eale",
+    "CardID": "10373"
+  },
+  {
+    "CardName": "Heraldic Beast Leo",
+    "CardID": "10376"
+  },
+  {
+    "CardName": "Heraldic Beast Twin-Headed Eagle",
+    "CardID": "10374"
+  },
+  {
+    "CardName": "Heraldic Beast Unicorn",
+    "CardID": "10375"
+  },
+  {
+    "CardName": "Heraldry Change",
+    "CardID": "10429"
+  },
+  {
+    "CardName": "Heraldry Reborn",
+    "CardID": "10416"
+  },
+  {
+    "CardName": "Heraldry Record",
+    "CardID": "10728"
+  },
+  {
+    "CardName": "Herculean Power",
+    "CardID": "8489"
+  },
+  {
+    "CardName": "Hercules Beetle",
+    "CardID": "4058"
+  },
+  {
+    "CardName": "Heritage of the Chalice",
+    "CardID": "14075"
+  },
+  {
+    "CardName": "Heritage of the Light",
+    "CardID": "16952"
+  },
+  {
+    "CardName": "Hermit of Prophecy",
+    "CardID": "10244"
+  },
+  {
+    "CardName": "Hero Barrier",
+    "CardID": "6495"
+  },
+  {
+    "CardName": "Hero Blast",
+    "CardID": "7637"
+  },
+  {
+    "CardName": "Hero Counterattack",
+    "CardID": "7160"
+  },
+  {
+    "CardName": "Hero Flash!!",
+    "CardID": "6675"
+  },
+  {
+    "CardName": "Hero Heart",
+    "CardID": "6571"
+  },
+  {
+    "CardName": "Hero Kid",
+    "CardID": "6567"
+  },
+  {
+    "CardName": "Hero Mask",
+    "CardID": "7618"
+  },
+  {
+    "CardName": "Hero Medal",
+    "CardID": "7006"
+  },
+  {
+    "CardName": "Hero of the East",
+    "CardID": "4116"
+  },
+  {
+    "CardName": "Hero Ring",
+    "CardID": "6528"
+  },
+  {
+    "CardName": "Hero Signal",
+    "CardID": "6356"
+  },
+  {
+    "CardName": "Hero Spirit",
+    "CardID": "6584"
+  },
+  {
+    "CardName": "HERO's Bond",
+    "CardID": "6785"
+  },
+  {
+    "CardName": "Hero's Rule 2",
+    "CardID": "7383"
+  },
+  {
+    "CardName": "Heroic Advance",
+    "CardID": "10291"
+  },
+  {
+    "CardName": "Heroic Call",
+    "CardID": "17642"
+  },
+  {
+    "CardName": "Heroic Challenger - Ambush Soldier",
+    "CardID": "10696"
+  },
+  {
+    "CardName": "Heroic Challenger - Assault Halberd",
+    "CardID": "11290"
+  },
+  {
+    "CardName": "Heroic Challenger - Clasp Sword",
+    "CardID": "10697"
+  },
+  {
+    "CardName": "Heroic Challenger - Double Lance",
+    "CardID": "10138"
+  },
+  {
+    "CardName": "Heroic Challenger - Extra Sword",
+    "CardID": "10230"
+  },
+  {
+    "CardName": "Heroic Challenger - Knuckle Sword",
+    "CardID": "17127"
+  },
+  {
+    "CardName": "Heroic Challenger - Morning Star",
+    "CardID": "17128"
+  },
+  {
+    "CardName": "Heroic Challenger - Night Watchman",
+    "CardID": "10231"
+  },
+  {
+    "CardName": "Heroic Challenger - Spartan",
+    "CardID": "10135"
+  },
+  {
+    "CardName": "Heroic Challenger - Swordshield",
+    "CardID": "10137"
+  },
+  {
+    "CardName": "Heroic Challenger - Thousand Blades",
+    "CardID": "11291"
+  },
+  {
+    "CardName": "Heroic Challenger - War Hammer",
+    "CardID": "10136"
+  },
+  {
+    "CardName": "Heroic Champion - Claivesolish",
+    "CardID": "17155"
+  },
+  {
+    "CardName": "Heroic Champion - Excalibur",
+    "CardID": "10171"
+  },
+  {
+    "CardName": "Heroic Champion - Gandiva",
+    "CardID": "10264"
+  },
+  {
+    "CardName": "Heroic Champion - Jarngreipr",
+    "CardID": "17156"
+  },
+  {
+    "CardName": "Heroic Champion - Kusanagi",
+    "CardID": "10265"
+  },
+  {
+    "CardName": "Heroic Chance",
+    "CardID": "10183"
+  },
+  {
+    "CardName": "Heroic Envoy",
+    "CardID": "17172"
+  },
+  {
+    "CardName": "Heroic Gift",
+    "CardID": "10290"
+  },
+  {
+    "CardName": "Heroic Retribution Sword",
+    "CardID": "10198"
+  },
+  {
+    "CardName": "Hexa Spirit of the Ice Barrier",
+    "CardID": "15831"
+  },
+  {
+    "CardName": "Hexatellarknight",
+    "CardID": "11395"
+  },
+  {
+    "CardName": "Hexe Trude",
+    "CardID": "13807"
+  },
+  {
+    "CardName": "Hey, Trunade!",
+    "CardID": "13433"
+  },
+  {
+    "CardName": "Hi-Five the Sky",
+    "CardID": "11417"
+  },
+  {
+    "CardName": "Hi-Speed Re-Level",
+    "CardID": "12166"
+  },
+  {
+    "CardName": "Hi-Speedroid Chanbara",
+    "CardID": "12055"
+  },
+  {
+    "CardName": "Hi-Speedroid Clear Wing Rider",
+    "CardID": "16380"
+  },
+  {
+    "CardName": "Hi-Speedroid Cork Shooter",
+    "CardID": "16378"
+  },
+  {
+    "CardName": "Hi-Speedroid Hagoita",
+    "CardID": "12157"
+  },
+  {
+    "CardName": "Hi-Speedroid Kendama",
+    "CardID": "11640"
+  },
+  {
+    "CardName": "Hi-Speedroid Kitedrake",
+    "CardID": "14430"
+  },
+  {
+    "CardName": "Hi-Speedroid Puzzle",
+    "CardID": "12322"
+  },
+  {
+    "CardName": "Hi-Speedroid Rubber Band Shooter",
+    "CardID": "14206"
+  },
+  {
+    "CardName": "Hibernation Dragon",
+    "CardID": "13834"
+  },
+  {
+    "CardName": "Hibikime",
+    "CardID": "4655"
+  },
+  {
+    "CardName": "Hidden Armory",
+    "CardID": "7493"
+  },
+  {
+    "CardName": "Hidden Fangs of Revenge",
+    "CardID": "14980"
+  },
+  {
+    "CardName": "Hidden Soldiers",
+    "CardID": "5490"
+  },
+  {
+    "CardName": "Hidden Spellbook (Updated from: Hidden Book of Spell)",
+    "CardID": "5680"
+  },
+  {
+    "CardName": "Hidden Springs of the Far East",
+    "CardID": "16027"
+  },
+  {
+    "CardName": "Hidden Temples of Necrovalley",
+    "CardID": "10952"
+  },
+  {
+    "CardName": "Hidden Village of Ninjitsu Arts",
+    "CardID": "14005"
+  },
+  {
+    "CardName": "Hieracosphinx",
+    "CardID": "6321"
+  },
+  {
+    "CardName": "Hieratic Dragon King of Atum",
+    "CardID": "10070"
+  },
+  {
+    "CardName": "Hieratic Dragon of Asar",
+    "CardID": "10047"
+  },
+  {
+    "CardName": "Hieratic Dragon of Eset",
+    "CardID": "10043"
+  },
+  {
+    "CardName": "Hieratic Dragon of Gebeb",
+    "CardID": "10042"
+  },
+  {
+    "CardName": "Hieratic Dragon of Nebthet",
+    "CardID": "10044"
+  },
+  {
+    "CardName": "Hieratic Dragon of Nuit",
+    "CardID": "10041"
+  },
+  {
+    "CardName": "Hieratic Dragon of Su",
+    "CardID": "10046"
+  },
+  {
+    "CardName": "Hieratic Dragon of Sutekh",
+    "CardID": "10048"
+  },
+  {
+    "CardName": "Hieratic Dragon of Tefnuit",
+    "CardID": "10045"
+  },
+  {
+    "CardName": "Hieratic Seal From the Ashes",
+    "CardID": "10123"
+  },
+  {
+    "CardName": "Hieratic Seal of Banishment",
+    "CardID": "10094"
+  },
+  {
+    "CardName": "Hieratic Seal of Convocation",
+    "CardID": "10079"
+  },
+  {
+    "CardName": "Hieratic Seal of Creation",
+    "CardID": "15848"
+  },
+  {
+    "CardName": "Hieratic Seal of Reflection",
+    "CardID": "10095"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "XZ-Tank Cannon",
+    "CardID": "5625"
+  },
+  {
+    "CardName": "Y-Dragon Head",
+    "CardID": "5552"
+  },
+  {
+    "CardName": "Yado Karu",
+    "CardID": "4503"
+  },
+  {
+    "CardName": "Yaguramaru the Armor Ninja",
+    "CardID": "18181"
+  },
+  {
+    "CardName": "Yaiba Robo",
+    "CardID": "4412"
+  },
+  {
+    "CardName": "Yajiro Invader",
+    "CardID": "13585"
+  },
+  {
+    "CardName": "Yaksha",
+    "CardID": "9328"
+  },
+  {
+    "CardName": "Yakusa, Lord of the Eight Thunders",
+    "CardID": "17267"
+  },
+  {
+    "CardName": "Yamadron",
+    "CardID": "4363"
+  },
+  {
+    "CardName": "Yamata Dragon",
+    "CardID": "5377"
+  },
+  {
+    "CardName": "Yamatako Orochi",
+    "CardID": "17143"
+  },
+  {
+    "CardName": "Yamato-no-Kami",
+    "CardID": "7729"
+  },
+  {
+    "CardName": "Yami",
+    "CardID": "4341"
+  },
+  {
+    "CardName": "Yaminabe Party",
+    "CardID": "15087"
+  },
+  {
+    "CardName": "Yamorimori",
+    "CardID": "15990"
+  },
+  {
+    "CardName": "Yang Zing Brutality",
+    "CardID": "11407"
+  },
+  {
+    "CardName": "Yang Zing Creation",
+    "CardID": "11283"
+  },
+  {
+    "CardName": "Yang Zing Path",
+    "CardID": "11270"
+  },
+  {
+    "CardName": "Yang Zing Prana",
+    "CardID": "11271"
+  },
+  {
+    "CardName": "Yang Zing Unleashed",
+    "CardID": "11284"
+  },
+  {
+    "CardName": "Yaranzo",
+    "CardID": "4357"
+  },
+  {
+    "CardName": "Yasha, the Skeletal Mayakashi",
+    "CardID": "14037"
+  },
+  {
+    "CardName": "Yata-Garasu",
+    "CardID": "5375"
+  },
+  {
+    "CardName": "Yazi, Evil of the Yang Zing",
+    "CardID": "11383"
+  },
+  {
+    "CardName": "Yellow Baboon, Archer of the Forest",
+    "CardID": "8597"
+  },
+  {
+    "CardName": "Yellow Dragon Ninja",
+    "CardID": "14004"
+  },
+  {
+    "CardName": "Yellow Duston",
+    "CardID": "10643"
+  },
+  {
+    "CardName": "Yellow Gadget",
+    "CardID": "6156"
+  },
+  {
+    "CardName": "Yellow Luster Shield",
+    "CardID": "5161"
+  },
+  {
+    "CardName": "Yellow Ninja",
+    "CardID": "14003"
+  },
+  {
+    "CardName": "Yellow-Bellied Oni",
+    "CardID": "10764"
+  },
+  {
+    "CardName": "Yoko, the Graceful Mayakashi",
+    "CardID": "14041"
+  },
+  {
+    "CardName": "Yoko-Zuna Sumo Spirit",
+    "CardID": "13532"
+  },
+  {
+    "CardName": "Yokotuner",
+    "CardID": "12766"
+  },
+  {
+    "CardName": "Yomi Ship",
+    "CardID": "5521"
+  },
+  {
+    "CardName": "Yorishiro of the Aqua",
+    "CardID": "17103"
+  },
+  {
+    "CardName": "Yosen Training Grounds",
+    "CardID": "11478"
+  },
+  {
+    "CardName": "Yosen Whirlwind",
+    "CardID": "11733"
+  },
+  {
+    "CardName": "Yosenju Izna",
+    "CardID": "14468"
+  },
+  {
+    "CardName": "Yosenju Kama 1",
+    "CardID": "11473"
+  },
+  {
+    "CardName": "Yosenju Kama 2",
+    "CardID": "11474"
+  },
+  {
+    "CardName": "Yosenju Kama 3",
+    "CardID": "11475"
+  },
+  {
+    "CardName": "Yosenju Kodam",
+    "CardID": "11693"
+  },
+  {
+    "CardName": "Yosenju Magat",
+    "CardID": "11546"
+  },
+  {
+    "CardName": "Yosenju Misak",
+    "CardID": "11472"
+  },
+  {
+    "CardName": "Yosenju Oroshi Channeling",
+    "CardID": "12864"
+  },
+  {
+    "CardName": "Yosenju Oyam",
+    "CardID": "11694"
+  },
+  {
+    "CardName": "Yosenju Sabu",
+    "CardID": "14467"
+  },
+  {
+    "CardName": "Yosenju Shinchu L",
+    "CardID": "11476"
+  },
+  {
+    "CardName": "Yosenju Shinchu R",
+    "CardID": "11477"
+  },
+  {
+    "CardName": "Yosenju Tsujik",
+    "CardID": "11547"
+  },
+  {
+    "CardName": "Yosenju Wind Worship",
+    "CardID": "14510"
+  },
+  {
+    "CardName": "Yosenjus' Secret Move",
+    "CardID": "11479"
+  },
+  {
+    "CardName": "Yosenjus' Sword Sting",
+    "CardID": "14521"
+  },
+  {
+    "CardName": "You and A.I.",
+    "CardID": "16022"
+  },
+  {
+    "CardName": "You're in Danger!",
+    "CardID": "14535"
+  },
+  {
+    "CardName": "Yowie",
+    "CardID": "16403"
+  },
+  {
+    "CardName": "Yu-Jo Friendship",
+    "CardID": "5754"
+  },
+  {
+    "CardName": "Yubel",
+    "CardID": "7409"
+  },
+  {
+    "CardName": "Yubel - Terror Incarnate",
+    "CardID": "7410"
+  },
+  {
+    "CardName": "Yubel - The Ultimate Nightmare",
+    "CardID": "7411"
+  },
+  {
+    "CardName": "Yuki-Musume, the Ice Mayakashi",
+    "CardID": "14266"
+  },
+  {
+    "CardName": "Yuki-Onna, the Absolute Zero Mayakashi",
+    "CardID": "14948"
+  },
+  {
+    "CardName": "Yuki-Onna, the Ice Mayakashi",
+    "CardID": "14043"
+  },
+  {
+    "CardName": "Yuki-Onna, the Icicle Mayakashi",
+    "CardID": "17035"
+  },
+  {
+    "CardName": "YZ-Tank Dragon",
+    "CardID": "5626"
+  },
+  {
+    "CardName": "Z-Metal Tank",
+    "CardID": "5555"
+  },
+  {
+    "CardName": "Z-ONE",
+    "CardID": "9447"
+  },
+  {
+    "CardName": "Zaborg the Mega Monarch",
+    "CardID": "11369"
+  },
+  {
+    "CardName": "Zaborg the Thunder Monarch",
+    "CardID": "5965"
+  },
+  {
+    "CardName": "Zalamander Catalyzer",
+    "CardID": "18031"
+  },
+  {
+    "CardName": "Zany Zebra",
+    "CardID": "12150"
+  },
+  {
+    "CardName": "Zap Mustung",
+    "CardID": "12437"
+  },
+  {
+    "CardName": "Zaphion, the Timelord",
+    "CardID": "13158"
+  },
+  {
+    "CardName": "Zaralaam the Dark Palace",
+    "CardID": "16756"
+  },
+  {
+    "CardName": "Zefra Divine Strike",
+    "CardID": "11747"
+  },
+  {
+    "CardName": "Zefra Metaltron",
+    "CardID": "13504"
+  },
+  {
+    "CardName": "Zefra Path",
+    "CardID": "11734"
+  },
+  {
+    "CardName": "Zefra Providence",
+    "CardID": "12975"
+  },
+  {
+    "CardName": "Zefra War",
+    "CardID": "12991"
+  },
+  {
+    "CardName": "Zefraath",
+    "CardID": "12944"
+  },
+  {
+    "CardName": "Zefraniu, Secret of the Yang Zing",
+    "CardID": "11700"
+  },
+  {
+    "CardName": "Zefrasaber, Swordmaster of the Nekroz",
+    "CardID": "11701"
+  },
+  {
+    "CardName": "Zefraxa, Flame Beast of the Nekroz",
+    "CardID": "11702"
+  },
+  {
+    "CardName": "Zefraxi, Treasure of the Yang Zing",
+    "CardID": "11699"
+  },
+  {
+    "CardName": "Zekt Conversion",
+    "CardID": "10096"
+  },
+  {
+    "CardName": "Zektrike Kou-ou",
+    "CardID": "17032"
+  },
+  {
+    "CardName": "Zeman the Ape King",
+    "CardID": "8605"
+  },
+  {
+    "CardName": "Zenmaiday",
+    "CardID": "11595"
+  },
+  {
+    "CardName": "Zenmailfunction",
+    "CardID": "9773"
+  },
+  {
+    "CardName": "Zenmailstrom",
+    "CardID": "9946"
+  },
+  {
+    "CardName": "Zenmairch",
+    "CardID": "9790"
+  },
+  {
+    "CardName": "Zep, Ruby of the Ghoti",
+    "CardID": "18035"
+  },
+  {
+    "CardName": "Zera Ritual",
+    "CardID": "4677"
+  },
+  {
+    "CardName": "Zera the Mant",
+    "CardID": "4366"
+  },
+  {
+    "CardName": "Zeradias, Herald of Heaven",
+    "CardID": "7109"
+  },
+  {
+    "CardName": "Zero Extra Link",
+    "CardID": "13768"
+  },
+  {
+    "CardName": "Zero Force",
+    "CardID": "9355"
+  },
+  {
+    "CardName": "Zero Gardna",
+    "CardID": "8441"
+  },
+  {
+    "CardName": "Zero Gravity",
+    "CardID": "5857"
+  }
+]

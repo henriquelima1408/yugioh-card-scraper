@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Wingweaver",
+    "CardID": "5147"
+  },
+  {
+    "CardName": "Wiretap",
+    "CardID": "11180"
+  },
+  {
+    "CardName": "Wisdom-Eye Magician",
+    "CardID": "11784"
+  },
+  {
+    "CardName": "Wiseman's Chalice",
+    "CardID": "8991"
+  },
+  {
+    "CardName": "Wish Dragon",
+    "CardID": "7364"
+  },
+  {
+    "CardName": "Witch Doctor of Chaos",
+    "CardID": "5826"
+  },
+  {
+    "CardName": "Witch Doctor of Sparta",
+    "CardID": "7291"
+  },
+  {
+    "CardName": "Witch of the Black Forest",
+    "CardID": "4580"
+  },
+  {
+    "CardName": "Witch of the Black Rose",
+    "CardID": "8623"
+  },
+  {
+    "CardName": "Witch's Apprentice",
+    "CardID": "4634"
+  },
+  {
+    "CardName": "Witch's Strike",
+    "CardID": "14156"
+  },
+  {
+    "CardName": "Witchcrafter Bystreet",
+    "CardID": "14414"
+  },
+  {
+    "CardName": "Witchcrafter Collaboration",
+    "CardID": "14412"
+  },
+  {
+    "CardName": "Witchcrafter Confusion Confession",
+    "CardID": "17038"
+  },
+  {
+    "CardName": "Witchcrafter Creation",
+    "CardID": "14410"
+  },
+  {
+    "CardName": "Witchcrafter Draping",
+    "CardID": "14413"
+  },
+  {
+    "CardName": "Witchcrafter Edel",
+    "CardID": "14407"
+  },
+  {
+    "CardName": "Witchcrafter Genni",
+    "CardID": "14830"
+  },
+  {
+    "CardName": "Witchcrafter Golem Aruru",
+    "CardID": "14483"
+  },
+  {
+    "CardName": "Witchcrafter Haine",
+    "CardID": "14408"
+  },
+  {
+    "CardName": "Witchcrafter Holiday",
+    "CardID": "14411"
+  },
+  {
+    "CardName": "Witchcrafter Madame Verre",
+    "CardID": "14409"
+  },
+  {
+    "CardName": "Witchcrafter Masterpiece",
+    "CardID": "14416"
+  },
+  {
+    "CardName": "Witchcrafter Patronus",
+    "CardID": "15063"
+  },
+  {
+    "CardName": "Witchcrafter Pittore",
+    "CardID": "14405"
+  },
+  {
+    "CardName": "Witchcrafter Potterie",
+    "CardID": "14404"
+  },
+  {
+    "CardName": "Witchcrafter Schmietta",
+    "CardID": "14406"
+  },
+  {
+    "CardName": "Witchcrafter Scroll",
+    "CardID": "14415"
+  },
+  {
+    "CardName": "Witchcrafter Unveiling",
+    "CardID": "15053"
+  },
+  {
+    "CardName": "Witchcrafter Vice-Madame",
+    "CardID": "17037"
+  },
+  {
+    "CardName": "Witty Phantom",
+    "CardID": "4142"
+  },
+  {
+    "CardName": "Wiz, Sage Fur Hire",
+    "CardID": "13663"
+  },
+  {
+    "CardName": "Wizard Buster Destruction Sword",
+    "CardID": "12129"
+  },
+  {
+    "CardName": "Wodan the Resident of the Forest",
+    "CardID": "4241"
+  },
+  {
+    "CardName": "Wolf",
+    "CardID": "4067"
+  },
+  {
+    "CardName": "Wolf Axwielder",
+    "CardID": "5018"
+  },
+  {
+    "CardName": "Wolf in Sheep's Clothing",
+    "CardID": "8504"
+  },
+  {
+    "CardName": "Wollow, Founder of the Drudge Dragons",
+    "CardID": "17802"
+  },
+  {
+    "CardName": "Wonder Balloons",
+    "CardID": "11387"
+  },
+  {
+    "CardName": "Wonder Clover",
+    "CardID": "8201"
+  },
+  {
+    "CardName": "Wonder Garage",
+    "CardID": "6749"
+  },
+  {
+    "CardName": "Wonder Wand",
+    "CardID": "9662"
+  },
+  {
+    "CardName": "Wonder Xyz",
+    "CardID": "12348"
+  },
+  {
+    "CardName": "Woodborg Inpachi",
+    "CardID": "6172"
+  },
+  {
+    "CardName": "Woodland Archer",
+    "CardID": "8466"
+  },
+  {
+    "CardName": "Woodland Sprite",
+    "CardID": "5032"
+  },
+  {
+    "CardName": "World Carrotweight Champion",
+    "CardID": "11666"
+  },
+  {
+    "CardName": "World Chalice Guardragon",
+    "CardID": "13060"
+  },
+  {
+    "CardName": "World Chalice Guardragon Almarduke",
+    "CardID": "14282"
+  },
+  {
+    "CardName": "World Dino Wrestling",
+    "CardID": "13941"
+  },
+  {
+    "CardName": "World Gears of Theurlogical Demiurgy",
+    "CardID": "14298"
+  },
+  {
+    "CardName": "World Legacy - &quot;World Ark&quot;",
+    "CardID": "14093"
+  },
+  {
+    "CardName": "World Legacy - &quot;World Armor&quot;",
+    "CardID": "13238"
+  },
+  {
+    "CardName": "World Legacy - &quot;World Chalice&quot;",
+    "CardID": "13062"
+  },
+  {
+    "CardName": "World Legacy - &quot;World Crown&quot;",
+    "CardID": "13731"
+  },
+  {
+    "CardName": "World Legacy - &quot;World Key&quot;",
+    "CardID": "14648"
+  },
+  {
+    "CardName": "World Legacy - &quot;World Lance&quot;",
+    "CardID": "13572"
+  },
+  {
+    "CardName": "World Legacy - &quot;World Shield&quot;",
+    "CardID": "13391"
+  },
+  {
+    "CardName": "World Legacy - &quot;World Wand&quot;",
+    "CardID": "13904"
+  },
+  {
+    "CardName": "World Legacy Awakens",
+    "CardID": "13625"
+  },
+  {
+    "CardName": "World Legacy Bestowal",
+    "CardID": "14527"
+  },
+  {
+    "CardName": "World Legacy Clash",
+    "CardID": "13274"
+  },
+  {
+    "CardName": "World Legacy Cliffhanger",
+    "CardID": "14326"
+  },
+  {
+    "CardName": "World Legacy Collapse",
+    "CardID": "14325"
+  },
+  {
+    "CardName": "World Legacy Discovery",
+    "CardID": "13096"
+  },
+  {
+    "CardName": "World Legacy Guardragon",
+    "CardID": "14139"
+  },
+  {
+    "CardName": "World Legacy Guardragon Mardark",
+    "CardID": "14268"
+  },
+  {
+    "CardName": "World Legacy in Shadow",
+    "CardID": "13273"
+  },
+  {
+    "CardName": "World Legacy Key",
+    "CardID": "13428"
+  },
+  {
+    "CardName": "World Legacy Landmark",
+    "CardID": "13110"
+  },
+  {
+    "CardName": "World Legacy Monstrosity",
+    "CardID": "14309"
+  },
+  {
+    "CardName": "World Legacy Pawns",
+    "CardID": "13289"
+  },
+  {
+    "CardName": "World Legacy Scars",
+    "CardID": "13427"
+  },
+  {
+    "CardName": "World Legacy Struggle",
+    "CardID": "13626"
+  },
+  {
+    "CardName": "World Legacy Succession",
+    "CardID": "13612"
+  },
+  {
+    "CardName": "World Legacy Survivor",
+    "CardID": "13776"
+  },
+  {
+    "CardName": "World Legacy Trap Globe",
+    "CardID": "13290"
+  },
+  {
+    "CardName": "World Legacy Whispers",
+    "CardID": "13442"
+  },
+  {
+    "CardName": "World Legacy's Corruption",
+    "CardID": "13611"
+  },
+  {
+    "CardName": "World Legacy's Heart",
+    "CardID": "13097"
+  },
+  {
+    "CardName": "World Legacy's Memory",
+    "CardID": "13777"
+  },
+  {
+    "CardName": "World Legacy's Mind Meld",
+    "CardID": "13791"
+  },
+  {
+    "CardName": "World Legacy's Nightmare",
+    "CardID": "13613"
+  },
+  {
+    "CardName": "World Legacy's Secret",
+    "CardID": "13443"
+  },
+  {
+    "CardName": "World Legacy's Sorrow",
+    "CardID": "13627"
+  },
+  {
+    "CardName": "World of Prophecy",
+    "CardID": "10631"
+  },
+  {
+    "CardName": "World Reassembly",
+    "CardID": "14702"
+  },
+  {
+    "CardName": "World Soul - Carbon",
+    "CardID": "15989"
+  },
+  {
+    "CardName": "World Suppression",
+    "CardID": "4943"
+  },
+  {
+    "CardName": "Worldsea Dragon Zealantis",
+    "CardID": "17805"
+  },
+  {
+    "CardName": "Worm Apocalypse",
+    "CardID": "7543"
+  },
+  {
+    "CardName": "Worm Bait",
+    "CardID": "8518"
+  },
+  {
+    "CardName": "Worm Barses",
+    "CardID": "7544"
+  },
+  {
+    "CardName": "Worm Call",
+    "CardID": "8831"
+  },
+  {
+    "CardName": "Worm Cartaros",
+    "CardID": "7545"
+  },
+  {
+    "CardName": "Worm Dimikles",
+    "CardID": "7546"
+  },
+  {
+    "CardName": "Worm Drake",
+    "CardID": "5061"
+  },
+  {
+    "CardName": "Worm Erokin",
+    "CardID": "7547"
+  },
+  {
+    "CardName": "Worm Falco",
+    "CardID": "7828"
+  },
+  {
+    "CardName": "Worm Gulse",
+    "CardID": "7829"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Grappler Angler",
+    "CardID": "13399"
+  },
+  {
+    "CardName": "Grass Phantom",
+    "CardID": "6609"
+  },
+  {
+    "CardName": "Grasschopper",
+    "CardID": "7199"
+  },
+  {
+    "CardName": "Grave Lure",
+    "CardID": "6363"
+  },
+  {
+    "CardName": "Grave of the Super Ancient Organism",
+    "CardID": "8230"
+  },
+  {
+    "CardName": "Grave Ohja",
+    "CardID": "6326"
+  },
+  {
+    "CardName": "Grave Protector",
+    "CardID": "6039"
+  },
+  {
+    "CardName": "Grave Squirmer",
+    "CardID": "7385"
+  },
+  {
+    "CardName": "Gravedigger Ghoul",
+    "CardID": "4845"
+  },
+  {
+    "CardName": "Gravedigger's Trap Hole",
+    "CardID": "15064"
+  },
+  {
+    "CardName": "Gravekeeper's Ambusher",
+    "CardID": "10918"
+  },
+  {
+    "CardName": "Gravekeeper's Assailant",
+    "CardID": "5517"
+  },
+  {
+    "CardName": "Gravekeeper's Cannonholder",
+    "CardID": "5516"
+  },
+  {
+    "CardName": "Gravekeeper's Chief",
+    "CardID": "5515"
+  },
+  {
+    "CardName": "Gravekeeper's Commandant",
+    "CardID": "7106"
+  },
+  {
+    "CardName": "Gravekeeper's Curse",
+    "CardID": "5510"
+  },
+  {
+    "CardName": "Gravekeeper's Descendant",
+    "CardID": "8639"
+  },
+  {
+    "CardName": "Gravekeeper's Guard",
+    "CardID": "5511"
+  },
+  {
+    "CardName": "Gravekeeper's Headman",
+    "CardID": "13899"
+  },
+  {
+    "CardName": "Gravekeeper's Heretic",
+    "CardID": "10988"
+  },
+  {
+    "CardName": "Gravekeeper's Inscription",
+    "CardID": "17727"
+  },
+  {
+    "CardName": "Gravekeeper's Nobleman",
+    "CardID": "10917"
+  },
+  {
+    "CardName": "Gravekeeper's Oracle",
+    "CardID": "10920"
+  },
+  {
+    "CardName": "Gravekeeper's Priestess",
+    "CardID": "8761"
+  },
+  {
+    "CardName": "Gravekeeper's Recruiter",
+    "CardID": "9282"
+  },
+  {
+    "CardName": "Gravekeeper's Servant",
+    "CardID": "4893"
+  },
+  {
+    "CardName": "Gravekeeper's Shaman",
+    "CardID": "10919"
+  },
+  {
+    "CardName": "Gravekeeper's Spear Soldier",
+    "CardID": "5512"
+  },
+  {
+    "CardName": "Gravekeeper's Spiritualist",
+    "CardID": "13900"
+  },
+  {
+    "CardName": "Gravekeeper's Spy",
+    "CardID": "5509"
+  },
+  {
+    "CardName": "Gravekeeper's Stele",
+    "CardID": "8667"
+  },
+  {
+    "CardName": "Gravekeeper's Supernaturalist",
+    "CardID": "13922"
+  },
+  {
+    "CardName": "Gravekeeper's Trap",
+    "CardID": "17607"
+  },
+  {
+    "CardName": "Gravekeeper's Vassal",
+    "CardID": "5513"
+  },
+  {
+    "CardName": "Gravekeeper's Visionary",
+    "CardID": "8638"
+  },
+  {
+    "CardName": "Gravekeeper's Watcher",
+    "CardID": "5514"
+  },
+  {
+    "CardName": "Gravelstorm",
+    "CardID": "9697"
+  },
+  {
+    "CardName": "Graverobber",
+    "CardID": "4985"
+  },
+  {
+    "CardName": "Graverobber's Retribution",
+    "CardID": "5265"
+  },
+  {
+    "CardName": "Graveyard of Wandering Souls",
+    "CardID": "6864"
+  },
+  {
+    "CardName": "Gravi-Crush Dragon",
+    "CardID": "7121"
+  },
+  {
+    "CardName": "Gravitic Orb",
+    "CardID": "7206"
+  },
+  {
+    "CardName": "Gravity Axe - Grarl",
+    "CardID": "5726"
+  },
+  {
+    "CardName": "Gravity Balance",
+    "CardID": "17662"
+  },
+  {
+    "CardName": "Gravity Behemoth",
+    "CardID": "7144"
+  },
+  {
+    "CardName": "Gravity Bind",
+    "CardID": "5134"
+  },
+  {
+    "CardName": "Gravity Blaster",
+    "CardID": "10276"
+  },
+  {
+    "CardName": "Gravity Collapse",
+    "CardID": "9144"
+  },
+  {
+    "CardName": "Gravity Controller",
+    "CardID": "14858"
+  },
+  {
+    "CardName": "Gravity Lash",
+    "CardID": "13102"
+  },
+  {
+    "CardName": "Gravity Warrior",
+    "CardID": "9969"
+  },
+  {
+    "CardName": "Gray Wing",
+    "CardID": "5340"
+  },
+  {
+    "CardName": "Graydle Alligator",
+    "CardID": "11977"
+  },
+  {
+    "CardName": "Graydle Cobra",
+    "CardID": "11978"
+  },
+  {
+    "CardName": "Graydle Combat",
+    "CardID": "12665"
+  },
+  {
+    "CardName": "Graydle Dragon",
+    "CardID": "11992"
+  },
+  {
+    "CardName": "Graydle Eagle",
+    "CardID": "11979"
+  },
+  {
+    "CardName": "Graydle Impact",
+    "CardID": "12006"
+  },
+  {
+    "CardName": "Graydle Parasite",
+    "CardID": "12018"
+  },
+  {
+    "CardName": "Graydle Slime",
+    "CardID": "11976"
+  },
+  {
+    "CardName": "Graydle Slime Jr.",
+    "CardID": "12620"
+  },
+  {
+    "CardName": "Graydle Split",
+    "CardID": "12019"
+  },
+  {
+    "CardName": "Great Angus",
+    "CardID": "5641"
+  },
+  {
+    "CardName": "Great Bill",
+    "CardID": "4613"
+  },
+  {
+    "CardName": "Great Dezard",
+    "CardID": "5417"
+  },
+  {
+    "CardName": "Great Long Nose",
+    "CardID": "5378"
+  },
+  {
+    "CardName": "Great Maju Garzett",
+    "CardID": "5768"
+  },
+  {
+    "CardName": "Great Mammoth of Goldfine",
+    "CardID": "4570"
+  },
+  {
+    "CardName": "Great Moth",
+    "CardID": "4063"
+  },
+  {
+    "CardName": "Great Phantom Thief",
+    "CardID": "5598"
+  },
+  {
+    "CardName": "Great Poseidon Beetle",
+    "CardID": "8745"
+  },
+  {
+    "CardName": "Great Sand Sea - Gold Golgonda",
+    "CardID": "15746"
+  },
+  {
+    "CardName": "Great Shogun Shien",
+    "CardID": "6969"
+  },
+  {
+    "CardName": "Great Sorcerer of the Nekroz",
+    "CardID": "11481"
+  },
+  {
+    "CardName": "Great Spirit",
+    "CardID": "6641"
+  },
+  {
+    "CardName": "Great White",
+    "CardID": "4066"
+  },
+  {
+    "CardName": "Greater Polymerization",
+    "CardID": "15955"
+  },
+  {
+    "CardName": "Greatfly",
+    "CardID": "13606"
+  },
+  {
+    "CardName": "Greed",
+    "CardID": "6146"
+  },
+  {
+    "CardName": "Greed Grado",
+    "CardID": "8529"
+  },
+  {
+    "CardName": "Greed Quasar",
+    "CardID": "6869"
+  },
+  {
+    "CardName": "Greedy Venom Fusion Dragon",
+    "CardID": "12836"
+  },
+  {
+    "CardName": "Green Baboon, Defender of the Forest",
+    "CardID": "6380"
+  },
+  {
+    "CardName": "Green Duston",
+    "CardID": "10524"
+  },
+  {
+    "CardName": "Green Gadget",
+    "CardID": "6151"
+  },
+  {
+    "CardName": "Green Ninja",
+    "CardID": "18027"
+  },
+  {
+    "CardName": "Green Phantom King",
+    "CardID": "4280"
+  },
+  {
+    "CardName": "Green Turtle Summoner",
+    "CardID": "11145"
+  },
+  {
+    "CardName": "Greenkappa",
+    "CardID": "4592"
+  },
+  {
+    "CardName": "Gren Maju Da Eiza",
+    "CardID": "5834"
+  },
+  {
+    "CardName": "Gren, Tactician of Dark World",
+    "CardID": "6975"
+  },
+  {
+    "CardName": "Grenosaurus",
+    "CardID": "9577"
+  },
+  {
+    "CardName": "Grid Rod",
+    "CardID": "14500"
+  },
+  {
+    "CardName": "Grid Sweeper",
+    "CardID": "14252"
+  },
+  {
+    "CardName": "Griffore",
+    "CardID": "4052"
+  },
+  {
+    "CardName": "Griggle",
+    "CardID": "4553"
+  },
+  {
+    "CardName": "Grinder Golem",
+    "CardID": "7386"
+  },
+  {
+    "CardName": "Grinning Grave Virus",
+    "CardID": "13687"
+  },
+  {
+    "CardName": "Grisaille Prison",
+    "CardID": "10809"
+  },
+  {
+    "CardName": "Grizzly, the Red Star Beast",
+    "CardID": "9248"
+  }
+]

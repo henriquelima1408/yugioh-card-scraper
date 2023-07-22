@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Evo-Karma",
+    "CardID": "9771"
+  },
+  {
+    "CardName": "Evo-Miracle",
+    "CardID": "9772"
+  },
+  {
+    "CardName": "Evo-Price",
+    "CardID": "10082"
+  },
+  {
+    "CardName": "Evo-Singularity",
+    "CardID": "11106"
+  },
+  {
+    "CardName": "Evocator Chevalier",
+    "CardID": "8432"
+  },
+  {
+    "CardName": "Evocator Eveque",
+    "CardID": "14807"
+  },
+  {
+    "CardName": "Evolsaur Cerato",
+    "CardID": "9738"
+  },
+  {
+    "CardName": "Evolsaur Darwino",
+    "CardID": "10050"
+  },
+  {
+    "CardName": "Evolsaur Diplo",
+    "CardID": "9739"
+  },
+  {
+    "CardName": "Evolsaur Elias",
+    "CardID": "9901"
+  },
+  {
+    "CardName": "Evolsaur Pelta",
+    "CardID": "9865"
+  },
+  {
+    "CardName": "Evolsaur Terias",
+    "CardID": "9902"
+  },
+  {
+    "CardName": "Evolsaur Vulcano",
+    "CardID": "9737"
+  },
+  {
+    "CardName": "Evoltile Casinerio",
+    "CardID": "9900"
+  },
+  {
+    "CardName": "Evoltile Elginero",
+    "CardID": "10118"
+  },
+  {
+    "CardName": "Evoltile Gephyro",
+    "CardID": "9734"
+  },
+  {
+    "CardName": "Evoltile Lagosucho",
+    "CardID": "10049"
+  },
+  {
+    "CardName": "Evoltile Megachirella",
+    "CardID": "14647"
+  },
+  {
+    "CardName": "Evoltile Najasho",
+    "CardID": "10018"
+  },
+  {
+    "CardName": "Evoltile Odonto",
+    "CardID": "9736"
+  },
+  {
+    "CardName": "Evoltile Pleuro",
+    "CardID": "9899"
+  },
+  {
+    "CardName": "Evoltile Westlo",
+    "CardID": "9735"
+  },
+  {
+    "CardName": "Evolution Burst",
+    "CardID": "7556"
+  },
+  {
+    "CardName": "Evolution End Burst",
+    "CardID": "17248"
+  },
+  {
+    "CardName": "Evolutionary Bridge",
+    "CardID": "9789"
+  },
+  {
+    "CardName": "Evolzar Dolkka",
+    "CardID": "9869"
+  },
+  {
+    "CardName": "Evolzar Laggia",
+    "CardID": "9761"
+  },
+  {
+    "CardName": "Evolzar Solda",
+    "CardID": "9919"
+  },
+  {
+    "CardName": "Exa, Enforcer of the Nekroz",
+    "CardID": "11482"
+  },
+  {
+    "CardName": "Exarion Universe",
+    "CardID": "5452"
+  },
+  {
+    "CardName": "Exchange",
+    "CardID": "5218"
+  },
+  {
+    "CardName": "Exchange of Despair and Hope",
+    "CardID": "17608"
+  },
+  {
+    "CardName": "Exchange of Night and Day",
+    "CardID": "10827"
+  },
+  {
+    "CardName": "Exchange of the Spirit",
+    "CardID": "5360"
+  },
+  {
+    "CardName": "Excode Talker",
+    "CardID": "13409"
+  },
+  {
+    "CardName": "Execute Protocols",
+    "CardID": "14623"
+  },
+  {
+    "CardName": "Execution of the Contract",
+    "CardID": "15074"
+  },
+  {
+    "CardName": "Exhausting Spell",
+    "CardID": "5679"
+  },
+  {
+    "CardName": "Exile of the Wicked",
+    "CardID": "4869"
+  },
+  {
+    "CardName": "Exiled Force",
+    "CardID": "5323"
+  },
+  {
+    "CardName": "Exodia Necross",
+    "CardID": "5701"
+  },
+  {
+    "CardName": "Exodia the Forbidden One",
+    "CardID": "4027"
+  },
+  {
+    "CardName": "Exodia, the Legendary Defender",
+    "CardID": "14367"
+  },
+  {
+    "CardName": "Exodius the Ultimate Forbidden Lord",
+    "CardID": "7392"
+  },
+  {
+    "CardName": "Exosister Arment",
+    "CardID": "16745"
+  },
+  {
+    "CardName": "Exosister Asophiel",
+    "CardID": "16743"
+  },
+  {
+    "CardName": "Exosister Carpedivem",
+    "CardID": "16746"
+  },
+  {
+    "CardName": "Exosister Elis",
+    "CardID": "16736"
+  },
+  {
+    "CardName": "Exosister Gibrine",
+    "CardID": "16742"
+  },
+  {
+    "CardName": "Exosister Irene",
+    "CardID": "16738"
+  },
+  {
+    "CardName": "Exosister Kaspitell",
+    "CardID": "16741"
+  },
+  {
+    "CardName": "Exosister Martha",
+    "CardID": "17427"
+  },
+  {
+    "CardName": "Exosister Mikailis",
+    "CardID": "16740"
+  },
+  {
+    "CardName": "Exosister Pax",
+    "CardID": "16744"
+  },
+  {
+    "CardName": "Exosister Returnia",
+    "CardID": "17478"
+  },
+  {
+    "CardName": "Exosister Sophia",
+    "CardID": "16739"
+  },
+  {
+    "CardName": "Exosister Stella",
+    "CardID": "16737"
+  },
+  {
+    "CardName": "Exosister Vadis",
+    "CardID": "16747"
+  },
+  {
+    "CardName": "Exosisters Magnifica",
+    "CardID": "17157"
+  },
+  {
+    "CardName": "Expendable Dai",
+    "CardID": "16274"
+  },
+  {
+    "CardName": "Exploder Dragon",
+    "CardID": "7094"
+  },
+  {
+    "CardName": "Exploder Dragonwing",
+    "CardID": "8192"
+  },
+  {
+    "CardName": "Exploderokket Dragon",
+    "CardID": "14617"
+  },
+  {
+    "CardName": "Explosive Magician",
+    "CardID": "8479"
+  },
+  {
+    "CardName": "Explosive Urchin",
+    "CardID": "9682"
+  },
+  {
+    "CardName": "Explossum",
+    "CardID": "10834"
+  },
+  {
+    "CardName": "Express Train Trolley Olley",
+    "CardID": "11182"
+  },
+  {
+    "CardName": "Expressroid",
+    "CardID": "6735"
+  },
+  {
+    "CardName": "Expurrely Happiness",
+    "CardID": "18007"
+  },
+  {
+    "CardName": "Expurrely Noir",
+    "CardID": "18008"
+  },
+  {
+    "CardName": "Exterio's Fang",
+    "CardID": "9152"
+  },
+  {
+    "CardName": "Extinction on Schedule",
+    "CardID": "12032"
+  },
+  {
+    "CardName": "EXTINGUISH!",
+    "CardID": "18002"
+  },
+  {
+    "CardName": "Extox Hydra",
+    "CardID": "15465"
+  },
+  {
+    "CardName": "Extra Buck",
+    "CardID": "11863"
+  },
+  {
+    "CardName": "Extra Gate",
+    "CardID": "9774"
+  },
+  {
+    "CardName": "Extra Net",
+    "CardID": "11586"
+  },
+  {
+    "CardName": "Extra Pendulum",
+    "CardID": "17163"
+  },
+  {
+    "CardName": "Extra Veiler",
+    "CardID": "9088"
+  },
+  {
+    "CardName": "Extra-Foolish Burial",
+    "CardID": "13952"
+  },
+  {
+    "CardName": "Extraceratops",
+    "CardID": "14108"
+  },
+  {
+    "CardName": "Exxod, Master of The Guard",
+    "CardID": "6640"
+  },
+  {
+    "CardName": "Eye of the Void",
+    "CardID": "11591"
+  },
+  {
+    "CardName": "E☆HERO Pit Boss",
+    "CardID": "10846"
+  },
+  {
+    "CardName": "F.A. Auto Navigator",
+    "CardID": "13538"
+  },
+  {
+    "CardName": "F.A. Circuit Grand Prix",
+    "CardID": "13215"
+  },
+  {
+    "CardName": "F.A. City Grand Prix",
+    "CardID": "13540"
+  },
+  {
+    "CardName": "F.A. Dark Dragster",
+    "CardID": "13709"
+  },
+  {
+    "CardName": "F.A. Dawn Dragster",
+    "CardID": "13710"
+  },
+  {
+    "CardName": "F.A. Dead Heat",
+    "CardID": "13712"
+  },
+  {
+    "CardName": "F.A. Downforce",
+    "CardID": "13216"
+  },
+  {
+    "CardName": "F.A. Hang On Mach",
+    "CardID": "13214"
+  },
+  {
+    "CardName": "F.A. Motorhome Transport",
+    "CardID": "13539"
+  },
+  {
+    "CardName": "F.A. Off-Road Grand Prix",
+    "CardID": "13368"
+  },
+  {
+    "CardName": "F.A. Overheat",
+    "CardID": "13713"
+  },
+  {
+    "CardName": "F.A. Pit Stop",
+    "CardID": "13369"
+  },
+  {
+    "CardName": "F.A. Shining Star GT",
+    "CardID": "14051"
+  },
+  {
+    "CardName": "F.A. Sonic Meister",
+    "CardID": "13213"
+  },
+  {
+    "CardName": "F.A. Test Run",
+    "CardID": "13541"
+  },
+  {
+    "CardName": "F.A. Turbo Charger",
+    "CardID": "13367"
+  }
+]

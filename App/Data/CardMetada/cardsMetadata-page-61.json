@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Life Absorbing Machine",
+    "CardID": "5312"
+  },
+  {
+    "CardName": "Life Equalizer",
+    "CardID": "6708"
+  },
+  {
+    "CardName": "Life Extreme",
+    "CardID": "17602"
+  },
+  {
+    "CardName": "Life Stream Dragon",
+    "CardID": "9509"
+  },
+  {
+    "CardName": "Lifeforce Harmonizer",
+    "CardID": "8024"
+  },
+  {
+    "CardName": "Lifeless Leaffish",
+    "CardID": "15267"
+  },
+  {
+    "CardName": "Light and Darkness Dragon",
+    "CardID": "6821"
+  },
+  {
+    "CardName": "Light Barrier",
+    "CardID": "7624"
+  },
+  {
+    "CardName": "Light Dragon @Ignister",
+    "CardID": "14853"
+  },
+  {
+    "CardName": "Light Effigy",
+    "CardID": "7213"
+  },
+  {
+    "CardName": "Light End Dragon",
+    "CardID": "7372"
+  },
+  {
+    "CardName": "Light Laser",
+    "CardID": "6940"
+  },
+  {
+    "CardName": "Light Law Medium",
+    "CardID": "5083"
+  },
+  {
+    "CardName": "Light of Destruction",
+    "CardID": "9011"
+  },
+  {
+    "CardName": "Light of Intervention",
+    "CardID": "4957"
+  },
+  {
+    "CardName": "Light of Judgment",
+    "CardID": "5988"
+  },
+  {
+    "CardName": "Light of Redemption",
+    "CardID": "7630"
+  },
+  {
+    "CardName": "Light of the Branded",
+    "CardID": "18201"
+  },
+  {
+    "CardName": "Light Spiral",
+    "CardID": "7643"
+  },
+  {
+    "CardName": "Light Wing Shield",
+    "CardID": "13003"
+  },
+  {
+    "CardName": "Light-Imprisoning Mirror",
+    "CardID": "7318"
+  },
+  {
+    "CardName": "Lighten the Load",
+    "CardID": "6215"
+  },
+  {
+    "CardName": "Lightforce Sword",
+    "CardID": "4808"
+  },
+  {
+    "CardName": "Lightning Blade",
+    "CardID": "5110"
+  },
+  {
+    "CardName": "Lightning Chidori",
+    "CardID": "10411"
+  },
+  {
+    "CardName": "Lightning Conger",
+    "CardID": "5079"
+  },
+  {
+    "CardName": "Lightning Punisher",
+    "CardID": "6890"
+  },
+  {
+    "CardName": "Lightning Rod Lord",
+    "CardID": "11557"
+  },
+  {
+    "CardName": "Lightning Storm",
+    "CardID": "14876"
+  },
+  {
+    "CardName": "Lightning Tricorn",
+    "CardID": "8973"
+  },
+  {
+    "CardName": "Lightning Vortex",
+    "CardID": "5217"
+  },
+  {
+    "CardName": "Lightning Warrior",
+    "CardID": "8736"
+  },
+  {
+    "CardName": "Lightning, Dragon Ruler of Drafts",
+    "CardID": "10582"
+  },
+  {
+    "CardName": "Lightpulsar Dragon",
+    "CardID": "9955"
+  },
+  {
+    "CardName": "Lightray Daedalus",
+    "CardID": "10056"
+  },
+  {
+    "CardName": "Lightray Diabolos",
+    "CardID": "10058"
+  },
+  {
+    "CardName": "Lightray Gearfried",
+    "CardID": "10057"
+  },
+  {
+    "CardName": "Lightray Grepher",
+    "CardID": "10119"
+  },
+  {
+    "CardName": "Lightray Madoor",
+    "CardID": "10313"
+  },
+  {
+    "CardName": "Lightray Sorcerer",
+    "CardID": "10055"
+  },
+  {
+    "CardName": "Lightserpent",
+    "CardID": "9731"
+  },
+  {
+    "CardName": "Lightsworn Barrier",
+    "CardID": "7764"
+  },
+  {
+    "CardName": "Lightsworn Judgment",
+    "CardID": "11868"
+  },
+  {
+    "CardName": "Lightsworn Sabre",
+    "CardID": "7749"
+  },
+  {
+    "CardName": "Lightsworn Sanctuary",
+    "CardID": "11302"
+  },
+  {
+    "CardName": "Lightwave Tuning",
+    "CardID": "7744"
+  },
+  {
+    "CardName": "Lilith, Lady of Lament",
+    "CardID": "13682"
+  },
+  {
+    "CardName": "Lillybot",
+    "CardID": "11193"
+  },
+  {
+    "CardName": "Limit Code",
+    "CardID": "13621"
+  },
+  {
+    "CardName": "Limit Impulse",
+    "CardID": "8507"
+  },
+  {
+    "CardName": "Limit Overdrive",
+    "CardID": "11624"
+  },
+  {
+    "CardName": "Limit Reverse",
+    "CardID": "7636"
+  },
+  {
+    "CardName": "Limiter Overload",
+    "CardID": "7989"
+  },
+  {
+    "CardName": "Limiter Removal",
+    "CardID": "5129"
+  },
+  {
+    "CardName": "Lindbloom",
+    "CardID": "11365"
+  },
+  {
+    "CardName": "Lineage of Destruction",
+    "CardID": "7924"
+  },
+  {
+    "CardName": "Linear Accelerator Cannon",
+    "CardID": "6903"
+  },
+  {
+    "CardName": "Linear Equation Cannon",
+    "CardID": "15771"
+  },
+  {
+    "CardName": "Linguriboh",
+    "CardID": "14904"
+  },
+  {
+    "CardName": "Link Apple",
+    "CardID": "14607"
+  },
+  {
+    "CardName": "Link Back",
+    "CardID": "14499"
+  },
+  {
+    "CardName": "Link Bound",
+    "CardID": "13617"
+  },
+  {
+    "CardName": "Link Bumper",
+    "CardID": "13259"
+  },
+  {
+    "CardName": "Link Burst",
+    "CardID": "15044"
+  },
+  {
+    "CardName": "Link Decoder",
+    "CardID": "18664"
+  },
+  {
+    "CardName": "Link Devotee",
+    "CardID": "13752"
+  },
+  {
+    "CardName": "Link Disciple",
+    "CardID": "13206"
+  },
+  {
+    "CardName": "Link Hole",
+    "CardID": "13422"
+  },
+  {
+    "CardName": "Link Infra-Flier",
+    "CardID": "13219"
+  },
+  {
+    "CardName": "Link into the VRAINS!",
+    "CardID": "17262"
+  },
+  {
+    "CardName": "Link Party",
+    "CardID": "13886"
+  },
+  {
+    "CardName": "Link Restart",
+    "CardID": "13284"
+  },
+  {
+    "CardName": "Link Spider",
+    "CardID": "13034"
+  },
+  {
+    "CardName": "Link Streamer",
+    "CardID": "13559"
+  },
+  {
+    "CardName": "Link Turret",
+    "CardID": "13786"
+  },
+  {
+    "CardName": "Linkbelt Wall Dragon",
+    "CardID": "13376"
+  },
+  {
+    "CardName": "Linkerbell",
+    "CardID": "13457"
+  },
+  {
+    "CardName": "Linkmail Archfiend",
+    "CardID": "14495"
+  },
+  {
+    "CardName": "Linkross",
+    "CardID": "15035"
+  },
+  {
+    "CardName": "Linkslayer",
+    "CardID": "13032"
+  },
+  {
+    "CardName": "Linkuriboh",
+    "CardID": "13346"
+  },
+  {
+    "CardName": "Lion Alligator",
+    "CardID": "8698"
+  },
+  {
+    "CardName": "Lionhearted Locomotive",
+    "CardID": "11181"
+  },
+  {
+    "CardName": "Liquid Beast",
+    "CardID": "4611"
+  },
+  {
+    "CardName": "Litmus Doom Ritual",
+    "CardID": "13812"
+  },
+  {
+    "CardName": "Litmus Doom Swordsman",
+    "CardID": "13811"
+  },
+  {
+    "CardName": "Little Chimera",
+    "CardID": "4604"
+  },
+  {
+    "CardName": "Little D",
+    "CardID": "4579"
+  },
+  {
+    "CardName": "Little Fairy",
+    "CardID": "10487"
+  },
+  {
+    "CardName": "Little Trooper",
+    "CardID": "10162"
+  },
+  {
+    "CardName": "Little-Winguard",
+    "CardID": "4771"
+  },
+  {
+    "CardName": "Live☆Twin Channel",
+    "CardID": "15630"
+  },
+  {
+    "CardName": "Live☆Twin Home",
+    "CardID": "15629"
+  },
+  {
+    "CardName": "Live☆Twin Ki-sikil",
+    "CardID": "15624"
+  },
+  {
+    "CardName": "Live☆Twin Ki-sikil Frost",
+    "CardID": "15978"
+  },
+  {
+    "CardName": "Live☆Twin Lil-la",
+    "CardID": "15625"
+  },
+  {
+    "CardName": "Live☆Twin Lil-la Treat",
+    "CardID": "15719"
+  },
+  {
+    "CardName": "Live☆Twin Sunny's Snitch",
+    "CardID": "16251"
+  },
+  {
+    "CardName": "Living Fossil",
+    "CardID": "13813"
+  },
+  {
+    "CardName": "Lizard Soldier",
+    "CardID": "5337"
+  }
+]

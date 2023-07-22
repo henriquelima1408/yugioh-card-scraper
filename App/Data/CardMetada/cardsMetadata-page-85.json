@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "R-Genex Ultimum",
+    "CardID": "8404"
+  },
+  {
+    "CardName": "Ra's Disciple",
+    "CardID": "11169"
+  },
+  {
+    "CardName": "Ra'ten, the Heavenly General",
+    "CardID": "16626"
+  },
+  {
+    "CardName": "Rabid Horseman",
+    "CardID": "4098"
+  },
+  {
+    "CardName": "Rabidragon",
+    "CardID": "9720"
+  },
+  {
+    "CardName": "Radian, the Multidimensional Kaiju",
+    "CardID": "12105"
+  },
+  {
+    "CardName": "Radiant Jeral",
+    "CardID": "7051"
+  },
+  {
+    "CardName": "Radiant Mirror Force",
+    "CardID": "7137"
+  },
+  {
+    "CardName": "Radiant Spirit",
+    "CardID": "6986"
+  },
+  {
+    "CardName": "Radiant Vouirescence",
+    "CardID": "15722"
+  },
+  {
+    "CardName": "Radius, the Half-Moon Dragon",
+    "CardID": "10495"
+  },
+  {
+    "CardName": "Rafale, Champion Fur Hire",
+    "CardID": "13664"
+  },
+  {
+    "CardName": "Rafflesia Seduction",
+    "CardID": "6112"
+  },
+  {
+    "CardName": "Rage of Kairyu-Shin",
+    "CardID": "13178"
+  },
+  {
+    "CardName": "Rage of the Deep Sea",
+    "CardID": "9581"
+  },
+  {
+    "CardName": "Rage with Eyes of Blue",
+    "CardID": "13845"
+  },
+  {
+    "CardName": "Raging Cloudian",
+    "CardID": "7649"
+  },
+  {
+    "CardName": "Raging Earth",
+    "CardID": "6981"
+  },
+  {
+    "CardName": "Raging Eria",
+    "CardID": "6700"
+  },
+  {
+    "CardName": "Raging Flame Sprite",
+    "CardID": "6189"
+  },
+  {
+    "CardName": "Raging Mad Plants",
+    "CardID": "8495"
+  },
+  {
+    "CardName": "Raging Storm Dragon - Beaufort IX",
+    "CardID": "15952"
+  },
+  {
+    "CardName": "Rai Rider",
+    "CardID": "9721"
+  },
+  {
+    "CardName": "Rai-Jin",
+    "CardID": "8081"
+  },
+  {
+    "CardName": "Rai-Mei",
+    "CardID": "8082"
+  },
+  {
+    "CardName": "Raiden, Hand of the Lightsworn",
+    "CardID": "10886"
+  },
+  {
+    "CardName": "Raider's Knight",
+    "CardID": "15519"
+  },
+  {
+    "CardName": "Raider's Unbreakable Mind",
+    "CardID": "15547"
+  },
+  {
+    "CardName": "Raider's Wing",
+    "CardID": "15480"
+  },
+  {
+    "CardName": "Raidraptor - Arsenal Falcon",
+    "CardID": "12868"
+  },
+  {
+    "CardName": "Raidraptor - Avenge Vulture",
+    "CardID": "12286"
+  },
+  {
+    "CardName": "Raidraptor - Blade Burner Falcon",
+    "CardID": "12533"
+  },
+  {
+    "CardName": "Raidraptor - Blaze Falcon",
+    "CardID": "11723"
+  },
+  {
+    "CardName": "Raidraptor - Booster Strix",
+    "CardID": "12288"
+  },
+  {
+    "CardName": "Raidraptor - Call",
+    "CardID": "12212"
+  },
+  {
+    "CardName": "Raidraptor - Fiend Eagle",
+    "CardID": "11995"
+  },
+  {
+    "CardName": "Raidraptor - Final Fortress Falcon",
+    "CardID": "13140"
+  },
+  {
+    "CardName": "Raidraptor - Force Strix",
+    "CardID": "11619"
+  },
+  {
+    "CardName": "Raidraptor - Fuzzy Lanius",
+    "CardID": "11797"
+  },
+  {
+    "CardName": "Raidraptor - Heel Eagle",
+    "CardID": "15483"
+  },
+  {
+    "CardName": "Raidraptor - Last Strix",
+    "CardID": "12210"
+  },
+  {
+    "CardName": "Raidraptor - Mimicry Lanius",
+    "CardID": "11692"
+  },
+  {
+    "CardName": "Raidraptor - Napalm Dragonius",
+    "CardID": "12532"
+  },
+  {
+    "CardName": "Raidraptor - Necro Vulture",
+    "CardID": "12209"
+  },
+  {
+    "CardName": "Raidraptor - Nest",
+    "CardID": "11574"
+  },
+  {
+    "CardName": "Raidraptor - Pain Lanius",
+    "CardID": "12287"
+  },
+  {
+    "CardName": "Raidraptor - Readiness",
+    "CardID": "11590"
+  },
+  {
+    "CardName": "Raidraptor - Return",
+    "CardID": "11853"
+  },
+  {
+    "CardName": "Raidraptor - Revolution Falcon",
+    "CardID": "11724"
+  },
+  {
+    "CardName": "Raidraptor - Revolution Falcon - Air Raid",
+    "CardID": "13018"
+  },
+  {
+    "CardName": "Raidraptor - Rise Falcon",
+    "CardID": "11570"
+  },
+  {
+    "CardName": "Raidraptor - Rudder Strix",
+    "CardID": "13139"
+  },
+  {
+    "CardName": "Raidraptor - Satellite Cannon Falcon",
+    "CardID": "12211"
+  },
+  {
+    "CardName": "Raidraptor - Sharp Lanius",
+    "CardID": "11691"
+  },
+  {
+    "CardName": "Raidraptor - Singing Lanius",
+    "CardID": "11798"
+  },
+  {
+    "CardName": "Raidraptor - Skull Eagle",
+    "CardID": "11958"
+  },
+  {
+    "CardName": "Raidraptor - Stranger Falcon",
+    "CardID": "12958"
+  },
+  {
+    "CardName": "Raidraptor - Strangle Lanius",
+    "CardID": "15484"
+  },
+  {
+    "CardName": "Raidraptor - Tribute Lanius",
+    "CardID": "11767"
+  },
+  {
+    "CardName": "Raidraptor - Ultimate Falcon",
+    "CardID": "12325"
+  },
+  {
+    "CardName": "Raidraptor - Vanishing Lanius",
+    "CardID": "11531"
+  },
+  {
+    "CardName": "Raidraptor - Wild Vulture",
+    "CardID": "11957"
+  },
+  {
+    "CardName": "Raidraptor - Wise Strix",
+    "CardID": "14205"
+  },
+  {
+    "CardName": "Raidraptor Replica",
+    "CardID": "12887"
+  },
+  {
+    "CardName": "Raidraptor's Phantom Knights Claw",
+    "CardID": "15548"
+  },
+  {
+    "CardName": "Raigeki",
+    "CardID": "4343"
+  },
+  {
+    "CardName": "Raigeki Bottle",
+    "CardID": "9696"
+  },
+  {
+    "CardName": "Raigeki Break",
+    "CardID": "5544"
+  },
+  {
+    "CardName": "Raijin the Breakbolt Star",
+    "CardID": "17653"
+  },
+  {
+    "CardName": "Raimei",
+    "CardID": "4841"
+  },
+  {
+    "CardName": "Rain Bozu",
+    "CardID": "13884"
+  },
+  {
+    "CardName": "Rain of Mercy",
+    "CardID": "5151"
+  },
+  {
+    "CardName": "Rain Storm",
+    "CardID": "7273"
+  },
+  {
+    "CardName": "Rainbow Bridge",
+    "CardID": "13485"
+  },
+  {
+    "CardName": "Rainbow Bridge of Salvation",
+    "CardID": "17249"
+  },
+  {
+    "CardName": "Rainbow Bridge of the Heart",
+    "CardID": "17735"
+  },
+  {
+    "CardName": "Rainbow Dark Dragon",
+    "CardID": "7406"
+  },
+  {
+    "CardName": "Rainbow Dragon",
+    "CardID": "7171"
+  },
+  {
+    "CardName": "Rainbow Flower",
+    "CardID": "4494"
+  },
+  {
+    "CardName": "Rainbow Gravity",
+    "CardID": "7638"
+  },
+  {
+    "CardName": "Rainbow Kuriboh",
+    "CardID": "10890"
+  },
+  {
+    "CardName": "Rainbow Life",
+    "CardID": "7463"
+  },
+  {
+    "CardName": "Rainbow Neos",
+    "CardID": "7443"
+  },
+  {
+    "CardName": "Rainbow Overdragon",
+    "CardID": "13484"
+  },
+  {
+    "CardName": "Rainbow Path",
+    "CardID": "7462"
+  },
+  {
+    "CardName": "Rainbow Refraction",
+    "CardID": "11603"
+  },
+  {
+    "CardName": "Rainbow Veil",
+    "CardID": "7444"
+  },
+  {
+    "CardName": "Raise Body Heat",
+    "CardID": "4332"
+  },
+  {
+    "CardName": "Raiza the Mega Monarch",
+    "CardID": "11250"
+  },
+  {
+    "CardName": "Raiza the Storm Monarch",
+    "CardID": "7117"
+  },
+  {
+    "CardName": "Rallis the Star Bird",
+    "CardID": "6778"
+  },
+  {
+    "CardName": "RAM Clouder",
+    "CardID": "13031"
+  },
+  {
+    "CardName": "Rampaging Rhynos",
+    "CardID": "6895"
+  },
+  {
+    "CardName": "Rampaging Smashtank Rhynosaber",
+    "CardID": "15086"
+  },
+  {
+    "CardName": "Rank-Down-Magic Numeron Fall",
+    "CardID": "10946"
+  },
+  {
+    "CardName": "Rank-Up-Magic - The Seventh One",
+    "CardID": "11087"
+  },
+  {
+    "CardName": "Rank-Up-Magic Admiration of the Thousands",
+    "CardID": "11188"
+  },
+  {
+    "CardName": "Rank-Up-Magic Argent Chaos Force",
+    "CardID": "11022"
+  },
+  {
+    "CardName": "Rank-Up-Magic Astral Force",
+    "CardID": "10945"
+  },
+  {
+    "CardName": "Rank-Up-Magic Barian's Force",
+    "CardID": "10541"
+  }
+]

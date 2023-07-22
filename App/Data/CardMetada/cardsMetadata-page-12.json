@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Blade Armor Ninja",
+    "CardID": "9915"
+  },
+  {
+    "CardName": "Blade Bounzer",
+    "CardID": "10033"
+  },
+  {
+    "CardName": "Blade Garoodia the Cubic Beast",
+    "CardID": "12517"
+  },
+  {
+    "CardName": "Blade Knight",
+    "CardID": "5488"
+  },
+  {
+    "CardName": "Blade Rabbit",
+    "CardID": "6248"
+  },
+  {
+    "CardName": "Blade Skater",
+    "CardID": "6472"
+  },
+  {
+    "CardName": "Bladefly",
+    "CardID": "4615"
+  },
+  {
+    "CardName": "Blast Asmodian",
+    "CardID": "6880"
+  },
+  {
+    "CardName": "Blast Held by a Tribute",
+    "CardID": "5365"
+  },
+  {
+    "CardName": "Blast Held by Destiny",
+    "CardID": "17609"
+  },
+  {
+    "CardName": "Blast Juggler",
+    "CardID": "4423"
+  },
+  {
+    "CardName": "Blast Magician",
+    "CardID": "6250"
+  },
+  {
+    "CardName": "Blast Sphere",
+    "CardID": "4742"
+  },
+  {
+    "CardName": "Blast with Chain",
+    "CardID": "5396"
+  },
+  {
+    "CardName": "Blaster, Dragon Ruler of Infernos",
+    "CardID": "10521"
+  },
+  {
+    "CardName": "Blasting Fuse",
+    "CardID": "6910"
+  },
+  {
+    "CardName": "Blasting the Ruins",
+    "CardID": "5852"
+  },
+  {
+    "CardName": "Blaze Accelerator",
+    "CardID": "7086"
+  },
+  {
+    "CardName": "Blaze Accelerator Reload",
+    "CardID": "11597"
+  },
+  {
+    "CardName": "Blaze Cannon",
+    "CardID": "15334"
+  },
+  {
+    "CardName": "Blaze Fenix, the Burning Bombardment Bird",
+    "CardID": "9256"
+  },
+  {
+    "CardName": "Blazewing Butterfly",
+    "CardID": "7341"
+  },
+  {
+    "CardName": "Blazing Cartesia, the Virtuous",
+    "CardID": "17767"
+  },
+  {
+    "CardName": "Blazing Hiita",
+    "CardID": "6701"
+  },
+  {
+    "CardName": "Blazing Inpachi",
+    "CardID": "5876"
+  },
+  {
+    "CardName": "Blazing Mirror Force",
+    "CardID": "12022"
+  },
+  {
+    "CardName": "Blessed Winds",
+    "CardID": "14701"
+  },
+  {
+    "CardName": "Blessings for Gusto",
+    "CardID": "9186"
+  },
+  {
+    "CardName": "Blessings of the Nile",
+    "CardID": "6052"
+  },
+  {
+    "CardName": "Blind Destruction",
+    "CardID": "5268"
+  },
+  {
+    "CardName": "Blind Obliteration",
+    "CardID": "13118"
+  },
+  {
+    "CardName": "Blind Spot Strike",
+    "CardID": "8976"
+  },
+  {
+    "CardName": "Blindly Loyal Goblin",
+    "CardID": "5714"
+  },
+  {
+    "CardName": "Blizzard",
+    "CardID": "15297"
+  },
+  {
+    "CardName": "Blizzard Dragon",
+    "CardID": "7017"
+  },
+  {
+    "CardName": "Blizzard Falcon",
+    "CardID": "10493"
+  },
+  {
+    "CardName": "Blizzard Princess",
+    "CardID": "8891"
+  },
+  {
+    "CardName": "Blizzard Thunderbird",
+    "CardID": "11036"
+  },
+  {
+    "CardName": "Blizzard Warrior",
+    "CardID": "7528"
+  },
+  {
+    "CardName": "Blizzed, Defender of the Ice Barrier",
+    "CardID": "7527"
+  },
+  {
+    "CardName": "Block Attack",
+    "CardID": "4874"
+  },
+  {
+    "CardName": "Block Dragon",
+    "CardID": "12433"
+  },
+  {
+    "CardName": "Block Golem",
+    "CardID": "10165"
+  },
+  {
+    "CardName": "Block Spider",
+    "CardID": "11335"
+  },
+  {
+    "CardName": "Blocker",
+    "CardID": "4422"
+  },
+  {
+    "CardName": "Blockman",
+    "CardID": "6160"
+  },
+  {
+    "CardName": "Blockout Curtain",
+    "CardID": "14513"
+  },
+  {
+    "CardName": "Blood Mefist",
+    "CardID": "9220"
+  },
+  {
+    "CardName": "Blood Sucker",
+    "CardID": "6289"
+  },
+  {
+    "CardName": "Bloom Diva the Melodious Choir",
+    "CardID": "11715"
+  },
+  {
+    "CardName": "Bloom Harmonist the Melodious Composer",
+    "CardID": "14943"
+  },
+  {
+    "CardName": "Bloom Prima the Melodious Choir",
+    "CardID": "12317"
+  },
+  {
+    "CardName": "Blooming of the Darkest Rose",
+    "CardID": "14179"
+  },
+  {
+    "CardName": "Blossom Bombardment",
+    "CardID": "8849"
+  },
+  {
+    "CardName": "Blowback Dragon",
+    "CardID": "5964"
+  },
+  {
+    "CardName": "Blue Dragon Ninja",
+    "CardID": "10314"
+  },
+  {
+    "CardName": "Blue Dragon Summoner",
+    "CardID": "11142"
+  },
+  {
+    "CardName": "Blue Duston",
+    "CardID": "10776"
+  },
+  {
+    "CardName": "Blue Flame Swordsman",
+    "CardID": "10864"
+  },
+  {
+    "CardName": "Blue Medicine",
+    "CardID": "4840"
+  },
+  {
+    "CardName": "Blue Mountain Butterspy",
+    "CardID": "10698"
+  },
+  {
+    "CardName": "Blue Rose Dragon",
+    "CardID": "9448"
+  },
+  {
+    "CardName": "Blue Thunder T-45",
+    "CardID": "7438"
+  },
+  {
+    "CardName": "Blue-Blooded Oni",
+    "CardID": "9651"
+  },
+  {
+    "CardName": "Blue-Eyed Silver Zombie",
+    "CardID": "4145"
+  },
+  {
+    "CardName": "Blue-Eyes Abyss Dragon",
+    "CardID": "14953"
+  },
+  {
+    "CardName": "Blue-Eyes Alternative Ultimate Dragon",
+    "CardID": "14365"
+  },
+  {
+    "CardName": "Blue-Eyes Alternative White Dragon",
+    "CardID": "12253"
+  },
+  {
+    "CardName": "Blue-Eyes Chaos Dragon",
+    "CardID": "13842"
+  },
+  {
+    "CardName": "Blue-Eyes Chaos MAX Dragon",
+    "CardID": "12487"
+  },
+  {
+    "CardName": "Blue-Eyes Jet Dragon",
+    "CardID": "16809"
+  },
+  {
+    "CardName": "Blue-Eyes Shining Dragon",
+    "CardID": "6082"
+  },
+  {
+    "CardName": "Blue-Eyes Solid Dragon",
+    "CardID": "13843"
+  },
+  {
+    "CardName": "Blue-Eyes Spirit Dragon",
+    "CardID": "12324"
+  },
+  {
+    "CardName": "Blue-Eyes Toon Dragon",
+    "CardID": "4773"
+  },
+  {
+    "CardName": "Blue-Eyes Twin Burst Dragon",
+    "CardID": "12252"
+  },
+  {
+    "CardName": "Blue-Eyes Tyrant Dragon",
+    "CardID": "16842"
+  },
+  {
+    "CardName": "Blue-Eyes Ultimate Dragon",
+    "CardID": "4386"
+  },
+  {
+    "CardName": "Blue-Eyes White Dragon",
+    "CardID": "4007"
+  },
+  {
+    "CardName": "Blue-Winged Crown",
+    "CardID": "4642"
+  },
+  {
+    "CardName": "Bluebeard, the Plunder Patroll Shipwright",
+    "CardID": "15320"
+  },
+  {
+    "CardName": "Blustering Winds",
+    "CardID": "9570"
+  },
+  {
+    "CardName": "BM-4 Blast Spider",
+    "CardID": "13472"
+  },
+  {
+    "CardName": "Boar Soldier",
+    "CardID": "4925"
+  },
+  {
+    "CardName": "Bokoichi the Freightening Car",
+    "CardID": "6174"
+  },
+  {
+    "CardName": "Bolt Penguin",
+    "CardID": "4467"
+  },
+  {
+    "CardName": "Bombardment Beetle",
+    "CardID": "5138"
+  },
+  {
+    "CardName": "Bond Between Teacher and Student",
+    "CardID": "11121"
+  },
+  {
+    "CardName": "Bonding - D2O",
+    "CardID": "13190"
+  },
+  {
+    "CardName": "Bonding - DHO",
+    "CardID": "13191"
+  },
+  {
+    "CardName": "Bonding - H2O",
+    "CardID": "6492"
+  },
+  {
+    "CardName": "Bone Crusher",
+    "CardID": "8141"
+  },
+  {
+    "CardName": "Bone Temple Block",
+    "CardID": "8229"
+  },
+  {
+    "CardName": "Boneheimer",
+    "CardID": "5046"
+  },
+  {
+    "CardName": "Bonfire Colossus",
+    "CardID": "10472"
+  },
+  {
+    "CardName": "Bonze Alone",
+    "CardID": "14659"
+  },
+  {
+    "CardName": "Boo-Boo Game",
+    "CardID": "16040"
+  },
+  {
+    "CardName": "Booby Trap E",
+    "CardID": "12208"
+  },
+  {
+    "CardName": "Boogie Trap",
+    "CardID": "13103"
+  },
+  {
+    "CardName": "Book of Eclipse",
+    "CardID": "7752"
+  }
+]

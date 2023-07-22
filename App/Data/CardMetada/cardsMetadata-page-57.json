@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Justi-Break",
+    "CardID": "6912"
+  },
+  {
+    "CardName": "Justice Bringer",
+    "CardID": "9235"
+  },
+  {
+    "CardName": "Justice of Prophecy",
+    "CardID": "10245"
+  },
+  {
+    "CardName": "Jutte Fighter",
+    "CardID": "7710"
+  },
+  {
+    "CardName": "KA-2 Des Scissors",
+    "CardID": "5962"
+  },
+  {
+    "CardName": "Kabazauls",
+    "CardID": "5507"
+  },
+  {
+    "CardName": "Kabuki Dragon",
+    "CardID": "11517"
+  },
+  {
+    "CardName": "Kachi Kochi Dragon",
+    "CardID": "9839"
+  },
+  {
+    "CardName": "Kagemucha Knight",
+    "CardID": "9965"
+  },
+  {
+    "CardName": "Kagemusha of the Blue Flame",
+    "CardID": "4220"
+  },
+  {
+    "CardName": "Kagemusha of the Six Samurai",
+    "CardID": "9316"
+  },
+  {
+    "CardName": "Kageningen",
+    "CardID": "4113"
+  },
+  {
+    "CardName": "Kagero the Cannon Ninja",
+    "CardID": "17774"
+  },
+  {
+    "CardName": "Kagetokage",
+    "CardID": "9723"
+  },
+  {
+    "CardName": "Kahkki, Guerilla of Dark World",
+    "CardID": "6974"
+  },
+  {
+    "CardName": "Kahyoreigetsu",
+    "CardID": "17259"
+  },
+  {
+    "CardName": "Kai-Den Kendo Spirit",
+    "CardID": "13702"
+  },
+  {
+    "CardName": "Kaibaman",
+    "CardID": "6298"
+  },
+  {
+    "CardName": "Kaiju Capture Mission",
+    "CardID": "12107"
+  },
+  {
+    "CardName": "Kaiki the Unity Star",
+    "CardID": "13831"
+  },
+  {
+    "CardName": "Kairyu-Shin",
+    "CardID": "4079"
+  },
+  {
+    "CardName": "Kairyu-Shin's Dark Reef",
+    "CardID": "17052"
+  },
+  {
+    "CardName": "Kaiser Colosseum",
+    "CardID": "5605"
+  },
+  {
+    "CardName": "Kaiser Dragon",
+    "CardID": "4433"
+  },
+  {
+    "CardName": "Kaiser Eagle, the Heavens' Mandate",
+    "CardID": "14796"
+  },
+  {
+    "CardName": "Kaiser Glider",
+    "CardID": "5353"
+  },
+  {
+    "CardName": "Kaiser Glider - Golden Burst",
+    "CardID": "16620"
+  },
+  {
+    "CardName": "Kaiser Sea Horse",
+    "CardID": "5409"
+  },
+  {
+    "CardName": "Kaiser Sea Snake",
+    "CardID": "11780"
+  },
+  {
+    "CardName": "Kaiser Vorse Raider",
+    "CardID": "12485"
+  },
+  {
+    "CardName": "Kaiza the Hidden Star",
+    "CardID": "16827"
+  },
+  {
+    "CardName": "Kalantosa, Mystical Beast of the Forest",
+    "CardID": "10922"
+  },
+  {
+    "CardName": "Kaminari Attack",
+    "CardID": "4464"
+  },
+  {
+    "CardName": "Kaminote Blow",
+    "CardID": "6349"
+  },
+  {
+    "CardName": "Kamion, the Timelord",
+    "CardID": "13160"
+  },
+  {
+    "CardName": "Kamionwizard",
+    "CardID": "4121"
+  },
+  {
+    "CardName": "Kamui, Hope of Gusto",
+    "CardID": "9595"
+  },
+  {
+    "CardName": "Kanan the Swordmistress",
+    "CardID": "4358"
+  },
+  {
+    "CardName": "Kangaroo Champ",
+    "CardID": "6246"
+  },
+  {
+    "CardName": "Kanzashi the Rikka Queen",
+    "CardID": "15117"
+  },
+  {
+    "CardName": "Karakuri Anatomy",
+    "CardID": "9125"
+  },
+  {
+    "CardName": "Karakuri Barrel mdl 96 &quot;Shinkuro&quot;",
+    "CardID": "9285"
+  },
+  {
+    "CardName": "Karakuri Bonze mdl 9763 &quot;Kunamzan&quot;",
+    "CardID": "14823"
+  },
+  {
+    "CardName": "Karakuri Bushi mdl 6318 &quot;Muzanichiha&quot;",
+    "CardID": "9100"
+  },
+  {
+    "CardName": "Karakuri Cash Cache",
+    "CardID": "9343"
+  },
+  {
+    "CardName": "Karakuri Cash Inn",
+    "CardID": "14882"
+  },
+  {
+    "CardName": "Karakuri Cash Shed",
+    "CardID": "9545"
+  },
+  {
+    "CardName": "Karakuri Gama mdl 4624 &quot;Shirokunishi&quot;",
+    "CardID": "14824"
+  },
+  {
+    "CardName": "Karakuri Gama Oil",
+    "CardID": "14867"
+  },
+  {
+    "CardName": "Karakuri Gold Dust",
+    "CardID": "9344"
+  },
+  {
+    "CardName": "Karakuri Klock",
+    "CardID": "9149"
+  },
+  {
+    "CardName": "Karakuri Komachi mdl 224 &quot;Ninishi&quot;",
+    "CardID": "9501"
+  },
+  {
+    "CardName": "Karakuri Merchant mdl 177 &quot;Inashichi&quot;",
+    "CardID": "9097"
+  },
+  {
+    "CardName": "Karakuri Muso mdl 818 &quot;Haipa&quot;",
+    "CardID": "9452"
+  },
+  {
+    "CardName": "Karakuri Ninja mdl 339 &quot;Sazank&quot;",
+    "CardID": "9099"
+  },
+  {
+    "CardName": "Karakuri Ninja mdl 7749 &quot;Nanashick&quot;",
+    "CardID": "9502"
+  },
+  {
+    "CardName": "Karakuri Ninja mdl 919 &quot;Kuick&quot;",
+    "CardID": "9319"
+  },
+  {
+    "CardName": "Karakuri Shogun mdl 00 &quot;Burei&quot;",
+    "CardID": "9120"
+  },
+  {
+    "CardName": "Karakuri Showdown Castle",
+    "CardID": "9123"
+  },
+  {
+    "CardName": "Karakuri Soldier mdl 236 &quot;Nisamu&quot;",
+    "CardID": "9096"
+  },
+  {
+    "CardName": "Karakuri Spider",
+    "CardID": "4416"
+  },
+  {
+    "CardName": "Karakuri Steel Shogun mdl 00X &quot;Bureido&quot;",
+    "CardID": "9333"
+  },
+  {
+    "CardName": "Karakuri Strategist mdl 248 &quot;Nishipachi&quot;",
+    "CardID": "9098"
+  },
+  {
+    "CardName": "Karakuri Super Shogun mdl 00N &quot;Bureibu&quot;",
+    "CardID": "14852"
+  },
+  {
+    "CardName": "Karakuri Trick House",
+    "CardID": "9148"
+  },
+  {
+    "CardName": "Karakuri Watchdog mdl 313 &quot;Saizan&quot;",
+    "CardID": "9318"
+  },
+  {
+    "CardName": "Karate Man",
+    "CardID": "4919"
+  },
+  {
+    "CardName": "Karbonala Warrior",
+    "CardID": "4049"
+  },
+  {
+    "CardName": "Karma Cut",
+    "CardID": "6619"
+  },
+  {
+    "CardName": "Karma of the Destruction Swordsman",
+    "CardID": "12168"
+  },
+  {
+    "CardName": "Kasha",
+    "CardID": "7937"
+  },
+  {
+    "CardName": "Kashtira Akstra",
+    "CardID": "18518"
+  },
+  {
+    "CardName": "Kashtira Arise-Heart",
+    "CardID": "18191"
+  },
+  {
+    "CardName": "Kashtira Big Bang",
+    "CardID": "18220"
+  },
+  {
+    "CardName": "Kashtira Birth",
+    "CardID": "17815"
+  },
+  {
+    "CardName": "Kashtira Fenrir",
+    "CardID": "17768"
+  },
+  {
+    "CardName": "Kashtira Ogre",
+    "CardID": "17770"
+  },
+  {
+    "CardName": "Kashtira Overlap",
+    "CardID": "18202"
+  },
+  {
+    "CardName": "Kashtira Preparations",
+    "CardID": "17831"
+  },
+  {
+    "CardName": "Kashtira Riseheart",
+    "CardID": "18151"
+  },
+  {
+    "CardName": "Kashtira Shangri-Ira",
+    "CardID": "17800"
+  },
+  {
+    "CardName": "Kashtira Unicorn",
+    "CardID": "17769"
+  },
+  {
+    "CardName": "Kashtiratheosis",
+    "CardID": "18203"
+  },
+  {
+    "CardName": "Kayenn, the Master Magma Blacksmith",
+    "CardID": "8904"
+  },
+  {
+    "CardName": "Kazejin",
+    "CardID": "4378"
+  },
+  {
+    "CardName": "Keeper of Dragon Magic",
+    "CardID": "13689"
+  },
+  {
+    "CardName": "Keeper of the Shrine",
+    "CardID": "11808"
+  },
+  {
+    "CardName": "Kelbek",
+    "CardID": "5361"
+  },
+  {
+    "CardName": "Kelbek the Ancient Vanguard",
+    "CardID": "17605"
+  },
+  {
+    "CardName": "Keldo",
+    "CardID": "5351"
+  },
+  {
+    "CardName": "Keldo the Sacred Protector",
+    "CardID": "17603"
+  },
+  {
+    "CardName": "Keurse, the Ogdoadic Light",
+    "CardID": "16075"
+  },
+  {
+    "CardName": "Key Mace",
+    "CardID": "4198"
+  },
+  {
+    "CardName": "Key Mace #2",
+    "CardID": "4606"
+  },
+  {
+    "CardName": "Key Man the Key Warrior",
+    "CardID": "9567"
+  },
+  {
+    "CardName": "Key Mouse",
+    "CardID": "8812"
+  },
+  {
+    "CardName": "Kickfire",
+    "CardID": "10477"
+  },
+  {
+    "CardName": "Kid Guard",
+    "CardID": "6943"
+  },
+  {
+    "CardName": "Kidmodo Dragon",
+    "CardID": "10459"
+  },
+  {
+    "CardName": "Kikinagashi Fucho",
+    "CardID": "13456"
+  }
+]

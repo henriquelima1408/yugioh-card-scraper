@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Gold Pride - Pin Baller",
+    "CardID": "18670"
+  },
+  {
+    "CardName": "Gold Pride - Roller Baller",
+    "CardID": "18669"
+  },
+  {
+    "CardName": "Gold Pride - Star Leon",
+    "CardID": "18458"
+  },
+  {
+    "CardName": "Gold Pride - Start Your Engines!",
+    "CardID": "18461"
+  },
+  {
+    "CardName": "Gold Pride - That Came Out of Nowhere!",
+    "CardID": "18672"
+  },
+  {
+    "CardName": "Gold Pride - The Crowd Goes Wild!",
+    "CardID": "18460"
+  },
+  {
+    "CardName": "Gold Sarcophagus",
+    "CardID": "6161"
+  },
+  {
+    "CardName": "Goldd, Wu-Lord of Dark World",
+    "CardID": "6505"
+  },
+  {
+    "CardName": "Golden Bamboo Sword",
+    "CardID": "7635"
+  },
+  {
+    "CardName": "Golden Castle of Stromberg",
+    "CardID": "13808"
+  },
+  {
+    "CardName": "Golden Cloud Beast - Malong",
+    "CardID": "18666"
+  },
+  {
+    "CardName": "Golden Dragon Summoner",
+    "CardID": "11141"
+  },
+  {
+    "CardName": "Golden Flying Fish",
+    "CardID": "7566"
+  },
+  {
+    "CardName": "Golden Gearbox",
+    "CardID": "9124"
+  },
+  {
+    "CardName": "Golden Homunculus",
+    "CardID": "6645"
+  },
+  {
+    "CardName": "Golden Ladybug",
+    "CardID": "7609"
+  },
+  {
+    "CardName": "Golden Land Forever!",
+    "CardID": "15131"
+  },
+  {
+    "CardName": "Golden Rule",
+    "CardID": "18431"
+  },
+  {
+    "CardName": "Golden-Eyes Idol",
+    "CardID": "15840"
+  },
+  {
+    "CardName": "Goldenhair, the Newest Plunder Patroll",
+    "CardID": "15321"
+  },
+  {
+    "CardName": "Goldilocks the Battle Landscaper",
+    "CardID": "15024"
+  },
+  {
+    "CardName": "Golem Dragon",
+    "CardID": "8420"
+  },
+  {
+    "CardName": "Golem Sentry",
+    "CardID": "6254"
+  },
+  {
+    "CardName": "Gonogo",
+    "CardID": "7713"
+  },
+  {
+    "CardName": "Good &amp; Evil in the Burning Abyss",
+    "CardID": "11636"
+  },
+  {
+    "CardName": "Good Goblin Housekeeping",
+    "CardID": "6280"
+  },
+  {
+    "CardName": "Googly-Eyes Drum Dragon",
+    "CardID": "10654"
+  },
+  {
+    "CardName": "Gora Turtle",
+    "CardID": "5411"
+  },
+  {
+    "CardName": "Gora Turtle of Illusion",
+    "CardID": "5934"
+  },
+  {
+    "CardName": "Gorgon's Eye",
+    "CardID": "4799"
+  },
+  {
+    "CardName": "Gorgon, Empress of the Evil Eyed",
+    "CardID": "14675"
+  },
+  {
+    "CardName": "Gorgonic Cerberus",
+    "CardID": "10900"
+  },
+  {
+    "CardName": "Gorgonic Gargoyle",
+    "CardID": "10898"
+  },
+  {
+    "CardName": "Gorgonic Ghoul",
+    "CardID": "10899"
+  },
+  {
+    "CardName": "Gorgonic Golem",
+    "CardID": "10897"
+  },
+  {
+    "CardName": "Gorgonic Guardian",
+    "CardID": "10937"
+  },
+  {
+    "CardName": "Gorz the Emissary of Darkness",
+    "CardID": "6558"
+  },
+  {
+    "CardName": "Gotterdammerung",
+    "CardID": "9337"
+  },
+  {
+    "CardName": "Gottoms' Emergency Call",
+    "CardID": "8282"
+  },
+  {
+    "CardName": "Gottoms' Second Call",
+    "CardID": "11576"
+  },
+  {
+    "CardName": "Gouki Bearhug",
+    "CardID": "13565"
+  },
+  {
+    "CardName": "Gouki Cage Match",
+    "CardID": "13515"
+  },
+  {
+    "CardName": "Gouki Destroy Ogre",
+    "CardID": "13344"
+  },
+  {
+    "CardName": "Gouki Face Turn",
+    "CardID": "13610"
+  },
+  {
+    "CardName": "Gouki Finishing Move",
+    "CardID": "14789"
+  },
+  {
+    "CardName": "Gouki Guts",
+    "CardID": "14991"
+  },
+  {
+    "CardName": "Gouki Headbatt",
+    "CardID": "13222"
+  },
+  {
+    "CardName": "Gouki Heel Ogre",
+    "CardID": "13754"
+  },
+  {
+    "CardName": "Gouki Iron Claw",
+    "CardID": "14990"
+  },
+  {
+    "CardName": "Gouki Jet Ogre",
+    "CardID": "13514"
+  },
+  {
+    "CardName": "Gouki Moonsault",
+    "CardID": "13719"
+  },
+  {
+    "CardName": "Gouki Octostretch",
+    "CardID": "13564"
+  },
+  {
+    "CardName": "Gouki Re-Match",
+    "CardID": "13093"
+  },
+  {
+    "CardName": "Gouki Ringtrainer",
+    "CardID": "13721"
+  },
+  {
+    "CardName": "Gouki Riscorpio",
+    "CardID": "13050"
+  },
+  {
+    "CardName": "Gouki Suprex",
+    "CardID": "13049"
+  },
+  {
+    "CardName": "Gouki Tagpartner",
+    "CardID": "13720"
+  },
+  {
+    "CardName": "Gouki The Blade Ogre",
+    "CardID": "14293"
+  },
+  {
+    "CardName": "Gouki The Giant Ogre",
+    "CardID": "13755"
+  },
+  {
+    "CardName": "Gouki The Great Ogre",
+    "CardID": "13084"
+  },
+  {
+    "CardName": "Gouki The Master Ogre",
+    "CardID": "13595"
+  },
+  {
+    "CardName": "Gouki The Powerload Ogre",
+    "CardID": "15039"
+  },
+  {
+    "CardName": "Gouki The Solid Ogre",
+    "CardID": "14294"
+  },
+  {
+    "CardName": "Gouki Thunder Ogre",
+    "CardID": "13261"
+  },
+  {
+    "CardName": "Gouki Twistcobra",
+    "CardID": "13048"
+  },
+  {
+    "CardName": "Goyo Chaser",
+    "CardID": "12077"
+  },
+  {
+    "CardName": "Goyo Defender",
+    "CardID": "12158"
+  },
+  {
+    "CardName": "Goyo Emperor",
+    "CardID": "12152"
+  },
+  {
+    "CardName": "Goyo Guardian",
+    "CardID": "7736"
+  },
+  {
+    "CardName": "Goyo King",
+    "CardID": "12159"
+  },
+  {
+    "CardName": "Goyo Predator",
+    "CardID": "12081"
+  },
+  {
+    "CardName": "Gozen Match",
+    "CardID": "7934"
+  },
+  {
+    "CardName": "Gozuki",
+    "CardID": "12896"
+  },
+  {
+    "CardName": "Graceful Charity",
+    "CardID": "4812"
+  },
+  {
+    "CardName": "Graceful Dice",
+    "CardID": "4815"
+  },
+  {
+    "CardName": "Graceful Revival",
+    "CardID": "7754"
+  },
+  {
+    "CardName": "Graceful Tear",
+    "CardID": "12352"
+  },
+  {
+    "CardName": "Gradius",
+    "CardID": "5140"
+  },
+  {
+    "CardName": "Gradius' Option",
+    "CardID": "5372"
+  },
+  {
+    "CardName": "Graff, Malebranche of the Burning Abyss",
+    "CardID": "11318"
+  },
+  {
+    "CardName": "Gragonith, Lightsworn Dragon",
+    "CardID": "7598"
+  },
+  {
+    "CardName": "Granadora",
+    "CardID": "5695"
+  },
+  {
+    "CardName": "Grand Convergence",
+    "CardID": "6670"
+  },
+  {
+    "CardName": "Grand Horn of Heaven",
+    "CardID": "12023"
+  },
+  {
+    "CardName": "Grand Spiritual Art - Ichirin",
+    "CardID": "15407"
+  },
+  {
+    "CardName": "Grand Tiki Elder",
+    "CardID": "5093"
+  },
+  {
+    "CardName": "Grandmaster of the Six Samurai",
+    "CardID": "7145"
+  },
+  {
+    "CardName": "Grandopolis, The Eternal Golden City",
+    "CardID": "10845"
+  },
+  {
+    "CardName": "Grandpa Demetto",
+    "CardID": "15890"
+  },
+  {
+    "CardName": "Grandram",
+    "CardID": "10227"
+  },
+  {
+    "CardName": "Grandsoil the Elemental Lord",
+    "CardID": "10168"
+  },
+  {
+    "CardName": "Grandtusk Dragon",
+    "CardID": "17435"
+  },
+  {
+    "CardName": "Granguignol the Dusk Dragon",
+    "CardID": "18178"
+  },
+  {
+    "CardName": "Granmarg the Mega Monarch",
+    "CardID": "10772"
+  },
+  {
+    "CardName": "Granmarg the Rock Monarch",
+    "CardID": "6239"
+  },
+  {
+    "CardName": "GranSolfachord Coolia",
+    "CardID": "18512"
+  },
+  {
+    "CardName": "GranSolfachord Musecia",
+    "CardID": "16237"
+  },
+  {
+    "CardName": "Grapha, Dragon Lord of Dark World",
+    "CardID": "9712"
+  },
+  {
+    "CardName": "Grapha, Dragon Overlord of Dark World",
+    "CardID": "17988"
+  },
+  {
+    "CardName": "Grapple Blocker",
+    "CardID": "7866"
+  }
+]

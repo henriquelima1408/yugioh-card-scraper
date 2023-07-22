@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Gagagarevenge",
+    "CardID": "10181"
+  },
+  {
+    "CardName": "Gagagarush",
+    "CardID": "10197"
+  },
+  {
+    "CardName": "Gagagashield",
+    "CardID": "9856"
+  },
+  {
+    "CardName": "Gagagatag",
+    "CardID": "10790"
+  },
+  {
+    "CardName": "Gagagawind",
+    "CardID": "10538"
+  },
+  {
+    "CardName": "Gagagigo",
+    "CardID": "5759"
+  },
+  {
+    "CardName": "Gagagigo the Risen",
+    "CardID": "10272"
+  },
+  {
+    "CardName": "Gagaku-P.U.N.K. Crash Beat",
+    "CardID": "16733"
+  },
+  {
+    "CardName": "Gagaku-P.U.N.K. Wa Gon",
+    "CardID": "16725"
+  },
+  {
+    "CardName": "Gagaku-P.U.N.K. Wild Picking",
+    "CardID": "16732"
+  },
+  {
+    "CardName": "Gaia Dragon, the Thunder Charger",
+    "CardID": "10069"
+  },
+  {
+    "CardName": "Gaia Drake, the Universal Force",
+    "CardID": "9116"
+  },
+  {
+    "CardName": "Gaia Knight, the Force of Earth",
+    "CardID": "7697"
+  },
+  {
+    "CardName": "Gaia Plate the Earth Giant",
+    "CardID": "7558"
+  },
+  {
+    "CardName": "Gaia Power",
+    "CardID": "4932"
+  },
+  {
+    "CardName": "Gaia Saber, the Lightning Shadow",
+    "CardID": "13090"
+  },
+  {
+    "CardName": "Gaia Soul the Combustible Collective",
+    "CardID": "6197"
+  },
+  {
+    "CardName": "Gaia the Dragon Champion",
+    "CardID": "4043"
+  },
+  {
+    "CardName": "Gaia The Fierce Knight",
+    "CardID": "4044"
+  },
+  {
+    "CardName": "Gaia the Fierce Knight Origin",
+    "CardID": "15363"
+  },
+  {
+    "CardName": "Gaia the Magical Knight",
+    "CardID": "15235"
+  },
+  {
+    "CardName": "Gaia the Magical Knight of Dragons",
+    "CardID": "15271"
+  },
+  {
+    "CardName": "Gaia, the Mid-Knight Sun",
+    "CardID": "10825"
+  },
+  {
+    "CardName": "Gaia, the Polar Knight",
+    "CardID": "10824"
+  },
+  {
+    "CardName": "Gaiarmor Dragonshell",
+    "CardID": "16231"
+  },
+  {
+    "CardName": "Galactic Charity",
+    "CardID": "11086"
+  },
+  {
+    "CardName": "Galactic Spiral Dragon",
+    "CardID": "14643"
+  },
+  {
+    "CardName": "Galactikuriboh",
+    "CardID": "18148"
+  },
+  {
+    "CardName": "Galatea, the Orcust Automaton",
+    "CardID": "13930"
+  },
+  {
+    "CardName": "Galaxy Brave",
+    "CardID": "13898"
+  },
+  {
+    "CardName": "Galaxy Cleric",
+    "CardID": "13897"
+  },
+  {
+    "CardName": "Galaxy Cyclone",
+    "CardID": "11737"
+  },
+  {
+    "CardName": "Galaxy Dragon",
+    "CardID": "10730"
+  },
+  {
+    "CardName": "Galaxy Expedition",
+    "CardID": "10343"
+  },
+  {
+    "CardName": "Galaxy Hundred",
+    "CardID": "18196"
+  },
+  {
+    "CardName": "Galaxy Knight",
+    "CardID": "10339"
+  },
+  {
+    "CardName": "Galaxy Mirror Sage",
+    "CardID": "11031"
+  },
+  {
+    "CardName": "Galaxy Photon Dragon",
+    "CardID": "18189"
+  },
+  {
+    "CardName": "Galaxy Queen's Light",
+    "CardID": "10186"
+  },
+  {
+    "CardName": "Galaxy Satellite Dragon",
+    "CardID": "14674"
+  },
+  {
+    "CardName": "Galaxy Serpent",
+    "CardID": "10812"
+  },
+  {
+    "CardName": "Galaxy Soldier",
+    "CardID": "11114"
+  },
+  {
+    "CardName": "Galaxy Stealth Dragon",
+    "CardID": "12553"
+  },
+  {
+    "CardName": "Galaxy Storm",
+    "CardID": "9924"
+  },
+  {
+    "CardName": "Galaxy Summoner",
+    "CardID": "18147"
+  },
+  {
+    "CardName": "Galaxy Trance",
+    "CardID": "13943"
+  },
+  {
+    "CardName": "Galaxy Tyranno",
+    "CardID": "11032"
+  },
+  {
+    "CardName": "Galaxy Wave",
+    "CardID": "9936"
+  },
+  {
+    "CardName": "Galaxy Wizard",
+    "CardID": "10338"
+  },
+  {
+    "CardName": "Galaxy Worm",
+    "CardID": "11926"
+  },
+  {
+    "CardName": "Galaxy Zero",
+    "CardID": "10344"
+  },
+  {
+    "CardName": "Galaxy-Eyes Afterglow Dragon",
+    "CardID": "14959"
+  },
+  {
+    "CardName": "Galaxy-Eyes Cipher Blade Dragon",
+    "CardID": "12696"
+  },
+  {
+    "CardName": "Galaxy-Eyes Cipher Dragon",
+    "CardID": "12552"
+  },
+  {
+    "CardName": "Galaxy-Eyes Cipher X Dragon",
+    "CardID": "15854"
+  },
+  {
+    "CardName": "Galaxy-Eyes Cloudragon",
+    "CardID": "11113"
+  },
+  {
+    "CardName": "Galaxy-Eyes Full Armor Photon Dragon",
+    "CardID": "11461"
+  },
+  {
+    "CardName": "Galaxy-Eyes Photon Dragon",
+    "CardID": "9729"
+  },
+  {
+    "CardName": "Galaxy-Eyes Solflare Dragon",
+    "CardID": "13929"
+  },
+  {
+    "CardName": "Gale Dogra",
+    "CardID": "4512"
+  },
+  {
+    "CardName": "Gale Lizard",
+    "CardID": "5818"
+  },
+  {
+    "CardName": "Gallant Granite",
+    "CardID": "14663"
+  },
+  {
+    "CardName": "Gallis the Star Beast",
+    "CardID": "7981"
+  },
+  {
+    "CardName": "Galloping Gaia",
+    "CardID": "15283"
+  },
+  {
+    "CardName": "Gamble",
+    "CardID": "4950"
+  },
+  {
+    "CardName": "Gambler of Legend",
+    "CardID": "7296"
+  },
+  {
+    "CardName": "Gameciel, the Sea Turtle Kaiju",
+    "CardID": "12106"
+  },
+  {
+    "CardName": "Gamma The Electromagnet Warrior",
+    "CardID": "12575"
+  },
+  {
+    "CardName": "Gamma The Magnet Warrior",
+    "CardID": "4792"
+  },
+  {
+    "CardName": "Gamushara",
+    "CardID": "10090"
+  },
+  {
+    "CardName": "Ganbara Knight",
+    "CardID": "9564"
+  },
+  {
+    "CardName": "Ganbara Lancer",
+    "CardID": "10572"
+  },
+  {
+    "CardName": "Gandora the Dragon of Destruction",
+    "CardID": "6076"
+  },
+  {
+    "CardName": "Gandora-X the Dragon of Demolition",
+    "CardID": "12354"
+  },
+  {
+    "CardName": "Garbage Collector",
+    "CardID": "13519"
+  },
+  {
+    "CardName": "Garbage Lord",
+    "CardID": "10378"
+  },
+  {
+    "CardName": "Garbage Ogre",
+    "CardID": "10377"
+  },
+  {
+    "CardName": "Garden Rose Flora",
+    "CardID": "15997"
+  },
+  {
+    "CardName": "Garden Rose Maiden",
+    "CardID": "14175"
+  },
+  {
+    "CardName": "Garlandolf, King of Destruction",
+    "CardID": "8650"
+  },
+  {
+    "CardName": "Garma Sword",
+    "CardID": "4722"
+  },
+  {
+    "CardName": "Garma Sword Oath",
+    "CardID": "4703"
+  },
+  {
+    "CardName": "Garmr of the Nordic Beasts",
+    "CardID": "9303"
+  },
+  {
+    "CardName": "Garnecia Elefantis",
+    "CardID": "4787"
+  },
+  {
+    "CardName": "Garoozis",
+    "CardID": "4074"
+  },
+  {
+    "CardName": "Garoth, Lightsworn Warrior",
+    "CardID": "7593"
+  },
+  {
+    "CardName": "Garuda the Wind Spirit",
+    "CardID": "5255"
+  },
+  {
+    "CardName": "Garum the Storm Vassal",
+    "CardID": "11759"
+  },
+  {
+    "CardName": "Garura, Wings of Resonant Life",
+    "CardID": "17746"
+  },
+  {
+    "CardName": "Gash the Dust Lord",
+    "CardID": "9012"
+  },
+  {
+    "CardName": "Gashadokuro, the Skeletal Mayakashi",
+    "CardID": "14042"
+  },
+  {
+    "CardName": "Gatchiri @Ignister",
+    "CardID": "15135"
+  },
+  {
+    "CardName": "Gate Blocker",
+    "CardID": "11179"
+  },
+  {
+    "CardName": "Gate Guardian",
+    "CardID": "4380"
+  },
+  {
+    "CardName": "Gate Guardian of Thunder and Wind",
+    "CardID": "18326"
+  },
+  {
+    "CardName": "Gate Guardian of Water and Thunder",
+    "CardID": "18328"
+  },
+  {
+    "CardName": "Gate Guardian of Wind and Water",
+    "CardID": "18327"
+  },
+  {
+    "CardName": "Gate Guardians Combined",
+    "CardID": "18325"
+  },
+  {
+    "CardName": "Gatekeeper",
+    "CardID": "4292"
+  },
+  {
+    "CardName": "Gateway Dragon",
+    "CardID": "13223"
+  }
+]

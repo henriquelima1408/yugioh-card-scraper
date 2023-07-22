@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Salamangreat Coyote",
+    "CardID": "14543"
+  },
+  {
+    "CardName": "Salamangreat Emerald Eagle",
+    "CardID": "13920"
+  },
+  {
+    "CardName": "Salamangreat Falco",
+    "CardID": "13891"
+  },
+  {
+    "CardName": "Salamangreat Fennec",
+    "CardID": "14253"
+  },
+  {
+    "CardName": "Salamangreat Fowl",
+    "CardID": "14242"
+  },
+  {
+    "CardName": "Salamangreat Foxer",
+    "CardID": "14082"
+  },
+  {
+    "CardName": "Salamangreat Foxy",
+    "CardID": "13890"
+  },
+  {
+    "CardName": "Salamangreat Gazelle",
+    "CardID": "14240"
+  },
+  {
+    "CardName": "Salamangreat Gift",
+    "CardID": "13954"
+  },
+  {
+    "CardName": "Salamangreat Heatleo",
+    "CardID": "13927"
+  },
+  {
+    "CardName": "Salamangreat Jack Jaguar",
+    "CardID": "13892"
+  },
+  {
+    "CardName": "Salamangreat Meer",
+    "CardID": "13889"
+  },
+  {
+    "CardName": "Salamangreat Miragestallio",
+    "CardID": "14248"
+  },
+  {
+    "CardName": "Salamangreat Mole",
+    "CardID": "14239"
+  },
+  {
+    "CardName": "Salamangreat Parro",
+    "CardID": "14081"
+  },
+  {
+    "CardName": "Salamangreat Pyro Phoenix",
+    "CardID": "14666"
+  },
+  {
+    "CardName": "Salamangreat Raccoon",
+    "CardID": "14238"
+  },
+  {
+    "CardName": "Salamangreat Rage",
+    "CardID": "14246"
+  },
+  {
+    "CardName": "Salamangreat Recureance",
+    "CardID": "14302"
+  },
+  {
+    "CardName": "Salamangreat Roar",
+    "CardID": "14247"
+  },
+  {
+    "CardName": "Salamangreat Sanctuary",
+    "CardID": "13938"
+  },
+  {
+    "CardName": "Salamangreat Spinny",
+    "CardID": "14241"
+  },
+  {
+    "CardName": "Salamangreat Sunlight Wolf",
+    "CardID": "14125"
+  },
+  {
+    "CardName": "Salamangreat Transcendence",
+    "CardID": "14679"
+  },
+  {
+    "CardName": "Salamangreat Violet Chimera",
+    "CardID": "14111"
+  },
+  {
+    "CardName": "Salamangreat Wolvie",
+    "CardID": "14080"
+  },
+  {
+    "CardName": "Salamangreat Zebroid X",
+    "CardID": "14989"
+  },
+  {
+    "CardName": "Sales Ban",
+    "CardID": "16868"
+  },
+  {
+    "CardName": "Sales Pitch",
+    "CardID": "14885"
+  },
+  {
+    "CardName": "Salvage",
+    "CardID": "5908"
+  },
+  {
+    "CardName": "Salvage Warrior",
+    "CardID": "9474"
+  },
+  {
+    "CardName": "Salvagent Driver",
+    "CardID": "13044"
+  },
+  {
+    "CardName": "Samsara",
+    "CardID": "6618"
+  },
+  {
+    "CardName": "Samsara Dragon",
+    "CardID": "15576"
+  },
+  {
+    "CardName": "Samsara Kaiser",
+    "CardID": "7518"
+  },
+  {
+    "CardName": "Samsara Lotus",
+    "CardID": "7407"
+  },
+  {
+    "CardName": "Samsara, Dragon of Rebirth",
+    "CardID": "11261"
+  },
+  {
+    "CardName": "Samurai Cavalry of Reptier",
+    "CardID": "12098"
+  },
+  {
+    "CardName": "Samurai Destroyer",
+    "CardID": "13360"
+  },
+  {
+    "CardName": "Samurai of the Ice Barrier",
+    "CardID": "8251"
+  },
+  {
+    "CardName": "Samurai Skull",
+    "CardID": "13207"
+  },
+  {
+    "CardName": "Samurai Sword Baron",
+    "CardID": "8737"
+  },
+  {
+    "CardName": "Sanctity of Dragon",
+    "CardID": "13347"
+  },
+  {
+    "CardName": "Sand Gambler",
+    "CardID": "6031"
+  },
+  {
+    "CardName": "Sand Moth",
+    "CardID": "6610"
+  },
+  {
+    "CardName": "Sand Stone",
+    "CardID": "4523"
+  },
+  {
+    "CardName": "Sandaion, the Timelord",
+    "CardID": "13819"
+  },
+  {
+    "CardName": "Sanga of the Thunder",
+    "CardID": "4377"
+  },
+  {
+    "CardName": "Sangan",
+    "CardID": "4054"
+  },
+  {
+    "CardName": "Sanguine Swamp",
+    "CardID": "7650"
+  },
+  {
+    "CardName": "Santa Claws",
+    "CardID": "11002"
+  },
+  {
+    "CardName": "Sanwitch",
+    "CardID": "6128"
+  },
+  {
+    "CardName": "Saqlifice",
+    "CardID": "11393"
+  },
+  {
+    "CardName": "Sargasso Lighthouse",
+    "CardID": "10665"
+  },
+  {
+    "CardName": "Sargasso the D.D. Battlefield",
+    "CardID": "10664"
+  },
+  {
+    "CardName": "Sari of the Silverwing Axe",
+    "CardID": "18171"
+  },
+  {
+    "CardName": "Saryuja Skull Dread",
+    "CardID": "13419"
+  },
+  {
+    "CardName": "Saryuja's Shackles",
+    "CardID": "14532"
+  },
+  {
+    "CardName": "Sasuke Samurai",
+    "CardID": "5412"
+  },
+  {
+    "CardName": "Sasuke Samurai #2",
+    "CardID": "5764"
+  },
+  {
+    "CardName": "Sasuke Samurai #3",
+    "CardID": "5821"
+  },
+  {
+    "CardName": "Sasuke Samurai #4",
+    "CardID": "6185"
+  },
+  {
+    "CardName": "Satellarknight Alsahm",
+    "CardID": "11230"
+  },
+  {
+    "CardName": "Satellarknight Altair",
+    "CardID": "11228"
+  },
+  {
+    "CardName": "Satellarknight Betelgeuse",
+    "CardID": "11361"
+  },
+  {
+    "CardName": "Satellarknight Capella",
+    "CardID": "11544"
+  },
+  {
+    "CardName": "Satellarknight Deneb",
+    "CardID": "11227"
+  },
+  {
+    "CardName": "Satellarknight Procyon",
+    "CardID": "11360"
+  },
+  {
+    "CardName": "Satellarknight Rigel",
+    "CardID": "11545"
+  },
+  {
+    "CardName": "Satellarknight Sirius",
+    "CardID": "11359"
+  },
+  {
+    "CardName": "Satellarknight Skybridge",
+    "CardID": "11267"
+  },
+  {
+    "CardName": "Satellarknight Unukalhai",
+    "CardID": "11231"
+  },
+  {
+    "CardName": "Satellarknight Vega",
+    "CardID": "11229"
+  },
+  {
+    "CardName": "Satellarknight Zefrathuban",
+    "CardID": "11695"
+  },
+  {
+    "CardName": "Satellite Cannon",
+    "CardID": "4780"
+  },
+  {
+    "CardName": "Satellite Synchron",
+    "CardID": "14917"
+  },
+  {
+    "CardName": "Satellite Warrior",
+    "CardID": "14915"
+  },
+  {
+    "CardName": "Sauge de Fleur",
+    "CardID": "16383"
+  },
+  {
+    "CardName": "Sauravis, the Ancient and Ascended",
+    "CardID": "12627"
+  },
+  {
+    "CardName": "Sauropod Brachion",
+    "CardID": "7559"
+  },
+  {
+    "CardName": "Savage Colosseum",
+    "CardID": "8482"
+  },
+  {
+    "CardName": "Scanner",
+    "CardID": "8027"
+  },
+  {
+    "CardName": "Scapeghost",
+    "CardID": "12432"
+  },
+  {
+    "CardName": "Scapegoat",
+    "CardID": "4818"
+  },
+  {
+    "CardName": "Scar of the Vendread",
+    "CardID": "17426"
+  },
+  {
+    "CardName": "Scareclaw Acro",
+    "CardID": "17123"
+  },
+  {
+    "CardName": "Scareclaw Alternative",
+    "CardID": "17186"
+  },
+  {
+    "CardName": "Scareclaw Arrival",
+    "CardID": "17170"
+  },
+  {
+    "CardName": "Scareclaw Astra",
+    "CardID": "17121"
+  },
+  {
+    "CardName": "Scareclaw Belone",
+    "CardID": "17122"
+  },
+  {
+    "CardName": "Scareclaw Decline",
+    "CardID": "17814"
+  },
+  {
+    "CardName": "Scareclaw Defanging",
+    "CardID": "18205"
+  },
+  {
+    "CardName": "Scareclaw Kashtira",
+    "CardID": "18152"
+  },
+  {
+    "CardName": "Scareclaw Light-Heart",
+    "CardID": "17452"
+  },
+  {
+    "CardName": "Scareclaw Reichheart",
+    "CardID": "17124"
+  },
+  {
+    "CardName": "Scareclaw Sclash",
+    "CardID": "17185"
+  },
+  {
+    "CardName": "Scareclaw Straddle",
+    "CardID": "17461"
+  },
+  {
+    "CardName": "Scareclaw Tri-Heart",
+    "CardID": "17160"
+  },
+  {
+    "CardName": "Scareclaw Twinsaw",
+    "CardID": "17830"
+  },
+  {
+    "CardName": "Scarlet Security",
+    "CardID": "9516"
+  }
+]

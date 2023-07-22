@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Spell Wall",
+    "CardID": "10476"
+  },
+  {
+    "CardName": "Spell-Stopping Statute",
+    "CardID": "6365"
+  },
+  {
+    "CardName": "Spellbinding Circle",
+    "CardID": "4355"
+  },
+  {
+    "CardName": "Spellbook Library of the Crescent",
+    "CardID": "10318"
+  },
+  {
+    "CardName": "Spellbook Library of the Heliosphere",
+    "CardID": "10357"
+  },
+  {
+    "CardName": "Spellbook Magician of Prophecy",
+    "CardID": "10145"
+  },
+  {
+    "CardName": "Spellbook of Eternity",
+    "CardID": "10280"
+  },
+  {
+    "CardName": "Spellbook of Fate",
+    "CardID": "10281"
+  },
+  {
+    "CardName": "Spellbook of Judgment",
+    "CardID": "10544"
+  },
+  {
+    "CardName": "Spellbook of Knowledge",
+    "CardID": "13101"
+  },
+  {
+    "CardName": "Spellbook of Life",
+    "CardID": "10189"
+  },
+  {
+    "CardName": "Spellbook of Miracles",
+    "CardID": "10602"
+  },
+  {
+    "CardName": "Spellbook of Power",
+    "CardID": "10188"
+  },
+  {
+    "CardName": "Spellbook of Secrets",
+    "CardID": "10187"
+  },
+  {
+    "CardName": "Spellbook of the Master",
+    "CardID": "10421"
+  },
+  {
+    "CardName": "Spellbook of Wisdom",
+    "CardID": "10190"
+  },
+  {
+    "CardName": "Spellbook Organization (Updated from: Pigeonholing Books of Spell)",
+    "CardID": "5676"
+  },
+  {
+    "CardName": "Spellbook Star Hall",
+    "CardID": "10358"
+  },
+  {
+    "CardName": "Spellbound",
+    "CardID": "18033"
+  },
+  {
+    "CardName": "Spellbreaker of the Ice Barrier",
+    "CardID": "8405"
+  },
+  {
+    "CardName": "Spellstone Sorcerer Karood",
+    "CardID": "9280"
+  },
+  {
+    "CardName": "Sphere Kuriboh",
+    "CardID": "11964"
+  },
+  {
+    "CardName": "Sphere of Chaos",
+    "CardID": "7838"
+  },
+  {
+    "CardName": "Spherous Lady",
+    "CardID": "5086"
+  },
+  {
+    "CardName": "Sphinx Teleia",
+    "CardID": "6088"
+  },
+  {
+    "CardName": "Spider Egg",
+    "CardID": "8503"
+  },
+  {
+    "CardName": "Spider Web",
+    "CardID": "8480"
+  },
+  {
+    "CardName": "Spiders' Lair",
+    "CardID": "8665"
+  },
+  {
+    "CardName": "Spike Seadra",
+    "CardID": "4454"
+  },
+  {
+    "CardName": "Spikebot",
+    "CardID": "4778"
+  },
+  {
+    "CardName": "Spikeshield with Chain",
+    "CardID": "10435"
+  },
+  {
+    "CardName": "Spin Turn",
+    "CardID": "14403"
+  },
+  {
+    "CardName": "Spined Gillman",
+    "CardID": "8186"
+  },
+  {
+    "CardName": "Spiral Discharge",
+    "CardID": "15302"
+  },
+  {
+    "CardName": "Spiral Flame Strike",
+    "CardID": "13006"
+  },
+  {
+    "CardName": "Spiral Fusion",
+    "CardID": "15284"
+  },
+  {
+    "CardName": "Spiral Reborn",
+    "CardID": "15303"
+  },
+  {
+    "CardName": "Spiral Serpent",
+    "CardID": "6962"
+  },
+  {
+    "CardName": "Spiral Spear Strike",
+    "CardID": "6269"
+  },
+  {
+    "CardName": "Spirit Barrier",
+    "CardID": "6142"
+  },
+  {
+    "CardName": "Spirit Burner",
+    "CardID": "8340"
+  },
+  {
+    "CardName": "Spirit Caller",
+    "CardID": "6037"
+  },
+  {
+    "CardName": "Spirit Charmers",
+    "CardID": "15409"
+  },
+  {
+    "CardName": "Spirit Converter",
+    "CardID": "10308"
+  },
+  {
+    "CardName": "Spirit Elimination",
+    "CardID": "5280"
+  },
+  {
+    "CardName": "Spirit Force",
+    "CardID": "8059"
+  },
+  {
+    "CardName": "Spirit Message &quot;A&quot;",
+    "CardID": "5273"
+  },
+  {
+    "CardName": "Spirit Message &quot;I&quot;",
+    "CardID": "5271"
+  },
+  {
+    "CardName": "Spirit Message &quot;L&quot;",
+    "CardID": "5274"
+  },
+  {
+    "CardName": "Spirit Message &quot;N&quot;",
+    "CardID": "5272"
+  },
+  {
+    "CardName": "Spirit of Flames",
+    "CardID": "5252"
+  },
+  {
+    "CardName": "Spirit of the Books",
+    "CardID": "4123"
+  },
+  {
+    "CardName": "Spirit of the Breeze",
+    "CardID": "5200"
+  },
+  {
+    "CardName": "Spirit of the Fall Wind",
+    "CardID": "12311"
+  },
+  {
+    "CardName": "Spirit of the Harp",
+    "CardID": "4176"
+  },
+  {
+    "CardName": "Spirit of the Pharaoh",
+    "CardID": "6024"
+  },
+  {
+    "CardName": "Spirit of the Pot of Greed",
+    "CardID": "5819"
+  },
+  {
+    "CardName": "Spirit of the Six Samurai",
+    "CardID": "7298"
+  },
+  {
+    "CardName": "Spirit Reaper",
+    "CardID": "5526"
+  },
+  {
+    "CardName": "Spirit Ryu",
+    "CardID": "5335"
+  },
+  {
+    "CardName": "Spirit Sculptor",
+    "CardID": "14478"
+  },
+  {
+    "CardName": "Spirit's Invitation",
+    "CardID": "5402"
+  },
+  {
+    "CardName": "Spiritual Beast Apelio",
+    "CardID": "11495"
+  },
+  {
+    "CardName": "Spiritual Beast Cannahawk",
+    "CardID": "11497"
+  },
+  {
+    "CardName": "Spiritual Beast Pettlephin",
+    "CardID": "11496"
+  },
+  {
+    "CardName": "Spiritual Beast Rampengu",
+    "CardID": "11549"
+  },
+  {
+    "CardName": "Spiritual Beast Tamer Winda",
+    "CardID": "12761"
+  },
+  {
+    "CardName": "Spiritual Earth Art - Kurogane",
+    "CardID": "6439"
+  },
+  {
+    "CardName": "Spiritual Energy Settle Machine",
+    "CardID": "5390"
+  },
+  {
+    "CardName": "Spiritual Entanglement",
+    "CardID": "14692"
+  },
+  {
+    "CardName": "Spiritual Fire Art - Kurenai",
+    "CardID": "6441"
+  },
+  {
+    "CardName": "Spiritual Forest",
+    "CardID": "8494"
+  },
+  {
+    "CardName": "Spiritual Light Art - Hijiri",
+    "CardID": "10100"
+  },
+  {
+    "CardName": "Spiritual Swords of Revealing Light",
+    "CardID": "12514"
+  },
+  {
+    "CardName": "Spiritual Water Art - Aoi",
+    "CardID": "6440"
+  },
+  {
+    "CardName": "Spiritual Whisper",
+    "CardID": "11434"
+  },
+  {
+    "CardName": "Spiritual Wind Art - Miyabi",
+    "CardID": "6442"
+  },
+  {
+    "CardName": "Spiritualism",
+    "CardID": "5246"
+  },
+  {
+    "CardName": "Splash Capture",
+    "CardID": "9941"
+  },
+  {
+    "CardName": "Splash Mage",
+    "CardID": "15034"
+  },
+  {
+    "CardName": "Splendid Rose",
+    "CardID": "8818"
+  },
+  {
+    "CardName": "Splendid Venus",
+    "CardID": "7347"
+  },
+  {
+    "CardName": "Spool Code",
+    "CardID": "13875"
+  },
+  {
+    "CardName": "Spore",
+    "CardID": "8795"
+  },
+  {
+    "CardName": "Spright Blue",
+    "CardID": "17405"
+  },
+  {
+    "CardName": "Spright Carrot",
+    "CardID": "17409"
+  },
+  {
+    "CardName": "Spright Double Cross",
+    "CardID": "17829"
+  },
+  {
+    "CardName": "Spright Elf",
+    "CardID": "17451"
+  },
+  {
+    "CardName": "Spright Gamma Burst",
+    "CardID": "17458"
+  },
+  {
+    "CardName": "Spright Jet",
+    "CardID": "17406"
+  },
+  {
+    "CardName": "Spright Pixies",
+    "CardID": "17407"
+  },
+  {
+    "CardName": "Spright Red",
+    "CardID": "17408"
+  },
+  {
+    "CardName": "Spright Smashers",
+    "CardID": "17459"
+  },
+  {
+    "CardName": "Spright Sprind",
+    "CardID": "17803"
+  },
+  {
+    "CardName": "Spright Starter",
+    "CardID": "17457"
+  },
+  {
+    "CardName": "Sprind the Irondash Dragon",
+    "CardID": "15729"
+  },
+  {
+    "CardName": "Spring of Rebirth",
+    "CardID": "5164"
+  },
+  {
+    "CardName": "Springans Blast!",
+    "CardID": "15760"
+  },
+  {
+    "CardName": "Springans Booty",
+    "CardID": "16015"
+  },
+  {
+    "CardName": "Springans Branga",
+    "CardID": "15699"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Mighty Warrior",
+    "CardID": "8775"
+  },
+  {
+    "CardName": "Mikanko Dance - Mayowashidori",
+    "CardID": "18525"
+  },
+  {
+    "CardName": "Mikanko Fire Dance",
+    "CardID": "18020"
+  },
+  {
+    "CardName": "Mikanko Kagura",
+    "CardID": "18024"
+  },
+  {
+    "CardName": "Mikanko Promise",
+    "CardID": "18025"
+  },
+  {
+    "CardName": "Mikanko Purification Dance",
+    "CardID": "18021"
+  },
+  {
+    "CardName": "Mikanko Reflection Rondo",
+    "CardID": "18023"
+  },
+  {
+    "CardName": "Mikanko Rivalry",
+    "CardID": "18026"
+  },
+  {
+    "CardName": "Mikanko Water Arabesque",
+    "CardID": "18022"
+  },
+  {
+    "CardName": "Mikazukinoyaiba",
+    "CardID": "4717"
+  },
+  {
+    "CardName": "Mild Turkey",
+    "CardID": "12393"
+  },
+  {
+    "CardName": "Milla the Temporal Magician",
+    "CardID": "9655"
+  },
+  {
+    "CardName": "Millennium Golem",
+    "CardID": "4459"
+  },
+  {
+    "CardName": "Millennium Revelation",
+    "CardID": "15335"
+  },
+  {
+    "CardName": "Millennium Scorpion",
+    "CardID": "6318"
+  },
+  {
+    "CardName": "Millennium Seeker",
+    "CardID": "15841"
+  },
+  {
+    "CardName": "Millennium Shield",
+    "CardID": "4368"
+  },
+  {
+    "CardName": "Millennium-Eyes Illusionist",
+    "CardID": "13464"
+  },
+  {
+    "CardName": "Millennium-Eyes Restrict",
+    "CardID": "13466"
+  },
+  {
+    "CardName": "Milus Radiant",
+    "CardID": "4533"
+  },
+  {
+    "CardName": "Mimesis Elephant",
+    "CardID": "17749"
+  },
+  {
+    "CardName": "Mimicat",
+    "CardID": "4800"
+  },
+  {
+    "CardName": "Mimicking Man-Eater Bug",
+    "CardID": "16515"
+  },
+  {
+    "CardName": "Mimiclay",
+    "CardID": "11388"
+  },
+  {
+    "CardName": "Mimikuril",
+    "CardID": "14658"
+  },
+  {
+    "CardName": "Mimimic",
+    "CardID": "10484"
+  },
+  {
+    "CardName": "Mimir of the Nordic Ascendant",
+    "CardID": "9309"
+  },
+  {
+    "CardName": "Minairuka",
+    "CardID": "18450"
+  },
+  {
+    "CardName": "Minar",
+    "CardID": "4540"
+  },
+  {
+    "CardName": "Mind Control",
+    "CardID": "4817"
+  },
+  {
+    "CardName": "Mind Crush",
+    "CardID": "6147"
+  },
+  {
+    "CardName": "Mind Drain",
+    "CardID": "10560"
+  },
+  {
+    "CardName": "Mind Haxorz",
+    "CardID": "6221"
+  },
+  {
+    "CardName": "Mind Master",
+    "CardID": "7714"
+  },
+  {
+    "CardName": "Mind on Air",
+    "CardID": "6119"
+  },
+  {
+    "CardName": "Mind Over Matter",
+    "CardID": "7762"
+  },
+  {
+    "CardName": "Mind Pollutant",
+    "CardID": "10286"
+  },
+  {
+    "CardName": "Mind Protector",
+    "CardID": "7717"
+  },
+  {
+    "CardName": "Mind Trust",
+    "CardID": "8198"
+  },
+  {
+    "CardName": "Mind Wipe",
+    "CardID": "6131"
+  },
+  {
+    "CardName": "Mine Golem",
+    "CardID": "6327"
+  },
+  {
+    "CardName": "Mine Mole",
+    "CardID": "8945"
+  },
+  {
+    "CardName": "Minefield Eruption",
+    "CardID": "6358"
+  },
+  {
+    "CardName": "Minefieldriller",
+    "CardID": "8325"
+  },
+  {
+    "CardName": "Minerva, Lightsworn Maiden",
+    "CardID": "10885"
+  },
+  {
+    "CardName": "Minerva, Scholar of the Sky",
+    "CardID": "13351"
+  },
+  {
+    "CardName": "Minerva, the Exalted Lightsworn",
+    "CardID": "11867"
+  },
+  {
+    "CardName": "Mini-Guts",
+    "CardID": "10075"
+  },
+  {
+    "CardName": "Miniaturize",
+    "CardID": "7695"
+  },
+  {
+    "CardName": "Miniborrel Dragon",
+    "CardID": "13756"
+  },
+  {
+    "CardName": "Minoan Centaur",
+    "CardID": "8180"
+  },
+  {
+    "CardName": "Minor Goblin Official",
+    "CardID": "4949"
+  },
+  {
+    "CardName": "Mira the Star-Bearer",
+    "CardID": "9836"
+  },
+  {
+    "CardName": "Miracle Contact",
+    "CardID": "10213"
+  },
+  {
+    "CardName": "Miracle Dig",
+    "CardID": "5278"
+  },
+  {
+    "CardName": "Miracle Fertilizer",
+    "CardID": "7671"
+  },
+  {
+    "CardName": "Miracle Flipper",
+    "CardID": "7576"
+  },
+  {
+    "CardName": "Miracle Fusion",
+    "CardID": "6432"
+  },
+  {
+    "CardName": "Miracle Jurassic Egg",
+    "CardID": "6797"
+  },
+  {
+    "CardName": "Miracle Kids",
+    "CardID": "6580"
+  },
+  {
+    "CardName": "Miracle Locus",
+    "CardID": "8215"
+  },
+  {
+    "CardName": "Miracle Restoring",
+    "CardID": "5681"
+  },
+  {
+    "CardName": "Miracle Rupture",
+    "CardID": "15372"
+  },
+  {
+    "CardName": "Miracle Stone",
+    "CardID": "14557"
+  },
+  {
+    "CardName": "Miracle Synchro Fusion",
+    "CardID": "8988"
+  },
+  {
+    "CardName": "Miracle's Wake",
+    "CardID": "8608"
+  },
+  {
+    "CardName": "Miraculous Descent",
+    "CardID": "6710"
+  },
+  {
+    "CardName": "Miraculous Rebirth",
+    "CardID": "6905"
+  },
+  {
+    "CardName": "Mirage Dragon",
+    "CardID": "6196"
+  },
+  {
+    "CardName": "Mirage Knight",
+    "CardID": "5699"
+  },
+  {
+    "CardName": "Mirage of Nightmare",
+    "CardID": "5433"
+  },
+  {
+    "CardName": "Mirage Tube",
+    "CardID": "7448"
+  },
+  {
+    "CardName": "Mirror Force",
+    "CardID": "4887"
+  },
+  {
+    "CardName": "Mirror Force Dragon",
+    "CardID": "11884"
+  },
+  {
+    "CardName": "Mirror Force Launcher",
+    "CardID": "13785"
+  },
+  {
+    "CardName": "Mirror Gate",
+    "CardID": "7170"
+  },
+  {
+    "CardName": "Mirror Ladybug",
+    "CardID": "9079"
+  },
+  {
+    "CardName": "Mirror Mail",
+    "CardID": "9785"
+  },
+  {
+    "CardName": "Mirror of Oaths",
+    "CardID": "8232"
+  },
+  {
+    "CardName": "Mirror of the Ice Barrier",
+    "CardID": "9132"
+  },
+  {
+    "CardName": "Mirror of Yata",
+    "CardID": "7682"
+  },
+  {
+    "CardName": "Mirror Resonator",
+    "CardID": "12064"
+  },
+  {
+    "CardName": "Mirror Wall",
+    "CardID": "4993"
+  },
+  {
+    "CardName": "Mirrorjade the Iceblade Dragon",
+    "CardID": "17069"
+  },
+  {
+    "CardName": "Misairuzame",
+    "CardID": "4548"
+  },
+  {
+    "CardName": "Miscellaneousaurus",
+    "CardID": "12763"
+  },
+  {
+    "CardName": "Mischief of the Gnomes",
+    "CardID": "11631"
+  },
+  {
+    "CardName": "Mischief of the Time Goddess",
+    "CardID": "13998"
+  },
+  {
+    "CardName": "Mischief of the Yokai",
+    "CardID": "9286"
+  },
+  {
+    "CardName": "Misfortune",
+    "CardID": "6669"
+  },
+  {
+    "CardName": "MiSolfachord Eliteia",
+    "CardID": "16086"
+  },
+  {
+    "CardName": "Mispolymerization",
+    "CardID": "6360"
+  },
+  {
+    "CardName": "Missing Force",
+    "CardID": "10260"
+  },
+  {
+    "CardName": "Missus Radiant",
+    "CardID": "13091"
+  },
+  {
+    "CardName": "Mist Archfiend",
+    "CardID": "7149"
+  },
+  {
+    "CardName": "Mist Bird Clausolas",
+    "CardID": "10646"
+  },
+  {
+    "CardName": "Mist Body",
+    "CardID": "6546"
+  },
+  {
+    "CardName": "Mist Condor",
+    "CardID": "7816"
+  },
+  {
+    "CardName": "Mist Valley Apex Avian",
+    "CardID": "8110"
+  },
+  {
+    "CardName": "Mist Valley Baby Roc",
+    "CardID": "7956"
+  }
+]

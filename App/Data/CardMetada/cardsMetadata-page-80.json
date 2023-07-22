@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Performapal Longphone Bull",
+    "CardID": "12376"
+  },
+  {
+    "CardName": "Performapal Miss Director",
+    "CardID": "14737"
+  },
+  {
+    "CardName": "Performapal Momoncarpet",
+    "CardID": "12374"
+  },
+  {
+    "CardName": "Performapal Monkeyboard",
+    "CardID": "12111"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Butler",
+    "CardID": "17109"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Dissolver",
+    "CardID": "13128"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Light Phoenix",
+    "CardID": "12275"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Metal Claw",
+    "CardID": "12698"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Minitaurus",
+    "CardID": "13127"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Seer",
+    "CardID": "17647"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Synchron",
+    "CardID": "13129"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Unicorn",
+    "CardID": "12276"
+  },
+  {
+    "CardName": "Performapal Odd-Eyes Valet",
+    "CardID": "17110"
+  },
+  {
+    "CardName": "Performapal Parrotrio",
+    "CardID": "12375"
+  },
+  {
+    "CardName": "Performapal Partnaga",
+    "CardID": "11522"
+  },
+  {
+    "CardName": "Performapal Pendulum Sorcerer",
+    "CardID": "11615"
+  },
+  {
+    "CardName": "Performapal Pinch Helper",
+    "CardID": "11741"
+  },
+  {
+    "CardName": "Performapal Popperup",
+    "CardID": "14927"
+  },
+  {
+    "CardName": "Performapal Radish Horse",
+    "CardID": "12406"
+  },
+  {
+    "CardName": "Performapal Rain Goat",
+    "CardID": "12114"
+  },
+  {
+    "CardName": "Performapal Recasting",
+    "CardID": "11727"
+  },
+  {
+    "CardName": "Performapal Revival",
+    "CardID": "11402"
+  },
+  {
+    "CardName": "Performapal Revue Dancer",
+    "CardID": "12917"
+  },
+  {
+    "CardName": "Performapal Salutiger",
+    "CardID": "11331"
+  },
+  {
+    "CardName": "Performapal Seal Eel",
+    "CardID": "12594"
+  },
+  {
+    "CardName": "Performapal Secondonkey",
+    "CardID": "11945"
+  },
+  {
+    "CardName": "Performapal Sellshell Crab",
+    "CardID": "12274"
+  },
+  {
+    "CardName": "Performapal Show Down",
+    "CardID": "12379"
+  },
+  {
+    "CardName": "Performapal Silver Claw",
+    "CardID": "11301"
+  },
+  {
+    "CardName": "Performapal Skeeter Skimmer",
+    "CardID": "11214"
+  },
+  {
+    "CardName": "Performapal Skullcrobat Joker",
+    "CardID": "11938"
+  },
+  {
+    "CardName": "Performapal Sky Magician",
+    "CardID": "12915"
+  },
+  {
+    "CardName": "Performapal Sky Pupil",
+    "CardID": "12916"
+  },
+  {
+    "CardName": "Performapal Sleight Hand Magician",
+    "CardID": "12371"
+  },
+  {
+    "CardName": "Performapal Smile Sorcerer",
+    "CardID": "14224"
+  },
+  {
+    "CardName": "Performapal Spikeagle",
+    "CardID": "11524"
+  },
+  {
+    "CardName": "Performapal Splashmammoth",
+    "CardID": "11946"
+  },
+  {
+    "CardName": "Performapal Springoose",
+    "CardID": "11680"
+  },
+  {
+    "CardName": "Performapal Stamp Turtle",
+    "CardID": "11525"
+  },
+  {
+    "CardName": "Performapal Swincobra",
+    "CardID": "12373"
+  },
+  {
+    "CardName": "Performapal Sword Fish",
+    "CardID": "11216"
+  },
+  {
+    "CardName": "Performapal Teeter Totter Hopper",
+    "CardID": "12377"
+  },
+  {
+    "CardName": "Performapal Thunderhino",
+    "CardID": "11332"
+  },
+  {
+    "CardName": "Performapal Trampolynx",
+    "CardID": "11334"
+  },
+  {
+    "CardName": "Performapal Trump Girl",
+    "CardID": "12115"
+  },
+  {
+    "CardName": "Performapal Trump Witch",
+    "CardID": "11526"
+  },
+  {
+    "CardName": "Performapal Trumpanda",
+    "CardID": "12030"
+  },
+  {
+    "CardName": "Performapal Turn Toad",
+    "CardID": "11219"
+  },
+  {
+    "CardName": "Performapal Turn Trooper",
+    "CardID": "14447"
+  },
+  {
+    "CardName": "Performapal U Go Golem",
+    "CardID": "12918"
+  },
+  {
+    "CardName": "Performapal Uni",
+    "CardID": "12530"
+  },
+  {
+    "CardName": "Performapal Whim Witch",
+    "CardID": "12592"
+  },
+  {
+    "CardName": "Performapal Whip Snake",
+    "CardID": "11215"
+  },
+  {
+    "CardName": "Periallis, Empress of Blossoms",
+    "CardID": "15565"
+  },
+  {
+    "CardName": "Peropero Cerperus",
+    "CardID": "11645"
+  },
+  {
+    "CardName": "Personal Spoofing",
+    "CardID": "13288"
+  },
+  {
+    "CardName": "Pestilence",
+    "CardID": "8989"
+  },
+  {
+    "CardName": "Peten the Dark Clown",
+    "CardID": "6085"
+  },
+  {
+    "CardName": "Petit Angel",
+    "CardID": "4214"
+  },
+  {
+    "CardName": "Petit Dragon",
+    "CardID": "4206"
+  },
+  {
+    "CardName": "Petit Moth",
+    "CardID": "4284"
+  },
+  {
+    "CardName": "Petiteranodon",
+    "CardID": "13009"
+  },
+  {
+    "CardName": "Phalanx Pike",
+    "CardID": "7222"
+  },
+  {
+    "CardName": "Phantasm Emperor Trilojig",
+    "CardID": "14345"
+  },
+  {
+    "CardName": "Phantasm Spiral Assault",
+    "CardID": "12988"
+  },
+  {
+    "CardName": "Phantasm Spiral Battle",
+    "CardID": "12986"
+  },
+  {
+    "CardName": "Phantasm Spiral Crash",
+    "CardID": "12971"
+  },
+  {
+    "CardName": "Phantasm Spiral Dragon",
+    "CardID": "12942"
+  },
+  {
+    "CardName": "Phantasm Spiral Grip",
+    "CardID": "12972"
+  },
+  {
+    "CardName": "Phantasm Spiral Power",
+    "CardID": "12987"
+  },
+  {
+    "CardName": "Phantasm Spiral Wave",
+    "CardID": "12973"
+  },
+  {
+    "CardName": "Phantasmal Lord Ultimitl Bishbaalkin",
+    "CardID": "12258"
+  },
+  {
+    "CardName": "Phantasmal Martyrs",
+    "CardID": "6575"
+  },
+  {
+    "CardName": "Phantasos, the Dream Mirror Foe",
+    "CardID": "14897"
+  },
+  {
+    "CardName": "Phantasos, the Dream Mirror Friend",
+    "CardID": "14896"
+  },
+  {
+    "CardName": "Phantom Beast Cross-Wing",
+    "CardID": "6954"
+  },
+  {
+    "CardName": "Phantom Beast Rock-Lizard",
+    "CardID": "6957"
+  },
+  {
+    "CardName": "Phantom Beast Thunder-Pegasus",
+    "CardID": "6956"
+  },
+  {
+    "CardName": "Phantom Beast Wild-Horn",
+    "CardID": "6955"
+  },
+  {
+    "CardName": "Phantom Bounzer",
+    "CardID": "10034"
+  },
+  {
+    "CardName": "Phantom Cricket",
+    "CardID": "7207"
+  },
+  {
+    "CardName": "Phantom Dragon",
+    "CardID": "7614"
+  },
+  {
+    "CardName": "Phantom Dragonray Bronto",
+    "CardID": "7339"
+  },
+  {
+    "CardName": "Phantom Fortress Enterblathnir",
+    "CardID": "11082"
+  },
+  {
+    "CardName": "Phantom Gryphon",
+    "CardID": "11676"
+  },
+  {
+    "CardName": "Phantom Hand",
+    "CardID": "8847"
+  },
+  {
+    "CardName": "Phantom King Hydride",
+    "CardID": "9717"
+  },
+  {
+    "CardName": "Phantom Knights' Fog Blade",
+    "CardID": "12205"
+  },
+  {
+    "CardName": "Phantom Knights' Rank-Up-Magic Force",
+    "CardID": "15530"
+  },
+  {
+    "CardName": "Phantom Knights' Spear",
+    "CardID": "12204"
+  },
+  {
+    "CardName": "Phantom Knights' Sword",
+    "CardID": "12206"
+  },
+  {
+    "CardName": "Phantom Knights' Wing",
+    "CardID": "12207"
+  },
+  {
+    "CardName": "Phantom Magician",
+    "CardID": "9057"
+  },
+  {
+    "CardName": "Phantom of Chaos",
+    "CardID": "7351"
+  },
+  {
+    "CardName": "Phantom Skyblaster",
+    "CardID": "7384"
+  },
+  {
+    "CardName": "Pharaoh's Servant",
+    "CardID": "6022"
+  },
+  {
+    "CardName": "Pharaoh's Treasure",
+    "CardID": "5449"
+  },
+  {
+    "CardName": "Pharaonic Advent",
+    "CardID": "17726"
+  },
+  {
+    "CardName": "Pharaonic Guardian Sphinx",
+    "CardID": "15985"
+  },
+  {
+    "CardName": "Pharaonic Protector",
+    "CardID": "6023"
+  }
+]

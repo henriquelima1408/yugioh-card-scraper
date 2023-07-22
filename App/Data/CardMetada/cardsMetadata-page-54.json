@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Induced Explosion",
+    "CardID": "12492"
+  },
+  {
+    "CardName": "Indulged Darklord",
+    "CardID": "15258"
+  },
+  {
+    "CardName": "Infected Mail",
+    "CardID": "9668"
+  },
+  {
+    "CardName": "Infernal Dragon",
+    "CardID": "6944"
+  },
+  {
+    "CardName": "Infernal Flame Emperor",
+    "CardID": "6368"
+  },
+  {
+    "CardName": "Infernal Flame Vixen",
+    "CardID": "10475"
+  },
+  {
+    "CardName": "Infernal Incinerator",
+    "CardID": "6476"
+  },
+  {
+    "CardName": "Infernalqueen Archfiend",
+    "CardID": "5776"
+  },
+  {
+    "CardName": "Infernalqueen Salmon",
+    "CardID": "17786"
+  },
+  {
+    "CardName": "Infernity Archer",
+    "CardID": "9859"
+  },
+  {
+    "CardName": "Infernity Archfiend",
+    "CardID": "8272"
+  },
+  {
+    "CardName": "Infernity Avenger",
+    "CardID": "8791"
+  },
+  {
+    "CardName": "Infernity Barrier",
+    "CardID": "9036"
+  },
+  {
+    "CardName": "Infernity Beast",
+    "CardID": "8303"
+  },
+  {
+    "CardName": "Infernity Beetle",
+    "CardID": "8790"
+  },
+  {
+    "CardName": "Infernity Break",
+    "CardID": "8844"
+  },
+  {
+    "CardName": "Infernity Conjurer",
+    "CardID": "15495"
+  },
+  {
+    "CardName": "Infernity Destroyer",
+    "CardID": "8275"
+  },
+  {
+    "CardName": "Infernity Doom Archfiend",
+    "CardID": "15516"
+  },
+  {
+    "CardName": "Infernity Doom Dragon",
+    "CardID": "8817"
+  },
+  {
+    "CardName": "Infernity Dwarf",
+    "CardID": "8273"
+  },
+  {
+    "CardName": "Infernity Force",
+    "CardID": "8508"
+  },
+  {
+    "CardName": "Infernity General",
+    "CardID": "9862"
+  },
+  {
+    "CardName": "Infernity Guardian",
+    "CardID": "8274"
+  },
+  {
+    "CardName": "Infernity Inferno",
+    "CardID": "8846"
+  },
+  {
+    "CardName": "Infernity Knight",
+    "CardID": "9710"
+  },
+  {
+    "CardName": "Infernity Launcher",
+    "CardID": "8823"
+  },
+  {
+    "CardName": "Infernity Mirage",
+    "CardID": "8788"
+  },
+  {
+    "CardName": "Infernity Necromancer",
+    "CardID": "8443"
+  },
+  {
+    "CardName": "Infernity Paranoia",
+    "CardID": "15539"
+  },
+  {
+    "CardName": "Infernity Patriarch",
+    "CardID": "11923"
+  },
+  {
+    "CardName": "Infernity Pawn",
+    "CardID": "15885"
+  },
+  {
+    "CardName": "Infernity Randomizer",
+    "CardID": "8789"
+  },
+  {
+    "CardName": "Infernity Reflector",
+    "CardID": "8843"
+  },
+  {
+    "CardName": "Infernity Sage",
+    "CardID": "15884"
+  },
+  {
+    "CardName": "Infernity Suppression",
+    "CardID": "15554"
+  },
+  {
+    "CardName": "Infernity Wildcat",
+    "CardID": "15496"
+  },
+  {
+    "CardName": "Inferno",
+    "CardID": "5829"
+  },
+  {
+    "CardName": "Inferno Fire Blast",
+    "CardID": "6134"
+  },
+  {
+    "CardName": "Inferno Hammer",
+    "CardID": "5930"
+  },
+  {
+    "CardName": "Inferno Reckless Summon",
+    "CardID": "6542"
+  },
+  {
+    "CardName": "Inferno Tempest",
+    "CardID": "6090"
+  },
+  {
+    "CardName": "Infernoble Knight - Renaud",
+    "CardID": "15082"
+  },
+  {
+    "CardName": "Infernoble Knight - Roland",
+    "CardID": "14803"
+  },
+  {
+    "CardName": "Infernoble Knight Astolfo",
+    "CardID": "15246"
+  },
+  {
+    "CardName": "Infernoble Knight Captain Oliver",
+    "CardID": "15517"
+  },
+  {
+    "CardName": "Infernoble Knight Captain Roland",
+    "CardID": "15275"
+  },
+  {
+    "CardName": "Infernoble Knight Emperor Charles",
+    "CardID": "15276"
+  },
+  {
+    "CardName": "Infernoble Knight Maugis",
+    "CardID": "15249"
+  },
+  {
+    "CardName": "Infernoble Knight Ogier",
+    "CardID": "15247"
+  },
+  {
+    "CardName": "Infernoble Knight Oliver",
+    "CardID": "15248"
+  },
+  {
+    "CardName": "Infernoid Antra",
+    "CardID": "11533"
+  },
+  {
+    "CardName": "Infernoid Attondel",
+    "CardID": "11538"
+  },
+  {
+    "CardName": "Infernoid Decatron",
+    "CardID": "11823"
+  },
+  {
+    "CardName": "Infernoid Devyaty",
+    "CardID": "11707"
+  },
+  {
+    "CardName": "Infernoid Harmadik",
+    "CardID": "11534"
+  },
+  {
+    "CardName": "Infernoid Onuncu",
+    "CardID": "11539"
+  },
+  {
+    "CardName": "Infernoid Patrulea",
+    "CardID": "11535"
+  },
+  {
+    "CardName": "Infernoid Piaty",
+    "CardID": "11536"
+  },
+  {
+    "CardName": "Infernoid Pirmais",
+    "CardID": "11705"
+  },
+  {
+    "CardName": "Infernoid Seitsemas",
+    "CardID": "11537"
+  },
+  {
+    "CardName": "Infernoid Sjette",
+    "CardID": "11706"
+  },
+  {
+    "CardName": "Infernoid Tierra",
+    "CardID": "11833"
+  },
+  {
+    "CardName": "Infestation Infection",
+    "CardID": "9832"
+  },
+  {
+    "CardName": "Infestation Pandemic",
+    "CardID": "10010"
+  },
+  {
+    "CardName": "Infestation Ripples",
+    "CardID": "9400"
+  },
+  {
+    "CardName": "Infestation Terminus",
+    "CardID": "10012"
+  },
+  {
+    "CardName": "Infestation Tool",
+    "CardID": "9401"
+  },
+  {
+    "CardName": "Infestation Wave",
+    "CardID": "9187"
+  },
+  {
+    "CardName": "Infinite Antlion",
+    "CardID": "18160"
+  },
+  {
+    "CardName": "Infinite Cards",
+    "CardID": "5121"
+  },
+  {
+    "CardName": "Infinite Dismissal",
+    "CardID": "5112"
+  },
+  {
+    "CardName": "Infinite Impermanence",
+    "CardID": "13631"
+  },
+  {
+    "CardName": "Infinite Light",
+    "CardID": "13822"
+  },
+  {
+    "CardName": "Infinite Machine",
+    "CardID": "13821"
+  },
+  {
+    "CardName": "Infinitrack Anchor Drill",
+    "CardID": "14392"
+  },
+  {
+    "CardName": "Infinitrack Brutal Dozer",
+    "CardID": "14649"
+  },
+  {
+    "CardName": "Infinitrack Crab Crane",
+    "CardID": "14393"
+  },
+  {
+    "CardName": "Infinitrack Drag Shovel",
+    "CardID": "14394"
+  },
+  {
+    "CardName": "Infinitrack Earth Slicer",
+    "CardID": "14399"
+  },
+  {
+    "CardName": "Infinitrack Fortress Megaclops",
+    "CardID": "14401"
+  },
+  {
+    "CardName": "Infinitrack Goliath",
+    "CardID": "14400"
+  },
+  {
+    "CardName": "Infinitrack Harvester",
+    "CardID": "14391"
+  },
+  {
+    "CardName": "Infinitrack Mountain Smasher",
+    "CardID": "14398"
+  },
+  {
+    "CardName": "Infinitrack River Stormer",
+    "CardID": "14397"
+  },
+  {
+    "CardName": "Infinitrack Road Roller",
+    "CardID": "18485"
+  },
+  {
+    "CardName": "Infinitrack Trencher",
+    "CardID": "14395"
+  },
+  {
+    "CardName": "Infinitrack Tunneller",
+    "CardID": "14396"
+  },
+  {
+    "CardName": "Infinity Dark",
+    "CardID": "7292"
+  },
+  {
+    "CardName": "Influence Dragon",
+    "CardID": "9800"
+  },
+  {
+    "CardName": "Informer Spider",
+    "CardID": "8635"
+  },
+  {
+    "CardName": "Inherited Fortune",
+    "CardID": "8502"
+  },
+  {
+    "CardName": "Injection Fairy Lily",
+    "CardID": "5031"
+  },
+  {
+    "CardName": "Inmato",
+    "CardID": "8026"
+  },
+  {
+    "CardName": "Inpachi",
+    "CardID": "5508"
+  },
+  {
+    "CardName": "Insect Armor with Laser Cannon",
+    "CardID": "4312"
+  },
+  {
+    "CardName": "Insect Barrier",
+    "CardID": "4832"
+  },
+  {
+    "CardName": "Insect Imitation",
+    "CardID": "5131"
+  },
+  {
+    "CardName": "Insect Knight",
+    "CardID": "6235"
+  },
+  {
+    "CardName": "Insect Neglect",
+    "CardID": "8496"
+  }
+]

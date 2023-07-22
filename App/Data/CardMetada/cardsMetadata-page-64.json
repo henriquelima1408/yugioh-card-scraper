@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Magical Musketeer Caspar",
+    "CardID": "13315"
+  },
+  {
+    "CardName": "Magical Musketeer Doc",
+    "CardID": "13316"
+  },
+  {
+    "CardName": "Magical Musketeer Kidbrave",
+    "CardID": "13317"
+  },
+  {
+    "CardName": "Magical Musketeer Max",
+    "CardID": "14209"
+  },
+  {
+    "CardName": "Magical Musketeer Starfire",
+    "CardID": "13318"
+  },
+  {
+    "CardName": "Magical Musketeer Wild",
+    "CardID": "13320"
+  },
+  {
+    "CardName": "Magical Plant Mandragola",
+    "CardID": "5656"
+  },
+  {
+    "CardName": "Magical Reflect Slime",
+    "CardID": "7293"
+  },
+  {
+    "CardName": "Magical Scientist",
+    "CardID": "5657"
+  },
+  {
+    "CardName": "Magical Something",
+    "CardID": "12682"
+  },
+  {
+    "CardName": "Magical Spring",
+    "CardID": "11274"
+  },
+  {
+    "CardName": "Magical Star Illusion",
+    "CardID": "11390"
+  },
+  {
+    "CardName": "Magical Stone Excavation",
+    "CardID": "5688"
+  },
+  {
+    "CardName": "Magical Thorn",
+    "CardID": "4870"
+  },
+  {
+    "CardName": "Magical Undertaker",
+    "CardID": "10565"
+  },
+  {
+    "CardName": "Magicalibra",
+    "CardID": "14485"
+  },
+  {
+    "CardName": "Magicalized Duston Mop",
+    "CardID": "10800"
+  },
+  {
+    "CardName": "Magicalized Fusion",
+    "CardID": "13691"
+  },
+  {
+    "CardName": "Magicat",
+    "CardID": "8322"
+  },
+  {
+    "CardName": "Magician Navigation",
+    "CardID": "12470"
+  },
+  {
+    "CardName": "Magician of Black Chaos",
+    "CardID": "4728"
+  },
+  {
+    "CardName": "Magician of Black Chaos MAX",
+    "CardID": "14366"
+  },
+  {
+    "CardName": "Magician of Chaos",
+    "CardID": "14213"
+  },
+  {
+    "CardName": "Magician of Dark Illusion",
+    "CardID": "12416"
+  },
+  {
+    "CardName": "Magician of Faith",
+    "CardID": "4434"
+  },
+  {
+    "CardName": "Magician of Hope",
+    "CardID": "13840"
+  },
+  {
+    "CardName": "Magician's Circle",
+    "CardID": "6168"
+  },
+  {
+    "CardName": "Magician's Left Hand",
+    "CardID": "12964"
+  },
+  {
+    "CardName": "Magician's Restage",
+    "CardID": "12965"
+  },
+  {
+    "CardName": "Magician's Right Hand",
+    "CardID": "12963"
+  },
+  {
+    "CardName": "Magician's Robe",
+    "CardID": "12417"
+  },
+  {
+    "CardName": "Magician's Rod",
+    "CardID": "12418"
+  },
+  {
+    "CardName": "Magician's Salvation",
+    "CardID": "16654"
+  },
+  {
+    "CardName": "Magician's Valkyria",
+    "CardID": "5869"
+  },
+  {
+    "CardName": "Magicians Unite",
+    "CardID": "6169"
+  },
+  {
+    "CardName": "Magicians' Combination",
+    "CardID": "14909"
+  },
+  {
+    "CardName": "Magicians' Defense",
+    "CardID": "12511"
+  },
+  {
+    "CardName": "Magicians' Souls",
+    "CardID": "14906"
+  },
+  {
+    "CardName": "Magicore Warrior of the Relics",
+    "CardID": "16750"
+  },
+  {
+    "CardName": "Magidog",
+    "CardID": "8799"
+  },
+  {
+    "CardName": "Magikey Battle",
+    "CardID": "16548"
+  },
+  {
+    "CardName": "Magikey Beast - Ansyalabolas",
+    "CardID": "16225"
+  },
+  {
+    "CardName": "Magikey Dragon - Andrabime",
+    "CardID": "16226"
+  },
+  {
+    "CardName": "Magikey Duo",
+    "CardID": "16261"
+  },
+  {
+    "CardName": "Magikey Fiend - Transfurlmine",
+    "CardID": "16530"
+  },
+  {
+    "CardName": "Magikey Locking",
+    "CardID": "16563"
+  },
+  {
+    "CardName": "Magikey Maftea",
+    "CardID": "16245"
+  },
+  {
+    "CardName": "Magikey Mechmortar - Garesglasser",
+    "CardID": "16222"
+  },
+  {
+    "CardName": "Magikey Mechmusket - Batosbuster",
+    "CardID": "16221"
+  },
+  {
+    "CardName": "Magikey Spirit - Vepartu",
+    "CardID": "16533"
+  },
+  {
+    "CardName": "Magikey Unlocking",
+    "CardID": "16262"
+  },
+  {
+    "CardName": "Magikey World",
+    "CardID": "16246"
+  },
+  {
+    "CardName": "Magikuriboh",
+    "CardID": "16806"
+  },
+  {
+    "CardName": "Maginificent Magikey Mafteal",
+    "CardID": "16507"
+  },
+  {
+    "CardName": "Magister of Endymion",
+    "CardID": "14441"
+  },
+  {
+    "CardName": "Magistery Alchemist",
+    "CardID": "14914"
+  },
+  {
+    "CardName": "Magistus Invocation",
+    "CardID": "15622"
+  },
+  {
+    "CardName": "Magistus Theurgy",
+    "CardID": "15621"
+  },
+  {
+    "CardName": "Magistus Vritra",
+    "CardID": "15623"
+  },
+  {
+    "CardName": "Magma Dragon",
+    "CardID": "11709"
+  },
+  {
+    "CardName": "Magna Drago",
+    "CardID": "7689"
+  },
+  {
+    "CardName": "Magna-Slash Dragon",
+    "CardID": "7120"
+  },
+  {
+    "CardName": "Magnarokket Dragon",
+    "CardID": "13227"
+  },
+  {
+    "CardName": "Magnet Circle LV2",
+    "CardID": "6572"
+  },
+  {
+    "CardName": "Magnet Conversion",
+    "CardID": "12580"
+  },
+  {
+    "CardName": "Magnet Force",
+    "CardID": "12569"
+  },
+  {
+    "CardName": "Magnet Induction",
+    "CardID": "16485"
+  },
+  {
+    "CardName": "Magnet Reverse",
+    "CardID": "12568"
+  },
+  {
+    "CardName": "Magnetic Field",
+    "CardID": "12578"
+  },
+  {
+    "CardName": "Magnetic Mosquito",
+    "CardID": "7439"
+  },
+  {
+    "CardName": "Magnificent Machine Angel",
+    "CardID": "14174"
+  },
+  {
+    "CardName": "Magnum Shield",
+    "CardID": "10539"
+  },
+  {
+    "CardName": "Maha Vailo",
+    "CardID": "4499"
+  },
+  {
+    "CardName": "Maha Vailo, Light of the Heavens",
+    "CardID": "15715"
+  },
+  {
+    "CardName": "Mahaama the Fairy Dragon",
+    "CardID": "15563"
+  },
+  {
+    "CardName": "Maharaghi",
+    "CardID": "5373"
+  },
+  {
+    "CardName": "Mahjong Munia Maidens",
+    "CardID": "13400"
+  },
+  {
+    "CardName": "Mahunder",
+    "CardID": "10305"
+  },
+  {
+    "CardName": "Maiden of Macabre",
+    "CardID": "7660"
+  },
+  {
+    "CardName": "Maiden of the Aqua",
+    "CardID": "5026"
+  },
+  {
+    "CardName": "Maiden of the Moonlight",
+    "CardID": "4637"
+  },
+  {
+    "CardName": "Maiden with Eyes of Blue",
+    "CardID": "10588"
+  },
+  {
+    "CardName": "Majespecter Cat - Nekomata",
+    "CardID": "11969"
+  },
+  {
+    "CardName": "Majespecter Crow - Yata",
+    "CardID": "11971"
+  },
+  {
+    "CardName": "Majespecter Cyclone",
+    "CardID": "12004"
+  },
+  {
+    "CardName": "Majespecter Fox - Kyubi",
+    "CardID": "11972"
+  },
+  {
+    "CardName": "Majespecter Gust",
+    "CardID": "12810"
+  },
+  {
+    "CardName": "Majespecter Raccoon - Bunbuku",
+    "CardID": "11970"
+  },
+  {
+    "CardName": "Majespecter Sonics",
+    "CardID": "12172"
+  },
+  {
+    "CardName": "Majespecter Storm",
+    "CardID": "12003"
+  },
+  {
+    "CardName": "Majespecter Supercell",
+    "CardID": "12182"
+  },
+  {
+    "CardName": "Majespecter Tempest",
+    "CardID": "12017"
+  },
+  {
+    "CardName": "Majespecter Toad - Ogama",
+    "CardID": "12138"
+  },
+  {
+    "CardName": "Majespecter Tornado",
+    "CardID": "12016"
+  },
+  {
+    "CardName": "Majespecter Unicorn - Kirin",
+    "CardID": "11973"
+  },
+  {
+    "CardName": "Majester Paladin, the Ascending Dracoslayer",
+    "CardID": "11996"
+  },
+  {
+    "CardName": "Majestic Absorption",
+    "CardID": "16241"
+  },
+  {
+    "CardName": "Majestic Dragon",
+    "CardID": "8436"
+  },
+  {
+    "CardName": "Majestic Mech - Goryu",
+    "CardID": "6689"
+  },
+  {
+    "CardName": "Majestic Mech - Ohka",
+    "CardID": "6688"
+  }
+]

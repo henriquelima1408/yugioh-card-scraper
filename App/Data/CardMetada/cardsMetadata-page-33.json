@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Eco, Mystical Spirit of the Forest",
+    "CardID": "10106"
+  },
+  {
+    "CardName": "Ecole de Zone",
+    "CardID": "16415"
+  },
+  {
+    "CardName": "Ectoplasmer",
+    "CardID": "4828"
+  },
+  {
+    "CardName": "Eda the Sun Magician",
+    "CardID": "15575"
+  },
+  {
+    "CardName": "Edea the Heavenly Squire",
+    "CardID": "12093"
+  },
+  {
+    "CardName": "Edge Hammer",
+    "CardID": "6942"
+  },
+  {
+    "CardName": "Edge Imp Chain",
+    "CardID": "11688"
+  },
+  {
+    "CardName": "Edge Imp Cotton Eater",
+    "CardID": "13038"
+  },
+  {
+    "CardName": "Edge Imp Frightfuloid",
+    "CardID": "11690"
+  },
+  {
+    "CardName": "Edge Imp Sabres",
+    "CardID": "11346"
+  },
+  {
+    "CardName": "Edge Imp Saw",
+    "CardID": "11687"
+  },
+  {
+    "CardName": "Edge Imp Scythe",
+    "CardID": "15256"
+  },
+  {
+    "CardName": "Edge Imp Tomahawk",
+    "CardID": "11689"
+  },
+  {
+    "CardName": "Edge of the Ring",
+    "CardID": "14145"
+  },
+  {
+    "CardName": "Effect Veiler",
+    "CardID": "8933"
+  },
+  {
+    "CardName": "Ego Boost",
+    "CardID": "9764"
+  },
+  {
+    "CardName": "Egotistical Ape",
+    "CardID": "8939"
+  },
+  {
+    "CardName": "Egyptian God Slime",
+    "CardID": "15332"
+  },
+  {
+    "CardName": "Ehren, Lightsworn Monk",
+    "CardID": "7797"
+  },
+  {
+    "CardName": "Ehther the Heavenly Monarch",
+    "CardID": "12090"
+  },
+  {
+    "CardName": "Eidos the Underworld Squire",
+    "CardID": "12092"
+  },
+  {
+    "CardName": "Eisbahn",
+    "CardID": "9797"
+  },
+  {
+    "CardName": "Eka the Flame Buddy",
+    "CardID": "17436"
+  },
+  {
+    "CardName": "Ekibyo Drakmord",
+    "CardID": "5277"
+  },
+  {
+    "CardName": "El Dorado Adelantado",
+    "CardID": "15132"
+  },
+  {
+    "CardName": "El Shaddoll Anoyatyllis",
+    "CardID": "11719"
+  },
+  {
+    "CardName": "El Shaddoll Apkallone",
+    "CardID": "14968"
+  },
+  {
+    "CardName": "El Shaddoll Construct",
+    "CardID": "11258"
+  },
+  {
+    "CardName": "El Shaddoll Fusion",
+    "CardID": "11396"
+  },
+  {
+    "CardName": "El Shaddoll Grysta",
+    "CardID": "11380"
+  },
+  {
+    "CardName": "El Shaddoll Shekhinaga",
+    "CardID": "11381"
+  },
+  {
+    "CardName": "El Shaddoll Wendigo",
+    "CardID": "11567"
+  },
+  {
+    "CardName": "El Shaddoll Winda",
+    "CardID": "11257"
+  },
+  {
+    "CardName": "Elborz, the Sacred Lands of Simorgh",
+    "CardID": "14505"
+  },
+  {
+    "CardName": "Elder Entity N'tss",
+    "CardID": "11878"
+  },
+  {
+    "CardName": "Elder Entity Norden",
+    "CardID": "11207"
+  },
+  {
+    "CardName": "Elder of the Six Samurai",
+    "CardID": "9499"
+  },
+  {
+    "CardName": "Eldlich the Golden Lord",
+    "CardID": "15123"
+  },
+  {
+    "CardName": "Eldlich the Mad Golden Lord",
+    "CardID": "15731"
+  },
+  {
+    "CardName": "Eldlixir of Black Awakening",
+    "CardID": "15125"
+  },
+  {
+    "CardName": "Eldlixir of Scarlet Sanguine",
+    "CardID": "15127"
+  },
+  {
+    "CardName": "Eldlixir of White Destiny",
+    "CardID": "15126"
+  },
+  {
+    "CardName": "Electric Jellyfish",
+    "CardID": "17049"
+  },
+  {
+    "CardName": "Electric Lizard",
+    "CardID": "4616"
+  },
+  {
+    "CardName": "Electric Snake",
+    "CardID": "4469"
+  },
+  {
+    "CardName": "Electric Virus",
+    "CardID": "6977"
+  },
+  {
+    "CardName": "Electro-Whip",
+    "CardID": "4322"
+  },
+  {
+    "CardName": "Electromagnetic Bagworm",
+    "CardID": "5040"
+  },
+  {
+    "CardName": "Electromagnetic Shield",
+    "CardID": "8830"
+  },
+  {
+    "CardName": "Electromagnetic Turtle",
+    "CardID": "11120"
+  },
+  {
+    "CardName": "Elegant Egotist",
+    "CardID": "4324"
+  },
+  {
+    "CardName": "Elegy the Melodious Diva",
+    "CardID": "11338"
+  },
+  {
+    "CardName": "Element Doom",
+    "CardID": "6241"
+  },
+  {
+    "CardName": "Element Dragon",
+    "CardID": "6115"
+  },
+  {
+    "CardName": "Element Magician",
+    "CardID": "6182"
+  },
+  {
+    "CardName": "Element Saurus",
+    "CardID": "6183"
+  },
+  {
+    "CardName": "Element Soldier",
+    "CardID": "6116"
+  },
+  {
+    "CardName": "Element Valkyrie",
+    "CardID": "6240"
+  },
+  {
+    "CardName": "Elemental Absorber",
+    "CardID": "6681"
+  },
+  {
+    "CardName": "Elemental Burst",
+    "CardID": "6285"
+  },
+  {
+    "CardName": "Elemental Grace Doriado",
+    "CardID": "13255"
+  },
+  {
+    "CardName": "Elemental HERO Absolute Zero",
+    "CardID": "8129"
+  },
+  {
+    "CardName": "Elemental HERO Air Neos",
+    "CardID": "6989"
+  },
+  {
+    "CardName": "Elemental HERO Aqua Neos",
+    "CardID": "6766"
+  },
+  {
+    "CardName": "Elemental HERO Avian",
+    "CardID": "6310"
+  },
+  {
+    "CardName": "Elemental HERO Bladedge",
+    "CardID": "6477"
+  },
+  {
+    "CardName": "Elemental HERO Blazeman",
+    "CardID": "11419"
+  },
+  {
+    "CardName": "Elemental HERO Brave Neos",
+    "CardID": "14112"
+  },
+  {
+    "CardName": "Elemental HERO Bubbleman",
+    "CardID": "6393"
+  },
+  {
+    "CardName": "Elemental HERO Burstinatrix",
+    "CardID": "6311"
+  },
+  {
+    "CardName": "Elemental HERO Captain Gold",
+    "CardID": "7105"
+  },
+  {
+    "CardName": "Elemental HERO Chaos Neos",
+    "CardID": "7275"
+  },
+  {
+    "CardName": "Elemental HERO Clayman",
+    "CardID": "6312"
+  },
+  {
+    "CardName": "Elemental HERO Core",
+    "CardID": "11314"
+  },
+  {
+    "CardName": "Elemental HERO Cosmo Neos",
+    "CardID": "14113"
+  },
+  {
+    "CardName": "Elemental HERO Dark Neos",
+    "CardID": "6765"
+  },
+  {
+    "CardName": "Elemental HERO Darkbright",
+    "CardID": "7176"
+  },
+  {
+    "CardName": "Elemental HERO Divine Neos",
+    "CardID": "7806"
+  },
+  {
+    "CardName": "Elemental HERO Electrum",
+    "CardID": "6639"
+  },
+  {
+    "CardName": "Elemental HERO Escuridao",
+    "CardID": "9838"
+  },
+  {
+    "CardName": "Elemental HERO Flame Wingman",
+    "CardID": "6344"
+  },
+  {
+    "CardName": "Elemental HERO Flame Wingman - Infernal Rage",
+    "CardID": "18663"
+  },
+  {
+    "CardName": "Elemental HERO Flare Neos",
+    "CardID": "6767"
+  },
+  {
+    "CardName": "Elemental HERO Flash",
+    "CardID": "8543"
+  },
+  {
+    "CardName": "Elemental HERO Gaia",
+    "CardID": "8122"
+  },
+  {
+    "CardName": "Elemental HERO Glow Neos",
+    "CardID": "6988"
+  },
+  {
+    "CardName": "Elemental HERO Grand Neos",
+    "CardID": "6990"
+  },
+  {
+    "CardName": "Elemental HERO Grandmerge",
+    "CardID": "14216"
+  },
+  {
+    "CardName": "Elemental HERO Great Tornado",
+    "CardID": "8592"
+  },
+  {
+    "CardName": "Elemental HERO Heat",
+    "CardID": "6927"
+  },
+  {
+    "CardName": "Elemental HERO Honest Neos",
+    "CardID": "12901"
+  },
+  {
+    "CardName": "Elemental HERO Ice Edge",
+    "CardID": "8126"
+  },
+  {
+    "CardName": "Elemental HERO Inferno",
+    "CardID": "7026"
+  },
+  {
+    "CardName": "Elemental HERO Knospe",
+    "CardID": "6863"
+  },
+  {
+    "CardName": "Elemental HERO Lady Heat",
+    "CardID": "7024"
+  },
+  {
+    "CardName": "Elemental HERO Liquid Soldier",
+    "CardID": "14911"
+  },
+  {
+    "CardName": "Elemental HERO Magma Neos",
+    "CardID": "7177"
+  },
+  {
+    "CardName": "Elemental HERO Marine Neos",
+    "CardID": "7175"
+  },
+  {
+    "CardName": "Elemental HERO Mariner",
+    "CardID": "6657"
+  },
+  {
+    "CardName": "Elemental HERO Mudballman",
+    "CardID": "6529"
+  }
+]

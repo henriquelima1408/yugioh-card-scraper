@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Frightfur Meister",
+    "CardID": "13991"
+  },
+  {
+    "CardName": "Frightfur Patchwork",
+    "CardID": "12866"
+  },
+  {
+    "CardName": "Frightfur Reborn",
+    "CardID": "12886"
+  },
+  {
+    "CardName": "Frightfur Repair",
+    "CardID": "15292"
+  },
+  {
+    "CardName": "Frightfur Sabre-Tooth",
+    "CardID": "11987"
+  },
+  {
+    "CardName": "Frightfur Sanctuary",
+    "CardID": "12454"
+  },
+  {
+    "CardName": "Frightfur Sheep",
+    "CardID": "11717"
+  },
+  {
+    "CardName": "Frightfur Tiger",
+    "CardID": "11617"
+  },
+  {
+    "CardName": "Frightfur Wolf",
+    "CardID": "11379"
+  },
+  {
+    "CardName": "Friller Rabca",
+    "CardID": "9726"
+  },
+  {
+    "CardName": "Frodi, Generaider Boss of Swords",
+    "CardID": "14771"
+  },
+  {
+    "CardName": "Froggy Forcefield",
+    "CardID": "7646"
+  },
+  {
+    "CardName": "Frontier Wiseman",
+    "CardID": "5322"
+  },
+  {
+    "CardName": "Frontline Base",
+    "CardID": "5602"
+  },
+  {
+    "CardName": "Frontline Observer",
+    "CardID": "11559"
+  },
+  {
+    "CardName": "Frost and Flame Dragon",
+    "CardID": "7210"
+  },
+  {
+    "CardName": "Frost Blast of the Monarchs",
+    "CardID": "12264"
+  },
+  {
+    "CardName": "Frostosaurus",
+    "CardID": "6961"
+  },
+  {
+    "CardName": "Frozen Fitzgerald",
+    "CardID": "9216"
+  },
+  {
+    "CardName": "Frozen Rose",
+    "CardID": "14178"
+  },
+  {
+    "CardName": "Frozen Soul",
+    "CardID": "5793"
+  },
+  {
+    "CardName": "Fruits of Kozaky's Studies",
+    "CardID": "6220"
+  },
+  {
+    "CardName": "Fuh-Rin-Ka-Zan",
+    "CardID": "6222"
+  },
+  {
+    "CardName": "Fuhma Shuriken",
+    "CardID": "5836"
+  },
+  {
+    "CardName": "Fuhma Wave",
+    "CardID": "14713"
+  },
+  {
+    "CardName": "Fukubiki",
+    "CardID": "16041"
+  },
+  {
+    "CardName": "Fulfillment of the Contract",
+    "CardID": "6272"
+  },
+  {
+    "CardName": "Full Active Duplex",
+    "CardID": "18488"
+  },
+  {
+    "CardName": "Full Armored Black Ray Lancer",
+    "CardID": "10857"
+  },
+  {
+    "CardName": "Full Armored Crystalzero Lancer",
+    "CardID": "10856"
+  },
+  {
+    "CardName": "Full Force Virus",
+    "CardID": "12813"
+  },
+  {
+    "CardName": "Full House",
+    "CardID": "9706"
+  },
+  {
+    "CardName": "Full Salvo",
+    "CardID": "6622"
+  },
+  {
+    "CardName": "Full-Force Strike",
+    "CardID": "9921"
+  },
+  {
+    "CardName": "Fullmetalfoes Alkahest",
+    "CardID": "12629"
+  },
+  {
+    "CardName": "Fullmetalfoes Fusion",
+    "CardID": "12648"
+  },
+  {
+    "CardName": "Fury of Fire",
+    "CardID": "14502"
+  },
+  {
+    "CardName": "Fury of Kairyu-Shin",
+    "CardID": "15298"
+  },
+  {
+    "CardName": "Fuse Line",
+    "CardID": "13294"
+  },
+  {
+    "CardName": "Fushi No Tori",
+    "CardID": "5382"
+  },
+  {
+    "CardName": "Fushioh Richie",
+    "CardID": "5428"
+  },
+  {
+    "CardName": "Fusilier Dragon, the Dual-Mode Beast",
+    "CardID": "6200"
+  },
+  {
+    "CardName": "Fusion Conscription",
+    "CardID": "11728"
+  },
+  {
+    "CardName": "Fusion Deployment",
+    "CardID": "15057"
+  },
+  {
+    "CardName": "Fusion Destiny",
+    "CardID": "14304"
+  },
+  {
+    "CardName": "Fusion Devourer",
+    "CardID": "6976"
+  },
+  {
+    "CardName": "Fusion Duplication",
+    "CardID": "18540"
+  },
+  {
+    "CardName": "Fusion Fright Waltz",
+    "CardID": "12468"
+  },
+  {
+    "CardName": "Fusion Gate",
+    "CardID": "5276"
+  },
+  {
+    "CardName": "Fusion Guard",
+    "CardID": "6948"
+  },
+  {
+    "CardName": "Fusion of Fire",
+    "CardID": "14134"
+  },
+  {
+    "CardName": "Fusion Parasite",
+    "CardID": "12744"
+  },
+  {
+    "CardName": "Fusion Recovery",
+    "CardID": "6431"
+  },
+  {
+    "CardName": "Fusion Recycling Plant",
+    "CardID": "12872"
+  },
+  {
+    "CardName": "Fusion Reserve",
+    "CardID": "11410"
+  },
+  {
+    "CardName": "Fusion Sage",
+    "CardID": "4872"
+  },
+  {
+    "CardName": "Fusion Substitute",
+    "CardID": "11504"
+  },
+  {
+    "CardName": "Fusion Sword Murasame Blade",
+    "CardID": "5388"
+  },
+  {
+    "CardName": "Fusion Tag",
+    "CardID": "12338"
+  },
+  {
+    "CardName": "Fusion Weapon",
+    "CardID": "6138"
+  },
+  {
+    "CardName": "Fusionist",
+    "CardID": "4195"
+  },
+  {
+    "CardName": "Future Drive",
+    "CardID": "14924"
+  },
+  {
+    "CardName": "Future Fusion",
+    "CardID": "6782"
+  },
+  {
+    "CardName": "Future Glow",
+    "CardID": "9673"
+  },
+  {
+    "CardName": "Future Samurai",
+    "CardID": "7428"
+  },
+  {
+    "CardName": "Future Visions",
+    "CardID": "8341"
+  },
+  {
+    "CardName": "G Golem Crystal Heart",
+    "CardID": "17658"
+  },
+  {
+    "CardName": "G Golem Dignified Trilithon",
+    "CardID": "17661"
+  },
+  {
+    "CardName": "G Golem Invalid Dolmen",
+    "CardID": "17660"
+  },
+  {
+    "CardName": "G Golem Pebble Dog",
+    "CardID": "17657"
+  },
+  {
+    "CardName": "G Golem Rock Hammer",
+    "CardID": "17656"
+  },
+  {
+    "CardName": "G Golem Stubborn Menhir",
+    "CardID": "17659"
+  },
+  {
+    "CardName": "G.B. Hunter",
+    "CardID": "8191"
+  },
+  {
+    "CardName": "Gaap the Divine Soldier",
+    "CardID": "7514"
+  },
+  {
+    "CardName": "Gabrion, the Timelord",
+    "CardID": "13818"
+  },
+  {
+    "CardName": "Gachi Gachi Gantetsu",
+    "CardID": "9576"
+  },
+  {
+    "CardName": "Gadarla, the Mystery Dust Kaiju",
+    "CardID": "12248"
+  },
+  {
+    "CardName": "Gadget Arms",
+    "CardID": "8169"
+  },
+  {
+    "CardName": "Gadget Box",
+    "CardID": "17635"
+  },
+  {
+    "CardName": "Gadget Driver",
+    "CardID": "7882"
+  },
+  {
+    "CardName": "Gadget Gamer",
+    "CardID": "17597"
+  },
+  {
+    "CardName": "Gadget Hauler",
+    "CardID": "7881"
+  },
+  {
+    "CardName": "Gadget Soldier",
+    "CardID": "5092"
+  },
+  {
+    "CardName": "Gagaga Academy Emergency Network",
+    "CardID": "11023"
+  },
+  {
+    "CardName": "Gagaga Caesar",
+    "CardID": "10223"
+  },
+  {
+    "CardName": "Gagaga Child",
+    "CardID": "10564"
+  },
+  {
+    "CardName": "Gagaga Clerk",
+    "CardID": "10367"
+  },
+  {
+    "CardName": "Gagaga Cowboy",
+    "CardID": "10263"
+  },
+  {
+    "CardName": "Gagaga Gardna",
+    "CardID": "10028"
+  },
+  {
+    "CardName": "Gagaga Girl",
+    "CardID": "9877"
+  },
+  {
+    "CardName": "Gagaga Head",
+    "CardID": "12097"
+  },
+  {
+    "CardName": "Gagaga Magician",
+    "CardID": "9618"
+  },
+  {
+    "CardName": "Gagaga Mancer",
+    "CardID": "11415"
+  },
+  {
+    "CardName": "Gagaga Samurai",
+    "CardID": "11414"
+  },
+  {
+    "CardName": "Gagaga Sister",
+    "CardID": "11110"
+  },
+  {
+    "CardName": "Gagagaback",
+    "CardID": "9855"
+  },
+  {
+    "CardName": "Gagagabolt",
+    "CardID": "9922"
+  },
+  {
+    "CardName": "Gagagadraw",
+    "CardID": "10414"
+  },
+  {
+    "CardName": "Gagagaga Magician",
+    "CardID": "14920"
+  },
+  {
+    "CardName": "Gagagaguard",
+    "CardID": "9939"
+  }
+]

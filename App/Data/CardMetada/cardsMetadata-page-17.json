@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Charged-Up Heraldry",
+    "CardID": "14869"
+  },
+  {
+    "CardName": "Charging Gaia the Fierce Knight",
+    "CardID": "11963"
+  },
+  {
+    "CardName": "Charioteer of Prophecy",
+    "CardID": "10149"
+  },
+  {
+    "CardName": "Charm of Shabti",
+    "CardID": "5524"
+  },
+  {
+    "CardName": "Charming Resort Staff",
+    "CardID": "12824"
+  },
+  {
+    "CardName": "Charubin the Fire Knight",
+    "CardID": "4139"
+  },
+  {
+    "CardName": "Checkmate",
+    "CardID": "5787"
+  },
+  {
+    "CardName": "Checksum Dragon",
+    "CardID": "14619"
+  },
+  {
+    "CardName": "Cheepcheepcheep",
+    "CardID": "10640"
+  },
+  {
+    "CardName": "Chef's Special Recipe",
+    "CardID": "18750"
+  },
+  {
+    "CardName": "Chemicritter Carbo Crab",
+    "CardID": "12614"
+  },
+  {
+    "CardName": "Chemicritter Hydron Hawk",
+    "CardID": "12613"
+  },
+  {
+    "CardName": "Chemicritter Oxy Ox",
+    "CardID": "12615"
+  },
+  {
+    "CardName": "Cherry Inmato",
+    "CardID": "8798"
+  },
+  {
+    "CardName": "Cherubini, Ebon Angel of the Burning Abyss",
+    "CardID": "13506"
+  },
+  {
+    "CardName": "Chevalier de Fleur",
+    "CardID": "9199"
+  },
+  {
+    "CardName": "Chewbone",
+    "CardID": "9834"
+  },
+  {
+    "CardName": "Chicken Game",
+    "CardID": "11851"
+  },
+  {
+    "CardName": "Child's Play",
+    "CardID": "14146"
+  },
+  {
+    "CardName": "Chimaera, the Master of Beasts",
+    "CardID": "7374"
+  },
+  {
+    "CardName": "Chimera the Flying Mythical Beast",
+    "CardID": "4756"
+  },
+  {
+    "CardName": "Chimeratech Fortress Dragon",
+    "CardID": "7403"
+  },
+  {
+    "CardName": "Chimeratech Megafleet Dragon",
+    "CardID": "13358"
+  },
+  {
+    "CardName": "Chimeratech Overdragon",
+    "CardID": "6734"
+  },
+  {
+    "CardName": "Chimeratech Rampage Dragon",
+    "CardID": "11764"
+  },
+  {
+    "CardName": "Chiron the Mage",
+    "CardID": "5810"
+  },
+  {
+    "CardName": "Chirubim&eacute;, Princess of Autumn Leaves",
+    "CardID": "10925"
+  },
+  {
+    "CardName": "Chivalry",
+    "CardID": "9010"
+  },
+  {
+    "CardName": "Chiwen, Light of the Yang Zing",
+    "CardID": "11241"
+  },
+  {
+    "CardName": "Chobham Armor Dragon",
+    "CardID": "14632"
+  },
+  {
+    "CardName": "Chocolate Magician Girl",
+    "CardID": "12358"
+  },
+  {
+    "CardName": "Choju of the Trillion Hands",
+    "CardID": "18168"
+  },
+  {
+    "CardName": "Chopman the Desperate Outlaw",
+    "CardID": "5820"
+  },
+  {
+    "CardName": "Chorus of Sanctuary",
+    "CardID": "4899"
+  },
+  {
+    "CardName": "Chosen by the World Chalice",
+    "CardID": "13058"
+  },
+  {
+    "CardName": "Chosen of Zefra",
+    "CardID": "11746"
+  },
+  {
+    "CardName": "Chosen One",
+    "CardID": "5101"
+  },
+  {
+    "CardName": "Chow Chow Chan",
+    "CardID": "10733"
+  },
+  {
+    "CardName": "Chow Len the Prophet",
+    "CardID": "9906"
+  },
+  {
+    "CardName": "Chow Sai the Ghost Stopper",
+    "CardID": "16188"
+  },
+  {
+    "CardName": "Chronicle Magician",
+    "CardID": "17031"
+  },
+  {
+    "CardName": "Chronicler of Nephthys",
+    "CardID": "14011"
+  },
+  {
+    "CardName": "Chronograph Sorcerer",
+    "CardID": "12907"
+  },
+  {
+    "CardName": "Chronomaly Acambaro Figures",
+    "CardID": "16203"
+  },
+  {
+    "CardName": "Chronomaly Aztec Mask Golem",
+    "CardID": "10687"
+  },
+  {
+    "CardName": "Chronomaly Cabrera Trebuchet",
+    "CardID": "10688"
+  },
+  {
+    "CardName": "Chronomaly City Babylon",
+    "CardID": "10455"
+  },
+  {
+    "CardName": "Chronomaly Colossal Head",
+    "CardID": "10140"
+  },
+  {
+    "CardName": "Chronomaly Crystal Bones",
+    "CardID": "10142"
+  },
+  {
+    "CardName": "Chronomaly Crystal Chrononaut",
+    "CardID": "10172"
+  },
+  {
+    "CardName": "Chronomaly Crystal Skull",
+    "CardID": "10143"
+  },
+  {
+    "CardName": "Chronomaly Esperanza Glyph",
+    "CardID": "16264"
+  },
+  {
+    "CardName": "Chronomaly Golden Jet",
+    "CardID": "10141"
+  },
+  {
+    "CardName": "Chronomaly Gordian Knot",
+    "CardID": "11006"
+  },
+  {
+    "CardName": "Chronomaly Magella Globe",
+    "CardID": "16202"
+  },
+  {
+    "CardName": "Chronomaly Mayan Machine",
+    "CardID": "10139"
+  },
+  {
+    "CardName": "Chronomaly Moai",
+    "CardID": "10144"
+  },
+  {
+    "CardName": "Chronomaly Moai Carrier",
+    "CardID": "10894"
+  },
+  {
+    "CardName": "Chronomaly Mud Golem",
+    "CardID": "10689"
+  },
+  {
+    "CardName": "Chronomaly Nebra Disk",
+    "CardID": "10972"
+  },
+  {
+    "CardName": "Chronomaly Pyramid Eye Tablet",
+    "CardID": "10185"
+  },
+  {
+    "CardName": "Chronomaly Sol Monolith",
+    "CardID": "10690"
+  },
+  {
+    "CardName": "Chronomaly Technology",
+    "CardID": "10184"
+  },
+  {
+    "CardName": "Chronomaly Temple - Trilithon",
+    "CardID": "16248"
+  },
+  {
+    "CardName": "Chronomaly Tula Guardian",
+    "CardID": "10449"
+  },
+  {
+    "CardName": "Chronomaly Tuspa Rocket",
+    "CardID": "14825"
+  },
+  {
+    "CardName": "Chronomaly Vimana",
+    "CardID": "16233"
+  },
+  {
+    "CardName": "Chronomaly Winged Sphinx",
+    "CardID": "10895"
+  },
+  {
+    "CardName": "Chrysalis Chicky",
+    "CardID": "7155"
+  },
+  {
+    "CardName": "Chrysalis Dolphin",
+    "CardID": "6764"
+  },
+  {
+    "CardName": "Chrysalis Larva",
+    "CardID": "7172"
+  },
+  {
+    "CardName": "Chrysalis Mole",
+    "CardID": "7173"
+  },
+  {
+    "CardName": "Chrysalis Pantail",
+    "CardID": "7156"
+  },
+  {
+    "CardName": "Chrysalis Pinny",
+    "CardID": "7157"
+  },
+  {
+    "CardName": "Chthonian Alliance",
+    "CardID": "6489"
+  },
+  {
+    "CardName": "Chthonian Blast",
+    "CardID": "6494"
+  },
+  {
+    "CardName": "Chthonian Emperor Dragon",
+    "CardID": "7196"
+  },
+  {
+    "CardName": "Chthonian Polymer",
+    "CardID": "6493"
+  },
+  {
+    "CardName": "Chthonian Soldier",
+    "CardID": "6474"
+  },
+  {
+    "CardName": "Chu-Ske the Mouse Fighter",
+    "CardID": "6234"
+  },
+  {
+    "CardName": "Cipher Biplane",
+    "CardID": "16432"
+  },
+  {
+    "CardName": "Cipher Bit",
+    "CardID": "12659"
+  },
+  {
+    "CardName": "Cipher Etranger",
+    "CardID": "12746"
+  },
+  {
+    "CardName": "Cipher Interference",
+    "CardID": "16433"
+  },
+  {
+    "CardName": "Cipher Mirror Knight",
+    "CardID": "12601"
+  },
+  {
+    "CardName": "Cipher Soldier (Updated from: Kinetic Soldier)",
+    "CardID": "5034"
+  },
+  {
+    "CardName": "Cipher Spectrum",
+    "CardID": "12804"
+  },
+  {
+    "CardName": "Cipher Twin Raptor",
+    "CardID": "12600"
+  },
+  {
+    "CardName": "Cipher Wing",
+    "CardID": "12551"
+  },
+  {
+    "CardName": "Cir, Malebranche of the Burning Abyss",
+    "CardID": "11319"
+  },
+  {
+    "CardName": "Circle of the Fairies",
+    "CardID": "18187"
+  },
+  {
+    "CardName": "Circle of the Fire Kings",
+    "CardID": "10349"
+  },
+  {
+    "CardName": "Citadel Whale",
+    "CardID": "13177"
+  },
+  {
+    "CardName": "Clara &amp; Rushka, the Ventriloduo",
+    "CardID": "13420"
+  },
+  {
+    "CardName": "Clashing Souls",
+    "CardID": "13002"
+  },
+  {
+    "CardName": "Clavkiys, the Magikey Skyblaster",
+    "CardID": "16199"
+  },
+  {
+    "CardName": "Claw Reacher",
+    "CardID": "4184"
+  },
+  {
+    "CardName": "Clay Charge",
+    "CardID": "6539"
+  },
+  {
+    "CardName": "Clear Effector",
+    "CardID": "12999"
+  },
+  {
+    "CardName": "Clear Kuriboh",
+    "CardID": "12399"
+  }
+]

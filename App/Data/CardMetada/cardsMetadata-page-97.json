@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Soul Devouring Bamboo Sword",
+    "CardID": "7313"
+  },
+  {
+    "CardName": "Soul Drain",
+    "CardID": "10208"
+  },
+  {
+    "CardName": "Soul Drain Dragon",
+    "CardID": "10744"
+  },
+  {
+    "CardName": "Soul Energy MAX!!!",
+    "CardID": "17245"
+  },
+  {
+    "CardName": "Soul Exchange",
+    "CardID": "5099"
+  },
+  {
+    "CardName": "Soul Hunter",
+    "CardID": "4477"
+  },
+  {
+    "CardName": "Soul Levy",
+    "CardID": "14706"
+  },
+  {
+    "CardName": "Soul of Fire",
+    "CardID": "7087"
+  },
+  {
+    "CardName": "Soul of Purity and Light",
+    "CardID": "5251"
+  },
+  {
+    "CardName": "Soul of Silvermountain",
+    "CardID": "10178"
+  },
+  {
+    "CardName": "Soul of the Pure",
+    "CardID": "4347"
+  },
+  {
+    "CardName": "Soul of the Supreme King",
+    "CardID": "17261"
+  },
+  {
+    "CardName": "Soul Pendulum",
+    "CardID": "14225"
+  },
+  {
+    "CardName": "Soul Release",
+    "CardID": "4857"
+  },
+  {
+    "CardName": "Soul Resurrection",
+    "CardID": "6071"
+  },
+  {
+    "CardName": "Soul Reversal",
+    "CardID": "6050"
+  },
+  {
+    "CardName": "Soul Rope",
+    "CardID": "5557"
+  },
+  {
+    "CardName": "Soul Scissors",
+    "CardID": "5051"
+  },
+  {
+    "CardName": "Soul Servant",
+    "CardID": "14907"
+  },
+  {
+    "CardName": "Soul Strike",
+    "CardID": "10840"
+  },
+  {
+    "CardName": "Soul Taker",
+    "CardID": "5743"
+  },
+  {
+    "CardName": "Soul Tiger",
+    "CardID": "5813"
+  },
+  {
+    "CardName": "Soul Transition",
+    "CardID": "11598"
+  },
+  {
+    "CardName": "Soul-Absorbing Bone Tower",
+    "CardID": "5956"
+  },
+  {
+    "CardName": "Souleater",
+    "CardID": "5036"
+  },
+  {
+    "CardName": "Souleating Oviraptor",
+    "CardID": "13011"
+  },
+  {
+    "CardName": "Souls of the Forgotten",
+    "CardID": "5149"
+  },
+  {
+    "CardName": "Sound the Retreat!",
+    "CardID": "9795"
+  },
+  {
+    "CardName": "Soundproofed",
+    "CardID": "9531"
+  },
+  {
+    "CardName": "Sour Scheduling - Red Vinegar Vamoose",
+    "CardID": "18224"
+  },
+  {
+    "CardName": "Space Cyclone",
+    "CardID": "9779"
+  },
+  {
+    "CardName": "Space Dragster",
+    "CardID": "12819"
+  },
+  {
+    "CardName": "Space Gift",
+    "CardID": "7619"
+  },
+  {
+    "CardName": "Space Insulator",
+    "CardID": "13591"
+  },
+  {
+    "CardName": "Space Mambo",
+    "CardID": "6232"
+  },
+  {
+    "CardName": "Space-Time Police",
+    "CardID": "9640"
+  },
+  {
+    "CardName": "Spacegate",
+    "CardID": "7757"
+  },
+  {
+    "CardName": "Spacetime Transcendence",
+    "CardID": "13155"
+  },
+  {
+    "CardName": "Spark Blaster",
+    "CardID": "6409"
+  },
+  {
+    "CardName": "Sparks",
+    "CardID": "4349"
+  },
+  {
+    "CardName": "Spatial Collapse",
+    "CardID": "5855"
+  },
+  {
+    "CardName": "Spawn Alligator",
+    "CardID": "8702"
+  },
+  {
+    "CardName": "Speaker for the Ice Barriers",
+    "CardID": "15830"
+  },
+  {
+    "CardName": "Spear Cretin",
+    "CardID": "4923"
+  },
+  {
+    "CardName": "Spear Dragon",
+    "CardID": "5334"
+  },
+  {
+    "CardName": "Spear Shark",
+    "CardID": "10368"
+  },
+  {
+    "CardName": "Spearfish Soldier",
+    "CardID": "9635"
+  },
+  {
+    "CardName": "Special Hurricane",
+    "CardID": "6046"
+  },
+  {
+    "CardName": "Special Schedule",
+    "CardID": "10862"
+  },
+  {
+    "CardName": "Specimen Inspection",
+    "CardID": "15371"
+  },
+  {
+    "CardName": "Speed Bird",
+    "CardID": "9566"
+  },
+  {
+    "CardName": "Speed Recovery",
+    "CardID": "12056"
+  },
+  {
+    "CardName": "Speed Warrior",
+    "CardID": "7688"
+  },
+  {
+    "CardName": "Speedburst Dragon",
+    "CardID": "14083"
+  },
+  {
+    "CardName": "Speedlift",
+    "CardID": "12857"
+  },
+  {
+    "CardName": "Speedroid Block-n-Roll",
+    "CardID": "15179"
+  },
+  {
+    "CardName": "Speedroid CarTurbo",
+    "CardID": "15180"
+  },
+  {
+    "CardName": "Speedroid Den-Den Daiko Duke",
+    "CardID": "12278"
+  },
+  {
+    "CardName": "Speedroid Dominobutterfly",
+    "CardID": "12883"
+  },
+  {
+    "CardName": "Speedroid Double Yoyo",
+    "CardID": "12049"
+  },
+  {
+    "CardName": "Speedroid Dupligate",
+    "CardID": "16382"
+  },
+  {
+    "CardName": "Speedroid Fuki-Modoshi Piper",
+    "CardID": "16376"
+  },
+  {
+    "CardName": "Speedroid Gum Prize",
+    "CardID": "12740"
+  },
+  {
+    "CardName": "Speedroid Hexasaucer",
+    "CardID": "14340"
+  },
+  {
+    "CardName": "Speedroid Horse Stilts",
+    "CardID": "12741"
+  },
+  {
+    "CardName": "Speedroid Maliciousmagnet",
+    "CardID": "12921"
+  },
+  {
+    "CardName": "Speedroid Marble Machine",
+    "CardID": "14339"
+  },
+  {
+    "CardName": "Speedroid Menko",
+    "CardID": "12051"
+  },
+  {
+    "CardName": "Speedroid Ohajikid",
+    "CardID": "12053"
+  },
+  {
+    "CardName": "Speedroid Pachingo-Kart",
+    "CardID": "12279"
+  },
+  {
+    "CardName": "Speedroid Passinglider",
+    "CardID": "12829"
+  },
+  {
+    "CardName": "Speedroid Razorang",
+    "CardID": "12050"
+  },
+  {
+    "CardName": "Speedroid Red-Eyed Dice",
+    "CardID": "12054"
+  },
+  {
+    "CardName": "Speedroid Rubberband Plane",
+    "CardID": "12922"
+  },
+  {
+    "CardName": "Speedroid Scratch",
+    "CardID": "16429"
+  },
+  {
+    "CardName": "Speedroid Skull Marbles",
+    "CardID": "12920"
+  },
+  {
+    "CardName": "Speedroid Taketomborg",
+    "CardID": "12052"
+  },
+  {
+    "CardName": "Speedroid Terrortop",
+    "CardID": "12047"
+  },
+  {
+    "CardName": "Speedroid Tri-Eyed Dice",
+    "CardID": "12048"
+  },
+  {
+    "CardName": "Speedroid Ultra Hound",
+    "CardID": "16377"
+  },
+  {
+    "CardName": "Speedroid Wheel",
+    "CardID": "16381"
+  },
+  {
+    "CardName": "Spell Absorption",
+    "CardID": "5630"
+  },
+  {
+    "CardName": "Spell Calling",
+    "CardID": "6781"
+  },
+  {
+    "CardName": "Spell Canceller",
+    "CardID": "5594"
+  },
+  {
+    "CardName": "Spell Chronicle",
+    "CardID": "7449"
+  },
+  {
+    "CardName": "Spell Economics",
+    "CardID": "6051"
+  },
+  {
+    "CardName": "Spell Gear",
+    "CardID": "7622"
+  },
+  {
+    "CardName": "Spell of Pain",
+    "CardID": "5486"
+  },
+  {
+    "CardName": "Spell Power Grasp",
+    "CardID": "8136"
+  },
+  {
+    "CardName": "Spell Power Mastery",
+    "CardID": "14443"
+  },
+  {
+    "CardName": "Spell Purification",
+    "CardID": "6225"
+  },
+  {
+    "CardName": "Spell Reactor ・RE",
+    "CardID": "8002"
+  },
+  {
+    "CardName": "Spell Reclamation",
+    "CardID": "7232"
+  },
+  {
+    "CardName": "Spell Recycler",
+    "CardID": "10607"
+  },
+  {
+    "CardName": "Spell Reproduction",
+    "CardID": "5354"
+  },
+  {
+    "CardName": "Spell Shattering Arrow",
+    "CardID": "5290"
+  },
+  {
+    "CardName": "Spell Shield Type-8",
+    "CardID": "5617"
+  },
+  {
+    "CardName": "Spell Strider",
+    "CardID": "12436"
+  },
+  {
+    "CardName": "Spell Striker",
+    "CardID": "7093"
+  },
+  {
+    "CardName": "Spell Vanishing",
+    "CardID": "5798"
+  }
+]

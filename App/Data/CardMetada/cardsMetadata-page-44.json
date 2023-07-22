@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Genex Ally Crusher",
+    "CardID": "8711"
+  },
+  {
+    "CardName": "Genex Ally Duradark",
+    "CardID": "8546"
+  },
+  {
+    "CardName": "Genex Ally Powercell",
+    "CardID": "8550"
+  },
+  {
+    "CardName": "Genex Ally Reliever",
+    "CardID": "8712"
+  },
+  {
+    "CardName": "Genex Ally Remote",
+    "CardID": "8549"
+  },
+  {
+    "CardName": "Genex Ally Solid",
+    "CardID": "8553"
+  },
+  {
+    "CardName": "Genex Ally Triarm",
+    "CardID": "8574"
+  },
+  {
+    "CardName": "Genex Ally Triforce",
+    "CardID": "8729"
+  },
+  {
+    "CardName": "Genex Ally Volcannon",
+    "CardID": "8552"
+  },
+  {
+    "CardName": "Genex Army",
+    "CardID": "8106"
+  },
+  {
+    "CardName": "Genex Blastfan",
+    "CardID": "8104"
+  },
+  {
+    "CardName": "Genex Controller",
+    "CardID": "7807"
+  },
+  {
+    "CardName": "Genex Doctor",
+    "CardID": "7952"
+  },
+  {
+    "CardName": "Genex Furnace",
+    "CardID": "7948"
+  },
+  {
+    "CardName": "Genex Gaia",
+    "CardID": "7949"
+  },
+  {
+    "CardName": "Genex Neutron",
+    "CardID": "7839"
+  },
+  {
+    "CardName": "Genex Power Planner",
+    "CardID": "7809"
+  },
+  {
+    "CardName": "Genex Recycled",
+    "CardID": "8105"
+  },
+  {
+    "CardName": "Genex Searcher",
+    "CardID": "7810"
+  },
+  {
+    "CardName": "Genex Solar",
+    "CardID": "7953"
+  },
+  {
+    "CardName": "Genex Spare",
+    "CardID": "7950"
+  },
+  {
+    "CardName": "Genex Turbine",
+    "CardID": "7951"
+  },
+  {
+    "CardName": "Genex Undine",
+    "CardID": "7808"
+  },
+  {
+    "CardName": "Genex Worker",
+    "CardID": "7811"
+  },
+  {
+    "CardName": "Genomix Fighter",
+    "CardID": "10770"
+  },
+  {
+    "CardName": "Genta, Gateman of Dark World",
+    "CardID": "17983"
+  },
+  {
+    "CardName": "Gentlemander",
+    "CardID": "10575"
+  },
+  {
+    "CardName": "Geo Genex",
+    "CardID": "7972"
+  },
+  {
+    "CardName": "Geomancer of the Ice Barrier",
+    "CardID": "8108"
+  },
+  {
+    "CardName": "Geomathmech Final Sigma",
+    "CardID": "14751"
+  },
+  {
+    "CardName": "Geomathmech Magma",
+    "CardID": "14750"
+  },
+  {
+    "CardName": "Geonator Transverser",
+    "CardID": "15529"
+  },
+  {
+    "CardName": "Gergonne's End",
+    "CardID": "13623"
+  },
+  {
+    "CardName": "Geri the Runick Fangs",
+    "CardID": "17385"
+  },
+  {
+    "CardName": "Germ Infection",
+    "CardID": "4877"
+  },
+  {
+    "CardName": "Gernia",
+    "CardID": "5483"
+  },
+  {
+    "CardName": "Get Out!",
+    "CardID": "14526"
+  },
+  {
+    "CardName": "Getsu Fuhma",
+    "CardID": "5901"
+  },
+  {
+    "CardName": "Ghost Beef",
+    "CardID": "12394"
+  },
+  {
+    "CardName": "Ghost Belle &amp; Haunted Mansion",
+    "CardID": "13587"
+  },
+  {
+    "CardName": "Ghost Bird of Bewitchment",
+    "CardID": "13402"
+  },
+  {
+    "CardName": "Ghost Charon, the Underworld Boatman",
+    "CardID": "11644"
+  },
+  {
+    "CardName": "Ghost Fairy Elfobia",
+    "CardID": "10599"
+  },
+  {
+    "CardName": "Ghost Fusion",
+    "CardID": "8868"
+  },
+  {
+    "CardName": "Ghost Gardna",
+    "CardID": "7702"
+  },
+  {
+    "CardName": "Ghost Knight of Jackal",
+    "CardID": "6033"
+  },
+  {
+    "CardName": "Ghost Lancer, the Underworld Spearman",
+    "CardID": "8772"
+  },
+  {
+    "CardName": "Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga",
+    "CardID": "17036"
+  },
+  {
+    "CardName": "Ghost Meets Girl - A Mayakashi's Manuscript",
+    "CardID": "14872"
+  },
+  {
+    "CardName": "Ghost Meets Girl - A Shiranui's Story",
+    "CardID": "14140"
+  },
+  {
+    "CardName": "Ghost Mourner &amp; Moonlit Chill",
+    "CardID": "15022"
+  },
+  {
+    "CardName": "Ghost of a Grudge",
+    "CardID": "11024"
+  },
+  {
+    "CardName": "Ghost Ogre &amp; Snow Rabbit",
+    "CardID": "11708"
+  },
+  {
+    "CardName": "Ghost Reaper &amp; Winter Cherries",
+    "CardID": "12312"
+  },
+  {
+    "CardName": "Ghost Ship",
+    "CardID": "9652"
+  },
+  {
+    "CardName": "Ghost Sister &amp; Spooky Dogwood",
+    "CardID": "14275"
+  },
+  {
+    "CardName": "Ghost Sleeper, the Underworld Princess",
+    "CardID": "8776"
+  },
+  {
+    "CardName": "Ghost Wyvern, the Underworld Dragon",
+    "CardID": "8869"
+  },
+  {
+    "CardName": "Ghostrick Alucard",
+    "CardID": "10783"
+  },
+  {
+    "CardName": "Ghostrick Angel of Mischief",
+    "CardID": "11422"
+  },
+  {
+    "CardName": "Ghostrick Break",
+    "CardID": "11209"
+  },
+  {
+    "CardName": "Ghostrick Doll",
+    "CardID": "11051"
+  },
+  {
+    "CardName": "Ghostrick Dullahan",
+    "CardID": "10939"
+  },
+  {
+    "CardName": "Ghostrick Fairy",
+    "CardID": "14832"
+  },
+  {
+    "CardName": "Ghostrick Festival",
+    "CardID": "16852"
+  },
+  {
+    "CardName": "Ghostrick Ghoul",
+    "CardID": "10871"
+  },
+  {
+    "CardName": "Ghostrick Jackfrost",
+    "CardID": "10907"
+  },
+  {
+    "CardName": "Ghostrick Jiangshi",
+    "CardID": "10751"
+  },
+  {
+    "CardName": "Ghostrick Lantern",
+    "CardID": "10747"
+  },
+  {
+    "CardName": "Ghostrick Mansion",
+    "CardID": "10793"
+  },
+  {
+    "CardName": "Ghostrick Mary",
+    "CardID": "10908"
+  },
+  {
+    "CardName": "Ghostrick Mummy",
+    "CardID": "10911"
+  },
+  {
+    "CardName": "Ghostrick Museum",
+    "CardID": "10950"
+  },
+  {
+    "CardName": "Ghostrick Nekomusume",
+    "CardID": "10909"
+  },
+  {
+    "CardName": "Ghostrick Night",
+    "CardID": "11103"
+  },
+  {
+    "CardName": "Ghostrick or Treat",
+    "CardID": "16881"
+  },
+  {
+    "CardName": "Ghostrick Parade",
+    "CardID": "11092"
+  },
+  {
+    "CardName": "Ghostrick Renovation",
+    "CardID": "13445"
+  },
+  {
+    "CardName": "Ghostrick Scare",
+    "CardID": "10805"
+  },
+  {
+    "CardName": "Ghostrick Shot",
+    "CardID": "16862"
+  },
+  {
+    "CardName": "Ghostrick Siren",
+    "CardID": "16819"
+  },
+  {
+    "CardName": "Ghostrick Skeleton",
+    "CardID": "10910"
+  },
+  {
+    "CardName": "Ghostrick Socuteboss",
+    "CardID": "11080"
+  },
+  {
+    "CardName": "Ghostrick Specter",
+    "CardID": "10748"
+  },
+  {
+    "CardName": "Ghostrick Stein",
+    "CardID": "10752"
+  },
+  {
+    "CardName": "Ghostrick Vanish",
+    "CardID": "10804"
+  },
+  {
+    "CardName": "Ghostrick Warwolf",
+    "CardID": "11052"
+  },
+  {
+    "CardName": "Ghostrick Witch",
+    "CardID": "10749"
+  },
+  {
+    "CardName": "Ghostrick Yeti",
+    "CardID": "10986"
+  },
+  {
+    "CardName": "Ghostrick Yuki-onna",
+    "CardID": "10750"
+  },
+  {
+    "CardName": "Ghostrick-Go-Round",
+    "CardID": "10960"
+  },
+  {
+    "CardName": "Ghosts From the Past",
+    "CardID": "11428"
+  },
+  {
+    "CardName": "Ghoti Chain",
+    "CardID": "17756"
+  },
+  {
+    "CardName": "Ghoti Cosmos",
+    "CardID": "18040"
+  },
+  {
+    "CardName": "Ghoti Fury",
+    "CardID": "18041"
+  },
+  {
+    "CardName": "Ghoti of the Deep Beyond",
+    "CardID": "17754"
+  },
+  {
+    "CardName": "Giant Axe Mummy",
+    "CardID": "5420"
+  },
+  {
+    "CardName": "Giant Ballgame",
+    "CardID": "18207"
+  },
+  {
+    "CardName": "Giant Ballpark",
+    "CardID": "13949"
+  },
+  {
+    "CardName": "Giant Beetrooper Invincible Atlas",
+    "CardID": "16632"
+  }
+]

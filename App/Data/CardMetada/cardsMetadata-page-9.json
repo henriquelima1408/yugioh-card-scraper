@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Barkion's Bark",
+    "CardID": "9129"
+  },
+  {
+    "CardName": "Baromet the Sacred Sheep Shrub",
+    "CardID": "18447"
+  },
+  {
+    "CardName": "Baron of the Fiend Sword",
+    "CardID": "4882"
+  },
+  {
+    "CardName": "Baronne de Fleur",
+    "CardID": "16386"
+  },
+  {
+    "CardName": "Barox",
+    "CardID": "4092"
+  },
+  {
+    "CardName": "Barrage Blast",
+    "CardID": "14184"
+  },
+  {
+    "CardName": "Barrel Behind the Door",
+    "CardID": "5543"
+  },
+  {
+    "CardName": "Barrel Dragon",
+    "CardID": "4749"
+  },
+  {
+    "CardName": "Barricadeborg Blocker",
+    "CardID": "14710"
+  },
+  {
+    "CardName": "Barrier Resonator",
+    "CardID": "9297"
+  },
+  {
+    "CardName": "Barrier Statue of the Abyss",
+    "CardID": "6882"
+  },
+  {
+    "CardName": "Barrier Statue of the Drought",
+    "CardID": "6886"
+  },
+  {
+    "CardName": "Barrier Statue of the Heavens",
+    "CardID": "6887"
+  },
+  {
+    "CardName": "Barrier Statue of the Inferno",
+    "CardID": "6884"
+  },
+  {
+    "CardName": "Barrier Statue of the Stormwinds",
+    "CardID": "6885"
+  },
+  {
+    "CardName": "Barrier Statue of the Torrent",
+    "CardID": "6883"
+  },
+  {
+    "CardName": "Barrier Wave",
+    "CardID": "8999"
+  },
+  {
+    "CardName": "Basal Rose Shoot",
+    "CardID": "16020"
+  },
+  {
+    "CardName": "Bashing Shield",
+    "CardID": "11426"
+  },
+  {
+    "CardName": "Basic Insect",
+    "CardID": "4056"
+  },
+  {
+    "CardName": "Basilius, Familiar of the Evil Eye",
+    "CardID": "14420"
+  },
+  {
+    "CardName": "Basiltrice, Familiar of the Evil Eye",
+    "CardID": "18164"
+  },
+  {
+    "CardName": "Battery Charger",
+    "CardID": "6348"
+  },
+  {
+    "CardName": "Batteryman 9-Volt",
+    "CardID": "11247"
+  },
+  {
+    "CardName": "Batteryman AA",
+    "CardID": "6339"
+  },
+  {
+    "CardName": "Batteryman AAA",
+    "CardID": "8810"
+  },
+  {
+    "CardName": "Batteryman C",
+    "CardID": "6428"
+  },
+  {
+    "CardName": "Batteryman Charger",
+    "CardID": "7603"
+  },
+  {
+    "CardName": "Batteryman D",
+    "CardID": "6703"
+  },
+  {
+    "CardName": "Batteryman Fuel Cell",
+    "CardID": "8811"
+  },
+  {
+    "CardName": "Batteryman Industrial Strength",
+    "CardID": "7604"
+  },
+  {
+    "CardName": "Batteryman Micro-Cell",
+    "CardID": "7605"
+  },
+  {
+    "CardName": "Batteryman Solar",
+    "CardID": "13581"
+  },
+  {
+    "CardName": "Battle Break",
+    "CardID": "10288"
+  },
+  {
+    "CardName": "Battle Fader",
+    "CardID": "8617"
+  },
+  {
+    "CardName": "Battle Footballer",
+    "CardID": "5702"
+  },
+  {
+    "CardName": "Battle Fusion",
+    "CardID": "11162"
+  },
+  {
+    "CardName": "Battle Instinct",
+    "CardID": "8995"
+  },
+  {
+    "CardName": "Battle Mania",
+    "CardID": "7918"
+  },
+  {
+    "CardName": "Battle of Sleeping Spirits",
+    "CardID": "17627"
+  },
+  {
+    "CardName": "Battle of the Elements",
+    "CardID": "8365"
+  },
+  {
+    "CardName": "Battle Ox",
+    "CardID": "4032"
+  },
+  {
+    "CardName": "Battle Royal Mode - Joining",
+    "CardID": "17260"
+  },
+  {
+    "CardName": "Battle Shogun of the Six Samurai",
+    "CardID": "14200"
+  },
+  {
+    "CardName": "Battle Steer",
+    "CardID": "4020"
+  },
+  {
+    "CardName": "Battle Survivor",
+    "CardID": "14841"
+  },
+  {
+    "CardName": "Battle Teleportation",
+    "CardID": "8362"
+  },
+  {
+    "CardName": "Battle Tuned",
+    "CardID": "7742"
+  },
+  {
+    "CardName": "Battle Waltz",
+    "CardID": "9238"
+  },
+  {
+    "CardName": "Battle Warrior",
+    "CardID": "4106"
+  },
+  {
+    "CardName": "Battle-Scarred",
+    "CardID": "5794"
+  },
+  {
+    "CardName": "Battlecruiser Dianthus",
+    "CardID": "10716"
+  },
+  {
+    "CardName": "Battlefield Tragedy",
+    "CardID": "6715"
+  },
+  {
+    "CardName": "Battleguard Cadet",
+    "CardID": "17137"
+  },
+  {
+    "CardName": "Battleguard Howling",
+    "CardID": "11278"
+  },
+  {
+    "CardName": "Battleguard King",
+    "CardID": "11226"
+  },
+  {
+    "CardName": "Battleguard Rage",
+    "CardID": "11277"
+  },
+  {
+    "CardName": "Battlestorm",
+    "CardID": "8371"
+  },
+  {
+    "CardName": "Battlewasp - Arbalest the Rapidfire",
+    "CardID": "14571"
+  },
+  {
+    "CardName": "Battlewasp - Azusa the Ghost Bow",
+    "CardID": "14572"
+  },
+  {
+    "CardName": "Battlewasp - Ballista the Armageddon",
+    "CardID": "14575"
+  },
+  {
+    "CardName": "Battlewasp - Dart the Hunter",
+    "CardID": "14568"
+  },
+  {
+    "CardName": "Battlewasp - Halberd the Charge",
+    "CardID": "14573"
+  },
+  {
+    "CardName": "Battlewasp - Hama the Conquering Bow",
+    "CardID": "14574"
+  },
+  {
+    "CardName": "Battlewasp - Nest",
+    "CardID": "14578"
+  },
+  {
+    "CardName": "Battlewasp - Pin the Bullseye",
+    "CardID": "14567"
+  },
+  {
+    "CardName": "Battlewasp - Sting the Poison",
+    "CardID": "14569"
+  },
+  {
+    "CardName": "Battlewasp - Twinbow the Attacker",
+    "CardID": "14570"
+  },
+  {
+    "CardName": "Battlin' Boxer Big Bandage",
+    "CardID": "11037"
+  },
+  {
+    "CardName": "Battlin' Boxer Cheat Commissioner",
+    "CardID": "10780"
+  },
+  {
+    "CardName": "Battlin' Boxer Counterpunch",
+    "CardID": "10501"
+  },
+  {
+    "CardName": "Battlin' Boxer Glassjaw",
+    "CardID": "10498"
+  },
+  {
+    "CardName": "Battlin' Boxer Headgeared",
+    "CardID": "10497"
+  },
+  {
+    "CardName": "Battlin' Boxer Lead Yoke",
+    "CardID": "10531"
+  },
+  {
+    "CardName": "Battlin' Boxer Rabbit Puncher",
+    "CardID": "10738"
+  },
+  {
+    "CardName": "Battlin' Boxer Rib Gardna",
+    "CardID": "10737"
+  },
+  {
+    "CardName": "Battlin' Boxer Shadow",
+    "CardID": "11117"
+  },
+  {
+    "CardName": "Battlin' Boxer Sparrer",
+    "CardID": "10499"
+  },
+  {
+    "CardName": "Battlin' Boxer Switchitter",
+    "CardID": "10500"
+  },
+  {
+    "CardName": "Battlin' Boxer Veil",
+    "CardID": "11038"
+  },
+  {
+    "CardName": "Battlin' Boxing Spirits",
+    "CardID": "10791"
+  },
+  {
+    "CardName": "Baxia, Brightness of the Yang Zing",
+    "CardID": "11260"
+  },
+  {
+    "CardName": "Bayerock Dragon",
+    "CardID": "18030"
+  },
+  {
+    "CardName": "Bayonater, the Baneful Barrel",
+    "CardID": "14657"
+  },
+  {
+    "CardName": "Bayonet Punisher",
+    "CardID": "14786"
+  },
+  {
+    "CardName": "Bazoo the Soul-Eater",
+    "CardID": "5250"
+  },
+  {
+    "CardName": "Beacon of White",
+    "CardID": "12332"
+  },
+  {
+    "CardName": "Bean Soldier",
+    "CardID": "4517"
+  },
+  {
+    "CardName": "Bearblocker",
+    "CardID": "13916"
+  },
+  {
+    "CardName": "Beargram, Shelled Emperor of the Forest Crown",
+    "CardID": "18166"
+  },
+  {
+    "CardName": "Beast Fangs",
+    "CardID": "4314"
+  },
+  {
+    "CardName": "Beast King Barbaros",
+    "CardID": "7346"
+  },
+  {
+    "CardName": "Beast King Unleashed",
+    "CardID": "16267"
+  },
+  {
+    "CardName": "Beast Machine King Barbaros &Uuml;r",
+    "CardID": "7790"
+  },
+  {
+    "CardName": "Beast Magic Attack",
+    "CardID": "13779"
+  },
+  {
+    "CardName": "Beast of Talwar",
+    "CardID": "4789"
+  },
+  {
+    "CardName": "Beast of the Pharaoh",
+    "CardID": "7726"
+  },
+  {
+    "CardName": "Beast Rage",
+    "CardID": "8987"
+  },
+  {
+    "CardName": "Beast Rising",
+    "CardID": "9005"
+  },
+  {
+    "CardName": "Beast Soul Swap",
+    "CardID": "6281"
+  }
+]

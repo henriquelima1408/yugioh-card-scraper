@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Machina Megaform",
+    "CardID": "11368"
+  },
+  {
+    "CardName": "Machina Metalcruncher",
+    "CardID": "15182"
+  },
+  {
+    "CardName": "Machina Overdrive",
+    "CardID": "15094"
+  },
+  {
+    "CardName": "Machina Peacekeeper",
+    "CardID": "8694"
+  },
+  {
+    "CardName": "Machina Possesstorage",
+    "CardID": "15095"
+  },
+  {
+    "CardName": "Machina Redeployment",
+    "CardID": "15092"
+  },
+  {
+    "CardName": "Machina Resavenger",
+    "CardID": "15260"
+  },
+  {
+    "CardName": "Machina Ruinforce",
+    "CardID": "16514"
+  },
+  {
+    "CardName": "Machina Sniper",
+    "CardID": "6304"
+  },
+  {
+    "CardName": "Machina Soldier",
+    "CardID": "6302"
+  },
+  {
+    "CardName": "Machina Unclaspare",
+    "CardID": "15718"
+  },
+  {
+    "CardName": "Machine Angel Absolute Ritual",
+    "CardID": "12790"
+  },
+  {
+    "CardName": "Machine Angel Ritual",
+    "CardID": "6850"
+  },
+  {
+    "CardName": "Machine Assembly Line",
+    "CardID": "8668"
+  },
+  {
+    "CardName": "Machine Conversion Factory",
+    "CardID": "4331"
+  },
+  {
+    "CardName": "Machine Duplication",
+    "CardID": "5498"
+  },
+  {
+    "CardName": "Machine King",
+    "CardID": "4413"
+  },
+  {
+    "CardName": "Machine King - 3000 B.C.",
+    "CardID": "8685"
+  },
+  {
+    "CardName": "Machine King Prototype",
+    "CardID": "6590"
+  },
+  {
+    "CardName": "Machine Lord &Uuml;r",
+    "CardID": "7760"
+  },
+  {
+    "CardName": "Macro Cosmos",
+    "CardID": "6682"
+  },
+  {
+    "CardName": "Mad Archfiend",
+    "CardID": "7871"
+  },
+  {
+    "CardName": "Mad Dog of Darkness",
+    "CardID": "5872"
+  },
+  {
+    "CardName": "Mad Hacker",
+    "CardID": "16835"
+  },
+  {
+    "CardName": "Mad Lobster",
+    "CardID": "6412"
+  },
+  {
+    "CardName": "Mad Mauler",
+    "CardID": "17125"
+  },
+  {
+    "CardName": "Mad Reloader",
+    "CardID": "7348"
+  },
+  {
+    "CardName": "Mad Sword Beast",
+    "CardID": "5142"
+  },
+  {
+    "CardName": "Made to Order Mermaid Outfit Outfitter",
+    "CardID": "18454"
+  },
+  {
+    "CardName": "Madolche Anjelly",
+    "CardID": "11057"
+  },
+  {
+    "CardName": "Madolche Baaple",
+    "CardID": "10152"
+  },
+  {
+    "CardName": "Madolche Butlerusk",
+    "CardID": "10155"
+  },
+  {
+    "CardName": "Madolche Chateau",
+    "CardID": "10191"
+  },
+  {
+    "CardName": "Madolche Chickolates",
+    "CardID": "10583"
+  },
+  {
+    "CardName": "Madolche Chouxvalier",
+    "CardID": "10153"
+  },
+  {
+    "CardName": "Madolche Cruffssant",
+    "CardID": "10247"
+  },
+  {
+    "CardName": "Madolche Fresh Sistart",
+    "CardID": "13498"
+  },
+  {
+    "CardName": "Madolche Hootcake",
+    "CardID": "10513"
+  },
+  {
+    "CardName": "Madolche Lesson",
+    "CardID": "10200"
+  },
+  {
+    "CardName": "Madolche Magileine",
+    "CardID": "10154"
+  },
+  {
+    "CardName": "Madolche Marmalmaide",
+    "CardID": "10248"
+  },
+  {
+    "CardName": "Madolche Messengelato",
+    "CardID": "10249"
+  },
+  {
+    "CardName": "Madolche Mewfeuille",
+    "CardID": "10151"
+  },
+  {
+    "CardName": "Madolche Nights",
+    "CardID": "10557"
+  },
+  {
+    "CardName": "Madolche Petingcessoeur",
+    "CardID": "14100"
+  },
+  {
+    "CardName": "Madolche Promenade",
+    "CardID": "15062"
+  },
+  {
+    "CardName": "Madolche Puddingcess",
+    "CardID": "10156"
+  },
+  {
+    "CardName": "Madolche Puddingcess Chocolat-a-la-Mode",
+    "CardID": "11726"
+  },
+  {
+    "CardName": "Madolche Queen Tiaramisu",
+    "CardID": "10270"
+  },
+  {
+    "CardName": "Madolche Salon",
+    "CardID": "15050"
+  },
+  {
+    "CardName": "Madolche Tea Break",
+    "CardID": "10202"
+  },
+  {
+    "CardName": "Madolche Teacher Glassouffle",
+    "CardID": "14289"
+  },
+  {
+    "CardName": "Madolche Ticket",
+    "CardID": "10283"
+  },
+  {
+    "CardName": "Madolche Waltz",
+    "CardID": "10201"
+  },
+  {
+    "CardName": "Madolchepalooza",
+    "CardID": "10296"
+  },
+  {
+    "CardName": "Maestroke the Symphony Djinn",
+    "CardID": "10128"
+  },
+  {
+    "CardName": "Mage Power",
+    "CardID": "5213"
+  },
+  {
+    "CardName": "Magellanica, the Deep Sea City",
+    "CardID": "15293"
+  },
+  {
+    "CardName": "Magic Cylinder",
+    "CardID": "5124"
+  },
+  {
+    "CardName": "Magic Deflector",
+    "CardID": "10298"
+  },
+  {
+    "CardName": "Magic Drain",
+    "CardID": "5133"
+  },
+  {
+    "CardName": "Magic Formula",
+    "CardID": "5223"
+  },
+  {
+    "CardName": "Magic Gate of Miracles",
+    "CardID": "14376"
+  },
+  {
+    "CardName": "Magic Hand",
+    "CardID": "11189"
+  },
+  {
+    "CardName": "Magic Hole Golem",
+    "CardID": "8619"
+  },
+  {
+    "CardName": "Magic Jammer",
+    "CardID": "4862"
+  },
+  {
+    "CardName": "Magic Planter",
+    "CardID": "8200"
+  },
+  {
+    "CardName": "Magic Reflector",
+    "CardID": "5395"
+  },
+  {
+    "CardName": "Magic Triangle of the Ice Barrier",
+    "CardID": "8832"
+  },
+  {
+    "CardName": "Magical Abductor",
+    "CardID": "11825"
+  },
+  {
+    "CardName": "Magical Android",
+    "CardID": "7737"
+  },
+  {
+    "CardName": "Magical Arm Shield",
+    "CardID": "4834"
+  },
+  {
+    "CardName": "Magical Blast",
+    "CardID": "6532"
+  },
+  {
+    "CardName": "Magical Broker",
+    "CardID": "15505"
+  },
+  {
+    "CardName": "Magical Cavalry of Cxulub",
+    "CardID": "12383"
+  },
+  {
+    "CardName": "Magical Citadel of Endymion",
+    "CardID": "8135"
+  },
+  {
+    "CardName": "Magical Contract Door",
+    "CardID": "12503"
+  },
+  {
+    "CardName": "Magical Cylinders",
+    "CardID": "16556"
+  },
+  {
+    "CardName": "Magical Dimension",
+    "CardID": "5752"
+  },
+  {
+    "CardName": "Magical Exemplar",
+    "CardID": "7799"
+  },
+  {
+    "CardName": "Magical Explosion",
+    "CardID": "6444"
+  },
+  {
+    "CardName": "Magical Ghost",
+    "CardID": "4476"
+  },
+  {
+    "CardName": "Magical Hats",
+    "CardID": "4962"
+  },
+  {
+    "CardName": "Magical Hound",
+    "CardID": "15025"
+  },
+  {
+    "CardName": "Magical King Moonstar",
+    "CardID": "9051"
+  },
+  {
+    "CardName": "Magical Labyrinth",
+    "CardID": "4658"
+  },
+  {
+    "CardName": "Magical Mallet",
+    "CardID": "6541"
+  },
+  {
+    "CardName": "Magical Marionette",
+    "CardID": "5653"
+  },
+  {
+    "CardName": "Magical Meltdown",
+    "CardID": "12851"
+  },
+  {
+    "CardName": "Magical Merchant",
+    "CardID": "5663"
+  },
+  {
+    "CardName": "Magical Mid-Breaker Field",
+    "CardID": "12466"
+  },
+  {
+    "CardName": "Magical Musket - Crooked Crown",
+    "CardID": "14322"
+  },
+  {
+    "CardName": "Magical Musket - Cross-Domination",
+    "CardID": "13323"
+  },
+  {
+    "CardName": "Magical Musket - Dancing Needle",
+    "CardID": "13325"
+  },
+  {
+    "CardName": "Magical Musket - Desperado",
+    "CardID": "13324"
+  },
+  {
+    "CardName": "Magical Musket - Fiendish Deal",
+    "CardID": "13326"
+  },
+  {
+    "CardName": "Magical Musket - Last Stand",
+    "CardID": "13327"
+  },
+  {
+    "CardName": "Magical Musket - Steady Hands",
+    "CardID": "13322"
+  },
+  {
+    "CardName": "Magical Musket Mastermind Zakiel",
+    "CardID": "13321"
+  },
+  {
+    "CardName": "Magical Musketeer Calamity",
+    "CardID": "13319"
+  }
+]

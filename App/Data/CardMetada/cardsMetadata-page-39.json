@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Flame Administrator",
+    "CardID": "13412"
+  },
+  {
+    "CardName": "Flame Armor Ninja",
+    "CardID": "9887"
+  },
+  {
+    "CardName": "Flame Bufferlo",
+    "CardID": "13521"
+  },
+  {
+    "CardName": "Flame Cerebrus",
+    "CardID": "4535"
+  },
+  {
+    "CardName": "Flame Champion",
+    "CardID": "4971"
+  },
+  {
+    "CardName": "Flame Dancer",
+    "CardID": "5048"
+  },
+  {
+    "CardName": "Flame Ghost",
+    "CardID": "4221"
+  },
+  {
+    "CardName": "Flame Manipulator",
+    "CardID": "4148"
+  },
+  {
+    "CardName": "Flame Ogre",
+    "CardID": "6938"
+  },
+  {
+    "CardName": "Flame Ruler",
+    "CardID": "6260"
+  },
+  {
+    "CardName": "Flame Spirit Ignis",
+    "CardID": "7801"
+  },
+  {
+    "CardName": "Flame Swordsman",
+    "CardID": "4021"
+  },
+  {
+    "CardName": "Flame Tiger",
+    "CardID": "10062"
+  },
+  {
+    "CardName": "Flame Viper",
+    "CardID": "4650"
+  },
+  {
+    "CardName": "Flamvell Archer",
+    "CardID": "7819"
+  },
+  {
+    "CardName": "Flamvell Baby",
+    "CardID": "7959"
+  },
+  {
+    "CardName": "Flamvell Commando",
+    "CardID": "8527"
+  },
+  {
+    "CardName": "Flamvell Counter",
+    "CardID": "8368"
+  },
+  {
+    "CardName": "Flamvell Dragnov",
+    "CardID": "7533"
+  },
+  {
+    "CardName": "Flamvell Fiend",
+    "CardID": "7820"
+  },
+  {
+    "CardName": "Flamvell Firedog",
+    "CardID": "8328"
+  },
+  {
+    "CardName": "Flamvell Grunika",
+    "CardID": "7958"
+  },
+  {
+    "CardName": "Flamvell Guard",
+    "CardID": "7535"
+  },
+  {
+    "CardName": "Flamvell Magician",
+    "CardID": "7534"
+  },
+  {
+    "CardName": "Flamvell Poun",
+    "CardID": "7818"
+  },
+  {
+    "CardName": "Flamvell Uruquizas",
+    "CardID": "7550"
+  },
+  {
+    "CardName": "Flare Resonator",
+    "CardID": "8786"
+  },
+  {
+    "CardName": "Flash Assailant",
+    "CardID": "4918"
+  },
+  {
+    "CardName": "Flash Charge Dragon",
+    "CardID": "13838"
+  },
+  {
+    "CardName": "Flash Fusion",
+    "CardID": "11161"
+  },
+  {
+    "CardName": "Flash Knight",
+    "CardID": "11210"
+  },
+  {
+    "CardName": "Flash of the Forbidden Spell",
+    "CardID": "6899"
+  },
+  {
+    "CardName": "Flashbang",
+    "CardID": "7009"
+  },
+  {
+    "CardName": "Flawless Perfection of the Tenyi",
+    "CardID": "14503"
+  },
+  {
+    "CardName": "Flelf",
+    "CardID": "9833"
+  },
+  {
+    "CardName": "Fleur Synchron",
+    "CardID": "9198"
+  },
+  {
+    "CardName": "Fleuret de Fleur",
+    "CardID": "16387"
+  },
+  {
+    "CardName": "Flick Clown",
+    "CardID": "13374"
+  },
+  {
+    "CardName": "Flint",
+    "CardID": "6210"
+  },
+  {
+    "CardName": "Flint Cragger",
+    "CardID": "15879"
+  },
+  {
+    "CardName": "Flint Lock",
+    "CardID": "7205"
+  },
+  {
+    "CardName": "Flint Missile",
+    "CardID": "7218"
+  },
+  {
+    "CardName": "Flip Flop Frog",
+    "CardID": "7943"
+  },
+  {
+    "CardName": "Flip Frozen",
+    "CardID": "14431"
+  },
+  {
+    "CardName": "Flogos, the Ogdoadic Boundless",
+    "CardID": "16073"
+  },
+  {
+    "CardName": "Floodgate Trap Hole",
+    "CardID": "12475"
+  },
+  {
+    "CardName": "Floowandereeze &amp; Eglen",
+    "CardID": "16499"
+  },
+  {
+    "CardName": "Floowandereeze &amp; Empen",
+    "CardID": "16503"
+  },
+  {
+    "CardName": "Floowandereeze &amp; Robina",
+    "CardID": "16498"
+  },
+  {
+    "CardName": "Floowandereeze &amp; Snowl",
+    "CardID": "16502"
+  },
+  {
+    "CardName": "Floowandereeze &amp; Stri",
+    "CardID": "16500"
+  },
+  {
+    "CardName": "Floowandereeze &amp; Toccan",
+    "CardID": "16501"
+  },
+  {
+    "CardName": "Floowandereeze and the Advent of Adventure",
+    "CardID": "16865"
+  },
+  {
+    "CardName": "Floowandereeze and the Dreaming Town",
+    "CardID": "16560"
+  },
+  {
+    "CardName": "Floowandereeze and the Magnificent Map",
+    "CardID": "16544"
+  },
+  {
+    "CardName": "Floowandereeze and the Scary Sea",
+    "CardID": "16561"
+  },
+  {
+    "CardName": "Floowandereeze and the Unexplored Winds",
+    "CardID": "16545"
+  },
+  {
+    "CardName": "Flourishing Frolic",
+    "CardID": "15058"
+  },
+  {
+    "CardName": "Flower Cardian Boardefly",
+    "CardID": "12633"
+  },
+  {
+    "CardName": "Flower Cardian Cherry Blossom",
+    "CardID": "15387"
+  },
+  {
+    "CardName": "Flower Cardian Cherry Blossom with Curtain",
+    "CardID": "12747"
+  },
+  {
+    "CardName": "Flower Cardian Clover with Boar",
+    "CardID": "12602"
+  },
+  {
+    "CardName": "Flower Cardian Lightflare",
+    "CardID": "12780"
+  },
+  {
+    "CardName": "Flower Cardian Lightshower",
+    "CardID": "12562"
+  },
+  {
+    "CardName": "Flower Cardian Maple with Deer",
+    "CardID": "12603"
+  },
+  {
+    "CardName": "Flower Cardian Moonflowerviewing",
+    "CardID": "12869"
+  },
+  {
+    "CardName": "Flower Cardian Paulownia",
+    "CardID": "12557"
+  },
+  {
+    "CardName": "Flower Cardian Paulownia with Phoenix",
+    "CardID": "12561"
+  },
+  {
+    "CardName": "Flower Cardian Peony with Butterfly",
+    "CardID": "12604"
+  },
+  {
+    "CardName": "Flower Cardian Pine",
+    "CardID": "12554"
+  },
+  {
+    "CardName": "Flower Cardian Pine with Crane",
+    "CardID": "12558"
+  },
+  {
+    "CardName": "Flower Cardian Willow",
+    "CardID": "12556"
+  },
+  {
+    "CardName": "Flower Cardian Willow with Calligrapher",
+    "CardID": "12560"
+  },
+  {
+    "CardName": "Flower Cardian Zebra Grass",
+    "CardID": "12555"
+  },
+  {
+    "CardName": "Flower Cardian Zebra Grass with Moon",
+    "CardID": "12559"
+  },
+  {
+    "CardName": "Flower Gathering",
+    "CardID": "12563"
+  },
+  {
+    "CardName": "Flower Stacking",
+    "CardID": "12645"
+  },
+  {
+    "CardName": "Flower Wolf",
+    "CardID": "4493"
+  },
+  {
+    "CardName": "Flowerbot",
+    "CardID": "10994"
+  },
+  {
+    "CardName": "Flowerdino",
+    "CardID": "17228"
+  },
+  {
+    "CardName": "Fluffal Angel",
+    "CardID": "13701"
+  },
+  {
+    "CardName": "Fluffal Bear",
+    "CardID": "11348"
+  },
+  {
+    "CardName": "Fluffal Cat",
+    "CardID": "11351"
+  },
+  {
+    "CardName": "Fluffal Crane",
+    "CardID": "11743"
+  },
+  {
+    "CardName": "Fluffal Dog",
+    "CardID": "11349"
+  },
+  {
+    "CardName": "Fluffal Dolphin",
+    "CardID": "15255"
+  },
+  {
+    "CardName": "Fluffal Leo",
+    "CardID": "11347"
+  },
+  {
+    "CardName": "Fluffal Mouse",
+    "CardID": "11794"
+  },
+  {
+    "CardName": "Fluffal Octopus",
+    "CardID": "12840"
+  },
+  {
+    "CardName": "Fluffal Owl",
+    "CardID": "11350"
+  },
+  {
+    "CardName": "Fluffal Penguin",
+    "CardID": "12841"
+  },
+  {
+    "CardName": "Fluffal Rabbit",
+    "CardID": "11352"
+  },
+  {
+    "CardName": "Fluffal Sheep",
+    "CardID": "11686"
+  },
+  {
+    "CardName": "Fluffal Wings",
+    "CardID": "11953"
+  },
+  {
+    "CardName": "Flyfang",
+    "CardID": "9636"
+  },
+  {
+    "CardName": "Flying &quot;C&quot;",
+    "CardID": "10642"
+  },
+  {
+    "CardName": "Flying Elephant",
+    "CardID": "5289"
+  },
+  {
+    "CardName": "Flying Fish",
+    "CardID": "5065"
+  },
+  {
+    "CardName": "Flying Fortress SKY FIRE",
+    "CardID": "7999"
+  },
+  {
+    "CardName": "Flying Kamakiri #1",
+    "CardID": "4927"
+  }
+]

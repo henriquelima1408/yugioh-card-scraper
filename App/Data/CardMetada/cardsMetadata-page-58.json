@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Killer Needle",
+    "CardID": "4059"
+  },
+  {
+    "CardName": "King Beast Barbaros",
+    "CardID": "15016"
+  },
+  {
+    "CardName": "King Dragun",
+    "CardID": "6265"
+  },
+  {
+    "CardName": "King Fog",
+    "CardID": "4285"
+  },
+  {
+    "CardName": "King Landia the Goldfang",
+    "CardID": "9850"
+  },
+  {
+    "CardName": "King of Destruction - Xexex",
+    "CardID": "6533"
+  },
+  {
+    "CardName": "King of the Beasts",
+    "CardID": "8377"
+  },
+  {
+    "CardName": "King of the Feral Imps",
+    "CardID": "10537"
+  },
+  {
+    "CardName": "King of the Skull Servants",
+    "CardID": "6341"
+  },
+  {
+    "CardName": "King of the Swamp",
+    "CardID": "6044"
+  },
+  {
+    "CardName": "King of Yamimakai",
+    "CardID": "4091"
+  },
+  {
+    "CardName": "King Pyron",
+    "CardID": "7203"
+  },
+  {
+    "CardName": "King Scarlet",
+    "CardID": "12469"
+  },
+  {
+    "CardName": "King Tiger Wanghu",
+    "CardID": "5016"
+  },
+  {
+    "CardName": "King's Consonance",
+    "CardID": "12271"
+  },
+  {
+    "CardName": "King's Knight",
+    "CardID": "5558"
+  },
+  {
+    "CardName": "King's Synchro",
+    "CardID": "12657"
+  },
+  {
+    "CardName": "Kingyo Sukui",
+    "CardID": "14390"
+  },
+  {
+    "CardName": "Kinka-byo",
+    "CardID": "7728"
+  },
+  {
+    "CardName": "Kiryu",
+    "CardID": "5583"
+  },
+  {
+    "CardName": "Kiseitai",
+    "CardID": "4976"
+  },
+  {
+    "CardName": "Kishido Spirit",
+    "CardID": "5612"
+  },
+  {
+    "CardName": "Kitchen Dragonmaid",
+    "CardID": "14761"
+  },
+  {
+    "CardName": "Kitsuni Kitsunebi",
+    "CardID": "18491"
+  },
+  {
+    "CardName": "Kittytail, Mystical Beast of the Forest",
+    "CardID": "18227"
+  },
+  {
+    "CardName": "Kiwi Magician Girl",
+    "CardID": "12499"
+  },
+  {
+    "CardName": "Knight Day Grepher",
+    "CardID": "10769"
+  },
+  {
+    "CardName": "Knight of Armor Dragon",
+    "CardID": "15728"
+  },
+  {
+    "CardName": "Knight of the Red Lotus",
+    "CardID": "8467"
+  },
+  {
+    "CardName": "Knight's Title",
+    "CardID": "5757"
+  },
+  {
+    "CardName": "Knightmare Cerberus",
+    "CardID": "13599"
+  },
+  {
+    "CardName": "Knightmare Corruptor Iblee",
+    "CardID": "13571"
+  },
+  {
+    "CardName": "Knightmare Goblin",
+    "CardID": "13598"
+  },
+  {
+    "CardName": "Knightmare Gryphon",
+    "CardID": "13602"
+  },
+  {
+    "CardName": "Knightmare Incarnation Idlee",
+    "CardID": "14267"
+  },
+  {
+    "CardName": "Knightmare Mermaid",
+    "CardID": "13597"
+  },
+  {
+    "CardName": "Knightmare Phoenix",
+    "CardID": "13600"
+  },
+  {
+    "CardName": "Knightmare Unicorn",
+    "CardID": "13601"
+  },
+  {
+    "CardName": "Koa'ki Meiru Beetle",
+    "CardID": "8593"
+  },
+  {
+    "CardName": "Koa'ki Meiru Bergzak",
+    "CardID": "8516"
+  },
+  {
+    "CardName": "Koa'ki Meiru Boulder",
+    "CardID": "8309"
+  },
+  {
+    "CardName": "Koa'ki Meiru Crusader",
+    "CardID": "8310"
+  },
+  {
+    "CardName": "Koa'ki Meiru Doom",
+    "CardID": "8178"
+  },
+  {
+    "CardName": "Koa'ki Meiru Drago",
+    "CardID": "8176"
+  },
+  {
+    "CardName": "Koa'ki Meiru Ghoulungulate",
+    "CardID": "8523"
+  },
+  {
+    "CardName": "Koa'ki Meiru Gravirose",
+    "CardID": "8524"
+  },
+  {
+    "CardName": "Koa'ki Meiru Guardian",
+    "CardID": "8175"
+  },
+  {
+    "CardName": "Koa'ki Meiru Hydro Barrier",
+    "CardID": "8313"
+  },
+  {
+    "CardName": "Koa'ki Meiru Ice",
+    "CardID": "8177"
+  },
+  {
+    "CardName": "Koa'ki Meiru Initialize!",
+    "CardID": "8833"
+  },
+  {
+    "CardName": "Koa'ki Meiru Maximus",
+    "CardID": "8594"
+  },
+  {
+    "CardName": "Koa'ki Meiru Overload",
+    "CardID": "11553"
+  },
+  {
+    "CardName": "Koa'ki Meiru Powerhand",
+    "CardID": "8174"
+  },
+  {
+    "CardName": "Koa'ki Meiru Prototype",
+    "CardID": "9033"
+  },
+  {
+    "CardName": "Koa'ki Meiru Rooklord",
+    "CardID": "8463"
+  },
+  {
+    "CardName": "Koa'ki Meiru Sandman",
+    "CardID": "8804"
+  },
+  {
+    "CardName": "Koa'ki Meiru Sea Panther",
+    "CardID": "8462"
+  },
+  {
+    "CardName": "Koa'ki Meiru Shield",
+    "CardID": "8852"
+  },
+  {
+    "CardName": "Koa'ki Meiru Speeder",
+    "CardID": "8311"
+  },
+  {
+    "CardName": "Koa'ki Meiru Supplier",
+    "CardID": "15264"
+  },
+  {
+    "CardName": "Koa'ki Meiru Tornado",
+    "CardID": "8312"
+  },
+  {
+    "CardName": "Koa'ki Meiru Urnight",
+    "CardID": "8636"
+  },
+  {
+    "CardName": "Koa'ki Meiru Valafar",
+    "CardID": "8173"
+  },
+  {
+    "CardName": "Koa'ki Meiru Wall",
+    "CardID": "9284"
+  },
+  {
+    "CardName": "Koa'ki Meiru War Arms",
+    "CardID": "8372"
+  },
+  {
+    "CardName": "Koa'ki Ring",
+    "CardID": "9133"
+  },
+  {
+    "CardName": "Koalo-Koala",
+    "CardID": "7845"
+  },
+  {
+    "CardName": "Koitsu",
+    "CardID": "5664"
+  },
+  {
+    "CardName": "Kojikocy",
+    "CardID": "4072"
+  },
+  {
+    "CardName": "Konohanasakuya",
+    "CardID": "16216"
+  },
+  {
+    "CardName": "Kotodama",
+    "CardID": "4931"
+  },
+  {
+    "CardName": "Koumori Dragon",
+    "CardID": "4037"
+  },
+  {
+    "CardName": "Kozaky",
+    "CardID": "6020"
+  },
+  {
+    "CardName": "Kozaky's Self-Destruct Button",
+    "CardID": "6359"
+  },
+  {
+    "CardName": "Kozmo Dark Destroyer",
+    "CardID": "12103"
+  },
+  {
+    "CardName": "Kozmo Dark Eclipser",
+    "CardID": "12246"
+  },
+  {
+    "CardName": "Kozmo Dark Planet",
+    "CardID": "12388"
+  },
+  {
+    "CardName": "Kozmo Delta Shuttle",
+    "CardID": "12245"
+  },
+  {
+    "CardName": "Kozmo DOG Fighter",
+    "CardID": "12102"
+  },
+  {
+    "CardName": "Kozmo Farmgirl",
+    "CardID": "12033"
+  },
+  {
+    "CardName": "Kozmo Forerunner",
+    "CardID": "12036"
+  },
+  {
+    "CardName": "Kozmo Goodwitch",
+    "CardID": "12034"
+  },
+  {
+    "CardName": "Kozmo Landwalker",
+    "CardID": "12387"
+  },
+  {
+    "CardName": "Kozmo Lightsword",
+    "CardID": "12104"
+  },
+  {
+    "CardName": "Kozmo Scaredy Lion",
+    "CardID": "12385"
+  },
+  {
+    "CardName": "Kozmo Sliprider",
+    "CardID": "12035"
+  },
+  {
+    "CardName": "Kozmo Soartroopers",
+    "CardID": "12244"
+  },
+  {
+    "CardName": "Kozmo Strawman",
+    "CardID": "12100"
+  },
+  {
+    "CardName": "Kozmo Tincan",
+    "CardID": "12243"
+  },
+  {
+    "CardName": "Kozmojo",
+    "CardID": "12247"
+  },
+  {
+    "CardName": "Kozmoll Dark Lady",
+    "CardID": "12386"
+  },
+  {
+    "CardName": "Kozmoll Wickedwitch",
+    "CardID": "12101"
+  },
+  {
+    "CardName": "Kozmotown",
+    "CardID": "12037"
+  },
+  {
+    "CardName": "Kozmourning",
+    "CardID": "12389"
+  },
+  {
+    "CardName": "Krawler Axon",
+    "CardID": "13233"
+  },
+  {
+    "CardName": "Krawler Dendrite",
+    "CardID": "13237"
+  },
+  {
+    "CardName": "Krawler Glial",
+    "CardID": "13234"
+  },
+  {
+    "CardName": "Krawler Ranvier",
+    "CardID": "13236"
+  },
+  {
+    "CardName": "Krawler Receptor",
+    "CardID": "13235"
+  },
+  {
+    "CardName": "Krawler Soma",
+    "CardID": "17431"
+  }
+]

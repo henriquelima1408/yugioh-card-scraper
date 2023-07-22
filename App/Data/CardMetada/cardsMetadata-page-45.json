@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Giant Flea",
+    "CardID": "4061"
+  },
+  {
+    "CardName": "Giant Germ",
+    "CardID": "4921"
+  },
+  {
+    "CardName": "Giant Kozaky",
+    "CardID": "6420"
+  },
+  {
+    "CardName": "Giant Mech-Soldier",
+    "CardID": "4414"
+  },
+  {
+    "CardName": "Giant Orc",
+    "CardID": "5586"
+  },
+  {
+    "CardName": "Giant Pairfish",
+    "CardID": "11981"
+  },
+  {
+    "CardName": "Giant Rat",
+    "CardID": "4915"
+  },
+  {
+    "CardName": "Giant Red Seasnake",
+    "CardID": "4453"
+  },
+  {
+    "CardName": "Giant Rex",
+    "CardID": "5806"
+  },
+  {
+    "CardName": "Giant Soldier of Steel",
+    "CardID": "10355"
+  },
+  {
+    "CardName": "Giant Soldier of Stone",
+    "CardID": "4080"
+  },
+  {
+    "CardName": "Giant Starfall",
+    "CardID": "16565"
+  },
+  {
+    "CardName": "Giant Trap Hole",
+    "CardID": "7935"
+  },
+  {
+    "CardName": "Giant Trunade",
+    "CardID": "4910"
+  },
+  {
+    "CardName": "Giant Turtle Who Feeds on Flames",
+    "CardID": "4599"
+  },
+  {
+    "CardName": "Gift Card",
+    "CardID": "7234"
+  },
+  {
+    "CardName": "Gift Exchange",
+    "CardID": "11661"
+  },
+  {
+    "CardName": "Gift of the Martyr",
+    "CardID": "6346"
+  },
+  {
+    "CardName": "Gift of The Mystical Elf",
+    "CardID": "4986"
+  },
+  {
+    "CardName": "Giga Gagagigo",
+    "CardID": "5871"
+  },
+  {
+    "CardName": "Giga-Tech Wolf",
+    "CardID": "4418"
+  },
+  {
+    "CardName": "Gigantes",
+    "CardID": "5831"
+  },
+  {
+    "CardName": "Gigantic &quot;Champion&quot; Sargas",
+    "CardID": "18190"
+  },
+  {
+    "CardName": "Gigantic Cephalotus",
+    "CardID": "7666"
+  },
+  {
+    "CardName": "Gigantic Spright",
+    "CardID": "17449"
+  },
+  {
+    "CardName": "Gigantic Thundercross",
+    "CardID": "18217"
+  },
+  {
+    "CardName": "Giganticastle",
+    "CardID": "10789"
+  },
+  {
+    "CardName": "Giganto",
+    "CardID": "4425"
+  },
+  {
+    "CardName": "Gigaplant",
+    "CardID": "7427"
+  },
+  {
+    "CardName": "Gigastone Omega",
+    "CardID": "8184"
+  },
+  {
+    "CardName": "Gigathunder Giclops",
+    "CardID": "15723"
+  },
+  {
+    "CardName": "Gigobyte",
+    "CardID": "6019"
+  },
+  {
+    "CardName": "Gil Garth",
+    "CardID": "5491"
+  },
+  {
+    "CardName": "Gilasaurus",
+    "CardID": "5256"
+  },
+  {
+    "CardName": "Gilford the Legend",
+    "CardID": "6456"
+  },
+  {
+    "CardName": "Gilford the Lightning",
+    "CardID": "5451"
+  },
+  {
+    "CardName": "Gillagillancer",
+    "CardID": "10889"
+  },
+  {
+    "CardName": "Gilti-Gearfried the Magical Steel Knight",
+    "CardID": "6724"
+  },
+  {
+    "CardName": "Giltia the D. Knight",
+    "CardID": "4395"
+  },
+  {
+    "CardName": "Giltia the D. Knight - Soul Spear",
+    "CardID": "16621"
+  },
+  {
+    "CardName": "Gimmick Puppet Bisque Doll",
+    "CardID": "14598"
+  },
+  {
+    "CardName": "Gimmick Puppet Chimera Doll",
+    "CardID": "14336"
+  },
+  {
+    "CardName": "Gimmick Puppet Des Troy",
+    "CardID": "10829"
+  },
+  {
+    "CardName": "Gimmick Puppet Dreary Doll",
+    "CardID": "10447"
+  },
+  {
+    "CardName": "Gimmick Puppet Egg Head",
+    "CardID": "10691"
+  },
+  {
+    "CardName": "Gimmick Puppet Gear Changer",
+    "CardID": "10692"
+  },
+  {
+    "CardName": "Gimmick Puppet Gigantes Doll",
+    "CardID": "14596"
+  },
+  {
+    "CardName": "Gimmick Puppet Humpty Dumpty",
+    "CardID": "11007"
+  },
+  {
+    "CardName": "Gimmick Puppet Magnet Doll",
+    "CardID": "10448"
+  },
+  {
+    "CardName": "Gimmick Puppet Nightmare",
+    "CardID": "10695"
+  },
+  {
+    "CardName": "Gimmick Puppet Scissor Arms",
+    "CardID": "10694"
+  },
+  {
+    "CardName": "Gimmick Puppet Shadow Feeler",
+    "CardID": "11008"
+  },
+  {
+    "CardName": "Gimmick Puppet Terror Baby",
+    "CardID": "14597"
+  },
+  {
+    "CardName": "Gimmick Puppet Twilight Joker",
+    "CardID": "10693"
+  },
+  {
+    "CardName": "Gingerbread House",
+    "CardID": "14549"
+  },
+  {
+    "CardName": "Girochin Kuwagata",
+    "CardID": "5136"
+  },
+  {
+    "CardName": "Girsu, the Orcust Mekk-Knight",
+    "CardID": "15010"
+  },
+  {
+    "CardName": "Gishki Abyss",
+    "CardID": "9158"
+  },
+  {
+    "CardName": "Gishki Aquamirror",
+    "CardID": "9182"
+  },
+  {
+    "CardName": "Gishki Ariel",
+    "CardID": "9162"
+  },
+  {
+    "CardName": "Gishki Avance",
+    "CardID": "9805"
+  },
+  {
+    "CardName": "Gishki Beast",
+    "CardID": "9443"
+  },
+  {
+    "CardName": "Gishki Chain",
+    "CardID": "9161"
+  },
+  {
+    "CardName": "Gishki Diviner",
+    "CardID": "9644"
+  },
+  {
+    "CardName": "Gishki Emilia",
+    "CardID": "9592"
+  },
+  {
+    "CardName": "Gishki Grimness",
+    "CardID": "18163"
+  },
+  {
+    "CardName": "Gishki Marker",
+    "CardID": "9160"
+  },
+  {
+    "CardName": "Gishki Mollusk",
+    "CardID": "9593"
+  },
+  {
+    "CardName": "Gishki Natalia",
+    "CardID": "9982"
+  },
+  {
+    "CardName": "Gishki Nekromirror",
+    "CardID": "18211"
+  },
+  {
+    "CardName": "Gishki Noellia",
+    "CardID": "9381"
+  },
+  {
+    "CardName": "Gishki Photomirror",
+    "CardID": "9828"
+  },
+  {
+    "CardName": "Gishki Psychelone",
+    "CardID": "9998"
+  },
+  {
+    "CardName": "Gishki Reliever",
+    "CardID": "9380"
+  },
+  {
+    "CardName": "Gishki Shadow",
+    "CardID": "9163"
+  },
+  {
+    "CardName": "Gishki Vanity",
+    "CardID": "9159"
+  },
+  {
+    "CardName": "Gishki Vision",
+    "CardID": "9591"
+  },
+  {
+    "CardName": "Gishki Zielgigas",
+    "CardID": "9999"
+  },
+  {
+    "CardName": "Give and Take",
+    "CardID": "7988"
+  },
+  {
+    "CardName": "Gizmek Arakami, the Hailbringer Hog",
+    "CardID": "16207"
+  },
+  {
+    "CardName": "Gizmek Inaba, the Hopping Hare of Hakuto",
+    "CardID": "16204"
+  },
+  {
+    "CardName": "Gizmek Kaku, the Supreme Shining Sky Stag",
+    "CardID": "14833"
+  },
+  {
+    "CardName": "Gizmek Makami, the Ferocious Fanged Fortress",
+    "CardID": "15501"
+  },
+  {
+    "CardName": "Gizmek Naganaki, the Sunrise Signaler",
+    "CardID": "16205"
+  },
+  {
+    "CardName": "Gizmek Okami, the Dreaded Deluge Dragon",
+    "CardID": "15266"
+  },
+  {
+    "CardName": "Gizmek Orochi, the Serpentron Sky Slasher",
+    "CardID": "14480"
+  },
+  {
+    "CardName": "Gizmek Taniguku, the Immobile Intellect",
+    "CardID": "16206"
+  },
+  {
+    "CardName": "Gizmek Uka, the Festive Fox of Fecundity",
+    "CardID": "15017"
+  },
+  {
+    "CardName": "Gizmek Yata, the Gleaming Vanguard",
+    "CardID": "14650"
+  },
+  {
+    "CardName": "Glacial Beast Blizzard Wolf",
+    "CardID": "15389"
+  },
+  {
+    "CardName": "Glacial Beast Iceberg Narwhal",
+    "CardID": "15391"
+  },
+  {
+    "CardName": "Glacial Beast Polar Penguin",
+    "CardID": "15390"
+  },
+  {
+    "CardName": "Glacier Aqua Madoor",
+    "CardID": "16212"
+  },
+  {
+    "CardName": "Gladiator Beast Alexander",
+    "CardID": "7282"
+  },
+  {
+    "CardName": "Gladiator Beast Andabata",
+    "CardID": "13151"
+  },
+  {
+    "CardName": "Gladiator Beast Andal",
+    "CardID": "7365"
+  },
+  {
+    "CardName": "Gladiator Beast Attorix",
+    "CardID": "14639"
+  },
+  {
+    "CardName": "Gladiator Beast Augustus",
+    "CardID": "11059"
+  },
+  {
+    "CardName": "Gladiator Beast Bestiari",
+    "CardID": "7285"
+  },
+  {
+    "CardName": "Gladiator Beast Charge",
+    "CardID": "14698"
+  }
+]

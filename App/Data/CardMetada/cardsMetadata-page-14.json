@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Brotherhood of the Fire Fist - Boar",
+    "CardID": "10629"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Buffalo",
+    "CardID": "10510"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Cardinal",
+    "CardID": "10535"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Caribou",
+    "CardID": "10630"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Coyote",
+    "CardID": "10596"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Dragon",
+    "CardID": "10384"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Eagle",
+    "CardID": "14202"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Eland",
+    "CardID": "14730"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Elephant",
+    "CardID": "14728"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Gorilla",
+    "CardID": "10382"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Hawk",
+    "CardID": "10380"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Horse Prince",
+    "CardID": "10328"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Kirin",
+    "CardID": "10645"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Leopard",
+    "CardID": "10508"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Lion Emperor",
+    "CardID": "10330"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Panda",
+    "CardID": "14729"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Peacock",
+    "CardID": "14732"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Ram",
+    "CardID": "14727"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Raven",
+    "CardID": "10381"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Rhino",
+    "CardID": "10509"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Rooster",
+    "CardID": "10445"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Snake",
+    "CardID": "10385"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Spirit",
+    "CardID": "10329"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Swallow",
+    "CardID": "10386"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Swan",
+    "CardID": "14731"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Tiger King",
+    "CardID": "10407"
+  },
+  {
+    "CardName": "Brotherhood of the Fire Fist - Wolf",
+    "CardID": "10507"
+  },
+  {
+    "CardName": "Broww, Huntsman of Dark World",
+    "CardID": "6502"
+  },
+  {
+    "CardName": "Brron, Mad King of Dark World",
+    "CardID": "6503"
+  },
+  {
+    "CardName": "Brushfire Knight",
+    "CardID": "10396"
+  },
+  {
+    "CardName": "Brutal Beast Battle",
+    "CardID": "14895"
+  },
+  {
+    "CardName": "Brutal Potion",
+    "CardID": "7354"
+  },
+  {
+    "CardName": "Brute Enforcer",
+    "CardID": "14784"
+  },
+  {
+    "CardName": "Bubble Barrier",
+    "CardID": "11842"
+  },
+  {
+    "CardName": "Bubble Blaster",
+    "CardID": "6537"
+  },
+  {
+    "CardName": "Bubble Bringer",
+    "CardID": "10289"
+  },
+  {
+    "CardName": "Bubble Crash",
+    "CardID": "5398"
+  },
+  {
+    "CardName": "Bubble Illusion",
+    "CardID": "6538"
+  },
+  {
+    "CardName": "Bubble Shuffle",
+    "CardID": "6408"
+  },
+  {
+    "CardName": "Bubonic Vermin",
+    "CardID": "4970"
+  },
+  {
+    "CardName": "Buerillabaisse de Nouvelles",
+    "CardID": "18739"
+  },
+  {
+    "CardName": "Bug Emergency",
+    "CardID": "12346"
+  },
+  {
+    "CardName": "Bug Matrix",
+    "CardID": "12336"
+  },
+  {
+    "CardName": "Bug Signal",
+    "CardID": "12974"
+  },
+  {
+    "CardName": "Bujin Arasuda",
+    "CardID": "10912"
+  },
+  {
+    "CardName": "Bujin Hiruko",
+    "CardID": "12025"
+  },
+  {
+    "CardName": "Bujin Hirume",
+    "CardID": "11053"
+  },
+  {
+    "CardName": "Bujin Mahitotsu",
+    "CardID": "15973"
+  },
+  {
+    "CardName": "Bujin Mikazuchi",
+    "CardID": "10753"
+  },
+  {
+    "CardName": "Bujin Regalia - The Jewel",
+    "CardID": "10961"
+  },
+  {
+    "CardName": "Bujin Regalia - The Mirror",
+    "CardID": "10794"
+  },
+  {
+    "CardName": "Bujin Regalia - The Sword",
+    "CardID": "10677"
+  },
+  {
+    "CardName": "Bujin Torifune",
+    "CardID": "15974"
+  },
+  {
+    "CardName": "Bujin Yamato",
+    "CardID": "10619"
+  },
+  {
+    "CardName": "Bujincandescence",
+    "CardID": "16023"
+  },
+  {
+    "CardName": "Bujincarnation",
+    "CardID": "10666"
+  },
+  {
+    "CardName": "Bujincident",
+    "CardID": "11104"
+  },
+  {
+    "CardName": "Bujinfidel",
+    "CardID": "10678"
+  },
+  {
+    "CardName": "Bujingi Boar",
+    "CardID": "10756"
+  },
+  {
+    "CardName": "Bujingi Centipede",
+    "CardID": "10757"
+  },
+  {
+    "CardName": "Bujingi Crane",
+    "CardID": "10623"
+  },
+  {
+    "CardName": "Bujingi Crow",
+    "CardID": "10754"
+  },
+  {
+    "CardName": "Bujingi Fox",
+    "CardID": "10915"
+  },
+  {
+    "CardName": "Bujingi Hare",
+    "CardID": "10916"
+  },
+  {
+    "CardName": "Bujingi Ibis",
+    "CardID": "10755"
+  },
+  {
+    "CardName": "Bujingi Ophidian",
+    "CardID": "10624"
+  },
+  {
+    "CardName": "Bujingi Pavo",
+    "CardID": "10987"
+  },
+  {
+    "CardName": "Bujingi Peacock",
+    "CardID": "10913"
+  },
+  {
+    "CardName": "Bujingi Quilin",
+    "CardID": "10620"
+  },
+  {
+    "CardName": "Bujingi Raven",
+    "CardID": "10872"
+  },
+  {
+    "CardName": "Bujingi Sinyou",
+    "CardID": "11199"
+  },
+  {
+    "CardName": "Bujingi Swallow",
+    "CardID": "10914"
+  },
+  {
+    "CardName": "Bujingi Turtle",
+    "CardID": "10621"
+  },
+  {
+    "CardName": "Bujingi Warg",
+    "CardID": "10814"
+  },
+  {
+    "CardName": "Bujingi Wolf",
+    "CardID": "10622"
+  },
+  {
+    "CardName": "Bujinki Ahashima",
+    "CardID": "14941"
+  },
+  {
+    "CardName": "Bujinki Amaterasu",
+    "CardID": "11081"
+  },
+  {
+    "CardName": "Bujintei Kagutsuchi",
+    "CardID": "10784"
+  },
+  {
+    "CardName": "Bujintei Susanowo",
+    "CardID": "10660"
+  },
+  {
+    "CardName": "Bujintei Tsukuyomi",
+    "CardID": "10940"
+  },
+  {
+    "CardName": "Bujintervention",
+    "CardID": "11093"
+  },
+  {
+    "CardName": "Bujinunity",
+    "CardID": "10951"
+  },
+  {
+    "CardName": "Bull Blader",
+    "CardID": "10224"
+  },
+  {
+    "CardName": "Bunilla",
+    "CardID": "9719"
+  },
+  {
+    "CardName": "Bunny Ear Enthusiast",
+    "CardID": "18495"
+  },
+  {
+    "CardName": "Burden of the Mighty",
+    "CardID": "7399"
+  },
+  {
+    "CardName": "Burgeoning Whirlflame",
+    "CardID": "9689"
+  },
+  {
+    "CardName": "Burglar",
+    "CardID": "4487"
+  },
+  {
+    "CardName": "Burial from a Different Dimension",
+    "CardID": "6941"
+  },
+  {
+    "CardName": "Burner, Dragon Ruler of Sparks",
+    "CardID": "10581"
+  },
+  {
+    "CardName": "Burning Algae",
+    "CardID": "5877"
+  },
+  {
+    "CardName": "Burning Bamboo Sword",
+    "CardID": "13282"
+  },
+  {
+    "CardName": "Burning Beast",
+    "CardID": "5590"
+  },
+  {
+    "CardName": "Burning Draw",
+    "CardID": "15043"
+  },
+  {
+    "CardName": "Burning Land",
+    "CardID": "5126"
+  },
+  {
+    "CardName": "Burning Skull Head",
+    "CardID": "8270"
+  },
+  {
+    "CardName": "Burning Soul",
+    "CardID": "14979"
+  },
+  {
+    "CardName": "Burning Spear",
+    "CardID": "4846"
+  },
+  {
+    "CardName": "Burnout",
+    "CardID": "12663"
+  },
+  {
+    "CardName": "Burst Breath",
+    "CardID": "5348"
+  }
+]

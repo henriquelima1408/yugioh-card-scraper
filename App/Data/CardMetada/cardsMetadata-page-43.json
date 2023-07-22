@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Gateway of the Six",
+    "CardID": "8602"
+  },
+  {
+    "CardName": "Gateway to Chaos",
+    "CardID": "12001"
+  },
+  {
+    "CardName": "Gateway to Dark World",
+    "CardID": "6515"
+  },
+  {
+    "CardName": "Gather Your Mind",
+    "CardID": "5670"
+  },
+  {
+    "CardName": "Gatling Dragon",
+    "CardID": "6264"
+  },
+  {
+    "CardName": "Gauntlet Launcher",
+    "CardID": "10526"
+  },
+  {
+    "CardName": "Gauntlet Warrior",
+    "CardID": "8579"
+  },
+  {
+    "CardName": "Gazelle the King of Mythical Beasts",
+    "CardID": "4753"
+  },
+  {
+    "CardName": "Gazer Shark",
+    "CardID": "11035"
+  },
+  {
+    "CardName": "Gear Gigant X",
+    "CardID": "10176"
+  },
+  {
+    "CardName": "Gear Golem the Moving Fortress",
+    "CardID": "4757"
+  },
+  {
+    "CardName": "Gearbreed",
+    "CardID": "14804"
+  },
+  {
+    "CardName": "Gearfried the Iron Knight",
+    "CardID": "5059"
+  },
+  {
+    "CardName": "Gearfried the Red-Eyes Iron Knight",
+    "CardID": "13169"
+  },
+  {
+    "CardName": "Gearfried the Swordmaster",
+    "CardID": "6251"
+  },
+  {
+    "CardName": "Geargia Change",
+    "CardID": "11870"
+  },
+  {
+    "CardName": "Geargiaccelerator",
+    "CardID": "10158"
+  },
+  {
+    "CardName": "Geargiagear",
+    "CardID": "10558"
+  },
+  {
+    "CardName": "Geargiagear Gigant XG",
+    "CardID": "10881"
+  },
+  {
+    "CardName": "Geargianchor",
+    "CardID": "11869"
+  },
+  {
+    "CardName": "Geargiano",
+    "CardID": "9647"
+  },
+  {
+    "CardName": "Geargiano Mk-II",
+    "CardID": "10157"
+  },
+  {
+    "CardName": "Geargiano Mk-III",
+    "CardID": "10882"
+  },
+  {
+    "CardName": "Geargiarmor",
+    "CardID": "10160"
+  },
+  {
+    "CardName": "Geargiarsenal",
+    "CardID": "10159"
+  },
+  {
+    "CardName": "Geargiattacker",
+    "CardID": "10883"
+  },
+  {
+    "CardName": "Geargiauger",
+    "CardID": "10999"
+  },
+  {
+    "CardName": "Gearspring Spirit",
+    "CardID": "9980"
+  },
+  {
+    "CardName": "Geartown",
+    "CardID": "7683"
+  },
+  {
+    "CardName": "Geira Guile the Cubic King",
+    "CardID": "12519"
+  },
+  {
+    "CardName": "Gellenduo",
+    "CardID": "7052"
+  },
+  {
+    "CardName": "Gem Flash Energy",
+    "CardID": "7141"
+  },
+  {
+    "CardName": "Gem-Armadillo",
+    "CardID": "8897"
+  },
+  {
+    "CardName": "Gem-Elephant",
+    "CardID": "9642"
+  },
+  {
+    "CardName": "Gem-Enhancement",
+    "CardID": "8921"
+  },
+  {
+    "CardName": "Gem-Knight Alexandrite",
+    "CardID": "8896"
+  },
+  {
+    "CardName": "Gem-Knight Amber",
+    "CardID": "9584"
+  },
+  {
+    "CardName": "Gem-Knight Amethyst",
+    "CardID": "9598"
+  },
+  {
+    "CardName": "Gem-Knight Aquamarine",
+    "CardID": "8912"
+  },
+  {
+    "CardName": "Gem-Knight Citrine",
+    "CardID": "9390"
+  },
+  {
+    "CardName": "Gem-Knight Crystal",
+    "CardID": "9372"
+  },
+  {
+    "CardName": "Gem-Knight Emerald",
+    "CardID": "9212"
+  },
+  {
+    "CardName": "Gem-Knight Fusion",
+    "CardID": "8918"
+  },
+  {
+    "CardName": "Gem-Knight Garnet",
+    "CardID": "8893"
+  },
+  {
+    "CardName": "Gem-Knight Iolite",
+    "CardID": "9583"
+  },
+  {
+    "CardName": "Gem-Knight Lady Brilliant Diamond",
+    "CardID": "11831"
+  },
+  {
+    "CardName": "Gem-Knight Lady Lapis Lazuli",
+    "CardID": "11566"
+  },
+  {
+    "CardName": "Gem-Knight Lady Rose Diamond",
+    "CardID": "17446"
+  },
+  {
+    "CardName": "Gem-Knight Lapis",
+    "CardID": "11532"
+  },
+  {
+    "CardName": "Gem-Knight Lazuli",
+    "CardID": "9981"
+  },
+  {
+    "CardName": "Gem-Knight Master Diamond",
+    "CardID": "10001"
+  },
+  {
+    "CardName": "Gem-Knight Obsidian",
+    "CardID": "9582"
+  },
+  {
+    "CardName": "Gem-Knight Pearl",
+    "CardID": "9601"
+  },
+  {
+    "CardName": "Gem-Knight Phantom Quartz",
+    "CardID": "13493"
+  },
+  {
+    "CardName": "Gem-Knight Prismaura",
+    "CardID": "9391"
+  },
+  {
+    "CardName": "Gem-Knight Quartz",
+    "CardID": "17422"
+  },
+  {
+    "CardName": "Gem-Knight Ruby",
+    "CardID": "8911"
+  },
+  {
+    "CardName": "Gem-Knight Sapphire",
+    "CardID": "8894"
+  },
+  {
+    "CardName": "Gem-Knight Sardonyx",
+    "CardID": "9803"
+  },
+  {
+    "CardName": "Gem-Knight Seraphinite",
+    "CardID": "10000"
+  },
+  {
+    "CardName": "Gem-Knight Topaz",
+    "CardID": "8913"
+  },
+  {
+    "CardName": "Gem-Knight Tourmaline",
+    "CardID": "8895"
+  },
+  {
+    "CardName": "Gem-Knight Zirconia",
+    "CardID": "9820"
+  },
+  {
+    "CardName": "Gem-Merchant",
+    "CardID": "8898"
+  },
+  {
+    "CardName": "Gem-Turtle",
+    "CardID": "9441"
+  },
+  {
+    "CardName": "Gemini Ablation",
+    "CardID": "14806"
+  },
+  {
+    "CardName": "Gemini Booster",
+    "CardID": "8511"
+  },
+  {
+    "CardName": "Gemini Counter",
+    "CardID": "8510"
+  },
+  {
+    "CardName": "Gemini Elf",
+    "CardID": "4538"
+  },
+  {
+    "CardName": "Gemini Imps",
+    "CardID": "6004"
+  },
+  {
+    "CardName": "Gemini Lancer",
+    "CardID": "7369"
+  },
+  {
+    "CardName": "Gemini Scorpion",
+    "CardID": "8598"
+  },
+  {
+    "CardName": "Gemini Soldier",
+    "CardID": "8434"
+  },
+  {
+    "CardName": "Gemini Spark",
+    "CardID": "8490"
+  },
+  {
+    "CardName": "Gemini Summoner",
+    "CardID": "7332"
+  },
+  {
+    "CardName": "Gemini Trap Hole",
+    "CardID": "7472"
+  },
+  {
+    "CardName": "Geminize Lord Golknight",
+    "CardID": "16518"
+  },
+  {
+    "CardName": "Gendo the Ascetic Monk",
+    "CardID": "12313"
+  },
+  {
+    "CardName": "Gene-Warped Warwolf",
+    "CardID": "6960"
+  },
+  {
+    "CardName": "Generaider Boss Bite",
+    "CardID": "14782"
+  },
+  {
+    "CardName": "Generaider Boss Fight",
+    "CardID": "14780"
+  },
+  {
+    "CardName": "Generaider Boss Loot",
+    "CardID": "14779"
+  },
+  {
+    "CardName": "Generaider Boss Quest",
+    "CardID": "14778"
+  },
+  {
+    "CardName": "Generaider Boss Room",
+    "CardID": "14781"
+  },
+  {
+    "CardName": "Generaider Boss Stage",
+    "CardID": "14777"
+  },
+  {
+    "CardName": "General Gantala of the Ice Barrier",
+    "CardID": "8726"
+  },
+  {
+    "CardName": "General Grunard of the Ice Barrier",
+    "CardID": "8406"
+  },
+  {
+    "CardName": "General Raiho of the Ice Barrier",
+    "CardID": "8573"
+  },
+  {
+    "CardName": "General Wayne of the Ice Barrier",
+    "CardID": "15828"
+  },
+  {
+    "CardName": "Generalprobe",
+    "CardID": "17173"
+  },
+  {
+    "CardName": "Generation Force",
+    "CardID": "10193"
+  },
+  {
+    "CardName": "Generation Next",
+    "CardID": "14912"
+  },
+  {
+    "CardName": "Generation Shift",
+    "CardID": "6621"
+  },
+  {
+    "CardName": "Genesis Dragon",
+    "CardID": "7978"
+  },
+  {
+    "CardName": "Genetic Woman",
+    "CardID": "8321"
+  },
+  {
+    "CardName": "Genex Ally Axel",
+    "CardID": "8763"
+  },
+  {
+    "CardName": "Genex Ally Bellflame",
+    "CardID": "8710"
+  },
+  {
+    "CardName": "Genex Ally Birdman",
+    "CardID": "8709"
+  },
+  {
+    "CardName": "Genex Ally Changer",
+    "CardID": "8551"
+  },
+  {
+    "CardName": "Genex Ally Chemistrer",
+    "CardID": "8708"
+  }
+]

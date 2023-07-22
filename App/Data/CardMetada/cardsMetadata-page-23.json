@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "D.D. Survivor",
+    "CardID": "6332"
+  },
+  {
+    "CardName": "D.D. Telepon",
+    "CardID": "9745"
+  },
+  {
+    "CardName": "D.D. Trainer",
+    "CardID": "5760"
+  },
+  {
+    "CardName": "D.D. Trap Hole",
+    "CardID": "6446"
+  },
+  {
+    "CardName": "D.D. Unicorn Knight",
+    "CardID": "8942"
+  },
+  {
+    "CardName": "D.D. Warrior",
+    "CardID": "4262"
+  },
+  {
+    "CardName": "D.D. Warrior Lady",
+    "CardID": "5719"
+  },
+  {
+    "CardName": "D.D.D. - Different Dimension Derby",
+    "CardID": "16627"
+  },
+  {
+    "CardName": "D.D.M. - Different Dimension Master",
+    "CardID": "6430"
+  },
+  {
+    "CardName": "D.D.R. - Different Dimension Reincarnation",
+    "CardID": "7519"
+  },
+  {
+    "CardName": "D/D Ark",
+    "CardID": "14448"
+  },
+  {
+    "CardName": "D/D Berfomet",
+    "CardID": "11954"
+  },
+  {
+    "CardName": "D/D Cerberus",
+    "CardID": "11458"
+  },
+  {
+    "CardName": "D/D Dog",
+    "CardID": "15181"
+  },
+  {
+    "CardName": "D/D Evil",
+    "CardID": "14739"
+  },
+  {
+    "CardName": "D/D Ghost",
+    "CardID": "12929"
+  },
+  {
+    "CardName": "D/D Gryphon",
+    "CardID": "16818"
+  },
+  {
+    "CardName": "D/D Lamia",
+    "CardID": "12229"
+  },
+  {
+    "CardName": "D/D Lilith",
+    "CardID": "11439"
+  },
+  {
+    "CardName": "D/D Necro Slime",
+    "CardID": "11956"
+  },
+  {
+    "CardName": "D/D Nighthowl",
+    "CardID": "11440"
+  },
+  {
+    "CardName": "D/D Orthros",
+    "CardID": "12228"
+  },
+  {
+    "CardName": "D/D Pandora",
+    "CardID": "11795"
+  },
+  {
+    "CardName": "D/D Proud Chevalier",
+    "CardID": "11330"
+  },
+  {
+    "CardName": "D/D Proud Ogre",
+    "CardID": "11329"
+  },
+  {
+    "CardName": "D/D Recruits",
+    "CardID": "11451"
+  },
+  {
+    "CardName": "D/D Reroll",
+    "CardID": "12231"
+  },
+  {
+    "CardName": "D/D Savant Copernicus",
+    "CardID": "12227"
+  },
+  {
+    "CardName": "D/D Savant Galilei",
+    "CardID": "11441"
+  },
+  {
+    "CardName": "D/D Savant Kepler",
+    "CardID": "11442"
+  },
+  {
+    "CardName": "D/D Savant Newton",
+    "CardID": "12226"
+  },
+  {
+    "CardName": "D/D Savant Nikola",
+    "CardID": "12410"
+  },
+  {
+    "CardName": "D/D Savant Thomas",
+    "CardID": "12409"
+  },
+  {
+    "CardName": "D/D Swirl Slime",
+    "CardID": "11955"
+  },
+  {
+    "CardName": "D/D Vice Typhon",
+    "CardID": "13056"
+  },
+  {
+    "CardName": "D/D/D Abyss King Gilgamesh",
+    "CardID": "14204"
+  },
+  {
+    "CardName": "D/D/D Chaos King Apocalypse",
+    "CardID": "12225"
+  },
+  {
+    "CardName": "D/D/D Contract Change",
+    "CardID": "12012"
+  },
+  {
+    "CardName": "D/D/D Cursed King Siegfried",
+    "CardID": "12233"
+  },
+  {
+    "CardName": "D/D/D Destiny King Zero Laplace",
+    "CardID": "13121"
+  },
+  {
+    "CardName": "D/D/D Deviser King Deus Machinex",
+    "CardID": "16849"
+  },
+  {
+    "CardName": "D/D/D Doom King Armageddon",
+    "CardID": "11443"
+  },
+  {
+    "CardName": "D/D/D Dragon King Pendragon",
+    "CardID": "11769"
+  },
+  {
+    "CardName": "D/D/D Dragonbane King Beowulf",
+    "CardID": "12232"
+  },
+  {
+    "CardName": "D/D/D Duo-Dawn King Kali Yuga",
+    "CardID": "11994"
+  },
+  {
+    "CardName": "D/D/D Flame High King Genghis",
+    "CardID": "13016"
+  },
+  {
+    "CardName": "D/D/D Flame King Genghis",
+    "CardID": "11444"
+  },
+  {
+    "CardName": "D/D/D Gust High King Alexander",
+    "CardID": "13079"
+  },
+  {
+    "CardName": "D/D/D Gust King Alexander",
+    "CardID": "11445"
+  },
+  {
+    "CardName": "D/D/D Headhunt",
+    "CardID": "16880"
+  },
+  {
+    "CardName": "D/D/D Human Resources",
+    "CardID": "11450"
+  },
+  {
+    "CardName": "D/D/D Marksman King Tell",
+    "CardID": "11836"
+  },
+  {
+    "CardName": "D/D/D Oblivion King Abyss Ragnarok",
+    "CardID": "11616"
+  },
+  {
+    "CardName": "D/D/D Oracle King d'Arc",
+    "CardID": "11830"
+  },
+  {
+    "CardName": "D/D/D Rebel King Leonidas",
+    "CardID": "11460"
+  },
+  {
+    "CardName": "D/D/D Stone King Darius",
+    "CardID": "12959"
+  },
+  {
+    "CardName": "D/D/D Super Doom King Bright Armageddon",
+    "CardID": "13132"
+  },
+  {
+    "CardName": "D/D/D Super Doom King Dark Armageddon",
+    "CardID": "13133"
+  },
+  {
+    "CardName": "D/D/D Super Doom King Purple Armageddon",
+    "CardID": "13123"
+  },
+  {
+    "CardName": "D/D/D Supersight King Zero Maxwell",
+    "CardID": "13304"
+  },
+  {
+    "CardName": "D/D/D Supreme King Kaiser",
+    "CardID": "11328"
+  },
+  {
+    "CardName": "D/D/D Vice King Requiem",
+    "CardID": "14961"
+  },
+  {
+    "CardName": "D/D/D Wave High King Caesar",
+    "CardID": "13081"
+  },
+  {
+    "CardName": "D/D/D Wave King Caesar",
+    "CardID": "11457"
+  },
+  {
+    "CardName": "D/D/D Wave Oblivion King Caesar Ragnarok",
+    "CardID": "11988"
+  },
+  {
+    "CardName": "D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox",
+    "CardID": "18440"
+  },
+  {
+    "CardName": "D2 Shield",
+    "CardID": "9140"
+  },
+  {
+    "CardName": "Dai Dance",
+    "CardID": "13448"
+  },
+  {
+    "CardName": "Dai-sojo of the Ice Barrier",
+    "CardID": "7954"
+  },
+  {
+    "CardName": "Daidaratant the Ooze Giant",
+    "CardID": "15467"
+  },
+  {
+    "CardName": "Daigusto Eguls",
+    "CardID": "9181"
+  },
+  {
+    "CardName": "Daigusto Emeral",
+    "CardID": "9822"
+  },
+  {
+    "CardName": "Daigusto Falcos",
+    "CardID": "9600"
+  },
+  {
+    "CardName": "Daigusto Gulldos",
+    "CardID": "9180"
+  },
+  {
+    "CardName": "Daigusto Laplampilica",
+    "CardID": "16229"
+  },
+  {
+    "CardName": "Daigusto Phoenix",
+    "CardID": "9605"
+  },
+  {
+    "CardName": "Daigusto Sphreez",
+    "CardID": "9395"
+  },
+  {
+    "CardName": "Dakki, the Graceful Mayakashi",
+    "CardID": "14033"
+  },
+  {
+    "CardName": "Damage = Reptile",
+    "CardID": "7167"
+  },
+  {
+    "CardName": "Damage Condenser",
+    "CardID": "6582"
+  },
+  {
+    "CardName": "Damage Diet",
+    "CardID": "9783"
+  },
+  {
+    "CardName": "Damage Eater",
+    "CardID": "8935"
+  },
+  {
+    "CardName": "Damage Gate",
+    "CardID": "8845"
+  },
+  {
+    "CardName": "Damage Mage",
+    "CardID": "10132"
+  },
+  {
+    "CardName": "Damage Polarizer",
+    "CardID": "6947"
+  },
+  {
+    "CardName": "Damage Translation",
+    "CardID": "8361"
+  },
+  {
+    "CardName": "Damage Vaccine &Omega; MAX",
+    "CardID": "9683"
+  },
+  {
+    "CardName": "Dance Princess of the Ice Barrier",
+    "CardID": "9110"
+  },
+  {
+    "CardName": "Dance Princess of the Nekroz",
+    "CardID": "11548"
+  },
+  {
+    "CardName": "Dances with Beasts",
+    "CardID": "14611"
+  },
+  {
+    "CardName": "Dancing Elf",
+    "CardID": "4401"
+  },
+  {
+    "CardName": "Dancing Fairy",
+    "CardID": "5201"
+  },
+  {
+    "CardName": "Dandylion",
+    "CardID": "6654"
+  },
+  {
+    "CardName": "Danger! Bigfoot!",
+    "CardID": "13978"
+  },
+  {
+    "CardName": "Danger! Chupacabra!",
+    "CardID": "13980"
+  },
+  {
+    "CardName": "Danger! Disturbance! Disorder!",
+    "CardID": "14798"
+  },
+  {
+    "CardName": "Danger! Dogman!",
+    "CardID": "14068"
+  },
+  {
+    "CardName": "Danger! Excitement! Mystery!",
+    "CardID": "14533"
+  },
+  {
+    "CardName": "Danger! Feets of Strength!",
+    "CardID": "14534"
+  },
+  {
+    "CardName": "Danger! Mothman!",
+    "CardID": "14069"
+  }
+]

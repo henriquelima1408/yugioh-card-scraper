@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Ground Attacker Bugroth",
+    "CardID": "4281"
+  },
+  {
+    "CardName": "Ground Collapse",
+    "CardID": "5170"
+  },
+  {
+    "CardName": "Ground Spider",
+    "CardID": "8451"
+  },
+  {
+    "CardName": "Ground Xeno",
+    "CardID": "18725"
+  },
+  {
+    "CardName": "Groza, Tyrant of Thunder",
+    "CardID": "15827"
+  },
+  {
+    "CardName": "Gruesome Goo",
+    "CardID": "4652"
+  },
+  {
+    "CardName": "Gryphon Wing",
+    "CardID": "4892"
+  },
+  {
+    "CardName": "Gryphon's Feather Duster",
+    "CardID": "5903"
+  },
+  {
+    "CardName": "Guard Dog",
+    "CardID": "6697"
+  },
+  {
+    "CardName": "Guard Ghost",
+    "CardID": "15071"
+  },
+  {
+    "CardName": "Guard Go!",
+    "CardID": "11416"
+  },
+  {
+    "CardName": "Guard Mantis",
+    "CardID": "6526"
+  },
+  {
+    "CardName": "Guard Mines",
+    "CardID": "8842"
+  },
+  {
+    "CardName": "Guard Penalty",
+    "CardID": "6667"
+  },
+  {
+    "CardName": "Guard Penguin",
+    "CardID": "10853"
+  },
+  {
+    "CardName": "Guarded Treasure",
+    "CardID": "11158"
+  },
+  {
+    "CardName": "Guardian Angel Joan",
+    "CardID": "5899"
+  },
+  {
+    "CardName": "Guardian Baou",
+    "CardID": "5709"
+  },
+  {
+    "CardName": "Guardian Ceal",
+    "CardID": "5707"
+  },
+  {
+    "CardName": "Guardian Chimera",
+    "CardID": "16845"
+  },
+  {
+    "CardName": "Guardian Dreadscythe",
+    "CardID": "11155"
+  },
+  {
+    "CardName": "Guardian Eatos",
+    "CardID": "8536"
+  },
+  {
+    "CardName": "Guardian Elma",
+    "CardID": "5706"
+  },
+  {
+    "CardName": "Guardian Grarl",
+    "CardID": "5708"
+  },
+  {
+    "CardName": "Guardian Kay'est",
+    "CardID": "5710"
+  },
+  {
+    "CardName": "Guardian of Felgrand",
+    "CardID": "12362"
+  },
+  {
+    "CardName": "Guardian of Order",
+    "CardID": "7795"
+  },
+  {
+    "CardName": "Guardian of the Golden Land",
+    "CardID": "15128"
+  },
+  {
+    "CardName": "Guardian of the Labyrinth",
+    "CardID": "4242"
+  },
+  {
+    "CardName": "Guardian of the Throne Room",
+    "CardID": "4519"
+  },
+  {
+    "CardName": "Guardian Slime",
+    "CardID": "15331"
+  },
+  {
+    "CardName": "Guardian Sphinx",
+    "CardID": "5422"
+  },
+  {
+    "CardName": "Guardian Statue",
+    "CardID": "6330"
+  },
+  {
+    "CardName": "Guardian Tryce",
+    "CardID": "5711"
+  },
+  {
+    "CardName": "Guardragon Agarpain",
+    "CardID": "14130"
+  },
+  {
+    "CardName": "Guardragon Andrake",
+    "CardID": "14092"
+  },
+  {
+    "CardName": "Guardragon Cataclysm",
+    "CardID": "14150"
+  },
+  {
+    "CardName": "Guardragon Corewakening",
+    "CardID": "14149"
+  },
+  {
+    "CardName": "Guardragon Elpy",
+    "CardID": "14128"
+  },
+  {
+    "CardName": "Guardragon Garmides",
+    "CardID": "14090"
+  },
+  {
+    "CardName": "Guardragon Justicia",
+    "CardID": "14089"
+  },
+  {
+    "CardName": "Guardragon Pisty",
+    "CardID": "14129"
+  },
+  {
+    "CardName": "Guardragon Promineses",
+    "CardID": "14091"
+  },
+  {
+    "CardName": "Guardragon Reincarnation",
+    "CardID": "14310"
+  },
+  {
+    "CardName": "Guardragon Shield",
+    "CardID": "14138"
+  },
+  {
+    "CardName": "Guerilla Kite",
+    "CardID": "11205"
+  },
+  {
+    "CardName": "Guiding Ariadne",
+    "CardID": "12144"
+  },
+  {
+    "CardName": "Guiding Light",
+    "CardID": "11127"
+  },
+  {
+    "CardName": "Guiding Quem, the Virtuous",
+    "CardID": "18474"
+  },
+  {
+    "CardName": "Guitar Gurnards Duonigis",
+    "CardID": "15725"
+  },
+  {
+    "CardName": "Guldfaxe of the Nordic Beasts",
+    "CardID": "9302"
+  },
+  {
+    "CardName": "Gullveig of the Nordic Ascendant",
+    "CardID": "14053"
+  },
+  {
+    "CardName": "Gundari",
+    "CardID": "8645"
+  },
+  {
+    "CardName": "Gungnir, Dragon of the Ice Barrier",
+    "CardID": "8262"
+  },
+  {
+    "CardName": "Gunkan Suship Catch-of-the-Day",
+    "CardID": "18529"
+  },
+  {
+    "CardName": "Gunkan Suship Daily Special",
+    "CardID": "16263"
+  },
+  {
+    "CardName": "Gunkan Suship Ikura",
+    "CardID": "16201"
+  },
+  {
+    "CardName": "Gunkan Suship Ikura-class Dreadnought",
+    "CardID": "16232"
+  },
+  {
+    "CardName": "Gunkan Suship Shari",
+    "CardID": "16200"
+  },
+  {
+    "CardName": "Gunkan Suship Shari Red",
+    "CardID": "17428"
+  },
+  {
+    "CardName": "Gunkan Suship Shirauo",
+    "CardID": "16509"
+  },
+  {
+    "CardName": "Gunkan Suship Shirauo-class Carrier",
+    "CardID": "16535"
+  },
+  {
+    "CardName": "Gunkan Suship Uni",
+    "CardID": "16508"
+  },
+  {
+    "CardName": "Gunkan Suship Uni-class Super-Dreadnought",
+    "CardID": "16534"
+  },
+  {
+    "CardName": "Gunkan Sushipyard Seaside Supper Spot",
+    "CardID": "16247"
+  },
+  {
+    "CardName": "Guoglim, Spear of the Ghoti",
+    "CardID": "18039"
+  },
+  {
+    "CardName": "Gussari @Ignister",
+    "CardID": "15134"
+  },
+  {
+    "CardName": "Gust",
+    "CardID": "4940"
+  },
+  {
+    "CardName": "Gust Fan",
+    "CardID": "4847"
+  },
+  {
+    "CardName": "Gusto Codor",
+    "CardID": "9645"
+  },
+  {
+    "CardName": "Gusto Egul",
+    "CardID": "9165"
+  },
+  {
+    "CardName": "Gusto Falco",
+    "CardID": "9594"
+  },
+  {
+    "CardName": "Gusto Griffin",
+    "CardID": "9806"
+  },
+  {
+    "CardName": "Gusto Gulldo",
+    "CardID": "9164"
+  },
+  {
+    "CardName": "Gusto Squirro",
+    "CardID": "9382"
+  },
+  {
+    "CardName": "Gusto Thunbolt",
+    "CardID": "9166"
+  },
+  {
+    "CardName": "Gusto Vedir",
+    "CardID": "16208"
+  },
+  {
+    "CardName": "Guts of Steel",
+    "CardID": "9208"
+  },
+  {
+    "CardName": "Gwenhwyfar, Queen of Noble Arms",
+    "CardID": "10990"
+  },
+  {
+    "CardName": "Gyaku-Gire Panda",
+    "CardID": "5713"
+  },
+  {
+    "CardName": "Gyakutenno Megami",
+    "CardID": "4096"
+  },
+  {
+    "CardName": "Gyroid",
+    "CardID": "6385"
+  },
+  {
+    "CardName": "H - Heated Heart",
+    "CardID": "6671"
+  },
+  {
+    "CardName": "Ha-Re the Sword Mikanko",
+    "CardID": "18015"
+  },
+  {
+    "CardName": "Hack Worm",
+    "CardID": "13051"
+  },
+  {
+    "CardName": "Hade-Hane",
+    "CardID": "6124"
+  },
+  {
+    "CardName": "Hailon, the Timelord",
+    "CardID": "13816"
+  },
+  {
+    "CardName": "Hajun, the Winged Mayakashi",
+    "CardID": "14036"
+  },
+  {
+    "CardName": "Half Counter",
+    "CardID": "9147"
+  },
+  {
+    "CardName": "Half or Nothing",
+    "CardID": "8062"
+  },
+  {
+    "CardName": "Half Shut",
+    "CardID": "8863"
+  },
+  {
+    "CardName": "Half Unbreak",
+    "CardID": "10839"
+  },
+  {
+    "CardName": "Halfway to Forever",
+    "CardID": "13004"
+  },
+  {
+    "CardName": "Hallohallo",
+    "CardID": "13361"
+  },
+  {
+    "CardName": "Hallowed Life Barrier",
+    "CardID": "6149"
+  },
+  {
+    "CardName": "Hamburger Recipe",
+    "CardID": "4683"
+  },
+  {
+    "CardName": "Hammer Bounzer",
+    "CardID": "10032"
+  },
+  {
+    "CardName": "Hammer Shark",
+    "CardID": "10031"
+  },
+  {
+    "CardName": "Hammer Shot",
+    "CardID": "6130"
+  },
+  {
+    "CardName": "Hamon, Lord of Striking Thunder",
+    "CardID": "6564"
+  }
+]

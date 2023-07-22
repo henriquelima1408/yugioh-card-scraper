@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Vampire's Curse",
+    "CardID": "6287"
+  },
+  {
+    "CardName": "Vampire's Desire",
+    "CardID": "13651"
+  },
+  {
+    "CardName": "Vampire's Domain",
+    "CardID": "13652"
+  },
+  {
+    "CardName": "Vampiric Koala",
+    "CardID": "8858"
+  },
+  {
+    "CardName": "Vampiric Orchis (Updated from: Vampire Orchis)",
+    "CardID": "5588"
+  },
+  {
+    "CardName": "Van'Dalgyon the Dark Dragon Lord",
+    "CardID": "6410"
+  },
+  {
+    "CardName": "Vanadis of the Nordic Ascendant",
+    "CardID": "9450"
+  },
+  {
+    "CardName": "Vanguard of the Dragon",
+    "CardID": "8190"
+  },
+  {
+    "CardName": "Vanguard of the Underground Emperor",
+    "CardID": "17745"
+  },
+  {
+    "CardName": "Vanity's Call",
+    "CardID": "6917"
+  },
+  {
+    "CardName": "Vanity's Emptiness",
+    "CardID": "9153"
+  },
+  {
+    "CardName": "Vanity's Fiend",
+    "CardID": "6881"
+  },
+  {
+    "CardName": "Vanity's Ruler",
+    "CardID": "6888"
+  },
+  {
+    "CardName": "Vanquish Soul - Continue?",
+    "CardID": "18736"
+  },
+  {
+    "CardName": "Vanquish Soul Caesar Valius",
+    "CardID": "18732"
+  },
+  {
+    "CardName": "Vanquish Soul Calamity Caesar",
+    "CardID": "18738"
+  },
+  {
+    "CardName": "Vanquish Soul Dr. Mad Love",
+    "CardID": "18730"
+  },
+  {
+    "CardName": "Vanquish Soul Dust Devil",
+    "CardID": "18735"
+  },
+  {
+    "CardName": "Vanquish Soul Heavy Borger",
+    "CardID": "18729"
+  },
+  {
+    "CardName": "Vanquish Soul Pantera",
+    "CardID": "18728"
+  },
+  {
+    "CardName": "Vanquish Soul Pluton HG",
+    "CardID": "18731"
+  },
+  {
+    "CardName": "Vanquish Soul Razen",
+    "CardID": "18727"
+  },
+  {
+    "CardName": "Vanquish Soul Trinity Burst",
+    "CardID": "18737"
+  },
+  {
+    "CardName": "Vanquishing Light",
+    "CardID": "7803"
+  },
+  {
+    "CardName": "Variable Form",
+    "CardID": "9945"
+  },
+  {
+    "CardName": "Variety Comes Out",
+    "CardID": "8657"
+  },
+  {
+    "CardName": "Vaylantz Buster Baron",
+    "CardID": "17351"
+  },
+  {
+    "CardName": "Vaylantz Dominator Duke",
+    "CardID": "17354"
+  },
+  {
+    "CardName": "Vaylantz Genesis Grand Duke",
+    "CardID": "17356"
+  },
+  {
+    "CardName": "Vaylantz Mad Marquess",
+    "CardID": "17353"
+  },
+  {
+    "CardName": "Vaylantz Voltage Viscount",
+    "CardID": "17352"
+  },
+  {
+    "CardName": "Vaylantz Wakening - Solo Activation",
+    "CardID": "17823"
+  },
+  {
+    "CardName": "Vaylantz Wars - The Place of Beginning",
+    "CardID": "17357"
+  },
+  {
+    "CardName": "Vaylantz World - Konig Wissen",
+    "CardID": "17359"
+  },
+  {
+    "CardName": "Vaylantz World - Shinra Bansho",
+    "CardID": "17358"
+  },
+  {
+    "CardName": "Vector Pendulum, the Dracoverlord",
+    "CardID": "11968"
+  },
+  {
+    "CardName": "Vector Scare Archfiend",
+    "CardID": "13411"
+  },
+  {
+    "CardName": "Vehicroid Connection Zone",
+    "CardID": "6748"
+  },
+  {
+    "CardName": "Veil of Darkness",
+    "CardID": "7488"
+  },
+  {
+    "CardName": "Vendread Anima",
+    "CardID": "13705"
+  },
+  {
+    "CardName": "Vendread Battlelord",
+    "CardID": "13534"
+  },
+  {
+    "CardName": "Vendread Charge",
+    "CardID": "13536"
+  },
+  {
+    "CardName": "Vendread Chimera",
+    "CardID": "13362"
+  },
+  {
+    "CardName": "Vendread Core",
+    "CardID": "13535"
+  },
+  {
+    "CardName": "Vendread Daybreak",
+    "CardID": "13708"
+  },
+  {
+    "CardName": "Vendread Houndhorde",
+    "CardID": "13210"
+  },
+  {
+    "CardName": "Vendread Nightmare",
+    "CardID": "13707"
+  },
+  {
+    "CardName": "Vendread Nights",
+    "CardID": "13364"
+  },
+  {
+    "CardName": "Vendread Reorigin",
+    "CardID": "13212"
+  },
+  {
+    "CardName": "Vendread Reunion",
+    "CardID": "13365"
+  },
+  {
+    "CardName": "Vendread Revenants",
+    "CardID": "13209"
+  },
+  {
+    "CardName": "Vendread Revolution",
+    "CardID": "13537"
+  },
+  {
+    "CardName": "Vendread Scavenger",
+    "CardID": "17442"
+  },
+  {
+    "CardName": "Vendread Striges",
+    "CardID": "13363"
+  },
+  {
+    "CardName": "Vengeful Bog Spirit",
+    "CardID": "5281"
+  },
+  {
+    "CardName": "Vengeful Servant",
+    "CardID": "8041"
+  },
+  {
+    "CardName": "Vengeful Shinobi",
+    "CardID": "7429"
+  },
+  {
+    "CardName": "Vennominaga the Deity of Poisonous Snakes",
+    "CardID": "7184"
+  },
+  {
+    "CardName": "Vennominon the King of Poisonous Snakes",
+    "CardID": "7183"
+  },
+  {
+    "CardName": "Vennu, Bright Bird of Divinity",
+    "CardID": "12395"
+  },
+  {
+    "CardName": "Venom Boa",
+    "CardID": "7181"
+  },
+  {
+    "CardName": "Venom Burn",
+    "CardID": "7227"
+  },
+  {
+    "CardName": "Venom Cobra",
+    "CardID": "7194"
+  },
+  {
+    "CardName": "Venom Serpent",
+    "CardID": "7182"
+  },
+  {
+    "CardName": "Venom Shot",
+    "CardID": "7189"
+  },
+  {
+    "CardName": "Venom Snake",
+    "CardID": "7180"
+  },
+  {
+    "CardName": "Venom Swamp",
+    "CardID": "7164"
+  },
+  {
+    "CardName": "Ventdra, the Empowered Warrior",
+    "CardID": "11137"
+  },
+  {
+    "CardName": "Vera the Vernusylph Goddess",
+    "CardID": "17781"
+  },
+  {
+    "CardName": "Verdant Sanctuary",
+    "CardID": "8055"
+  },
+  {
+    "CardName": "Vermillion Dragon Mech",
+    "CardID": "12818"
+  },
+  {
+    "CardName": "Vermillion Sparrow",
+    "CardID": "4479"
+  },
+  {
+    "CardName": "Vernusylph and the Changing Season",
+    "CardID": "17476"
+  },
+  {
+    "CardName": "Vernusylph and the Flower Buds",
+    "CardID": "17477"
+  },
+  {
+    "CardName": "Vernusylph Corolla",
+    "CardID": "17463"
+  },
+  {
+    "CardName": "Vernusylph in Full Bloom",
+    "CardID": "17821"
+  },
+  {
+    "CardName": "Vernusylph of the Awakening Forests",
+    "CardID": "17419"
+  },
+  {
+    "CardName": "Vernusylph of the Flourishing Hills",
+    "CardID": "17418"
+  },
+  {
+    "CardName": "Vernusylph of the Flowering Fields",
+    "CardID": "17420"
+  },
+  {
+    "CardName": "Vernusylph of the Misting Seedlings",
+    "CardID": "17782"
+  },
+  {
+    "CardName": "Vernusylph of the Thawing Mountains",
+    "CardID": "17421"
+  },
+  {
+    "CardName": "Versago the Destroyer",
+    "CardID": "4275"
+  },
+  {
+    "CardName": "Vertical Landing",
+    "CardID": "10667"
+  },
+  {
+    "CardName": "Vessel for the Dragon Cycle",
+    "CardID": "14504"
+  },
+  {
+    "CardName": "Vic Viper T301",
+    "CardID": "14472"
+  },
+  {
+    "CardName": "Vice Berserker",
+    "CardID": "9085"
+  },
+  {
+    "CardName": "Vice Dragon",
+    "CardID": "7991"
+  },
+  {
+    "CardName": "Vicious Astraloud",
+    "CardID": "18499"
+  },
+  {
+    "CardName": "Vicious Claw",
+    "CardID": "7446"
+  },
+  {
+    "CardName": "Victoria",
+    "CardID": "8076"
+  },
+  {
+    "CardName": "Victorica, Angel of Bravery",
+    "CardID": "16801"
+  },
+  {
+    "CardName": "Victory Dragon",
+    "CardID": "5868"
+  },
+  {
+    "CardName": "Victory Viper XX03",
+    "CardID": "6684"
+  },
+  {
+    "CardName": "Vijam the Cubic Seed",
+    "CardID": "12515"
+  },
+  {
+    "CardName": "Vile Germs",
+    "CardID": "4316"
+  },
+  {
+    "CardName": "Vilepawn Archfiend",
+    "CardID": "5772"
+  },
+  {
+    "CardName": "Vindikite R-Genex",
+    "CardID": "8416"
+  },
+  {
+    "CardName": "Violent Rain",
+    "CardID": "4605"
+  },
+  {
+    "CardName": "Violet Crystal",
+    "CardID": "4328"
+  },
+  {
+    "CardName": "Violet Witch",
+    "CardID": "8088"
+  }
+]

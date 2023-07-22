@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Viper's Grudge",
+    "CardID": "7510"
+  },
+  {
+    "CardName": "Viper's Rebirth",
+    "CardID": "8660"
+  },
+  {
+    "CardName": "Virgil, Rock Star of the Burning Abyss",
+    "CardID": "11508"
+  },
+  {
+    "CardName": "Virtual World Beast - Jiujiu",
+    "CardID": "15232"
+  },
+  {
+    "CardName": "Virtual World City - Kauwloon",
+    "CardID": "15534"
+  },
+  {
+    "CardName": "Virtual World Dragon - Longlong",
+    "CardID": "15233"
+  },
+  {
+    "CardName": "Virtual World Gate - Chuche",
+    "CardID": "15551"
+  },
+  {
+    "CardName": "Virtual World Gate - Qinglong",
+    "CardID": "15535"
+  },
+  {
+    "CardName": "Virtual World Gate - Xuanwu",
+    "CardID": "15766"
+  },
+  {
+    "CardName": "Virtual World Hime - Nyannyan",
+    "CardID": "15234"
+  },
+  {
+    "CardName": "Virtual World Kirin - Lili",
+    "CardID": "15492"
+  },
+  {
+    "CardName": "Virtual World Kyubi - Shenshen",
+    "CardID": "15515"
+  },
+  {
+    "CardName": "Virtual World Mai-Hime - Lulu",
+    "CardID": "15489"
+  },
+  {
+    "CardName": "Virtual World Oto-Hime - Toutou",
+    "CardID": "15585"
+  },
+  {
+    "CardName": "Virtual World Phoenix - Fanfan",
+    "CardID": "15522"
+  },
+  {
+    "CardName": "Virtual World Roshi - Laolao",
+    "CardID": "15490"
+  },
+  {
+    "CardName": "Virtual World Shell - Jaja",
+    "CardID": "15521"
+  },
+  {
+    "CardName": "Virtual World Tiger - Fufu",
+    "CardID": "18509"
+  },
+  {
+    "CardName": "Virtual World Xiezhi - Jiji",
+    "CardID": "15491"
+  },
+  {
+    "CardName": "Virus Cannon",
+    "CardID": "5358"
+  },
+  {
+    "CardName": "Visas Starfrost",
+    "CardID": "17120"
+  },
+  {
+    "CardName": "Viser Des",
+    "CardID": "5292"
+  },
+  {
+    "CardName": "Vision Fusion",
+    "CardID": "9070"
+  },
+  {
+    "CardName": "Vision HERO Adoration",
+    "CardID": "9076"
+  },
+  {
+    "CardName": "Vision HERO Faris",
+    "CardID": "9190"
+  },
+  {
+    "CardName": "Vision HERO Gravito",
+    "CardID": "9230"
+  },
+  {
+    "CardName": "Vision HERO Increase",
+    "CardID": "9063"
+  },
+  {
+    "CardName": "Vision HERO Minimum Ray",
+    "CardID": "9055"
+  },
+  {
+    "CardName": "Vision HERO Multiply Guy",
+    "CardID": "9059"
+  },
+  {
+    "CardName": "Vision HERO Poisoner",
+    "CardID": "9071"
+  },
+  {
+    "CardName": "Vision HERO Trinity",
+    "CardID": "9196"
+  },
+  {
+    "CardName": "Vision HERO Vyon",
+    "CardID": "9229"
+  },
+  {
+    "CardName": "Vision HERO Witch Raider",
+    "CardID": "9074"
+  },
+  {
+    "CardName": "Vision Release",
+    "CardID": "9075"
+  },
+  {
+    "CardName": "Vision with Eyes of Blue",
+    "CardID": "16855"
+  },
+  {
+    "CardName": "Vivid Knight",
+    "CardID": "10584"
+  },
+  {
+    "CardName": "Vivid Tail",
+    "CardID": "17191"
+  },
+  {
+    "CardName": "Voici la Carte (Today's Menu)",
+    "CardID": "18746"
+  },
+  {
+    "CardName": "Void Apocalypse",
+    "CardID": "15051"
+  },
+  {
+    "CardName": "Void Cauldron",
+    "CardID": "15887"
+  },
+  {
+    "CardName": "Void Expansion",
+    "CardID": "11578"
+  },
+  {
+    "CardName": "Void Feast",
+    "CardID": "12811"
+  },
+  {
+    "CardName": "Void Imagination",
+    "CardID": "11847"
+  },
+  {
+    "CardName": "Void Launch",
+    "CardID": "11592"
+  },
+  {
+    "CardName": "Void Ogre Dragon",
+    "CardID": "9970"
+  },
+  {
+    "CardName": "Void Purification",
+    "CardID": "11748"
+  },
+  {
+    "CardName": "Void Seer",
+    "CardID": "11577"
+  },
+  {
+    "CardName": "Void Trap Hole",
+    "CardID": "10206"
+  },
+  {
+    "CardName": "Void Vanishment",
+    "CardID": "11736"
+  },
+  {
+    "CardName": "Vola-Chemicritter Methydraco",
+    "CardID": "12640"
+  },
+  {
+    "CardName": "Volcanic Blaster",
+    "CardID": "7102"
+  },
+  {
+    "CardName": "Volcanic Counter",
+    "CardID": "7415"
+  },
+  {
+    "CardName": "Volcanic Doomfire",
+    "CardID": "7085"
+  },
+  {
+    "CardName": "Volcanic Eruption",
+    "CardID": "6824"
+  },
+  {
+    "CardName": "Volcanic Hammerer",
+    "CardID": "7104"
+  },
+  {
+    "CardName": "Volcanic Queen",
+    "CardID": "7578"
+  },
+  {
+    "CardName": "Volcanic Rat",
+    "CardID": "7191"
+  },
+  {
+    "CardName": "Volcanic Recharge",
+    "CardID": "7131"
+  },
+  {
+    "CardName": "Volcanic Rocket",
+    "CardID": "7243"
+  },
+  {
+    "CardName": "Volcanic Scattershot",
+    "CardID": "7083"
+  },
+  {
+    "CardName": "Volcanic Shell",
+    "CardID": "7082"
+  },
+  {
+    "CardName": "Volcanic Slicer",
+    "CardID": "7103"
+  },
+  {
+    "CardName": "Voloferniges, the Darkest Dragon Doomrider",
+    "CardID": "16234"
+  },
+  {
+    "CardName": "Voltanis the Adjudicator",
+    "CardID": "6696"
+  },
+  {
+    "CardName": "Voltester",
+    "CardID": "14481"
+  },
+  {
+    "CardName": "Voltic Bicorn",
+    "CardID": "8972"
+  },
+  {
+    "CardName": "Voltic Kong",
+    "CardID": "7142"
+  },
+  {
+    "CardName": "Vorse Raider",
+    "CardID": "5004"
+  },
+  {
+    "CardName": "Vortex the Whirlwind",
+    "CardID": "9449"
+  },
+  {
+    "CardName": "Vortex Trooper",
+    "CardID": "7401"
+  },
+  {
+    "CardName": "Vorticular Drumgon",
+    "CardID": "13757"
+  },
+  {
+    "CardName": "Votis",
+    "CardID": "7506"
+  },
+  {
+    "CardName": "Vulcan Dragni the Cubic King",
+    "CardID": "12520"
+  },
+  {
+    "CardName": "Vulcan the Divine",
+    "CardID": "10461"
+  },
+  {
+    "CardName": "VW-Tiger Catapult",
+    "CardID": "6483"
+  },
+  {
+    "CardName": "VWXYZ-Dragon Catapult Cannon",
+    "CardID": "6484"
+  },
+  {
+    "CardName": "Vylon Alpha",
+    "CardID": "9393"
+  },
+  {
+    "CardName": "Vylon Charger",
+    "CardID": "8909"
+  },
+  {
+    "CardName": "Vylon Component",
+    "CardID": "9396"
+  },
+  {
+    "CardName": "Vylon Cube",
+    "CardID": "8907"
+  },
+  {
+    "CardName": "Vylon Delta",
+    "CardID": "9188"
+  },
+  {
+    "CardName": "Vylon Disigma",
+    "CardID": "9603"
+  },
+  {
+    "CardName": "Vylon Element",
+    "CardID": "9397"
+  },
+  {
+    "CardName": "Vylon Epsilon",
+    "CardID": "8917"
+  },
+  {
+    "CardName": "Vylon Filament",
+    "CardID": "9674"
+  },
+  {
+    "CardName": "Vylon Hept",
+    "CardID": "9379"
+  },
+  {
+    "CardName": "Vylon Material",
+    "CardID": "8920"
+  },
+  {
+    "CardName": "Vylon Matter",
+    "CardID": "9351"
+  },
+  {
+    "CardName": "Vylon Ohm",
+    "CardID": "9213"
+  },
+  {
+    "CardName": "Vylon Omega",
+    "CardID": "9394"
+  },
+  {
+    "CardName": "Vylon Pentachloro",
+    "CardID": "9588"
+  },
+  {
+    "CardName": "Vylon Polytope",
+    "CardID": "9607"
+  },
+  {
+    "CardName": "Vylon Prism",
+    "CardID": "9378"
+  },
+  {
+    "CardName": "Vylon Segment",
+    "CardID": "9608"
+  },
+  {
+    "CardName": "Vylon Sigma",
+    "CardID": "8916"
+  },
+  {
+    "CardName": "Vylon Soldier",
+    "CardID": "8910"
+  },
+  {
+    "CardName": "Vylon Sphere",
+    "CardID": "9375"
+  },
+  {
+    "CardName": "Vylon Stella",
+    "CardID": "9377"
+  },
+  {
+    "CardName": "Vylon Stigma",
+    "CardID": "9590"
+  },
+  {
+    "CardName": "Vylon Tesseract",
+    "CardID": "9589"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Disciples of the True Dracophoenix",
+    "CardID": "12969"
+  },
+  {
+    "CardName": "Discord",
+    "CardID": "8358"
+  },
+  {
+    "CardName": "Disenchanter",
+    "CardID": "8133"
+  },
+  {
+    "CardName": "Disk Magician",
+    "CardID": "4649"
+  },
+  {
+    "CardName": "Diskblade Rider",
+    "CardID": "7608"
+  },
+  {
+    "CardName": "Dispatchparazzi",
+    "CardID": "16238"
+  },
+  {
+    "CardName": "Disposable Learner Device",
+    "CardID": "14874"
+  },
+  {
+    "CardName": "Dissolverock",
+    "CardID": "4250"
+  },
+  {
+    "CardName": "Disturbance Strategy",
+    "CardID": "5546"
+  },
+  {
+    "CardName": "Divine Arsenal AA-ZEUS - Sky Thunder",
+    "CardID": "15524"
+  },
+  {
+    "CardName": "Divine Dragon - Excelion",
+    "CardID": "6611"
+  },
+  {
+    "CardName": "Divine Dragon Apocralyph",
+    "CardID": "9910"
+  },
+  {
+    "CardName": "Divine Dragon Aquabizarre",
+    "CardID": "8317"
+  },
+  {
+    "CardName": "Divine Dragon Knight Felgrand",
+    "CardID": "10787"
+  },
+  {
+    "CardName": "Divine Dragon Lord Felgrand",
+    "CardID": "12360"
+  },
+  {
+    "CardName": "Divine Dragon Ragnarok",
+    "CardID": "6233"
+  },
+  {
+    "CardName": "Divine Dragon Titanomakhia",
+    "CardID": "17138"
+  },
+  {
+    "CardName": "Divine Evolution",
+    "CardID": "6451"
+  },
+  {
+    "CardName": "Divine Grace - Northwemko",
+    "CardID": "8474"
+  },
+  {
+    "CardName": "Divine Knight Ishzark",
+    "CardID": "6374"
+  },
+  {
+    "CardName": "Divine Punishment",
+    "CardID": "9291"
+  },
+  {
+    "CardName": "Divine Relic Mjollnir",
+    "CardID": "9357"
+  },
+  {
+    "CardName": "Divine Serpent Geh",
+    "CardID": "12671"
+  },
+  {
+    "CardName": "Divine Sword - Phoenix Blade",
+    "CardID": "6458"
+  },
+  {
+    "CardName": "Divine Wind of Mist Valley",
+    "CardID": "9350"
+  },
+  {
+    "CardName": "Divine Wrath",
+    "CardID": "6217"
+  },
+  {
+    "CardName": "Diviner of the Herald",
+    "CardID": "15083"
+  },
+  {
+    "CardName": "Dizzying Winds of Yosen Village",
+    "CardID": "11745"
+  },
+  {
+    "CardName": "Djinn Cursenchanter of Rituals",
+    "CardID": "8648"
+  },
+  {
+    "CardName": "Djinn Demolisher of Rituals",
+    "CardID": "11246"
+  },
+  {
+    "CardName": "Djinn Disserere of Rituals",
+    "CardID": "8759"
+  },
+  {
+    "CardName": "Djinn Presider of Rituals",
+    "CardID": "8473"
+  },
+  {
+    "CardName": "Djinn Prognosticator of Rituals",
+    "CardID": "8649"
+  },
+  {
+    "CardName": "Djinn Releaser of Rituals",
+    "CardID": "8472"
+  },
+  {
+    "CardName": "DMZ Dragon",
+    "CardID": "14453"
+  },
+  {
+    "CardName": "DNA Checkup",
+    "CardID": "7933"
+  },
+  {
+    "CardName": "DNA Surgery",
+    "CardID": "4951"
+  },
+  {
+    "CardName": "DNA Transplant",
+    "CardID": "5919"
+  },
+  {
+    "CardName": "Do a Barrel Roll",
+    "CardID": "10555"
+  },
+  {
+    "CardName": "Doble Passe",
+    "CardID": "11166"
+  },
+  {
+    "CardName": "Doctor Cranium",
+    "CardID": "7715"
+  },
+  {
+    "CardName": "Doctor D",
+    "CardID": "16406"
+  },
+  {
+    "CardName": "Dodger Dragon",
+    "CardID": "9700"
+  },
+  {
+    "CardName": "Dododo Bot",
+    "CardID": "10360"
+  },
+  {
+    "CardName": "Dododo Buster",
+    "CardID": "10478"
+  },
+  {
+    "CardName": "Dododo Driver",
+    "CardID": "10980"
+  },
+  {
+    "CardName": "Dododo Swordsman",
+    "CardID": "10832"
+  },
+  {
+    "CardName": "Dododo Warrior",
+    "CardID": "9852"
+  },
+  {
+    "CardName": "Dododo Witch",
+    "CardID": "10831"
+  },
+  {
+    "CardName": "Dodododraw",
+    "CardID": "11112"
+  },
+  {
+    "CardName": "Dodododwarf Gogogoglove",
+    "CardID": "14922"
+  },
+  {
+    "CardName": "Doggy Diver",
+    "CardID": "10836"
+  },
+  {
+    "CardName": "Dogmatika Adin, the Enlightened",
+    "CardID": "15241"
+  },
+  {
+    "CardName": "Dogmatika Alba Zoa",
+    "CardID": "18176"
+  },
+  {
+    "CardName": "Dogmatika Ashiyan",
+    "CardID": "15488"
+  },
+  {
+    "CardName": "Dogmatika Ecclesia, the Virtuous",
+    "CardID": "15239"
+  },
+  {
+    "CardName": "Dogmatika Encounter",
+    "CardID": "15305"
+  },
+  {
+    "CardName": "Dogmatika Fleurdelis, the Knighted",
+    "CardID": "15242"
+  },
+  {
+    "CardName": "Dogmatika Genesis",
+    "CardID": "15761"
+  },
+  {
+    "CardName": "Dogmatika Maximus",
+    "CardID": "15243"
+  },
+  {
+    "CardName": "Dogmatika Nation",
+    "CardID": "15285"
+  },
+  {
+    "CardName": "Dogmatika Nexus",
+    "CardID": "15244"
+  },
+  {
+    "CardName": "Dogmatika Punishment",
+    "CardID": "15304"
+  },
+  {
+    "CardName": "Dogmatika Theo, the Iron Punch",
+    "CardID": "15240"
+  },
+  {
+    "CardName": "Dogmatikacism",
+    "CardID": "15533"
+  },
+  {
+    "CardName": "Dogmatikalamity",
+    "CardID": "16014"
+  },
+  {
+    "CardName": "Dogmatikamacabre",
+    "CardID": "16859"
+  },
+  {
+    "CardName": "Dogmatikamatrix",
+    "CardID": "18200"
+  },
+  {
+    "CardName": "Dogmatikaturgy",
+    "CardID": "17184"
+  },
+  {
+    "CardName": "Dogoran, the Mad Flame Kaiju",
+    "CardID": "12038"
+  },
+  {
+    "CardName": "Dogu",
+    "CardID": "11251"
+  },
+  {
+    "CardName": "Doitsu",
+    "CardID": "6423"
+  },
+  {
+    "CardName": "Doki Doki",
+    "CardID": "12622"
+  },
+  {
+    "CardName": "Dokurorider",
+    "CardID": "4725"
+  },
+  {
+    "CardName": "Dokuroyaiba",
+    "CardID": "5150"
+  },
+  {
+    "CardName": "Doll Happiness",
+    "CardID": "15891"
+  },
+  {
+    "CardName": "Doll House",
+    "CardID": "16427"
+  },
+  {
+    "CardName": "Doll Monster Bear-Bear",
+    "CardID": "15889"
+  },
+  {
+    "CardName": "Doll Monster Miss M&auml;dchen",
+    "CardID": "15888"
+  },
+  {
+    "CardName": "Doma The Angel of Silence",
+    "CardID": "4117"
+  },
+  {
+    "CardName": "Domain of the True Monarchs",
+    "CardID": "11761"
+  },
+  {
+    "CardName": "Domino Effect",
+    "CardID": "7740"
+  },
+  {
+    "CardName": "Don Thousand's Throne",
+    "CardID": "11088"
+  },
+  {
+    "CardName": "Don Turtle",
+    "CardID": "5885"
+  },
+  {
+    "CardName": "Don Zaloog",
+    "CardID": "5426"
+  },
+  {
+    "CardName": "Don't Slip, the Dogs of War",
+    "CardID": "15468"
+  },
+  {
+    "CardName": "Donner, Dagger Fur Hire",
+    "CardID": "17804"
+  },
+  {
+    "CardName": "Donpa, Marksman Fur Hire",
+    "CardID": "13655"
+  },
+  {
+    "CardName": "Donyoribo @Ignister",
+    "CardID": "14816"
+  },
+  {
+    "CardName": "Doodle Beast - Stego",
+    "CardID": "17648"
+  },
+  {
+    "CardName": "Doodle Beast - Tyranno",
+    "CardID": "17649"
+  },
+  {
+    "CardName": "Doodlebook - Uh uh uh!",
+    "CardID": "17650"
+  },
+  {
+    "CardName": "Doom Donuts",
+    "CardID": "9579"
+  },
+  {
+    "CardName": "Doom Dozer",
+    "CardID": "6602"
+  },
+  {
+    "CardName": "Doom Kraken",
+    "CardID": "17048"
+  },
+  {
+    "CardName": "Doom Shaman",
+    "CardID": "7202"
+  },
+  {
+    "CardName": "Doom Virus Dragon",
+    "CardID": "11882"
+  },
+  {
+    "CardName": "Doombearer Psychopompos",
+    "CardID": "16217"
+  },
+  {
+    "CardName": "Doomcaliber Knight",
+    "CardID": "6001"
+  },
+  {
+    "CardName": "Doomdog Octhros",
+    "CardID": "11711"
+  }
+]

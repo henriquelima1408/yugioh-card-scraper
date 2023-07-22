@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Rescue Rabbit",
+    "CardID": "9755"
+  },
+  {
+    "CardName": "Rescue Warrior",
+    "CardID": "9083"
+  },
+  {
+    "CardName": "RESCUE!",
+    "CardID": "17999"
+  },
+  {
+    "CardName": "Rescue-ACE Air Lifter",
+    "CardID": "17992"
+  },
+  {
+    "CardName": "Rescue-ACE Fire Attacker",
+    "CardID": "17995"
+  },
+  {
+    "CardName": "Rescue-ACE Fire Engine",
+    "CardID": "17996"
+  },
+  {
+    "CardName": "Rescue-ACE HQ",
+    "CardID": "17998"
+  },
+  {
+    "CardName": "Rescue-ACE Hydrant",
+    "CardID": "17994"
+  },
+  {
+    "CardName": "Rescue-ACE Impulse",
+    "CardID": "17991"
+  },
+  {
+    "CardName": "Rescue-ACE Monitor",
+    "CardID": "17993"
+  },
+  {
+    "CardName": "Rescue-ACE Turbulence",
+    "CardID": "17997"
+  },
+  {
+    "CardName": "Rescueroid",
+    "CardID": "6745"
+  },
+  {
+    "CardName": "Resh Shaddoll Incarnation",
+    "CardID": "14967"
+  },
+  {
+    "CardName": "Reshef the Dark Being",
+    "CardID": "6342"
+  },
+  {
+    "CardName": "ReSolfachord Dreamia",
+    "CardID": "16085"
+  },
+  {
+    "CardName": "Resonance Device",
+    "CardID": "9678"
+  },
+  {
+    "CardName": "Resonance Insect",
+    "CardID": "11248"
+  },
+  {
+    "CardName": "Resonant Destruction",
+    "CardID": "9519"
+  },
+  {
+    "CardName": "Resonator Call",
+    "CardID": "9518"
+  },
+  {
+    "CardName": "Resonator Command",
+    "CardID": "15048"
+  },
+  {
+    "CardName": "Resonator Engine",
+    "CardID": "9347"
+  },
+  {
+    "CardName": "Respect Play",
+    "CardID": "4958"
+  },
+  {
+    "CardName": "Restoration of the Monarchs",
+    "CardID": "13615"
+  },
+  {
+    "CardName": "Restoration Point Guard",
+    "CardID": "13753"
+  },
+  {
+    "CardName": "Restructer Revolution",
+    "CardID": "4871"
+  },
+  {
+    "CardName": "Resurgam Xyz",
+    "CardID": "14883"
+  },
+  {
+    "CardName": "Resurrection of Chakra",
+    "CardID": "4700"
+  },
+  {
+    "CardName": "Ret-time Reviver Emit-ter",
+    "CardID": "15085"
+  },
+  {
+    "CardName": "Retaliating &quot;C&quot;",
+    "CardID": "11829"
+  },
+  {
+    "CardName": "Retort",
+    "CardID": "10302"
+  },
+  {
+    "CardName": "Return",
+    "CardID": "10098"
+  },
+  {
+    "CardName": "Return from the Different Dimension",
+    "CardID": "6078"
+  },
+  {
+    "CardName": "Return of the Doomed",
+    "CardID": "5109"
+  },
+  {
+    "CardName": "Return of the Dragon Lords",
+    "CardID": "12364"
+  },
+  {
+    "CardName": "Return of the Monarchs",
+    "CardID": "10798"
+  },
+  {
+    "CardName": "Return of the Red-Eyes",
+    "CardID": "11856"
+  },
+  {
+    "CardName": "Return of the Six Samurai",
+    "CardID": "7007"
+  },
+  {
+    "CardName": "Return of the Zombies",
+    "CardID": "14061"
+  },
+  {
+    "CardName": "Return Soul",
+    "CardID": "6946"
+  },
+  {
+    "CardName": "Return Zombie",
+    "CardID": "6005"
+  },
+  {
+    "CardName": "Revealer of the Ice Barrier",
+    "CardID": "15829"
+  },
+  {
+    "CardName": "Revendread Evolution",
+    "CardID": "13706"
+  },
+  {
+    "CardName": "Revendread Executor",
+    "CardID": "13704"
+  },
+  {
+    "CardName": "Revendread Origin",
+    "CardID": "13211"
+  },
+  {
+    "CardName": "Revendread Slayer",
+    "CardID": "13208"
+  },
+  {
+    "CardName": "Revenge Rally",
+    "CardID": "15088"
+  },
+  {
+    "CardName": "Reversal of Fate",
+    "CardID": "7640"
+  },
+  {
+    "CardName": "Reversal Quiz",
+    "CardID": "5541"
+  },
+  {
+    "CardName": "Reverse Breaker",
+    "CardID": "11085"
+  },
+  {
+    "CardName": "Reverse Buster",
+    "CardID": "9886"
+  },
+  {
+    "CardName": "Reverse Glasses",
+    "CardID": "10673"
+  },
+  {
+    "CardName": "Reverse Jar",
+    "CardID": "17142"
+  },
+  {
+    "CardName": "Reverse of Neos",
+    "CardID": "7163"
+  },
+  {
+    "CardName": "Reverse Reuse",
+    "CardID": "11915"
+  },
+  {
+    "CardName": "Reverse Trap",
+    "CardID": "4695"
+  },
+  {
+    "CardName": "Reversible Beetle",
+    "CardID": "14479"
+  },
+  {
+    "CardName": "Revival Gift",
+    "CardID": "7923"
+  },
+  {
+    "CardName": "Revival Golem",
+    "CardID": "10316"
+  },
+  {
+    "CardName": "Revival Jam",
+    "CardID": "5063"
+  },
+  {
+    "CardName": "Revival of Dokurorider",
+    "CardID": "4705"
+  },
+  {
+    "CardName": "Revival of the Immortals",
+    "CardID": "8530"
+  },
+  {
+    "CardName": "Revival Rose",
+    "CardID": "8792"
+  },
+  {
+    "CardName": "Revival Swarm",
+    "CardID": "14577"
+  },
+  {
+    "CardName": "Revived King Ha Des",
+    "CardID": "7851"
+  },
+  {
+    "CardName": "Revoke Fusion",
+    "CardID": "7382"
+  },
+  {
+    "CardName": "Revolving Switchyard",
+    "CardID": "11607"
+  },
+  {
+    "CardName": "Rex, Freight Fur Hire",
+    "CardID": "17783"
+  },
+  {
+    "CardName": "RGB Rainbowlution",
+    "CardID": "18648"
+  },
+  {
+    "CardName": "Rhaimundos of the Red Sword",
+    "CardID": "4157"
+  },
+  {
+    "CardName": "Rhinotaurus",
+    "CardID": "8948"
+  },
+  {
+    "CardName": "Ribbon of Rebirth",
+    "CardID": "7634"
+  },
+  {
+    "CardName": "Ride of the Valkyries",
+    "CardID": "13997"
+  },
+  {
+    "CardName": "Rider of the Storm Winds",
+    "CardID": "10589"
+  },
+  {
+    "CardName": "Right Arm of the Forbidden One",
+    "CardID": "4025"
+  },
+  {
+    "CardName": "Right Leg of the Forbidden One",
+    "CardID": "4023"
+  },
+  {
+    "CardName": "Right-Hand Shark",
+    "CardID": "14976"
+  },
+  {
+    "CardName": "Righty Driver",
+    "CardID": "8872"
+  },
+  {
+    "CardName": "Rigorous Reaver",
+    "CardID": "5044"
+  },
+  {
+    "CardName": "Rikka Flurries",
+    "CardID": "15120"
+  },
+  {
+    "CardName": "Rikka Glamour",
+    "CardID": "15119"
+  },
+  {
+    "CardName": "Rikka Konkon",
+    "CardID": "17468"
+  },
+  {
+    "CardName": "Rikka Petal",
+    "CardID": "15110"
+  },
+  {
+    "CardName": "Rikka Princess",
+    "CardID": "17429"
+  },
+  {
+    "CardName": "Rikka Queen Strenna",
+    "CardID": "15280"
+  },
+  {
+    "CardName": "Rikka Sheet",
+    "CardID": "15122"
+  },
+  {
+    "CardName": "Rikka Tranquility",
+    "CardID": "15121"
+  },
+  {
+    "CardName": "Rilliona, the Magistus of Verre",
+    "CardID": "15614"
+  },
+  {
+    "CardName": "Rilliona, the Wondrous Magistus Witch Wardrobe",
+    "CardID": "16003"
+  },
+  {
+    "CardName": "Rindbrumm the Striking Dragon",
+    "CardID": "18179"
+  },
+  {
+    "CardName": "Ring of Defense",
+    "CardID": "6543"
+  },
+  {
+    "CardName": "Ring of Destruction",
+    "CardID": "5005"
+  },
+  {
+    "CardName": "Ring of Magnetism",
+    "CardID": "4888"
+  },
+  {
+    "CardName": "Ringowurm, the Dragon Guarding the Hundred Apples",
+    "CardID": "18492"
+  },
+  {
+    "CardName": "Rinyan, Lightsworn Rogue",
+    "CardID": "8596"
+  },
+  {
+    "CardName": "Riryoku",
+    "CardID": "5009"
+  },
+  {
+    "CardName": "Riryoku Field",
+    "CardID": "5263"
+  },
+  {
+    "CardName": "Riryoku Guardian",
+    "CardID": "18331"
+  },
+  {
+    "CardName": "Rise of the Salamangreat",
+    "CardID": "13939"
+  },
+  {
+    "CardName": "Rise of the Snake Deity",
+    "CardID": "7169"
+  },
+  {
+    "CardName": "Rise to Full Height",
+    "CardID": "12349"
+  }
+]

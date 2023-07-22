@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Myutant GB-88",
+    "CardID": "15773"
+  },
+  {
+    "CardName": "Myutant M-05",
+    "CardID": "15568"
+  },
+  {
+    "CardName": "Myutant Mist",
+    "CardID": "15571"
+  },
+  {
+    "CardName": "Myutant Mutant",
+    "CardID": "16824"
+  },
+  {
+    "CardName": "Myutant ST-46",
+    "CardID": "15569"
+  },
+  {
+    "CardName": "Myutant Synthesis",
+    "CardID": "15774"
+  },
+  {
+    "CardName": "Myutant Ultimus",
+    "CardID": "15775"
+  },
+  {
+    "CardName": "N.As.H. Knight",
+    "CardID": "17041"
+  },
+  {
+    "CardName": "Nadir Servant",
+    "CardID": "15286"
+  },
+  {
+    "CardName": "Naelshaddoll Ariel",
+    "CardID": "14966"
+  },
+  {
+    "CardName": "Nagel's Protection",
+    "CardID": "13425"
+  },
+  {
+    "CardName": "Naglfar, Generaider Boss of Fire",
+    "CardID": "14773"
+  },
+  {
+    "CardName": "Nanobreaker",
+    "CardID": "6499"
+  },
+  {
+    "CardName": "Narrow Pass",
+    "CardID": "5545"
+  },
+  {
+    "CardName": "Natural Disaster",
+    "CardID": "7272"
+  },
+  {
+    "CardName": "Natural Tune",
+    "CardID": "8211"
+  },
+  {
+    "CardName": "Nature's Reflection",
+    "CardID": "8676"
+  },
+  {
+    "CardName": "Naturia Antjaw",
+    "CardID": "8100"
+  },
+  {
+    "CardName": "Naturia Bamboo Shoot",
+    "CardID": "8960"
+  },
+  {
+    "CardName": "Naturia Barkion",
+    "CardID": "8260"
+  },
+  {
+    "CardName": "Naturia Beans",
+    "CardID": "8959"
+  },
+  {
+    "CardName": "Naturia Beast",
+    "CardID": "7969"
+  },
+  {
+    "CardName": "Naturia Beetle",
+    "CardID": "7944"
+  },
+  {
+    "CardName": "Naturia Blessing",
+    "CardID": "17819"
+  },
+  {
+    "CardName": "Naturia Butterfly",
+    "CardID": "8567"
+  },
+  {
+    "CardName": "Naturia Camellia",
+    "CardID": "17777"
+  },
+  {
+    "CardName": "Naturia Cherries",
+    "CardID": "9107"
+  },
+  {
+    "CardName": "Naturia Cliff",
+    "CardID": "8244"
+  },
+  {
+    "CardName": "Naturia Cosmobeet",
+    "CardID": "8103"
+  },
+  {
+    "CardName": "Naturia Dragonfly",
+    "CardID": "8242"
+  },
+  {
+    "CardName": "Naturia Eggplant",
+    "CardID": "9440"
+  },
+  {
+    "CardName": "Naturia Exterio",
+    "CardID": "8727"
+  },
+  {
+    "CardName": "Naturia Forest",
+    "CardID": "8982"
+  },
+  {
+    "CardName": "Naturia Fruitfly",
+    "CardID": "8400"
+  },
+  {
+    "CardName": "Naturia Gaiastrio",
+    "CardID": "11420"
+  },
+  {
+    "CardName": "Naturia Guardian",
+    "CardID": "7946"
+  },
+  {
+    "CardName": "Naturia Horneedle",
+    "CardID": "8399"
+  },
+  {
+    "CardName": "Naturia Hydrangea",
+    "CardID": "8401"
+  },
+  {
+    "CardName": "Naturia Ladybug",
+    "CardID": "8568"
+  },
+  {
+    "CardName": "Naturia Landoise",
+    "CardID": "8578"
+  },
+  {
+    "CardName": "Naturia Leodrake",
+    "CardID": "8119"
+  },
+  {
+    "CardName": "Naturia Mantis",
+    "CardID": "8721"
+  },
+  {
+    "CardName": "Naturia Marron",
+    "CardID": "9747"
+  },
+  {
+    "CardName": "Naturia Mole Cricket",
+    "CardID": "17776"
+  },
+  {
+    "CardName": "Naturia Mosquito",
+    "CardID": "8958"
+  },
+  {
+    "CardName": "Naturia Pineapple",
+    "CardID": "9204"
+  },
+  {
+    "CardName": "Naturia Pumpkin",
+    "CardID": "9108"
+  },
+  {
+    "CardName": "Naturia Ragweed",
+    "CardID": "8722"
+  },
+  {
+    "CardName": "Naturia Rock",
+    "CardID": "7945"
+  },
+  {
+    "CardName": "Naturia Rosewhip",
+    "CardID": "8102"
+  },
+  {
+    "CardName": "Naturia Sacred Tree",
+    "CardID": "11408"
+  },
+  {
+    "CardName": "Naturia Spiderfang",
+    "CardID": "8101"
+  },
+  {
+    "CardName": "Naturia Stag Beetle",
+    "CardID": "9109"
+  },
+  {
+    "CardName": "Naturia Stinkbug",
+    "CardID": "8720"
+  },
+  {
+    "CardName": "Naturia Strawberry",
+    "CardID": "8569"
+  },
+  {
+    "CardName": "Naturia Sunflower",
+    "CardID": "8243"
+  },
+  {
+    "CardName": "Naturia Tulip",
+    "CardID": "8245"
+  },
+  {
+    "CardName": "Naturia Vein",
+    "CardID": "7947"
+  },
+  {
+    "CardName": "Naturia White Oak",
+    "CardID": "8723"
+  },
+  {
+    "CardName": "Nauya, the Ogdoadic Remnant",
+    "CardID": "16072"
+  },
+  {
+    "CardName": "Navy Dragon Mech",
+    "CardID": "17390"
+  },
+  {
+    "CardName": "Nazuki the Vaylantz Ninja",
+    "CardID": "17349"
+  },
+  {
+    "CardName": "Nebula Dragon",
+    "CardID": "14642"
+  },
+  {
+    "CardName": "Neck Hunter",
+    "CardID": "4532"
+  },
+  {
+    "CardName": "Necklace of Command",
+    "CardID": "6209"
+  },
+  {
+    "CardName": "Necro Defender",
+    "CardID": "9475"
+  },
+  {
+    "CardName": "Necro Fleur",
+    "CardID": "9445"
+  },
+  {
+    "CardName": "Necro Fusion",
+    "CardID": "13962"
+  },
+  {
+    "CardName": "Necro Gardna",
+    "CardID": "7178"
+  },
+  {
+    "CardName": "Necro Linker",
+    "CardID": "9082"
+  },
+  {
+    "CardName": "Necro Synchron",
+    "CardID": "16385"
+  },
+  {
+    "CardName": "Necroface",
+    "CardID": "6075"
+  },
+  {
+    "CardName": "Necroid Synchro",
+    "CardID": "12892"
+  },
+  {
+    "CardName": "Necrolancer the Time-lord (Updated from: Necrolancer the Timelord)",
+    "CardID": "4149"
+  },
+  {
+    "CardName": "Necroquip Prism",
+    "CardID": "15319"
+  },
+  {
+    "CardName": "Necrovalley",
+    "CardID": "5533"
+  },
+  {
+    "CardName": "Necrovalley Temple",
+    "CardID": "13955"
+  },
+  {
+    "CardName": "Necrovalley Throne",
+    "CardID": "13942"
+  },
+  {
+    "CardName": "Necroworld Banshee",
+    "CardID": "14057"
+  },
+  {
+    "CardName": "Needle Ball",
+    "CardID": "4496"
+  },
+  {
+    "CardName": "Needle Burrower",
+    "CardID": "5963"
+  },
+  {
+    "CardName": "Needle Ceiling",
+    "CardID": "5442"
+  },
+  {
+    "CardName": "Needle Soldier",
+    "CardID": "9081"
+  },
+  {
+    "CardName": "Needle Sunfish",
+    "CardID": "9728"
+  },
+  {
+    "CardName": "Needle Wall",
+    "CardID": "5445"
+  },
+  {
+    "CardName": "Needle Worm",
+    "CardID": "4568"
+  },
+  {
+    "CardName": "Needlebug Nest",
+    "CardID": "7769"
+  },
+  {
+    "CardName": "Nefarious Archfiend Eater of Nefariousness",
+    "CardID": "11244"
+  },
+  {
+    "CardName": "Nega-Ton Corepanel",
+    "CardID": "8509"
+  },
+  {
+    "CardName": "Negate Attack",
+    "CardID": "4804"
+  },
+  {
+    "CardName": "Nehshaddoll Genius",
+    "CardID": "15849"
+  },
+  {
+    "CardName": "Neiroy, the Dream Mirror Disciple",
+    "CardID": "15717"
+  },
+  {
+    "CardName": "Neiroy, the Dream Mirror Traitor",
+    "CardID": "16823"
+  },
+  {
+    "CardName": "Neko Mane King",
+    "CardID": "5595"
+  },
+  {
+    "CardName": "Nekogal #1",
+    "CardID": "4258"
+  },
+  {
+    "CardName": "Nekogal #2",
+    "CardID": "4633"
+  },
+  {
+    "CardName": "Nekroz Cycle",
+    "CardID": "11580"
+  },
+  {
+    "CardName": "Nekroz Kaleidoscope",
+    "CardID": "11491"
+  },
+  {
+    "CardName": "Nekroz Mirror",
+    "CardID": "11490"
+  },
+  {
+    "CardName": "Nekroz of Areadbhair",
+    "CardID": "15851"
+  }
+]

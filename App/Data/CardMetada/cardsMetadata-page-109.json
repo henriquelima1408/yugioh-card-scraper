@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Tongyo",
+    "CardID": "4549"
+  },
+  {
+    "CardName": "Tool Box",
+    "CardID": "17637"
+  },
+  {
+    "CardName": "Toon Alligator",
+    "CardID": "4387"
+  },
+  {
+    "CardName": "Toon Ancient Gear Golem",
+    "CardID": "11900"
+  },
+  {
+    "CardName": "Toon Barrel Dragon",
+    "CardID": "11982"
+  },
+  {
+    "CardName": "Toon Black Luster Soldier",
+    "CardID": "15470"
+  },
+  {
+    "CardName": "Toon Bookmark",
+    "CardID": "15472"
+  },
+  {
+    "CardName": "Toon Briefcase",
+    "CardID": "11906"
+  },
+  {
+    "CardName": "Toon Buster Blader",
+    "CardID": "12146"
+  },
+  {
+    "CardName": "Toon Cannon Soldier",
+    "CardID": "5477"
+  },
+  {
+    "CardName": "Toon Cyber Dragon",
+    "CardID": "11827"
+  },
+  {
+    "CardName": "Toon Dark Magician",
+    "CardID": "12431"
+  },
+  {
+    "CardName": "Toon Dark Magician Girl",
+    "CardID": "5450"
+  },
+  {
+    "CardName": "Toon Defense",
+    "CardID": "5473"
+  },
+  {
+    "CardName": "Toon Gemini Elf",
+    "CardID": "5476"
+  },
+  {
+    "CardName": "Toon Goblin Attack Force",
+    "CardID": "5478"
+  },
+  {
+    "CardName": "Toon Harpie Lady",
+    "CardID": "15471"
+  },
+  {
+    "CardName": "Toon Kingdom",
+    "CardID": "11901"
+  },
+  {
+    "CardName": "Toon Mask",
+    "CardID": "11905"
+  },
+  {
+    "CardName": "Toon Masked Sorcerer",
+    "CardID": "5475"
+  },
+  {
+    "CardName": "Toon Mermaid",
+    "CardID": "4734"
+  },
+  {
+    "CardName": "Toon Page-Flip",
+    "CardID": "15473"
+  },
+  {
+    "CardName": "Toon Rollback",
+    "CardID": "11902"
+  },
+  {
+    "CardName": "Toon Summoned Skull",
+    "CardID": "4735"
+  },
+  {
+    "CardName": "Toon Table of Contents",
+    "CardID": "5474"
+  },
+  {
+    "CardName": "Toon Terror",
+    "CardID": "15474"
+  },
+  {
+    "CardName": "Toon World",
+    "CardID": "4798"
+  },
+  {
+    "CardName": "Top Runner",
+    "CardID": "9296"
+  },
+  {
+    "CardName": "Top Share",
+    "CardID": "16869"
+  },
+  {
+    "CardName": "Topologic Bomber Dragon",
+    "CardID": "13085"
+  },
+  {
+    "CardName": "Topologic Gumblar Dragon",
+    "CardID": "13836"
+  },
+  {
+    "CardName": "Topologic Trisbaena",
+    "CardID": "13590"
+  },
+  {
+    "CardName": "Topologic Zeroboros",
+    "CardID": "14624"
+  },
+  {
+    "CardName": "Torapart",
+    "CardID": "8170"
+  },
+  {
+    "CardName": "Tornado",
+    "CardID": "7126"
+  },
+  {
+    "CardName": "Tornado Bird",
+    "CardID": "5257"
+  },
+  {
+    "CardName": "Tornado Dragon",
+    "CardID": "13019"
+  },
+  {
+    "CardName": "Tornado Wall",
+    "CardID": "5111"
+  },
+  {
+    "CardName": "Torpedo Fish",
+    "CardID": "5894"
+  },
+  {
+    "CardName": "Torpedo Takedown",
+    "CardID": "15049"
+  },
+  {
+    "CardName": "Torque Tune Gear",
+    "CardID": "12623"
+  },
+  {
+    "CardName": "Torrential Reborn",
+    "CardID": "10552"
+  },
+  {
+    "CardName": "Torrential Tribute",
+    "CardID": "5114"
+  },
+  {
+    "CardName": "Total Defense Shogun",
+    "CardID": "4788"
+  },
+  {
+    "CardName": "Totem Bird",
+    "CardID": "10600"
+  },
+  {
+    "CardName": "Totem Dragon",
+    "CardID": "8143"
+  },
+  {
+    "CardName": "Totem Five",
+    "CardID": "12438"
+  },
+  {
+    "CardName": "Tour Bus From the Underworld",
+    "CardID": "10014"
+  },
+  {
+    "CardName": "Tour Bus To Forbidden Realms",
+    "CardID": "10817"
+  },
+  {
+    "CardName": "Tour Guide From the Underworld",
+    "CardID": "9702"
+  },
+  {
+    "CardName": "Tour of Doom",
+    "CardID": "7641"
+  },
+  {
+    "CardName": "Tower of Babel",
+    "CardID": "5854"
+  },
+  {
+    "CardName": "Toy Knight",
+    "CardID": "10833"
+  },
+  {
+    "CardName": "Toy Magician",
+    "CardID": "6815"
+  },
+  {
+    "CardName": "Toy Parade",
+    "CardID": "16431"
+  },
+  {
+    "CardName": "Toy Vendor",
+    "CardID": "11392"
+  },
+  {
+    "CardName": "Trackblack",
+    "CardID": "14438"
+  },
+  {
+    "CardName": "Trade-In",
+    "CardID": "7248"
+  },
+  {
+    "CardName": "Tradetoad",
+    "CardID": "9504"
+  },
+  {
+    "CardName": "Trading Places",
+    "CardID": "13436"
+  },
+  {
+    "CardName": "Traffic Ghost",
+    "CardID": "13529"
+  },
+  {
+    "CardName": "Tragedy",
+    "CardID": "4823"
+  },
+  {
+    "CardName": "Tragoedia",
+    "CardID": "8089"
+  },
+  {
+    "CardName": "Train Connection",
+    "CardID": "11184"
+  },
+  {
+    "CardName": "Training Fur Hire, Fur All Your Training Needs",
+    "CardID": "13667"
+  },
+  {
+    "CardName": "Trakodon",
+    "CardID": "4576"
+  },
+  {
+    "CardName": "Trance Archfiend",
+    "CardID": "9909"
+  },
+  {
+    "CardName": "Trance the Magic Swordsman",
+    "CardID": "10131"
+  },
+  {
+    "CardName": "Trancefamiliar",
+    "CardID": "13583"
+  },
+  {
+    "CardName": "Transcendent Wings",
+    "CardID": "6407"
+  },
+  {
+    "CardName": "Transcendosaurus Drillygnathus",
+    "CardID": "18724"
+  },
+  {
+    "CardName": "Transcendosaurus Gigantozowler",
+    "CardID": "18722"
+  },
+  {
+    "CardName": "Transcendosaurus Glaciasaurus",
+    "CardID": "18723"
+  },
+  {
+    "CardName": "Transcendosaurus Meteorus",
+    "CardID": "18721"
+  },
+  {
+    "CardName": "Transcicada",
+    "CardID": "14839"
+  },
+  {
+    "CardName": "Transcode Talker",
+    "CardID": "13698"
+  },
+  {
+    "CardName": "Transforming Sphere",
+    "CardID": "8700"
+  },
+  {
+    "CardName": "Transmigration Break",
+    "CardID": "7478"
+  },
+  {
+    "CardName": "Transmission Gear",
+    "CardID": "13119"
+  },
+  {
+    "CardName": "Transmodify",
+    "CardID": "10670"
+  },
+  {
+    "CardName": "Transonic Bird",
+    "CardID": "16523"
+  },
+  {
+    "CardName": "Trap Dustshoot",
+    "CardID": "5446"
+  },
+  {
+    "CardName": "Trap Eater",
+    "CardID": "8008"
+  },
+  {
+    "CardName": "Trap Hole",
+    "CardID": "4836"
+  },
+  {
+    "CardName": "Trap Hole of Spikes",
+    "CardID": "12240"
+  },
+  {
+    "CardName": "Trap Jammer",
+    "CardID": "5921"
+  },
+  {
+    "CardName": "Trap Master",
+    "CardID": "4230"
+  },
+  {
+    "CardName": "Trap of Board Eraser",
+    "CardID": "5547"
+  },
+  {
+    "CardName": "Trap of Darkness",
+    "CardID": "6453"
+  },
+  {
+    "CardName": "Trap of the Imperial Tomb",
+    "CardID": "7932"
+  },
+  {
+    "CardName": "Trap Reactor ・Y FI",
+    "CardID": "8000"
+  },
+  {
+    "CardName": "Trap Reclamation",
+    "CardID": "7233"
+  },
+  {
+    "CardName": "Trap Stun",
+    "CardID": "8223"
+  },
+  {
+    "CardName": "Trap Tracks",
+    "CardID": "18541"
+  },
+  {
+    "CardName": "Trap Trick",
+    "CardID": "13965"
+  },
+  {
+    "CardName": "Traptantalizing Tune",
+    "CardID": "18311"
+  },
+  {
+    "CardName": "Traptrip Garden",
+    "CardID": "18310"
+  },
+  {
+    "CardName": "Traptrix Allomerus",
+    "CardID": "15031"
+  },
+  {
+    "CardName": "Traptrix Arachnocampa",
+    "CardID": "18309"
+  },
+  {
+    "CardName": "Traptrix Atrax",
+    "CardID": "10635"
+  }
+]

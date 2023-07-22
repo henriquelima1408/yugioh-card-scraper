@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Creeping Darkness",
+    "CardID": "9933"
+  },
+  {
+    "CardName": "Creeping Doom Manta",
+    "CardID": "6194"
+  },
+  {
+    "CardName": "Creepy Coney",
+    "CardID": "9754"
+  },
+  {
+    "CardName": "Crevice Into the Different Dimension",
+    "CardID": "8853"
+  },
+  {
+    "CardName": "Crimson Blader",
+    "CardID": "9801"
+  },
+  {
+    "CardName": "Crimson Dragon",
+    "CardID": "18825"
+  },
+  {
+    "CardName": "Crimson Fire",
+    "CardID": "8216"
+  },
+  {
+    "CardName": "Crimson Knight Vampire Bram",
+    "CardID": "10785"
+  },
+  {
+    "CardName": "Crimson Ninja",
+    "CardID": "5816"
+  },
+  {
+    "CardName": "Crimson Nova the Dark Cubic Lord",
+    "CardID": "12522"
+  },
+  {
+    "CardName": "Crimson Nova Trinity the Dark Cubic Lord",
+    "CardID": "12523"
+  },
+  {
+    "CardName": "Crimson Resonator",
+    "CardID": "15003"
+  },
+  {
+    "CardName": "Crimson Sentry",
+    "CardID": "5196"
+  },
+  {
+    "CardName": "Crimson Sunbird",
+    "CardID": "4473"
+  },
+  {
+    "CardName": "Criosphinx",
+    "CardID": "6322"
+  },
+  {
+    "CardName": "Crop Circles",
+    "CardID": "6808"
+  },
+  {
+    "CardName": "Cross Attack",
+    "CardID": "9766"
+  },
+  {
+    "CardName": "Cross Breed",
+    "CardID": "13782"
+  },
+  {
+    "CardName": "Cross Counter",
+    "CardID": "6275"
+  },
+  {
+    "CardName": "Cross Debug",
+    "CardID": "14450"
+  },
+  {
+    "CardName": "Cross Keeper",
+    "CardID": "17404"
+  },
+  {
+    "CardName": "Cross Over",
+    "CardID": "14808"
+  },
+  {
+    "CardName": "Cross Porter",
+    "CardID": "7575"
+  },
+  {
+    "CardName": "Cross-Dimensional Duel",
+    "CardID": "13483"
+  },
+  {
+    "CardName": "Cross-Sheep",
+    "CardID": "14856"
+  },
+  {
+    "CardName": "Cross-Sword Beetle",
+    "CardID": "8030"
+  },
+  {
+    "CardName": "Crossout Designator",
+    "CardID": "14627"
+  },
+  {
+    "CardName": "Crossrose Dragon",
+    "CardID": "14938"
+  },
+  {
+    "CardName": "Crow Tengu",
+    "CardID": "16189"
+  },
+  {
+    "CardName": "Crowley, the First Propheseer",
+    "CardID": "13497"
+  },
+  {
+    "CardName": "Crowley, the Magistus of Grimoires",
+    "CardID": "15612"
+  },
+  {
+    "CardName": "Crowned by the World Chalice",
+    "CardID": "13057"
+  },
+  {
+    "CardName": "Crusader of Endymion",
+    "CardID": "8465"
+  },
+  {
+    "CardName": "Crusadia Arboria",
+    "CardID": "13727"
+  },
+  {
+    "CardName": "Crusadia Draco",
+    "CardID": "13729"
+  },
+  {
+    "CardName": "Crusadia Equimax",
+    "CardID": "13761"
+  },
+  {
+    "CardName": "Crusadia Krawler",
+    "CardID": "13961"
+  },
+  {
+    "CardName": "Crusadia Leonis",
+    "CardID": "13728"
+  },
+  {
+    "CardName": "Crusadia Magius",
+    "CardID": "13759"
+  },
+  {
+    "CardName": "Crusadia Maximus",
+    "CardID": "13730"
+  },
+  {
+    "CardName": "Crusadia Power",
+    "CardID": "13772"
+  },
+  {
+    "CardName": "Crusadia Reclusia",
+    "CardID": "13726"
+  },
+  {
+    "CardName": "Crusadia Regulex",
+    "CardID": "13760"
+  },
+  {
+    "CardName": "Crusadia Revival",
+    "CardID": "13771"
+  },
+  {
+    "CardName": "Crusadia Spatha",
+    "CardID": "13933"
+  },
+  {
+    "CardName": "Crusadia Testament",
+    "CardID": "14311"
+  },
+  {
+    "CardName": "Crusadia Vanguard",
+    "CardID": "13789"
+  },
+  {
+    "CardName": "Crush Card Virus",
+    "CardID": "4667"
+  },
+  {
+    "CardName": "Crusher Run",
+    "CardID": "14703"
+  },
+  {
+    "CardName": "Cry Havoc!",
+    "CardID": "7477"
+  },
+  {
+    "CardName": "Cryomancer of the Ice Barrier",
+    "CardID": "7529"
+  },
+  {
+    "CardName": "Crystal Abundance",
+    "CardID": "7123"
+  },
+  {
+    "CardName": "Crystal Aegis",
+    "CardID": "17730"
+  },
+  {
+    "CardName": "Crystal Beacon",
+    "CardID": "7073"
+  },
+  {
+    "CardName": "Crystal Beast Amber Mammoth",
+    "CardID": "7072"
+  },
+  {
+    "CardName": "Crystal Beast Amethyst Cat",
+    "CardID": "7071"
+  },
+  {
+    "CardName": "Crystal Beast Cobalt Eagle",
+    "CardID": "7077"
+  },
+  {
+    "CardName": "Crystal Beast Emerald Tortoise",
+    "CardID": "7075"
+  },
+  {
+    "CardName": "Crystal Beast Rainbow Dragon",
+    "CardID": "14955"
+  },
+  {
+    "CardName": "Crystal Beast Ruby Carbuncle",
+    "CardID": "7074"
+  },
+  {
+    "CardName": "Crystal Beast Sapphire Pegasus",
+    "CardID": "7078"
+  },
+  {
+    "CardName": "Crystal Beast Topaz Tiger",
+    "CardID": "7076"
+  },
+  {
+    "CardName": "Crystal Blessing",
+    "CardID": "7122"
+  },
+  {
+    "CardName": "Crystal Bond",
+    "CardID": "13486"
+  },
+  {
+    "CardName": "Crystal Boon",
+    "CardID": "17731"
+  },
+  {
+    "CardName": "Crystal Brilliance",
+    "CardID": "17733"
+  },
+  {
+    "CardName": "Crystal Clear Wing Synchro Dragon",
+    "CardID": "16379"
+  },
+  {
+    "CardName": "Crystal Conclave",
+    "CardID": "11604"
+  },
+  {
+    "CardName": "Crystal Girl",
+    "CardID": "8764"
+  },
+  {
+    "CardName": "Crystal Keeper",
+    "CardID": "11602"
+  },
+  {
+    "CardName": "Crystal Master",
+    "CardID": "11601"
+  },
+  {
+    "CardName": "Crystal Miracle",
+    "CardID": "17732"
+  },
+  {
+    "CardName": "Crystal Pair",
+    "CardID": "7388"
+  },
+  {
+    "CardName": "Crystal Promise",
+    "CardID": "7124"
+  },
+  {
+    "CardName": "Crystal Raigeki",
+    "CardID": "7130"
+  },
+  {
+    "CardName": "Crystal Release",
+    "CardID": "7390"
+  },
+  {
+    "CardName": "Crystal Rose",
+    "CardID": "11796"
+  },
+  {
+    "CardName": "Crystal Seer",
+    "CardID": "7208"
+  },
+  {
+    "CardName": "Crystal Shark",
+    "CardID": "17040"
+  },
+  {
+    "CardName": "Crystal Skull",
+    "CardID": "17638"
+  },
+  {
+    "CardName": "Crystal Tree",
+    "CardID": "7391"
+  },
+  {
+    "CardName": "Crystal Wing Synchro Dragon",
+    "CardID": "12321"
+  },
+  {
+    "CardName": "Crystolic Potential",
+    "CardID": "12647"
+  },
+  {
+    "CardName": "Crystron Ametrix",
+    "CardID": "12635"
+  },
+  {
+    "CardName": "Crystron Citree",
+    "CardID": "12606"
+  },
+  {
+    "CardName": "Crystron Entry",
+    "CardID": "12661"
+  },
+  {
+    "CardName": "Crystron Halqifibrax",
+    "CardID": "13508"
+  },
+  {
+    "CardName": "Crystron Impact",
+    "CardID": "12662"
+  },
+  {
+    "CardName": "Crystron Phoenix",
+    "CardID": "12636"
+  },
+  {
+    "CardName": "Crystron Prasiortle",
+    "CardID": "12607"
+  },
+  {
+    "CardName": "Crystron Quan",
+    "CardID": "12605"
+  },
+  {
+    "CardName": "Crystron Quandax",
+    "CardID": "12634"
+  },
+  {
+    "CardName": "Crystron Quariongandrax",
+    "CardID": "12781"
+  },
+  {
+    "CardName": "Crystron Rion",
+    "CardID": "12755"
+  },
+  {
+    "CardName": "Crystron Rosenix",
+    "CardID": "12610"
+  },
+  {
+    "CardName": "Crystron Smiger",
+    "CardID": "12608"
+  },
+  {
+    "CardName": "Crystron Sulfefnir",
+    "CardID": "12756"
+  },
+  {
+    "CardName": "Crystron Thystvern",
+    "CardID": "12609"
+  },
+  {
+    "CardName": "C&uacute; Chulainn the Awakened",
+    "CardID": "6992"
+  },
+  {
+    "CardName": "Cuben",
+    "CardID": "11665"
+  }
+]

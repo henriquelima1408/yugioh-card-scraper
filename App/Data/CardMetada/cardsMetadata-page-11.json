@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Black Feather Beacon",
+    "CardID": "9245"
+  },
+  {
+    "CardName": "Black Feather Whirlwind",
+    "CardID": "17807"
+  },
+  {
+    "CardName": "Black Garden",
+    "CardID": "7904"
+  },
+  {
+    "CardName": "Black Horn of Heaven",
+    "CardID": "6918"
+  },
+  {
+    "CardName": "Black Illusion",
+    "CardID": "11129"
+  },
+  {
+    "CardName": "Black Illusion Ritual",
+    "CardID": "4802"
+  },
+  {
+    "CardName": "Black Luster Ritual",
+    "CardID": "4676"
+  },
+  {
+    "CardName": "Black Luster Soldier",
+    "CardID": "4370"
+  },
+  {
+    "CardName": "Black Luster Soldier - Envoy of the Beginning",
+    "CardID": "5835"
+  },
+  {
+    "CardName": "Black Luster Soldier - Envoy of the Evening Twilight",
+    "CardID": "10823"
+  },
+  {
+    "CardName": "Black Luster Soldier - Legendary Swordsman",
+    "CardID": "17242"
+  },
+  {
+    "CardName": "Black Luster Soldier - Sacred Soldier",
+    "CardID": "12041"
+  },
+  {
+    "CardName": "Black Luster Soldier - Soldier of Chaos",
+    "CardID": "14193"
+  },
+  {
+    "CardName": "Black Luster Soldier - Super Soldier",
+    "CardID": "11986"
+  },
+  {
+    "CardName": "Black Magic Ritual",
+    "CardID": "4727"
+  },
+  {
+    "CardName": "Black Mamba",
+    "CardID": "7440"
+  },
+  {
+    "CardName": "Black Metal Dragon",
+    "CardID": "11806"
+  },
+  {
+    "CardName": "Black Pendant",
+    "CardID": "4317"
+  },
+  {
+    "CardName": "Black Potan",
+    "CardID": "8640"
+  },
+  {
+    "CardName": "Black Ptera",
+    "CardID": "6798"
+  },
+  {
+    "CardName": "Black Ray Lancer",
+    "CardID": "9758"
+  },
+  {
+    "CardName": "Black Return",
+    "CardID": "9246"
+  },
+  {
+    "CardName": "Black Rose Dragon",
+    "CardID": "7898"
+  },
+  {
+    "CardName": "Black Rose Moonlight Dragon",
+    "CardID": "11123"
+  },
+  {
+    "CardName": "Black Salvo",
+    "CardID": "8001"
+  },
+  {
+    "CardName": "Black Shadow Squall",
+    "CardID": "17827"
+  },
+  {
+    "CardName": "Black Skull Dragon",
+    "CardID": "4223"
+  },
+  {
+    "CardName": "Black Sonic",
+    "CardID": "11175"
+  },
+  {
+    "CardName": "Black Stego",
+    "CardID": "6776"
+  },
+  {
+    "CardName": "Black Thunder",
+    "CardID": "8841"
+  },
+  {
+    "CardName": "Black Tyranno",
+    "CardID": "5889"
+  },
+  {
+    "CardName": "Black Veloci",
+    "CardID": "7433"
+  },
+  {
+    "CardName": "Black Whirlwind",
+    "CardID": "8203"
+  },
+  {
+    "CardName": "Black Wing Revenge",
+    "CardID": "11176"
+  },
+  {
+    "CardName": "Black-Winged Assault Dragon",
+    "CardID": "17797"
+  },
+  {
+    "CardName": "Black-Winged Dragon",
+    "CardID": "8815"
+  },
+  {
+    "CardName": "Black-Winged Strafe",
+    "CardID": "8820"
+  },
+  {
+    "CardName": "Blackback",
+    "CardID": "9142"
+  },
+  {
+    "CardName": "Blackbeard, the Plunder Patroll Captain",
+    "CardID": "15079"
+  },
+  {
+    "CardName": "Blackbird Close",
+    "CardID": "13856"
+  },
+  {
+    "CardName": "Blackboost",
+    "CardID": "9356"
+  },
+  {
+    "CardName": "Blackeyes, the Plunder Patroll Seaguide",
+    "CardID": "15979"
+  },
+  {
+    "CardName": "Blackfeather Darkrage Dragon",
+    "CardID": "11012"
+  },
+  {
+    "CardName": "Blackland Fire Dragon",
+    "CardID": "4016"
+  },
+  {
+    "CardName": "Blackwing - Abrolhos the Megaquake",
+    "CardID": "9094"
+  },
+  {
+    "CardName": "Blackwing - Aurora the Northern Lights",
+    "CardID": "9093"
+  },
+  {
+    "CardName": "Blackwing - Auster the South Wind",
+    "CardID": "13854"
+  },
+  {
+    "CardName": "Blackwing - Backlash",
+    "CardID": "8839"
+  },
+  {
+    "CardName": "Blackwing - Blizzard the Far North",
+    "CardID": "8162"
+  },
+  {
+    "CardName": "Blackwing - Bombardment",
+    "CardID": "8840"
+  },
+  {
+    "CardName": "Blackwing - Boobytrap",
+    "CardID": "9145"
+  },
+  {
+    "CardName": "Blackwing - Bora the Spear",
+    "CardID": "8012"
+  },
+  {
+    "CardName": "Blackwing - Boreas the Sharp",
+    "CardID": "9298"
+  },
+  {
+    "CardName": "Blackwing - Boreastorm the Wicked Wind",
+    "CardID": "17798"
+  },
+  {
+    "CardName": "Blackwing - Breeze the Zephyr",
+    "CardID": "8779"
+  },
+  {
+    "CardName": "Blackwing - Brisote the Tailwind",
+    "CardID": "9299"
+  },
+  {
+    "CardName": "Blackwing - Calima the Haze",
+    "CardID": "9300"
+  },
+  {
+    "CardName": "Blackwing - Chinook the Snow Blast",
+    "CardID": "17759"
+  },
+  {
+    "CardName": "Blackwing - Damascus the Polar Night",
+    "CardID": "10303"
+  },
+  {
+    "CardName": "Blackwing - Decay the Ill Wind",
+    "CardID": "12289"
+  },
+  {
+    "CardName": "Blackwing - Elphin the Raven",
+    "CardID": "8165"
+  },
+  {
+    "CardName": "Blackwing - Etesian of Two Swords",
+    "CardID": "9092"
+  },
+  {
+    "CardName": "Blackwing - Fane the Steel Chain",
+    "CardID": "8297"
+  },
+  {
+    "CardName": "Blackwing - Gale the Whirlwind",
+    "CardID": "8011"
+  },
+  {
+    "CardName": "Blackwing - Ghibli the Searing Wind",
+    "CardID": "8777"
+  },
+  {
+    "CardName": "Blackwing - Gladius the Midnight Sun",
+    "CardID": "9461"
+  },
+  {
+    "CardName": "Blackwing - Gofu the Vague Shadow",
+    "CardID": "12412"
+  },
+  {
+    "CardName": "Blackwing - Gram the Shining Star",
+    "CardID": "9464"
+  },
+  {
+    "CardName": "Blackwing - Gust the Backblast",
+    "CardID": "8778"
+  },
+  {
+    "CardName": "Blackwing - Harmattan the Dust",
+    "CardID": "12122"
+  },
+  {
+    "CardName": "Blackwing - Hillen the Tengu-wind",
+    "CardID": "9479"
+  },
+  {
+    "CardName": "Blackwing - Hurricane the Tornado",
+    "CardID": "11174"
+  },
+  {
+    "CardName": "Blackwing - Jetstream the Blue Sky",
+    "CardID": "9243"
+  },
+  {
+    "CardName": "Blackwing - Jin the Rain Shadow",
+    "CardID": "9437"
+  },
+  {
+    "CardName": "Blackwing - Kalut the Moon Shadow",
+    "CardID": "8164"
+  },
+  {
+    "CardName": "Blackwing - Kochi the Daybreak",
+    "CardID": "9242"
+  },
+  {
+    "CardName": "Blackwing - Kogarashi the Wanderer",
+    "CardID": "9480"
+  },
+  {
+    "CardName": "Blackwing - Kris the Crack of Dawn",
+    "CardID": "9460"
+  },
+  {
+    "CardName": "Blackwing - Mistral the Silver Shield",
+    "CardID": "8295"
+  },
+  {
+    "CardName": "Blackwing - Nothung the Starlight",
+    "CardID": "11649"
+  },
+  {
+    "CardName": "Blackwing - Oroshi the Squall",
+    "CardID": "11172"
+  },
+  {
+    "CardName": "Blackwing - Pinaki the Waxing Moon",
+    "CardID": "9459"
+  },
+  {
+    "CardName": "Blackwing - Shamal the Sandstorm",
+    "CardID": "17758"
+  },
+  {
+    "CardName": "Blackwing - Sharnga the Waning Moon",
+    "CardID": "9462"
+  },
+  {
+    "CardName": "Blackwing - Shura the Blue Flame",
+    "CardID": "8163"
+  },
+  {
+    "CardName": "Blackwing - Silverwind the Ascendant",
+    "CardID": "8476"
+  },
+  {
+    "CardName": "Blackwing - Simoon the Poison Wind",
+    "CardID": "13853"
+  },
+  {
+    "CardName": "Blackwing - Sirocco the Dawn",
+    "CardID": "8013"
+  },
+  {
+    "CardName": "Blackwing - Steam the Cloak",
+    "CardID": "11173"
+  },
+  {
+    "CardName": "Blackwing - Sudri the Phantom Glimmer",
+    "CardID": "17760"
+  },
+  {
+    "CardName": "Blackwing - Tornado the Reverse Wind",
+    "CardID": "12411"
+  },
+  {
+    "CardName": "Blackwing - Twin Shadow",
+    "CardID": "17826"
+  },
+  {
+    "CardName": "Blackwing - Vata the Emblem of Wandering",
+    "CardID": "17757"
+  },
+  {
+    "CardName": "Blackwing - Vayu the Emblem of Honor",
+    "CardID": "8296"
+  },
+  {
+    "CardName": "Blackwing - Zephyros the Elite",
+    "CardID": "9244"
+  },
+  {
+    "CardName": "Blackwing - Zonda the Dusk",
+    "CardID": "17761"
+  },
+  {
+    "CardName": "Blackwing Armed Wing",
+    "CardID": "8193"
+  },
+  {
+    "CardName": "Blackwing Armor Master",
+    "CardID": "8036"
+  },
+  {
+    "CardName": "Blackwing Full Armor Master",
+    "CardID": "13852"
+  },
+  {
+    "CardName": "Blackwing Tamer - Obsidian Hawk Joe",
+    "CardID": "9463"
+  }
+]

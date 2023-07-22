@@ -1,0 +1,402 @@
+[
+  {
+    "CardName": "Memory Crusher",
+    "CardID": "6607"
+  },
+  {
+    "CardName": "Memory Loss",
+    "CardID": "10551"
+  },
+  {
+    "CardName": "Memory of an Adversary",
+    "CardID": "10297"
+  },
+  {
+    "CardName": "Mental Seeker",
+    "CardID": "9495"
+  },
+  {
+    "CardName": "Mental Tuner",
+    "CardID": "18157"
+  },
+  {
+    "CardName": "Meotoko",
+    "CardID": "4218"
+  },
+  {
+    "CardName": "Meowseclick",
+    "CardID": "16520"
+  },
+  {
+    "CardName": "Merciful Machine Angel",
+    "CardID": "14172"
+  },
+  {
+    "CardName": "Mereologic Aggregator",
+    "CardID": "17801"
+  },
+  {
+    "CardName": "Merlin",
+    "CardID": "11468"
+  },
+  {
+    "CardName": "Mermaid Archer",
+    "CardID": "8188"
+  },
+  {
+    "CardName": "Mermaid Knight",
+    "CardID": "5967"
+  },
+  {
+    "CardName": "Mermaid Shark",
+    "CardID": "11034"
+  },
+  {
+    "CardName": "Mermail Abyssalacia",
+    "CardID": "13499"
+  },
+  {
+    "CardName": "Mermail Abyssbalaen",
+    "CardID": "10597"
+  },
+  {
+    "CardName": "Mermail Abyssdine",
+    "CardID": "10391"
+  },
+  {
+    "CardName": "Mermail Abyssgaios",
+    "CardID": "10268"
+  },
+  {
+    "CardName": "Mermail Abyssgunde",
+    "CardID": "10237"
+  },
+  {
+    "CardName": "Mermail Abysshilde",
+    "CardID": "10238"
+  },
+  {
+    "CardName": "Mermail Abyssleed",
+    "CardID": "10393"
+  },
+  {
+    "CardName": "Mermail Abysslinde",
+    "CardID": "10236"
+  },
+  {
+    "CardName": "Mermail Abysslung",
+    "CardID": "10241"
+  },
+  {
+    "CardName": "Mermail Abyssmander",
+    "CardID": "10351"
+  },
+  {
+    "CardName": "Mermail Abyssmegalo",
+    "CardID": "10242"
+  },
+  {
+    "CardName": "Mermail Abyssnerei",
+    "CardID": "13244"
+  },
+  {
+    "CardName": "Mermail Abyssnose",
+    "CardID": "10392"
+  },
+  {
+    "CardName": "Mermail Abyssocea",
+    "CardID": "10511"
+  },
+  {
+    "CardName": "Mermail Abysspike",
+    "CardID": "10240"
+  },
+  {
+    "CardName": "Mermail Abyssteus",
+    "CardID": "10471"
+  },
+  {
+    "CardName": "Mermail Abysstrite",
+    "CardID": "10409"
+  },
+  {
+    "CardName": "Mermail Abyssturge",
+    "CardID": "10239"
+  },
+  {
+    "CardName": "Merry Melffys",
+    "CardID": "17447"
+  },
+  {
+    "CardName": "Mesmeric Control",
+    "CardID": "4814"
+  },
+  {
+    "CardName": "Message in a Bottle",
+    "CardID": "10341"
+  },
+  {
+    "CardName": "Messenger of Peace",
+    "CardID": "4938"
+  },
+  {
+    "CardName": "Metabo Globster",
+    "CardID": "7565"
+  },
+  {
+    "CardName": "Metabo-Shark",
+    "CardID": "8599"
+  },
+  {
+    "CardName": "Metaion, the Timelord",
+    "CardID": "9698"
+  },
+  {
+    "CardName": "Metal Armored Bug",
+    "CardID": "5950"
+  },
+  {
+    "CardName": "Metal Detector",
+    "CardID": "4945"
+  },
+  {
+    "CardName": "Metal Dragon",
+    "CardID": "4415"
+  },
+  {
+    "CardName": "Metal Fish",
+    "CardID": "4444"
+  },
+  {
+    "CardName": "Metal Guardian",
+    "CardID": "4094"
+  },
+  {
+    "CardName": "Metal Reflect Slime",
+    "CardID": "5686"
+  },
+  {
+    "CardName": "Metal Shooter",
+    "CardID": "7018"
+  },
+  {
+    "CardName": "Metalfoes Adamante",
+    "CardID": "12442"
+  },
+  {
+    "CardName": "Metalfoes Combination",
+    "CardID": "12472"
+  },
+  {
+    "CardName": "Metalfoes Counter",
+    "CardID": "12471"
+  },
+  {
+    "CardName": "Metalfoes Crimsonite",
+    "CardID": "12444"
+  },
+  {
+    "CardName": "Metalfoes Fusion",
+    "CardID": "12460"
+  },
+  {
+    "CardName": "Metalfoes Goldriver",
+    "CardID": "12422"
+  },
+  {
+    "CardName": "Metalfoes Mithrilium",
+    "CardID": "12630"
+  },
+  {
+    "CardName": "Metalfoes Orichalc",
+    "CardID": "12443"
+  },
+  {
+    "CardName": "Metalfoes Silverd",
+    "CardID": "12421"
+  },
+  {
+    "CardName": "Metalfoes Steelen",
+    "CardID": "12420"
+  },
+  {
+    "CardName": "Metalfoes Vanisher",
+    "CardID": "15712"
+  },
+  {
+    "CardName": "Metalfoes Volflame",
+    "CardID": "12423"
+  },
+  {
+    "CardName": "Metalhold the Moving Blockade",
+    "CardID": "12513"
+  },
+  {
+    "CardName": "Metallizing Parasite - Lunatite",
+    "CardID": "5779"
+  },
+  {
+    "CardName": "Metallizing Parasite - Soltite",
+    "CardID": "10256"
+  },
+  {
+    "CardName": "Metalmorph",
+    "CardID": "4664"
+  },
+  {
+    "CardName": "Metalrokket Dragon",
+    "CardID": "13378"
+  },
+  {
+    "CardName": "Metalsilver Armor",
+    "CardID": "5611"
+  },
+  {
+    "CardName": "Metaltron XII, the True Dracombatant",
+    "CardID": "12939"
+  },
+  {
+    "CardName": "Metalzoa",
+    "CardID": "4398"
+  },
+  {
+    "CardName": "Metamorformation",
+    "CardID": "12459"
+  },
+  {
+    "CardName": "Metamorphortress",
+    "CardID": "12510"
+  },
+  {
+    "CardName": "Metamorphosed Insect Queen",
+    "CardID": "13469"
+  },
+  {
+    "CardName": "Metamorphosis",
+    "CardID": "5539"
+  },
+  {
+    "CardName": "Metaphys Armed Dragon",
+    "CardID": "11212"
+  },
+  {
+    "CardName": "Metaphys Ascension",
+    "CardID": "13792"
+  },
+  {
+    "CardName": "Metaphys Daedalus",
+    "CardID": "13240"
+  },
+  {
+    "CardName": "Metaphys Decoy Dragon",
+    "CardID": "13734"
+  },
+  {
+    "CardName": "Metaphys Dimension",
+    "CardID": "13291"
+  },
+  {
+    "CardName": "Metaphys Executor",
+    "CardID": "13243"
+  },
+  {
+    "CardName": "Metaphys Factor",
+    "CardID": "13275"
+  },
+  {
+    "CardName": "Metaphys Horus",
+    "CardID": "11569"
+  },
+  {
+    "CardName": "Metaphys Nephthys",
+    "CardID": "13241"
+  },
+  {
+    "CardName": "Metaphys Ragnarok",
+    "CardID": "13239"
+  },
+  {
+    "CardName": "Metaphys Tyrant Dragon",
+    "CardID": "13242"
+  },
+  {
+    "CardName": "Metaverse",
+    "CardID": "13292"
+  },
+  {
+    "CardName": "Meteo the Matchless",
+    "CardID": "5929"
+  },
+  {
+    "CardName": "Meteonis Drytron",
+    "CardID": "15642"
+  },
+  {
+    "CardName": "Meteor Black Comet Dragon",
+    "CardID": "12631"
+  },
+  {
+    "CardName": "Meteor Black Dragon",
+    "CardID": "4719"
+  },
+  {
+    "CardName": "Meteor Dragon",
+    "CardID": "4718"
+  },
+  {
+    "CardName": "Meteor Dragon Red-Eyes Impact",
+    "CardID": "12618"
+  },
+  {
+    "CardName": "Meteor Flare",
+    "CardID": "8678"
+  },
+  {
+    "CardName": "Meteor of Destruction",
+    "CardID": "5216"
+  },
+  {
+    "CardName": "Meteor Rush - Monochroid",
+    "CardID": "18174"
+  },
+  {
+    "CardName": "Meteorain",
+    "CardID": "5618"
+  },
+  {
+    "CardName": "Metrognome",
+    "CardID": "12769"
+  },
+  {
+    "CardName": "Mezuki",
+    "CardID": "7359"
+  },
+  {
+    "CardName": "Michael, the Arch-Lightsworn",
+    "CardID": "10884"
+  },
+  {
+    "CardName": "Michion, the Timelord",
+    "CardID": "13815"
+  },
+  {
+    "CardName": "Michizure",
+    "CardID": "4939"
+  },
+  {
+    "CardName": "Micro Coder",
+    "CardID": "13872"
+  },
+  {
+    "CardName": "Micro Ray",
+    "CardID": "5987"
+  },
+  {
+    "CardName": "Mid Shield Gardna",
+    "CardID": "6333"
+  },
+  {
+    "CardName": "Mighty Guard",
+    "CardID": "6173"
+  }
+]
