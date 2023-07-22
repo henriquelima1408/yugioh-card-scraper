@@ -50,7 +50,7 @@ namespace yugioh_card_scraper.Scraper
                     if (file.Extension == ".json")
                     {
                         using (var streamReader = new StreamReader(file.FullName))
-                        { 
+                        {
                             var content = streamReader.ReadToEnd();
                             var cardData = JsonConvert.DeserializeObject<CardData>(content);
                             collection.Add(cardData);
@@ -174,7 +174,7 @@ namespace yugioh_card_scraper.Scraper
                 var childNodes = cardTable.FindChildrenNodesByName("tbody").First().ChildNodes;
 
 
-                var languages = (Languages[])Enum.GetValues(typeof(Languages));
+                var languages = CardData.Languages;
 
                 foreach (var childNode in childNodes)
                 {
@@ -311,18 +311,60 @@ namespace yugioh_card_scraper.Scraper
                                         foreach (var div in divs)
                                         {
                                             var spans = div.FindChildrenNodesByName("span").ToArray();
+
                                             var date = spans.First().InnerText;
                                             DateTime.TryParse(date.ToString(), out DateTime dt);
                                             if (dt != DateTime.MinValue)
                                             {
                                                 cardSets.Add(new CardData.CardSet(spans[0].InnerText, spans[1].InnerText, spans[2].InnerText, spans[3].InnerText));
                                             }
+                                            else
+                                            {
+                                                if (string.IsNullOrEmpty(date))
+                                                    cardSets.Add(new CardData.CardSet("None", spans[1].InnerText, spans[2].InnerText, spans[3].InnerText));
+                                            }
+
+
                                         }
+                                    }
+                                    else
+                                    {
+                                        var t = navBoxList.FindChildrenNodesByName("table");
+
+                                        if (t.Count() > 0)
+                                        {
+                                            var caption = t.First().FindChildrenNodesByName("caption");
+                                            if (caption != null && caption.Count() > 0)
+                                            {
+                                                var setBody = t.First().FindChildrenNodesByName("tbody");
+                                                foreach (var element in setBody)
+                                                {
+                                                    var setInfos = element.FindChildrenNodesByName("tr");
+                                                    foreach (var setInfo in setInfos)
+                                                    {
+                                                        var tds = setInfo.FindChildrenNodesByName("td").ToArray();
+                                                        if (tds.Length > 0)
+                                                        {
+                                                            cardSets.Add(new CardData.CardSet(tds[0].InnerText, tds[1].InnerText, tds[2].InnerText, tds[3].InnerText));
+                                                        }
+                                                    }
+                                                }
+                                            }
+
+                                        }
+
+
+
+
+
                                     }
                                 }
 
                                 if (!string.IsNullOrEmpty(language))
                                 {
+                                    if (!languages.Contains(language))
+                                        throw new Exception($"Language {language} not found");
+
                                     if (cardSets.Count > 0)
                                     {
                                         sets.Add(language, cardSets);

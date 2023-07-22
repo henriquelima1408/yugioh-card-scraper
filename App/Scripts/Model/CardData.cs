@@ -1,19 +1,31 @@
 ﻿namespace yugioh_card_scraper.Model
 {
-    public enum Languages
-    {
-        English,
-        French,
-        German,
-        Italian,
-        Korean,
-        Portuguese,
-        Spanish,
-    }
+
 
     [Serializable]
     internal class CardData
     {
+        public static string[] Languages
+        {
+            get
+            {
+                return new string[] {
+                "English",
+                "English—Worldwide",
+                "English—North America",
+                "French",
+                "German",
+                "Italian",
+                "Portuguese",
+                "Spanish",
+                "Japanese",
+                "Asian-English",
+                "Korean",
+                };
+            }
+
+        }
+
         [Serializable]
         internal class CardSet
         {
