@@ -51,13 +51,13 @@ namespace yugioh_card_scraper.Scraper
             return htlmDocument;
         }
 
-        protected virtual void WriteInfoAsJson<T>(string directoryPath, string savePath, IEnumerable<T> cardInfoElements)
+        protected virtual void WriteInfoAsJson<T>(string directoryPath, string fileName, T obj)
         {
-            var json = JsonConvert.SerializeObject(cardInfoElements, Formatting.Indented);
+            var json = JsonConvert.SerializeObject(obj, Formatting.Indented);
 
-            using (var streamWrite = new StreamWriter(Path.Combine(directoryPath, savePath)))
+            using (var streamWrite = new StreamWriter(Path.Combine(directoryPath, fileName)))
             {
-                Console.WriteLine($"Saving file {savePath} in {directoryPath}");
+                Console.WriteLine($"Saving file {fileName} in {directoryPath}");
                 streamWrite.Write(json);
             }
         }

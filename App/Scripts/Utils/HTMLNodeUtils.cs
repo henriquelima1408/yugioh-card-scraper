@@ -11,6 +11,20 @@ namespace yugioh_card_scraper.Utils
             return htmlNodeCollection.SelectNodes(q);
         }
 
+        public static IEnumerable<HtmlNode> FindChildrenNodesByName(this HtmlNode htmlNode, string name)
+        {
+            var result = new List<HtmlNode>();
+            foreach (var node in htmlNode.ChildNodes)
+            {
+                if (node != null)
+                {
+                    if (node.Name == name) 
+                        result.Add(node);
+                }
+            }
+            return result;
+        }
+
         public static HtmlNode FindChildrenByClass(this HtmlNode htmlNode, string nodeClassType)
         {
             foreach (var node in htmlNode.ChildNodes)
