@@ -1,7 +1,5 @@
 ﻿namespace yugioh_card_scraper.Model
 {
-
-
     [Serializable]
     internal class CardData
     {
@@ -10,20 +8,16 @@
             get
             {
                 return new string[] {
-                "English",
-                "English—Worldwide",
-                "English—North America",
-                "French",
-                "German",
-                "Italian",
-                "Portuguese",
-                "Spanish",
-                "Japanese",
-                "Asian-English",
-                "Korean",
+                "en",
+                "de",
+                "fr",
+                "it",
+                "es",
+                "pt",
+                "ja",
+                "ko"
                 };
             }
-
         }
 
         [Serializable]

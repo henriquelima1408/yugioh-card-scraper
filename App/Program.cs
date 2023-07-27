@@ -27,7 +27,7 @@ internal class Program
 
     const string yuGiOhDataRootUri = "https://yugioh.fandom.com";
     const string yuGiOhMetadataUriFormat = "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=3&page={0}&stype=1&link_m=2&othercon=2&sort=1&rp={1}";
-    const string yiGiOhDataUriFormat = "https://yugioh.fandom.com/wiki/Special:SearchByProperty?property=Database%20ID&value={0}";
+    const string yiGiOhDataUriFormat = "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid={0}&request_locale={1}";
 
     private static async Task Main(string[] args)
     {

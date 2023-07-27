@@ -1,27 +1,28 @@
 ﻿using yugioh_card_scraper.Model;
 using yugioh_card_scraper.Utils;
-using HtmlAgilityPack;
 using Newtonsoft.Json;
+using static yugioh_card_scraper.Model.CardData;
+using yugioh_card_scraper.Scripts.Scraper;
 
 namespace yugioh_card_scraper.Scraper
 {
     internal class CardDataScraper : CardScraper
     {
-        class CardInfo
+        class RequestInfo
         {
 
-            readonly CardData cardData;
-            readonly byte[] imageBytes;
+            readonly string cardID;
+            readonly string languageID;
 
-            public CardInfo(CardData cardData, byte[] imageBytes)
+            public RequestInfo(string cardID, string languageID)
             {
-                this.cardData = cardData;
-                this.imageBytes = imageBytes;
+                this.cardID = cardID;
+                this.languageID = languageID;
             }
 
-            public byte[] ImageBytes => imageBytes;
+            public string CardID => cardID;
 
-            internal CardData CardData => cardData;
+            public string LanguageID => languageID;
         }
 
         readonly string imageFormat;
@@ -64,340 +65,99 @@ namespace yugioh_card_scraper.Scraper
 
         protected override HttpRequestMessage CreateNewRequest<T>(T data)
         {
-            var cardID = data as string;
+            var requestInfo = data as RequestInfo;
 
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Get,
-                RequestUri = new Uri(string.Format(uriFormat, cardID)),
+                RequestUri = new Uri(string.Format(uriFormat, requestInfo.CardID, requestInfo.LanguageID)),
                 Headers =
-                {
-                    { "authority", "yugioh.fandom.com" },
-                    { "accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" },
-                    { "accept-language", "en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7" },
-                    { "cache-control", "max-age=0" },
-                    { "cookie", cookie },
-                    { "referer", string.Format("https://yugioh.fandom.com/wiki/Special:SearchByProperty?limit=500&offset=0&property=Database+ID&value={0}", cardID )},
-                    { "sec-ch-ua-mobile", "?0" },
-                    { "sec-fetch-dest", "document" },
-                    { "sec-fetch-mode", "navigate" },
-                    { "sec-fetch-site", "same-origin" },
-                    { "sec-fetch-user", "?1" },
-                    { "upgrade-insecure-requests", "1" },
-                    { "user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" },
-                },
+                    {
+                        { "cookie", cookie },
+                        { "authority", "www.db.yugioh-card.com" },
+                        { "accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7" },
+                        { "accept-language", "en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7" },
+                        { "cache-control", "max-age=0" },
+                        { "referer", string.Format(uriFormat, requestInfo.CardID, requestInfo.LanguageID) },
+                        { "sec-ch-ua-mobile", "?0" },
+                        { "sec-fetch-dest", "document" },
+                        { "sec-fetch-mode", "navigate" },
+                        { "sec-fetch-site", "same-origin" },
+                        { "sec-fetch-user", "?1" },
+                        { "upgrade-insecure-requests", "1" },
+                        { "user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" },
+                    },
             };
             return request;
         }
 
         protected override async Task<IEnumerable<T>> Scrap<T>(string cardID)
         {
-            var collection = new List<CardInfo>();
+            var collection = new List<CardData>();
             if (!wikiPageUriCache.ContainsKey(cardID))
             {
-                using (var response = await client.SendAsync(CreateNewRequest(cardID)))
+                var cardNames = new Dictionary<string, string>();
+                var cardDescription = new Dictionary<string, string>();
+                var cardSets = new Dictionary<string, IEnumerable<CardSet>>();
+                var cardType = "";
+                var cardAttribute = "";
+                var species = new List<string>();
+                var cardLevel = "";
+                var cardAttack = "";
+                var cardDefense = "";
+                var cardRank = "";
+                var cardPendulumScale = "";
+                var cardLinkType = "";
+                IEnumerable<string> cardLinkArrows = null;
+
+                foreach (var language in Languages)
                 {
-                    response.EnsureSuccessStatusCode();
-                    var body = await response.Content.ReadAsStringAsync();
-                    var htmDocument = ToHtmlDocument(body);
-                    var bodyContentNode = htmDocument.DocumentNode.FindNode("class", "mw-body-content").First();
-                    var ulNodes = bodyContentNode.FindChildrenNodesByName("ul");
-
-
-                    foreach (var ulNode in ulNodes)
+                    using (var response = await client.SendAsync(CreateNewRequest(new RequestInfo(cardID, language))))
                     {
-                        var childrenNodes = ulNode.ChildNodes;
-                        foreach (var childrenNode in childrenNodes)
-                        {
+                        response.EnsureSuccessStatusCode();
+                        var body = await response.Content.ReadAsStringAsync();
+                        var htmDocument = ToHtmlDocument(body);
 
-                            var strong = childrenNode.FindChildrenNodesByName("strong");
-                            HtmlNode wikiCardIDNode;
-                            if (strong != null && strong.Count() > 0)
+                        try
+                        {
+                            var info = CardInfoExtractor.ExtractInfo(htmDocument);
+
+                            var cardInfo = info.Item1;
+                            var sets = info.Item2;
+
+                            cardNames.Add(language, cardInfo.CardName);
+                            cardDescription.Add(language, cardInfo.CardDescription);
+                            cardSets.Add(language, sets);
+
+                            if (language == "en")
                             {
-                                wikiCardIDNode = strong.First().FindChildrenNodesByName("em").First();
-                            }
-                            else
-                            {
-                                wikiCardIDNode = childrenNode.FindChildrenNodesByName("em").First();
-                            }
-
-                            var wikiCardID = wikiCardIDNode.InnerText.RemoveSpecialCharacters();
-                            var uri = (strong != null && strong.Count() > 0) ?
-                                strong.First().FindChildrenNodesByName("a").First().GetAttributeValue("href", "") :
-                                childrenNode.FindChildrenNodesByName("a").First().GetAttributeValue("href", "");
-
-                            if (!wikiPageUriCache.ContainsKey(wikiCardID))
-                            {
-                                wikiPageUriCache.Add(wikiCardID, uri);
+                                cardType = cardInfo.CardType;
+                                cardAttribute = cardInfo.Attribute;
+                                species.AddRange(cardInfo.Species);
+                                cardLevel = cardInfo.Level;
+                                cardAttack = cardInfo.Attack;
+                                cardDefense = cardInfo.Defense;
+                                cardRank = cardInfo.Rank;
+                                cardPendulumScale = cardInfo.PendulumScale;
+                                cardLinkType = cardInfo.LinkType;
+                                cardLinkArrows = cardInfo.CardLinkArrows;
                             }
                         }
-                    }
-                }
-            }
-
-            var wikiUri = wikiRootUri + wikiPageUriCache[cardID];
-
-
-            CardData cardData = null;
-            var cardNames = new Dictionary<string, string>();
-            var cardDescriptions = new Dictionary<string, string>();
-            var cardType = "";
-            var cardAttribute = "";
-            var cardTypes = new List<string>();
-            var cardLevel = "";
-            var attack = "";
-            var defense = "";
-            var rank = "";
-            var pendulumScale = "";
-            var statuses = "";
-            var linkRating = "";
-            var linkArrows = new List<string>();
-            var materials = "";
-            var sets = new Dictionary<string, IEnumerable<CardData.CardSet>>();
-            var cardImageUri = "";
-
-            var cardDataRequest = new HttpRequestMessage
-            {
-                Method = HttpMethod.Get,
-                RequestUri = new Uri(wikiUri)
-            };
-
-            HttpRequestMessage cardImageRequest;
-
-            using (var response = await client.SendAsync(cardDataRequest))
-            {
-                response.EnsureSuccessStatusCode();
-                var body = await response.Content.ReadAsStringAsync();
-                var htmDocument = ToHtmlDocument(body);
-                var bodyContentNode = htmDocument.DocumentNode.FindNode("class", "mw-parser-output").First();
-                var cardTable = bodyContentNode.FindChildrenByClass("cardtable");
-                var childNodes = cardTable.FindChildrenNodesByName("tbody").First().ChildNodes;
-
-
-                var languages = CardData.Languages;
-
-                foreach (var childNode in childNodes)
-                {
-                    var cardRowHeader = childNode.FindChildrenByClass("cardtablerowheader");
-                    var cardRowData = childNode.FindChildrenByClass("cardtablerowdata");
-                    var cardTableAnRow = childNode.FindChildrenByClass("cardtablespanrow");
-                    var cardImage = childNode.FindChildrenByClass("cardtable-cardimage");
-
-                    if (cardImage != null)
-                    {
-                        cardImageUri = cardImage.FindChildrenNodesByName("a").First().GetAttributeValue("href", "");
-                    }
-
-                    if (cardRowHeader != null && cardRowData != null)
-                    {
-                        var header = cardRowHeader.InnerText;
-                        var data = cardRowData.InnerText.TrimStart().TrimEnd();
-                        if (languages.Any(l => l.ToString() == cardRowHeader.InnerText))
+                        catch (Exception e)
                         {
-                            cardNames[header] = data;
-                        }
-                        else if (header == "Card type")
-                        {
-                            cardType = data;
-                        }
-                        else if (header == "Property")
-                        {
-                            cardTypes.Add(data);
-                        }
-                        else if (header == "Attribute")
-                        {
-                            cardAttribute = data;
-                        }
-                        else if (header == "Types")
-                        {
-                            var types = data.Split('/');
-                            for (int i = 0; i < types.Length; i++)
-                            {
-                                types[i] = types[i].TrimStart().TrimEnd();
-                            }
-                            cardTypes.AddRange(types);
-                        }
-                        else if (header == "Level")
-                        {
-                            cardLevel = data;
-                        }
-                        else if (header == "ATK / DEF")
-                        {
-                            var numbers = data.FindAllNumbers();
-                            attack = numbers.First().ToString().TrimStart().TrimEnd();
-                            defense = numbers.Last().ToString().TrimStart().TrimEnd();
-                        }
-                        else if (header == "ATK / LINK")
-                        {
-                            var numbers = data.FindAllNumbers();
-                            attack = numbers.First().ToString().TrimStart().TrimEnd();
-                            linkRating = numbers.Last().ToString().TrimStart().TrimEnd();
-                        }
-                        else if (header == "Rank")
-                        {
-                            rank = data;
-                        }
-                        else if (header == "Pendulum Scale")
-                        {
-                            pendulumScale = data;
-                        }
-                        else if (header == "Link Arrows")
-                        {
-                            var arrows = data.Split(",");
-                            for (int i = 0; i < arrows.Length; i++)
-                            {
-                                arrows[i] = arrows[i].TrimStart().TrimEnd();
-                            }
-                            linkArrows.AddRange(arrows);
-                        }
-                        else if (header == "Statuses")
-                        {
-                            statuses = data;
-                        }
-                        else if (header == "Materials")
-                        {
-                            materials = data;
-                        }
-                        else
-                        {
-                            continue;
-                        }
-                    }
-                    else
-                    {
-                        if (cardTableAnRow != null)
-                        {
-                            var navBoxes = cardTableAnRow.FindChildrensByClass("navbox");
-
-                            foreach (var navBox in navBoxes)
-                            {
-                                var tBody = navBox.FindChildrenNodesByName("tbody").First();
-                                var tr = tBody.FindChildrenNodesByName("tr").First();
-                                var td = tr.FindChildrenNodesByName("td").First();
-                                var table = td.FindChildrenNodesByName("table").First();
-                                var innetTBody = table.FindChildrenNodesByName("tbody").First();
-
-                                var language = "";
-                                var description = "";
-                                List<CardData.CardSet> cardSets = new List<CardData.CardSet>();
-
-                                foreach (var innerTBodyChildNode in innetTBody.ChildNodes)
-                                {
-                                    var nodeContent = innerTBodyChildNode.InnerText.TrimStart().TrimEnd();
-
-                                    if (!string.IsNullOrEmpty(nodeContent))
-                                    {
-                                        if (languages.Any(l => l.ToString() == nodeContent))
-                                        {
-                                            language = nodeContent;
-                                        }
-                                        else
-                                        {
-                                            description = nodeContent;
-                                        }
-                                    }
-
-                                }
-
-                                var trs = innetTBody.FindChildrenNodesByName("tr").Where(t => t.FindChildrenByClass("navbox-list") != null);
-                                if (trs != null && trs.Count() > 0)
-                                {
-                                    var navBoxList = trs.First().FindChildrenByClass("navbox-list");
-                                    var cardSetNode = navBoxList.FindChildrenByClass("cardSet");
-                                    if (cardSetNode != null)
-                                    {
-                                        var divs = cardSetNode.FindChildrenNodesByName("div");
-
-                                        foreach (var div in divs)
-                                        {
-                                            var spans = div.FindChildrenNodesByName("span").ToArray();
-
-                                            var date = spans.First().InnerText;
-                                            DateTime.TryParse(date.ToString(), out DateTime dt);
-                                            if (dt != DateTime.MinValue)
-                                            {
-                                                cardSets.Add(new CardData.CardSet(spans[0].InnerText, spans[1].InnerText, spans[2].InnerText, spans[3].InnerText));
-                                            }
-                                            else
-                                            {
-                                                if (string.IsNullOrEmpty(date))
-                                                    cardSets.Add(new CardData.CardSet("None", spans[1].InnerText, spans[2].InnerText, spans[3].InnerText));
-                                            }
-
-
-                                        }
-                                    }
-                                    else
-                                    {
-                                        var t = navBoxList.FindChildrenNodesByName("table");
-
-                                        if (t.Count() > 0)
-                                        {
-                                            var caption = t.First().FindChildrenNodesByName("caption");
-                                            if (caption != null && caption.Count() > 0)
-                                            {
-                                                var setBody = t.First().FindChildrenNodesByName("tbody");
-                                                foreach (var element in setBody)
-                                                {
-                                                    var setInfos = element.FindChildrenNodesByName("tr");
-                                                    foreach (var setInfo in setInfos)
-                                                    {
-                                                        var tds = setInfo.FindChildrenNodesByName("td").ToArray();
-                                                        if (tds.Length > 0)
-                                                        {
-                                                            cardSets.Add(new CardData.CardSet(tds[0].InnerText, tds[1].InnerText, tds[2].InnerText, tds[3].InnerText));
-                                                        }
-                                                    }
-                                                }
-                                            }
-
-                                        }
-
-
-
-
-
-                                    }
-                                }
-
-                                if (!string.IsNullOrEmpty(language))
-                                {
-                                    if (!languages.Contains(language))
-                                        throw new Exception($"Language {language} not found");
-
-                                    if (cardSets.Count > 0)
-                                    {
-                                        sets.Add(language, cardSets);
-                                    }
-                                    else
-                                    {
-                                        cardDescriptions.Add(language, description);
-                                    }
-                                }
-                            }
+                            Console.WriteLine($"Could not extract information from card {cardID} on language {language} with error:\n{e}\n");
                         }
                     }
                 }
 
-                cardData = new CardData(cardID, cardNames, cardType, cardDescriptions, sets, statuses, cardAttribute, cardTypes, cardLevel, attack, defense, rank, pendulumScale, linkRating, linkArrows);
-
-                cardImageRequest = new HttpRequestMessage
+                if (string.IsNullOrEmpty(cardType))
                 {
-                    Method = HttpMethod.Get,
-                    RequestUri = new Uri(cardImageUri)
-                };
-
-            }
-
-            if (cardImageRequest != null && cardData != null)
-            {
-                using (var response = await client.SendAsync(cardImageRequest))
-                {
-                    response.EnsureSuccessStatusCode();
-                    var byteArray = await response.Content.ReadAsByteArrayAsync();
-                    collection.Add(new CardInfo(cardData, byteArray));
-
+                    Console.WriteLine($"Could not extract information properly from {cardType}");
                 }
+
+                collection.Add(new CardData(cardID, cardNames, cardType, cardDescription, cardSets, "None", cardAttribute, species, cardLevel, cardAttack, cardDefense, cardRank, cardPendulumScale, cardLinkType, cardLinkArrows));
+
+                return (IEnumerable<T>)collection;
             }
 
             return (IEnumerable<T>)collection;
@@ -422,7 +182,7 @@ namespace yugioh_card_scraper.Scraper
             {
                 var cardInfo = await LinearBackoff.DoRequest(async () =>
                 {
-                    var cardInfo = await Scrap<CardInfo>(cardID);
+                    var cardInfo = await Scrap<CardData>(cardID);
                     return cardInfo;
 
                 }, 5000);
@@ -435,8 +195,8 @@ namespace yugioh_card_scraper.Scraper
 
                 var directory = Directory.CreateDirectory(Path.Combine(cacheDirectory.FullName, cardID));
                 var imageFileName = string.Format("{0}.{1}", cardID, imageFormat);
-                File.WriteAllBytes(Path.Combine(directory.FullName, imageFileName), cardInfo.First().ImageBytes);
-                WriteInfoAsJson<CardData>(directory.FullName, string.Format(saveFormat, cardID), cardInfo.First().CardData);
+
+                WriteInfoAsJson<CardData>(directory.FullName, string.Format(saveFormat, cardID), cardInfo.First());
 
                 var r = new Random().NextDouble();
                 var v = delta * r + min;
