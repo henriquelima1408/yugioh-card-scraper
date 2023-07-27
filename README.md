@@ -8,7 +8,7 @@ Welcome to the Yu-Gi-Oh! Card Database GitHub repository! This project aims to c
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [How it works?](#How it works?)
+- [How it works?](#how-it-works)
 - [Dataset](#dataset)
 - [License](#license)
 
