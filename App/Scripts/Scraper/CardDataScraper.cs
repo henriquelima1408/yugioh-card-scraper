@@ -2,7 +2,6 @@
 using yugioh_card_scraper.Utils;
 using Newtonsoft.Json;
 using static yugioh_card_scraper.Model.CardData;
-using yugioh_card_scraper.Scripts.Scraper;
 
 namespace yugioh_card_scraper.Scraper
 {
@@ -28,14 +27,12 @@ namespace yugioh_card_scraper.Scraper
         readonly string imageFormat;
         readonly HashSet<string> cardIDs = new HashSet<string>();
         readonly Dictionary<string, string> wikiPageUriCache = new Dictionary<string, string>();
-        readonly string wikiRootUri = "";
         readonly string cookie = "";
 
-        public CardDataScraper(string wikiRootUri, string uriFormat, int[] delayRange, DirectoryInfo cacheDirectory, HashSet<string> cardIDs, string cookie, string imageFormat = "png") : base(uriFormat, delayRange, cacheDirectory)
+        public CardDataScraper(string uriFormat, int[] delayRange, DirectoryInfo cacheDirectory, HashSet<string> cardIDs, string cookie, string imageFormat = "png") : base(uriFormat, delayRange, cacheDirectory)
         {
             this.cardIDs = cardIDs;
             this.imageFormat = imageFormat;
-            this.wikiRootUri = wikiRootUri;
             this.cookie = cookie;
         }
 

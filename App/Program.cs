@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using yugioh_card_scraper.Model;
 using yugioh_card_scraper.Scraper;
-
+using yugioh_card_scraper.Scripts.Scraper;
 
 internal class Program
 {
@@ -25,9 +25,9 @@ internal class Program
         public string DataCookies => dataCookies;
     }
 
-    const string yuGiOhDataRootUri = "https://yugioh.fandom.com";
     const string yuGiOhMetadataUriFormat = "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=3&page={0}&stype=1&link_m=2&othercon=2&sort=1&rp={1}";
     const string yiGiOhDataUriFormat = "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid={0}&request_locale={1}";
+    const string yuGiOhImageUriFormat = "https://db.ygoprodeck.com/api/v7/cardinfo.php";
 
     private static async Task Main(string[] args)
     {
@@ -43,12 +43,14 @@ internal class Program
             argsInfo = JsonConvert.DeserializeObject<ArgInfo>(streamReade.ReadToEnd());
         }
 
-        var cardMetadataScraper = new CardMetadaScraper(yuGiOhMetadataUriFormat, argsInfo.RequestDelay, yugiohMetadataDirectory, argsInfo.MetadataCookie); 
+        var cardMetadataScraper = new CardMetadaScraper(yuGiOhMetadataUriFormat, argsInfo.RequestDelay, yugiohMetadataDirectory, argsInfo.MetadataCookie);
         await cardMetadataScraper.ScrapAll("cardsMetadata-page-{0}.json");
 
-        var cardData = new CardDataScraper(yuGiOhDataRootUri, yiGiOhDataUriFormat, argsInfo.RequestDelay, yugiohCardDataDirectory, cardMetadataScraper.LoadLocal<IEnumerable<CardMetadata>>().Select(c => c.CardID).ToHashSet(), argsInfo.DataCookies);
+        var cardData = new CardDataScraper(yiGiOhDataUriFormat, argsInfo.RequestDelay, yugiohCardDataDirectory, cardMetadataScraper.LoadLocal<IEnumerable<CardMetadata>>().Select(c => c.CardID).ToHashSet(), argsInfo.DataCookies);
         await cardData.ScrapAll("{0}.json");
 
+        var cardImageScraper = new CardImageScraper(yuGiOhImageUriFormat, argsInfo.RequestDelay, yugiohCardDataDirectory, cardData.LoadLocal<IEnumerable<CardData>>());
+        await cardImageScraper.ScrapAll("{0}.jpg");
         Console.WriteLine("Finished!");
     }
 }

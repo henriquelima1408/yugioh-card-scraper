@@ -2,7 +2,7 @@
 using yugioh_card_scraper.Utils;
 using static yugioh_card_scraper.Model.CardData;
 
-namespace yugioh_card_scraper.Scripts.Scraper
+namespace yugioh_card_scraper.Scraper
 {
     internal class CardInfo
     {
@@ -84,7 +84,11 @@ namespace yugioh_card_scraper.Scripts.Scraper
         {
             var cardTextNode = cardDataNode.FindChildrenByClass("top").FindChildrensByAttribute("id").Where(n => n.FindChildrenByClass("CardText") != null).First();
 
-            var cardName = cardDataNode.FindChildrenByAttribute("id").InnerText.TrimStart().TrimEnd();
+            var cardName = cardDataNode.FindChildrenByAttribute("id").FindChildrenNodesByName("h1").First().ChildNodes.First().InnerText.TrimStart().TrimEnd();
+            if (string.IsNullOrEmpty(cardName))
+            {
+                cardName = cardDataNode.FindChildrenByAttribute("id").FindChildrenNodesByName("h1").First().ChildNodes.ToArray()[1].InnerText.TrimStart().TrimEnd();
+            }
             var cardTexts = cardTextNode.FindChildrensByClass("CardText").ToArray();
 
             var frames = cardTexts[0].FindChildrensByClass("frame").ToArray();
@@ -152,7 +156,8 @@ namespace yugioh_card_scraper.Scripts.Scraper
             return new CardInfo(cardName, cardType, cardDescription, attribute, level, attack, defense, species, rank, pendulumScale, pendulumDescription, linkType, null, ConvertLinkArrows(linkType));
         }
 
-        static IEnumerable<string> ConvertLinkArrows(string linkType) { 
+        static IEnumerable<string> ConvertLinkArrows(string linkType)
+        {
             var result = new List<string>();
 
             foreach (var c in linkType.ToCharArray())

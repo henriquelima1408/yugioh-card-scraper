@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="App\Data\" />
+    <Folder Include="App\Data\CardData\" />
   </ItemGroup>
 
 </Project>
