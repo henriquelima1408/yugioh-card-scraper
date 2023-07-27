@@ -1,7 +1,6 @@
 ﻿using Newtonsoft.Json;
 using yugioh_card_scraper.Model;
 using yugioh_card_scraper.Scraper;
-using yugioh_card_scraper.Scripts.Scraper;
 
 internal class Program
 {
