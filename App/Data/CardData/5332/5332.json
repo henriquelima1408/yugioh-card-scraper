@@ -1,0 +1,78 @@
+{
+  "CardID": "5332",
+  "CardNames": {
+    "en": "A Feint Plan",
+    "de": "Plan f&uuml;r eine Finte",
+    "ja": "ようどうさくせん",
+    "ko": "양동 작전"
+  },
+  "CardDescriptions": {
+    "en": "A player cannot attack face-down monsters during this turn.",
+    "de": "Spieler können in diesem Spielzug keine verdeckten Monsterkarten als Ziel eines Angriffs bestimmen.",
+    "ja": "このターン、お互いは裏側表示モンスターを攻撃できない。",
+    "ko": "이 턴에, 서로 뒷면 표시 몬스터를 공격할 수 없다."
+  },
+  "CardType": "Normal Trap",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2003-06-06",
+        "CardNumber": "LOD-032",
+        "PackName": "LEGACY OF DARKNESS",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2003-04-01",
+        "CardNumber": "LOD-032",
+        "PackName": "LEGACY OF DARKNESS",
+        "Rarity": "Common"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2013-11-01",
+        "CardNumber": "AT04-JP008",
+        "PackName": "アドバンスド・トーナメントパック2013 Vol.4",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2003-04-24",
+        "CardNumber": "DL5-030",
+        "PackName": "DUELIST LEGACY Volume 5",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2001-09-20",
+        "CardNumber": "SC-32",
+        "PackName": "Struggle of Chaos － 闇を制する者 －",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2014-01-01",
+        "CardNumber": "AE03-KR016",
+        "PackName": "어드밴스드 이벤트 팩 2014 Vol.1",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2004-10-18",
+        "CardNumber": "LOD-KR032",
+        "PackName": "어둠의 유산",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

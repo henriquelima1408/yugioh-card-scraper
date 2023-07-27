@@ -1,0 +1,412 @@
+{
+  "CardID": "7187",
+  "CardNames": {
+    "en": "A Hero Lives",
+    "de": "Ein Held lebt",
+    "fr": "H&eacute;ros Vivant",
+    "it": "Un Eroe Sopravvive",
+    "es": "Un H&eacute;roe Vive",
+    "pt": "Um Her&oacute;i Vive",
+    "ja": "ヒーローアライブ",
+    "ko": "히어로 얼라이브"
+  },
+  "CardDescriptions": {
+    "en": "If you control no face-up monsters: Pay half your LP; Special Summon 1 Level 4 or lower \"Elemental HERO\" monster from your Deck.",
+    "de": "Falls du keine offenen Monster kontrollierst: Zahle die Hälfte deiner LP; beschwöre 1 „Elementar-HELD“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck.",
+    "fr": "Si vous ne contrôlez aucun monstre face recto : payez la moitié de vos LP ; Invoquez Spécialement 1 monstre \"HÉROS Élémentaire\" de max. Niveau 4 depuis votre Deck.",
+    "it": "Se non controlli nessun mostro scoperto: paga la metà dei tuoi LP; Evoca Specialmente 1 mostro \"EROE Elementale\" di Livello 4 o inferiore dal tuo Deck.",
+    "es": "Si no controlas monstruos boca arriba: paga la mitad de tus LP; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"HÉROE Elemental\" de Nivel 4 o menor.",
+    "pt": "Se você não controlar nenhum monstro com a face para cima: pague metade dos seus PV; Invoque por Invocação-Especial 1 monstro \"HERÓI do Elemento\" de Nível 4 ou menos do seu Deck.",
+    "ja": "①：自分フィールドに表側表示モンスターが存在しない場合、LPを半分払って発動できる。デッキからレベル４以下の「E・HERO」モンスター１体を特殊召喚する。",
+    "ko": "①: 자신 필드에 앞면 표시 몬스터가 존재하지 않을 경우, LP를 절반 지불하고 발동할 수 있다. 덱에서 레벨 4 이하의 \"엘리멘틀 히어로\" 몬스터 1장을 특수 소환한다."
+  },
+  "CardType": "Normal Spell",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2022-11-04",
+        "CardNumber": "MAMA-EN081",
+        "PackName": "MAGNIFICENT MAVENS",
+        "Rarity": "Ultra Rare"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-ENA16",
+        "PackName": "SPEED DUEL GX: MIDTERM PARADOX",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-ENA16",
+        "PackName": "SPEED DUEL GX: MIDTERM PARADOX",
+        "Rarity": "Secret Rare"
+      },
+      {
+        "ReleaseData": "2022-07-22",
+        "CardNumber": "LDS3-EN112",
+        "PackName": "LEGENDARY DUELISTS: SEASON 3",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2020-01-17",
+        "CardNumber": "LED6-EN022",
+        "PackName": "LEGENDARY DUELISTS: MAGICAL HERO",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2017-03-31",
+        "CardNumber": "DUSA-EN087",
+        "PackName": "DUELIST SAGA",
+        "Rarity": "Ultra Rare (Duelist Saga Version)"
+      },
+      {
+        "ReleaseData": "2015-01-30",
+        "CardNumber": "SDHS-EN026",
+        "PackName": "HERO STRIKE STRUCTURE DECK",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2011-08-16",
+        "CardNumber": "GENF-EN098",
+        "PackName": "GENERATION FORCE",
+        "Rarity": "Ultra Rare"
+      },
+      {
+        "ReleaseData": "2011-08-16",
+        "CardNumber": "GENF-EN098",
+        "PackName": "GENERATION FORCE",
+        "Rarity": "Ultimate Rare"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2022-11-03",
+        "CardNumber": "MAMA-DE081",
+        "PackName": "MAGNIFICENT MAVENS",
+        "Rarity": "Ultra Rare"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-DEA16",
+        "PackName": "SPEED DUEL GX: MIDTERM PARADOX",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-DEA16",
+        "PackName": "SPEED DUEL GX: MIDTERM PARADOX",
+        "Rarity": "Secret Rare"
+      },
+      {
+        "ReleaseData": "2022-07-21",
+        "CardNumber": "LDS3-DE112",
+        "PackName": "LEGENDARY DUELISTS: SEASON 3",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2020-01-16",
+        "CardNumber": "LED6-DE022",
+        "PackName": "LEGENDARY DUELISTS: MAGICAL HERO",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2017-03-30",
+        "CardNumber": "DUSA-DE087",
+        "PackName": "DUELIST SAGA",
+        "Rarity": "Ultra Rare (Duelist Saga Version)"
+      },
+      {
+        "ReleaseData": "2015-01-29",
+        "CardNumber": "SDHS-DE026",
+        "PackName": "STRUCTURE DECK HERO STRIKE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2011-08-12",
+        "CardNumber": "GENF-DE098",
+        "PackName": "GENERATION FORCE",
+        "Rarity": "Ultra Rare"
+      },
+      {
+        "ReleaseData": "2011-08-12",
+        "CardNumber": "GENF-DE098",
+        "PackName": "GENERATION FORCE",
+        "Rarity": "Ultimate Rare"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2022-11-03",
+        "CardNumber": "MAMA-FR081",
+        "PackName": "LES EXPERTES FANTASTIQUES",
+        "Rarity": "Ultra Rare"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-FRA16",
+        "PackName": "SPEED DUEL GX: LE PARADOXE DES PARTIELS",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-FRA16",
+        "PackName": "SPEED DUEL GX: LE PARADOXE DES PARTIELS",
+        "Rarity": "Secr&egrave;te Rare"
+      },
+      {
+        "ReleaseData": "2022-07-21",
+        "CardNumber": "LDS3-FR112",
+        "PackName": "DUELLISTES L&Eacute;GENDAIRES : SAISON 3",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2020-01-16",
+        "CardNumber": "LED6-FR022",
+        "PackName": "DUELLISTES L&Eacute;GENDAIRES : LE H&Eacute;ROS MAGIQUE",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2017-03-30",
+        "CardNumber": "DUSA-FR087",
+        "PackName": "LA SAGA DES DUELLISTES",
+        "Rarity": "Ultra Rare (Version La Saga des Duellistes)"
+      },
+      {
+        "ReleaseData": "2015-01-29",
+        "CardNumber": "SDHS-FR026",
+        "PackName": "DECK DE STRUCTURE L'ASSAULT DES H&Eacute;ROS",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2011-08-12",
+        "CardNumber": "GENF-FR098",
+        "PackName": "LA FORCE DES GENERATIONS",
+        "Rarity": "Ultra Rare"
+      },
+      {
+        "ReleaseData": "2011-08-12",
+        "CardNumber": "GENF-FR098",
+        "PackName": "LA FORCE DES GENERATIONS",
+        "Rarity": "Ultime Rare"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2022-11-03",
+        "CardNumber": "MAMA-IT081",
+        "PackName": "LE MAGNIFICHE ESPERTE",
+        "Rarity": "Ultra Rara"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-ITA16",
+        "PackName": "SPEED DUEL GX: ESAMI PARADOX",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-ITA16",
+        "PackName": "SPEED DUEL GX: ESAMI PARADOX",
+        "Rarity": "Rara Segreta"
+      },
+      {
+        "ReleaseData": "2022-07-21",
+        "CardNumber": "LDS3-IT112",
+        "PackName": "DUELLANTI LEGGENDARI : STAGIONE 3",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2020-01-16",
+        "CardNumber": "LED6-IT022",
+        "PackName": "DUELLANTI LEGGENDARI: EROE MAGICO",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2017-03-30",
+        "CardNumber": "DUSA-IT087",
+        "PackName": "SAGA DEI DUELLANTI",
+        "Rarity": "Ultra Rara (Versione Saga del Duellante)"
+      },
+      {
+        "ReleaseData": "2015-01-29",
+        "CardNumber": "SDHS-IT026",
+        "PackName": "STRUCTURE DECK ATTACCO DEGLI EROI",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2011-08-12",
+        "CardNumber": "GENF-IT098",
+        "PackName": "FORZA GENERATRICE",
+        "Rarity": "Ultra Rara"
+      },
+      {
+        "ReleaseData": "2011-08-12",
+        "CardNumber": "GENF-IT098",
+        "PackName": "FORZA GENERATRICE",
+        "Rarity": "Rara Ultimate"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2022-11-03",
+        "CardNumber": "MAMA-SP081",
+        "PackName": "EXPERTAS MAGN&Iacute;FICAS",
+        "Rarity": "Ultra Rara"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-SPA16",
+        "PackName": "SPEED DUEL GX: PARCIAL PARADOJA",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-SPA16",
+        "PackName": "SPEED DUEL GX: PARCIAL PARADOJA",
+        "Rarity": "Rara Secreta"
+      },
+      {
+        "ReleaseData": "2022-07-21",
+        "CardNumber": "LDS3-SP112",
+        "PackName": "DUELISTAS LEGENDARIOS : TEMPORADA 3",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2020-01-16",
+        "CardNumber": "LED6-SP022",
+        "PackName": "DUELISTAS LEGENDARIOS: H&Eacute;ROE M&Aacute;GICO",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2017-03-30",
+        "CardNumber": "DUSA-SP087",
+        "PackName": "LA SAGA DEL DUELISTA",
+        "Rarity": "Ultra Rara (Versi&oacute;n Saga del Duelista)"
+      },
+      {
+        "ReleaseData": "2015-01-29",
+        "CardNumber": "SDHS-SP026",
+        "PackName": "BARAJA DE ESTRUCTURA GOLPE DEL H&Eacute;ROE",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2011-08-12",
+        "CardNumber": "GENF-SP098",
+        "PackName": "FUERZA GENERACI&Oacute;N",
+        "Rarity": "Ultra Rara"
+      },
+      {
+        "ReleaseData": "2011-08-12",
+        "CardNumber": "GENF-SP098",
+        "PackName": "FUERZA GENERACI&Oacute;N",
+        "Rarity": "Rara Definitiva"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2022-11-03",
+        "CardNumber": "MAMA-PT081",
+        "PackName": "ESPECIALISTAS MAGN&Iacute;FICAS",
+        "Rarity": "Ultra Rara"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-PTA16",
+        "PackName": "SPEED DUEL GX: PARADOXO INTERMEDI&Aacute;RIO",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2022-10-10",
+        "CardNumber": "SGX2-PTA16",
+        "PackName": "SPEED DUEL GX: PARADOXO INTERMEDI&Aacute;RIO",
+        "Rarity": "Rara Secreta"
+      },
+      {
+        "ReleaseData": "2022-07-21",
+        "CardNumber": "LDS3-PT112",
+        "PackName": "DUELISTAS LEND&Aacute;RIOS : TEMPORADA 3",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2020-01-16",
+        "CardNumber": "LED6-PT022",
+        "PackName": "DUELISTAS LEND&Aacute;RIOS: HER&Oacute;I M&Aacute;GICO",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2017-03-30",
+        "CardNumber": "DUSA-PT087",
+        "PackName": "SAGA DOS DUELISTAS",
+        "Rarity": "Ultra Rara (Vers&atilde;o Saga do Duelista)"
+      },
+      {
+        "ReleaseData": "2015-01-30",
+        "CardNumber": "SDHS-PT026",
+        "PackName": "DECK ESTRUTURAL ATAQUE DO HER&Oacute;I",
+        "Rarity": "Comun"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2019-11-09",
+        "CardNumber": "DP23-JP022",
+        "PackName": "デュエリストパック － レジェンドデュエリスト編６ －",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2017-02-11",
+        "CardNumber": "20AP-JP082",
+        "PackName": "20th ANNIVERSARY PACK 2nd WAVE",
+        "Rarity": "パラレル仕様"
+      },
+      {
+        "ReleaseData": "2014-06-21",
+        "CardNumber": "SD27-JP025",
+        "PackName": "ストラクチャーデッキ － HERO&rsquo;s STRIKE －",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2010-12-18",
+        "CardNumber": "PP13-JP010",
+        "PackName": "PREMIUM PACK 13",
+        "Rarity": "シークレットレア仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2020-02-05",
+        "CardNumber": "DP23-KR022",
+        "PackName": "듀얼리스트 팩 － 레전드듀얼리스트 편 6 －",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2017-05-11",
+        "CardNumber": "20AP-JP082",
+        "PackName": "크로니클 팩 2nd WAVE",
+        "Rarity": "패러렐(노멀)"
+      },
+      {
+        "ReleaseData": "2014-09-17",
+        "CardNumber": "SD27-KR025",
+        "PackName": "스트럭처 덱 － 히어로즈 스트라이크 －",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2011-06-17",
+        "CardNumber": "PP06-KR030",
+        "PackName": "프리미엄 팩 Vol.6",
+        "Rarity": "울트라 레어"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

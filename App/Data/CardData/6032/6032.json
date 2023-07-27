@@ -1,0 +1,151 @@
+{
+  "CardID": "6032",
+  "CardNames": {
+    "en": "3-Hump Lacooda",
+    "de": "3-H&ouml;cker-Lacooda",
+    "fr": "Lacooda Tri-Bosse",
+    "it": "Lacooda 3 Gobbe",
+    "es": "Lacooda de 3 Jorobas",
+    "pt": "Lacooda de 3 Corcovas",
+    "ja": "みつこぶラクーダ",
+    "ko": "삼봉 낙타"
+  },
+  "CardDescriptions": {
+    "en": "If there are 3 face-up \"3-Hump Lacooda\" cards on your side of the field, Tribute 2 of them to draw 3 cards.",
+    "de": "Wenn sich 3 offene „3-Höcker-Lacooda“-Karten auf deiner Spielfeldseite befinden, biete 2 davon als Tribut an, um 3 Karten zu ziehen.",
+    "fr": "S'il y a 3 \"Lacooda Tri-Bosse\" face recto sur votre Terrain, sacrifiez en 2 pour piocher 3 cartes.",
+    "it": "Se ci sono 3 carte \"Lacooda 3 Gobbe\" scoperte sul tuo Terreno, offrine 2 come Tributo per pescare 3 carte.",
+    "es": "Si hay 3 cartas \"Lacooda de 3 Jorobas\" boca arriba en tu Campo, ofrece 2 de ellas como Sacrificio para robar 3 cartas.",
+    "pt": "Ofereça 2 \"Lacooda de 3 Corcovas\" como Tributo, enquanto estiverem 3 \"Lacooda de 3 Bossas\" no seu Campo, para comprar 3 cards.",
+    "ja": "「みつこぶラクーダ」が自分フィールド上に表側表示で３体存在する場合、その内２体を生け贄に捧げる事でカードを３枚ドローする。",
+    "ko": "\"삼봉 낙타\"가 자신 필드 위에 앞면 표시로 3장 존재할 경우, 그 중 2장을 제물로 바치는 것으로 카드를 3장 드로우한다."
+  },
+  "CardType": "Monster",
+  "Species": [
+    "Beast",
+    "Effect"
+  ],
+  "Attribute": "EARTH",
+  "CardLevel": "Level 3",
+  "CardRank": "",
+  "CardAtk": "500",
+  "CardDefense": "1500",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DR2-EN183",
+        "PackName": "DARK REVELATION Volume 2",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2004-06-01",
+        "CardNumber": "AST-070",
+        "PackName": "ANCIENT SANCTUARY",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2005-10-01",
+        "CardNumber": "DR2-DE183",
+        "PackName": "DARK REVELATIONS VOLUME 2",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2004-05-01",
+        "CardNumber": "AST-DE070",
+        "PackName": "ANCIENT SANCTUARY",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DR2-FR183",
+        "PackName": "SOMBRE R&Eacute;V&Eacute;LATION VOLUME 2",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2004-06-01",
+        "CardNumber": "AST-FR070",
+        "PackName": "SANCTUAIRE ANCESTRAL",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DR2-IT183",
+        "PackName": "RIVELAZIONE OSCURA VOLUME 2",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2004-06-01",
+        "CardNumber": "AST-IT070",
+        "PackName": "ANTICO SANTUARIO",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DR2-SP183",
+        "PackName": "REVELACI&Oacute;N OSCURA VOLUMEN 2",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2004-06-01",
+        "CardNumber": "AST-SP070",
+        "PackName": "SANTUARIO ANTIGUO",
+        "Rarity": "Comune"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2004-06-01",
+        "CardNumber": "AST-PT070",
+        "PackName": "SANTU&Aacute;RIO ANTIGO",
+        "Rarity": "Comun"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2005-03-17",
+        "CardNumber": "EE2-JP183",
+        "PackName": "EXPERT EDITION Volume 2",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2004-02-26",
+        "CardNumber": "309-015",
+        "PackName": "ファラオの遺産",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2004-02-26",
+        "CardNumber": "309-015",
+        "PackName": "ベンダー版 ファラオの遺産",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2006-11-17",
+        "CardNumber": "HGP2-KR183",
+        "PackName": "하이 그레이드 팩 Vol.2",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2005-08-27",
+        "CardNumber": "AST-KR070",
+        "PackName": "천공의 성역",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

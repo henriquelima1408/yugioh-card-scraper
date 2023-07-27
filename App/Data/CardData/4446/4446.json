@@ -1,0 +1,265 @@
+{
+  "CardID": "4446",
+  "CardNames": {
+    "en": "7 Colored Fish",
+    "de": "Siebenfarbiger Fisch",
+    "fr": "Poisson aux 7 Couleurs",
+    "it": "Pesce dei 7 Colori",
+    "es": "Pez de 7 Colores",
+    "pt": "Peixe de 7 Cores",
+    "ja": "レインボー・フィッシュ",
+    "ko": "레인보우 휘시"
+  },
+  "CardDescriptions": {
+    "en": "A rare rainbow fish that has never been caught by mortal man.",
+    "de": "Ein seltener Regenbogenfisch, der noch nie von einem sterblichen Menschen gefangen werden konnte.",
+    "fr": "Aucun mortel n'a jamais réussi à capturer ce poisson arc-en-ciel très rare.",
+    "it": "Il rarissimo pesce arcobaleno non è mai stato catturato da un mortale.",
+    "es": "Un raro pez color arco iris que nunca ha sido atrapado por hombres mortales.",
+    "pt": "Um raro peixe arco-íris que nunca foi apanhado por homens mortais.",
+    "ja": "世にも珍しい七色の魚。捕まえるのはかなり難しい。",
+    "ko": "이 세상에서 보기드문 일곱 빛깔의 물고기. 포획은 거의 불가능하다."
+  },
+  "CardType": "Monster",
+  "Species": [
+    "Fish",
+    "Normal"
+  ],
+  "Attribute": "WATER",
+  "CardLevel": "Level 4",
+  "CardRank": "",
+  "CardAtk": "1800",
+  "CardDefense": "800",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2023-04-21",
+        "CardNumber": "MRD-EN098",
+        "PackName": "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2008-04-02",
+        "CardNumber": "GLD1-EN001",
+        "PackName": "GOLD SERIES",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2005-05-09",
+        "CardNumber": "SD4-EN002",
+        "PackName": "STRUCTURE DECK FURY FROM THE DEEP",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2003-03-30",
+        "CardNumber": "SDJ-008",
+        "PackName": "STARTER DECK JOEY",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2002-06-26",
+        "CardNumber": "MRD-098",
+        "PackName": "METAL RAIDERS",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "MRD-DE098",
+        "PackName": "METAL RAIDERS (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2008-04-09",
+        "CardNumber": "GLD1-DE001",
+        "PackName": "GOLD SERIES",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2005-05-09",
+        "CardNumber": "SD4-DE002",
+        "PackName": "STRUCTURE DECK FURY FROM THE DEEP",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2003-03-30",
+        "CardNumber": "SDJ-G-008",
+        "PackName": "STARTER DECK JOEY",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2002-06-27",
+        "CardNumber": "MRD-G098",
+        "PackName": "METAL RAIDERS",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "MRD-FR098",
+        "PackName": "M&Eacute;TAL RAIDERS (LC01 &Eacute;dition 25e Anniversaire)",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2008-04-09",
+        "CardNumber": "GLD1-FR001",
+        "PackName": "COLLECTION GOLD",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2005-05-09",
+        "CardNumber": "SD4-FR002",
+        "PackName": "DECK DE STRUCTURE LA FUREUR DES PROFONDEURS",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2003-03-30",
+        "CardNumber": "DDJ-F008",
+        "PackName": "DECK DE D&Eacute;MARRAGE JOEY",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2002-06-27",
+        "CardNumber": "MRD-F098",
+        "PackName": "M&Eacute;TAL RAIDERS",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "MRD-IT098",
+        "PackName": "PREDONI METALLICI (LC01 Edizione 25&deg;Anniversario)",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2008-04-09",
+        "CardNumber": "GLD1-ＩＴ001",
+        "PackName": "SERIE ORO",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2005-05-09",
+        "CardNumber": "SD4-IT002",
+        "PackName": "STRUCTURE DECK FURIA DAGLI ABISSI",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2003-08-07",
+        "CardNumber": "PMT-I098",
+        "PackName": "PREDONI METALLICI",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2003-03-30",
+        "CardNumber": "MIJ-I008",
+        "PackName": "MAZZO INTRODUTTIVO JOEY",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "MRD-SP098",
+        "PackName": "PREDADORES MET&Aacute;LICOS(LC01 Edici&oacute;n 25&ordm; Aniversario)",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2008-04-09",
+        "CardNumber": "GLD1-SP001",
+        "PackName": "SERIE DORADA",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2005-05-09",
+        "CardNumber": "SD4-SP002",
+        "PackName": "BARAJA DE ESTRUCTURA FURIA DE LAS PROFUNDIDADES",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2003-03-30",
+        "CardNumber": "BIJ-S008",
+        "PackName": "BARAJA DE INICIO JOEY",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2002-06-27",
+        "CardNumber": "PMT-S098",
+        "PackName": "PREDADORES MET&Aacute;LICOS",
+        "Rarity": "Comune"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "MRD-PT098",
+        "PackName": "PREDADORES MET&Aacute;LICOS (LC01 Edi&ccedil;&atilde;o do 25&ordm; Anivers&aacute;rio)",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2005-05-01",
+        "CardNumber": "SD4-PT002",
+        "PackName": "DECK ESTRUTURA: F&Uacute;RIA DAS PROFUNDEZAS",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2002-06-01",
+        "CardNumber": "PMT-P098",
+        "PackName": "PREDADORES MET&Aacute;LICOS",
+        "Rarity": "Comun"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2005-03-17",
+        "CardNumber": "SD4-JP002",
+        "PackName": "ストラクチャーデッキ － 海竜神の怒り －",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2003-01-23",
+        "CardNumber": "DL4-032",
+        "PackName": "DUELIST LEGACY Volume 4",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2001-02-22",
+        "CardNumber": "ME-38",
+        "PackName": "鋼鉄の襲撃者 － METAL RAIDERS －",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2000-01-27",
+        "CardNumber": "",
+        "PackName": "Vol.7",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2006-05-10",
+        "CardNumber": "SD4-KR002",
+        "PackName": "스트럭처 덱 － 해룡신의 분노 －",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2004-08-16",
+        "CardNumber": "SDJ-KR008",
+        "PackName": "스타터 덱 － 조이 편 －",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2004-03-09",
+        "CardNumber": "MRD-K098",
+        "PackName": "강철의 습격자",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

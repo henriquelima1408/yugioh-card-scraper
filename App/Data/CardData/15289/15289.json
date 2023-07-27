@@ -1,0 +1,136 @@
+{
+  "CardID": "15289",
+  "CardNames": {
+    "en": "&quot;Infernoble Arms - Joyeuse&quot;",
+    "de": "&bdquo;Flammedle Waffen - Joyeuse&ldquo;",
+    "fr": "&quot;Armes Nobles Inferno - Joyeuse&quot;",
+    "it": "&quot;Infernobili Armi - Gioiosa&quot;",
+    "es": "&quot;Infernarmas Nobles - Joyeuse&quot;",
+    "pt": "&quot;Infernarmas Nobres - Joyeuse&quot;",
+    "ja": "『えんせいけん－ジョワユーズ』",
+    "ko": "『불꽃성검－주와이외즈』"
+  },
+  "CardDescriptions": {
+    "en": "While this card is equipped to a monster: You can target 1 FIRE Warrior monster in your GY; add it to your hand, then destroy this card. If this card is sent to the GY because the equipped monster is sent to the GY: You can Special Summon 1 FIRE Warrior monster from your hand. You can only use 1 \"\"Infernoble Arms - Joyeuse\"\" effect per turn, and only once that turn.",
+    "de": "Solange diese Karte ein Monster ausrüstet: Du kannst 1 FEUER Krieger-Monster in deinem Friedhof wählen; füge es deiner Hand hinzu, dann zerstöre diese Karte. Falls diese Karte auf den Friedhof gelegt wird, weil das ausgerüstete Monster auf den Friedhof gelegt wird: Du kannst 1 FEUER Krieger-Monster als Spezialbeschwörung von deiner Hand beschwören. Du kannst nur 1 Effekt von „„Flammedle Waffen - Joyeuse““ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+    "fr": "Tant que cette carte est équipée à un monstre : vous pouvez cibler 1 monstre FEU Guerrier dans votre Cimetière ; ajoutez-le à votre main, puis détruisez cette carte. Si cette carte est envoyée au Cimetière parce que le monstre équipé est envoyé au Cimetière : vous pouvez Invoquer Spécialement 1 monstre FEU Guerrier depuis votre main. Vous ne pouvez utiliser qu'1 effet de \"\"Armes Nobles Inferno - Joyeuse\"\" par tour, et uniquement une fois le tour.",
+    "it": "Mentre questa carta è equipaggiata a un mostro: puoi scegliere come bersaglio 1 mostro FUOCO Guerriero nel tuo Cimitero; aggiungilo alla tua mano, poi distruggi questa carta. Se questa carta viene mandata al Cimitero perché il mostro equipaggiato viene mandato al Cimitero: puoi Evocare Specialmente 1 mostro FUOCO Guerriero dalla tua mano. Puoi utilizzare solo 1 effetto di \"\"Infernobili Armi - Gioiosa\"\" per turno, e solo una volta in quel turno.",
+    "es": "Mientras esta carta está equipada a un monstruo: puedes seleccionar 1 monstruo Guerrero de FUEGO en tu Cementerio; añádelo a tu mano, y después destruye esta carta. Si esta carta es mandada al Cementerio porque el monstruo equipado es mandado al Cementerio: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Guerrero de FUEGO. Sólo puedes usar 1 efecto de \"\"Infernarmas Nobles - Joyeuse\"\" por turno, y sólo una vez ese turno.",
+    "pt": "Enquanto este card estiver equipado a um monstro: você pode escolher 1 monstro Guerreiro de FOGO no seu Cemitério; adicione-o à sua mão e, depois, destrua este card. Se este card for enviado para o Cemitério porque o monstro equipado foi enviado para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro Guerreiro de FOGO da sua mão. Você só pode usar 1 efeito de \"\"Infernarmas Nobres - Joyeuse\"\" por turno e apenas uma vez por turno.",
+    "ja": "このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが装備されている場合、自分の墓地の戦士族・炎属性モンスター１体を対象として発動できる。そのモンスターを手札に加える。その後、このカードを破壊する。②：装備モンスターが墓地へ送られた事でこのカードが墓地へ送られた場合に発動できる。手札から戦士族・炎属性モンスター１体を特殊召喚する。",
+    "ko": "이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 장착되어 있을 경우, 자신 묘지의 전사족 / 화염 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다. 그 후, 이 카드를 파괴한다. ②: 장착 몬스터가 묘지로 보내진 것으로 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 패에서 전사족 / 화염 속성 몬스터 1장을 특수 소환한다."
+  },
+  "CardType": "Equip Spell",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2021-10-01",
+        "CardNumber": "MP21-EN138",
+        "PackName": "2021 TIN OF ANCIENT BATTLES",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2020-08-07",
+        "CardNumber": "ROTD-EN055",
+        "PackName": "RISE OF THE DUELIST",
+        "Rarity": "Super Rare"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2021-09-30",
+        "CardNumber": "MP21-DE138",
+        "PackName": "2021 TIN OF ANCIENT BATTLES",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2020-08-06",
+        "CardNumber": "ROTD-DE055",
+        "PackName": "RISE OF THE DUELIST",
+        "Rarity": "Super Rare"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2021-09-30",
+        "CardNumber": "MP21-FR138",
+        "PackName": "BO&Icirc;TE DES BATAILLES ANCIENNES 2021",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2020-08-06",
+        "CardNumber": "ROTD-FR055",
+        "PackName": "L'ASCENSION DU DUELLISTE",
+        "Rarity": "Super Rare"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2021-09-30",
+        "CardNumber": "MP21-IT138",
+        "PackName": "TIN DELLE BATTAGLIE ANTICHE 2021",
+        "Rarity": "Super Rara"
+      },
+      {
+        "ReleaseData": "2020-08-06",
+        "CardNumber": "ROTD-IT055",
+        "PackName": "ASCESA DEL DUELLANTE",
+        "Rarity": "Super Rara"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2021-09-30",
+        "CardNumber": "MP21-SP138",
+        "PackName": "2021 LATA DE ANTIGUAS BATALLAS",
+        "Rarity": "S&uacute;per Rara"
+      },
+      {
+        "ReleaseData": "2020-08-06",
+        "CardNumber": "ROTD-SP055",
+        "PackName": "ALZAMIENTO DEL DUELISTA",
+        "Rarity": "S&uacute;per Rara"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2021-09-30",
+        "CardNumber": "MP21-PT138",
+        "PackName": "LATA DAS BATALHAS ANTIGAS 2021",
+        "Rarity": "Super Rara"
+      },
+      {
+        "ReleaseData": "2020-08-06",
+        "CardNumber": "ROTD-PT055",
+        "PackName": "ASCENS&Atilde;O DO DUELISTA",
+        "Rarity": "Super Rara"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2020-04-18",
+        "CardNumber": "ROTD-JP055",
+        "PackName": "ライズ・オブ・ザ・デュエリスト [ RISE OF THE DUELIST ]",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2020-07-25",
+        "CardNumber": "ROTD-KR055",
+        "PackName": "라이즈 오브 더 듀얼리스트",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

@@ -8,6 +8,7 @@ Welcome to the Yu-Gi-Oh! Card Database GitHub repository! This project aims to c
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [How it works?](#How it works?)
 - [Dataset](#dataset)
 - [License](#license)
 
@@ -22,12 +23,17 @@ Yu-Gi-Oh! is a popular trading card game that involves dueling with a variety of
 - Easy-to-use.
 - Open to community contributions and improvements.
 
+## How it works?
+
+The application gathers card information from https://www.db.yugioh-card.com/ and retrieves all image resources from https://ygoprodeck.com/. In order to work properly, the application requires updates to the "MetadataCookie" and "DataCookies" within the "Args.json" file.
+
+
 ## Dataset
 
 The dataset is available in the `data` directory. You can find the following directories:
 
 - `CardMetada` - A collection of JSON files containing card ids.
-- `CardData` - A collection of Card Image and Data (card name, type, attribute, level/rank, ATK/DEF points, etc ) in JSON format.
+- `CardData` - A collection of Card Images and Data (card name, type, attribute, level/rank, ATK/DEF points, etc ) in JSON format.
 
 ## License
 

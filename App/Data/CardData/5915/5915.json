@@ -1,0 +1,388 @@
+{
+  "CardID": "5915",
+  "CardNames": {
+    "en": "A Hero Emerges",
+    "de": "Die Geburt eines Helden",
+    "fr": "Un H&eacute;ros Surgit",
+    "it": "Emerge un Eroe",
+    "es": "Un H&eacute;roe Emerge",
+    "pt": "Um Her&oacute;i Aparece",
+    "ja": "ヒーローけんざん",
+    "ko": "영웅 출현"
+  },
+  "CardDescriptions": {
+    "en": "When an opponent's monster declares an attack: Your opponent chooses 1 random card from your hand, then if it is a monster that can be Special Summoned, Special Summon it. Otherwise, send it to the GY.",
+    "de": "Wenn ein Monster eines Gegners einen Angriff deklariert: Dein Gegner bestimmt 1 zufällige Karte von deiner Hand, dann, falls es ein Monster ist, das als Spezialbeschwörung beschworen werden kann, beschwöre es als Spezialbeschwörung. Lege sie andernfalls auf den Friedhof.",
+    "fr": "Lorsqu'un monstre de l'adversaire déclare une attaque : votre adversaire choisit 1 carte au hasard depuis votre main, puis si c'est un monstre qui peut être Invoqué Spécialement, Invoquez-le Spécialement. Sinon, envoyez-la au Cimetière.",
+    "it": "Quando un mostro dell'avversario dichiara un attacco: il tuo avversario seleziona 1 carta a caso dalla tua mano, poi se è un mostro che può essere Evocato Specialmente, Evocalo Specialmente. Altrimenti, mandalo al Cimitero.",
+    "es": "Cuando un monstruo del adversario declara un ataque: tu adversario elige al azar 1 carta en tu mano y después, si es un monstruo que puede ser Invocado de Modo Especial, Invócalo de Modo Especial. Si no lo es, mándalo al Cementerio.",
+    "pt": "Quando um monstro do oponente declarar um ataque: seu oponente seleciona 1 card aleatório da sua mão e, depois, se for um monstro que possa ser Invocado por Invocação-Especial, Invoque-o por Invocação-Especial. Caso contrário, envie-o para o Cemitério.",
+    "ja": "①：相手モンスターの攻撃宣言時に発動できる。自分の手札１枚を相手がランダムに選ぶ。それがモンスターだった場合、自分フィールドに特殊召喚し、違った場合は墓地へ送る。",
+    "ko": "①: 상대 몬스터의 공격 선언시에 발동할 수 있다. 자신의 패 1장을 상대가 무작위로 고른다. 그것이 몬스터였을 경우, 자신 필드에 특수 소환하고, 다를 경우는 묘지로 보낸다."
+  },
+  "CardType": "Normal Trap",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2023-04-21",
+        "CardNumber": "IOC-EN104",
+        "PackName": "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2022-03-18",
+        "CardNumber": "SGX1-ENA19",
+        "PackName": "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2014-07-11",
+        "CardNumber": "YS14-EN036",
+        "PackName": "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2013-06-28",
+        "CardNumber": "BP02-EN179",
+        "PackName": "BATTLE PACK 2 WAR OF THE GIANTS",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2013-06-28",
+        "CardNumber": "BP02-EN179",
+        "PackName": "BATTLE PACK 2 WAR OF THE GIANTS",
+        "Rarity": "Mosaic Rare"
+      },
+      {
+        "ReleaseData": "2010-05-25",
+        "CardNumber": "DT02-EN048",
+        "PackName": "DUEL TERMINAL 2",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2006-02-08",
+        "CardNumber": "DP1-EN025",
+        "PackName": "DUELIST PACK - JADEN YUKI -",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DR2-EN105",
+        "PackName": "DARK REVELATION Volume 2",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2004-03-01",
+        "CardNumber": "IOC-104",
+        "PackName": "INVASION OF CHAOS",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2004-03-01",
+        "CardNumber": "IOC-EN104",
+        "PackName": "INVASION OF CHAOS",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "IOC-DE104",
+        "PackName": "INVASION OF CHAOS (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2022-03-17",
+        "CardNumber": "SGX1-DEA19",
+        "PackName": "SPEED DUEL GX: DUEL ACADEMY BOX",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2014-07-10",
+        "CardNumber": "YS14-DE036",
+        "PackName": "SUPER STARTER SPACE-TIME SHOWDOWN",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2013-06-27",
+        "CardNumber": "BP02-DE179",
+        "PackName": "BATTLE PACK 2 WAR OF THE GIANTS",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2013-06-27",
+        "CardNumber": "BP02-DE179",
+        "PackName": "BATTLE PACK 2 WAR OF THE GIANTS",
+        "Rarity": "Mosaic Rare"
+      },
+      {
+        "ReleaseData": "2007-06-09",
+        "CardNumber": "IOC-DE104",
+        "PackName": "INVASION OF CHAOS",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2006-02-15",
+        "CardNumber": "DP1-DE025",
+        "PackName": "DUELIST PACK JADEN YUKI",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2005-10-01",
+        "CardNumber": "DR2-DE105",
+        "PackName": "DARK REVELATIONS VOLUME 2",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "IOC-FR104",
+        "PackName": "L'INVASION DES T&Eacute;N&Egrave;BRES (LC01 &Eacute;dition 25e Anniversaire)",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2022-03-17",
+        "CardNumber": "SGX1-FRA19",
+        "PackName": "SPEED DUEL GX: BO&Icirc;TE DUEL ACAD&Eacute;MIE",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2014-07-10",
+        "CardNumber": "YS14-FR036",
+        "PackName": "SUPER DECK DE D&Eacute;MARRAGE LA CONFRONTATION DE L'ESPACE-TEMPS",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2013-06-27",
+        "CardNumber": "BP02-FR179",
+        "PackName": "BATTLE PACK 2 LA GUERRE DES G&Eacute;ANTS",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2013-06-27",
+        "CardNumber": "BP02-FR179",
+        "PackName": "BATTLE PACK 2 LA GUERRE DES G&Eacute;ANTS",
+        "Rarity": "Mosaic Rare"
+      },
+      {
+        "ReleaseData": "2007-06-12",
+        "CardNumber": "IOC-FR104",
+        "PackName": "L'INVASION DES TENEBRES",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2006-02-09",
+        "CardNumber": "DP1-FR025",
+        "PackName": "PACK DU DUELLISTE &ndash; JADEN YUKI -",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DR2-FR105",
+        "PackName": "SOMBRE R&Eacute;V&Eacute;LATION VOLUME 2",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "IOC-IT104",
+        "PackName": "INVASIONE DEL CHAOS (LC01 Edizione 25&deg;Anniversario)",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2022-03-17",
+        "CardNumber": "SGX1-ITA19",
+        "PackName": "SPEED DUEL GX: CONFANETTO ACCADEMIA DEL DUELLANTE",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2014-07-10",
+        "CardNumber": "YS14-IT036",
+        "PackName": "SUPER STARTER RESA DEI CONTI DELLO SPAZIO TEMPO",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2013-06-27",
+        "CardNumber": "BP02-IT179",
+        "PackName": "BATTLE PACK 2 GUERRA DEI GIGANTI",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2013-06-27",
+        "CardNumber": "BP02-IT179",
+        "PackName": "BATTLE PACK 2 GUERRA DEI GIGANTI",
+        "Rarity": "Rara Mosaico"
+      },
+      {
+        "ReleaseData": "2007-06-12",
+        "CardNumber": "IOC-IT104",
+        "PackName": "INVASIONE DEL CHAOS",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2006-02-09",
+        "CardNumber": "DP1-IT025",
+        "PackName": "DUELIST PACK JADEN YUKI",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DR2-IT105",
+        "PackName": "RIVELAZIONE OSCURA VOLUME 2",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "IOC-SP104",
+        "PackName": "INVASI&Oacute;N DEL CAOS (LC01 Edici&oacute;n 25&ordm; Aniversario)",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2022-03-17",
+        "CardNumber": "SGX1-SPA19",
+        "PackName": "SPEED DUEL GX: CAJA DE LA ACADEMIA DE DUELOS",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2014-07-10",
+        "CardNumber": "YS14-SP036",
+        "PackName": "LA S&Uacute;PER BARAJA DE PRINCIPIANTE LA CONFRONTACI&Oacute;N DEL ESPACIO-TIEMPO",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2013-06-27",
+        "CardNumber": "BP02-SP179",
+        "PackName": "BATTLE PACK 2 GUERRA DE LOS GIGANTES",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2013-06-27",
+        "CardNumber": "BP02-SP179",
+        "PackName": "BATTLE PACK 2 GUERRA DE LOS GIGANTES",
+        "Rarity": "Rara Mosaico"
+      },
+      {
+        "ReleaseData": "2007-06-09",
+        "CardNumber": "IOC-SP104",
+        "PackName": "INVASI&Oacute;N DEL CAOS",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2006-02-09",
+        "CardNumber": "DP1-SP025",
+        "PackName": "SOBRE DE DUELISTA - JADEN YUKI -",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DR2-SP105",
+        "PackName": "REVELACI&Oacute;N OSCURA VOLUMEN 2",
+        "Rarity": "Comune"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "IOC-PT104",
+        "PackName": "INVAS&Atilde;O DO CAOS (LC01 Edi&ccedil;&atilde;o do 25&ordm; Anivers&aacute;rio)",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2022-03-17",
+        "CardNumber": "SGX1-PTA19",
+        "PackName": "SPEED DUEL GX: CAIXA DA ACADEMIA DE DUELOS",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2014-07-11",
+        "CardNumber": "YS14-PT036",
+        "PackName": "SUPER DECK INICIAL 2014: CONFRONTO ESPA&Ccedil;O-TEMPO",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2013-06-28",
+        "CardNumber": "BP02-PT179",
+        "PackName": "PACOTE DE BATALHA 2: GUERRA DOS GIGANTES",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2013-06-28",
+        "CardNumber": "BP02-PT179",
+        "PackName": "PACOTE DE BATALHA 2: GUERRA DOS GIGANTES",
+        "Rarity": "Rara Mosaica"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2014-03-21",
+        "CardNumber": "ST14-JP036",
+        "PackName": "STARTER DECK 2014",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2008-09-22",
+        "CardNumber": "DT03-JP048",
+        "PackName": "デュエルターミナル 「反撃のジャスティス！！」",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2005-10-20",
+        "CardNumber": "DP1-JP025",
+        "PackName": "デュエリストパック － 十代編 －",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2005-03-17",
+        "CardNumber": "EE2-JP105",
+        "PackName": "EXPERT EDITION Volume 2",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2003-07-17",
+        "CardNumber": "307-049",
+        "PackName": "暗黒の侵略者",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2014-07-01",
+        "CardNumber": "ST14-KR036",
+        "PackName": "스타터 덱 2014",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2007-05-02",
+        "CardNumber": "DP1-KR025",
+        "PackName": "듀얼리스트 팩 － 주다이 편 －",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2006-11-17",
+        "CardNumber": "HGP2-KR105",
+        "PackName": "하이 그레이드 팩 Vol.2",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2005-06-28",
+        "CardNumber": "IOC-KR104",
+        "PackName": "혼돈의 지배",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

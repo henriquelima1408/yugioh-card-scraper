@@ -1,0 +1,236 @@
+{
+  "CardID": "5139",
+  "CardNames": {
+    "en": "4-Starred Ladybug of Doom",
+    "de": "4-sterniger Marienk&auml;fer der Verdammung",
+    "fr": "Coccinelle des Damn&eacute;s &agrave; 4 &Eacute;toiles",
+    "it": "Coccinella del Destino",
+    "es": "Ladybug de 4 Estrellas de la Perdici&oacute;n",
+    "pt": "Ladybug de 4 Estrelas da Condena&ccedil;&atilde;o",
+    "ja": "しの４つほしてんとうムシ",
+    "ko": "죽음의 4성 무당벌레"
+  },
+  "CardDescriptions": {
+    "en": "FLIP: Destroy all Level 4 monsters your opponent controls.",
+    "de": "FLIPP: Zerstöre alle Monster der Stufe 4, die dein Gegner kontrolliert.",
+    "fr": "FLIP : Détruisez tous les monstres de Niveau 4 contrôlés par votre adversaire.",
+    "it": "SCOPRI: Distruggi tutti i mostri di Livello 4 controllati dal tuo avversario.",
+    "es": "VOLTEO: Destruye todos los monstruos de Nivel 4 que controle tu adversario.",
+    "pt": "VIRE: Destrua todos os monstros de Nível 4 que seu oponente controla.",
+    "ja": "リバース：相手フィールド上に表側表示で存在するレベル４モンスターを全て破壊する。",
+    "ko": "리버스 : 상대 필드 위에 앞면 표시로 존재하는 레벨 4 몬스터를 전부 파괴한다."
+  },
+  "CardType": "Monster",
+  "Species": [
+    "Insect",
+    "Flip",
+    "Effect"
+  ],
+  "Attribute": "WIND",
+  "CardLevel": "Level 3",
+  "CardRank": "",
+  "CardAtk": "800",
+  "CardDefense": "1200",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2023-04-21",
+        "CardNumber": "PSV-EN088",
+        "PackName": "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2013-12-06",
+        "CardNumber": "YSYR-EN010",
+        "PackName": "STARTER DECK YUGI RELOADED",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2009-07-28",
+        "CardNumber": "RP02-EN022",
+        "PackName": "RETRO PACK 2",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2004-10-12",
+        "CardNumber": "DB1-EN198",
+        "PackName": "DARK BEGINNING 1",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2002-10-20",
+        "CardNumber": "PSV-088",
+        "PackName": "PHARAOH'S SERVANT",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-DE088",
+        "PackName": "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2013-12-06",
+        "CardNumber": "YSYR-DE010",
+        "PackName": "STARTER DECK-YUGI RELOADED",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2009-07-24",
+        "CardNumber": "RP02-DE022",
+        "PackName": "RETRO PACK 2",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2004-12-17",
+        "CardNumber": "DB1-DE198",
+        "PackName": "DARK BEGINNING 1",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2002-10-20",
+        "CardNumber": "PSV-G088",
+        "PackName": "PHARAOH'S SERVANT",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-FR088",
+        "PackName": "LE SERVITEUR DU PHARAON (LC01 &Eacute;dition 25e Anniversaire)",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2013-12-06",
+        "CardNumber": "YSYR-FR010",
+        "PackName": "Deck de D&eacute;marrage Yugi Revient",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2009-07-23",
+        "CardNumber": "RP02-FR022",
+        "PackName": "RETRO PACK 2",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2002-10-20",
+        "CardNumber": "SDP-F088",
+        "PackName": "LE SERVITEUR DU PHARAON",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-IT088",
+        "PackName": "SERVITORE DEL FARAONE  (LC01 Edizione 25&deg;Anniversario)",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2013-12-06",
+        "CardNumber": "YSYR-IT010",
+        "PackName": "Starter Deck Yugi Il Ritorno",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2009-07-23",
+        "CardNumber": "RP02-IT022",
+        "PackName": "RETRO PACK 2",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2002-10-20",
+        "CardNumber": "SDF-I088",
+        "PackName": "SERVITORE DEL FARAONE",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-SP088",
+        "PackName": "SERVIDOR DEL FARA&Oacute;N (LC01 Edici&oacute;n 25&ordm; Aniversario)",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2013-12-06",
+        "CardNumber": "YSYR-SP010",
+        "PackName": "La Baraja de Principiante Yugi &iexcl;Vuelve!",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2009-07-23",
+        "CardNumber": "RP02-SP022",
+        "PackName": "RETRO PACK 2",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2004-12-01",
+        "CardNumber": "DB1-SP198",
+        "PackName": "PRINCIPIO OSCURO 1",
+        "Rarity": "Comune"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-PT088",
+        "PackName": "SERVO DO FARA&Oacute; (LC01 Edi&ccedil;&atilde;o do 25&ordm; Anivers&aacute;rio)",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2013-12-06",
+        "CardNumber": "YSYR-PT010",
+        "PackName": "DECK INICIAL YUGI RELOADED",
+        "Rarity": "Comun"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2011-05-14",
+        "CardNumber": "BE01-JP169",
+        "PackName": "BEGINNER'S EDITION 1 [ 2011 ]",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2004-06-24",
+        "CardNumber": "BE1-JP198",
+        "PackName": "BEGINNER'S EDITION 1",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2002-12-12",
+        "CardNumber": "DL3-033",
+        "PackName": "DUELIST LEGACY Volume 3",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2000-12-14",
+        "CardNumber": "TB-38",
+        "PackName": "Thousand Eyes Bible － 千眼の魔術書 －",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2006-04-11",
+        "CardNumber": "BP1-KR198",
+        "PackName": "비기너즈 팩 Vol.1",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2004-06-19",
+        "CardNumber": "PSV-K088",
+        "PackName": "파라오의 사도",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

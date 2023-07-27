@@ -1,0 +1,160 @@
+{
+  "CardID": "11391",
+  "CardNames": {
+    "en": "1st Movement Solo",
+    "de": "Solo aus dem 1. Satz",
+    "fr": "1er Mouvement Solo",
+    "it": "1&ordm; Movimento Assolo",
+    "es": "Solo del 1er Movimiento",
+    "pt": "1&ordm; Movimento Solit&aacute;rio",
+    "ja": "どくそうのだい１がくしょう",
+    "ko": "독주의 제1악장"
+  },
+  "CardDescriptions": {
+    "en": "If you control no monsters: Special Summon 1 Level 4 or lower \"Melodious\" monster from your hand or Deck. You can only activate 1 \"1st Movement Solo\" per turn. You cannot Special Summon monsters during the turn you activate this card, except \"Melodious\" monsters.",
+    "de": "Falls du keine Monster kontrollierst: Beschwöre 1 „Musikalisch“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Deck. Du kannst nur 1 „Solo aus dem 1. Satz“ pro Spielzug aktivieren. Du kannst während des Spielzugs, in dem du diese Karte aktivierst, keine Monster als Spezialbeschwörung beschwören, außer „Musikalisch“-Monstern.",
+    "fr": "Si vous ne contrôlez aucun monstre : Invoquez Spécialement 1 monstre \"Musique\" de max. Niveau 4 depuis votre main ou Deck. Vous ne pouvez activer qu'1 \"1er Mouvement Solo\" par tour. Vous ne pouvez pas Invoquer Spécialement de monstres (monstres \"Musique\" exclus) durant le tour où vous activez cette carte.",
+    "it": "Se non controlli nessun mostro: Evoca Specialmente 1 mostro \"Melodiosa\" di Livello 4 o inferiore dalla tua mano o Deck. Puoi attivare solo 1 \"1º Movimento Assolo\" per turno. Non puoi Evocare Specialmente mostri durante il turno in cui attivi questa carta, eccetto mostri \"Melodiosa\".",
+    "es": "Si no controlas monstruos: Invoca de Modo Especial, desde tu mano o Deck, 1 monstruo \"Melodiosa\" de Nivel 4 o menor. Sólo puedes activar 1 \"Solo del 1er Movimiento\" por turno. Durante el turno en el que activas esta carta, no puedes Invocar monstruos de Modo Especial, excepto monstruos \"Melodiosa\".",
+    "pt": "Se você não controlar nenhum monstro: Invoque por Invocação-Especial 1 monstro \"Melodiosa(o)\" de Nível 4 ou menos da sua mão ou Deck. Você só pode ativar 1 \"1º Movimento Solitário\" por turno. Você não pode Invocar monstros por Invocação-Especial durante o turno em que ativar este card, exceto monstros \"Melodiosa(o)\".",
+    "ja": "「独奏の第１楽章」は１ターンに１枚しか発動できず、このカードを発動するターン、自分は「幻奏」モンスターしか特殊召喚できない。①：自分フィールドにモンスターが存在しない場合に発動できる。手札・デッキからレベル４以下の「幻奏」モンスター１体を特殊召喚する。",
+    "ko": "\"독주의 제1악장\"은 1턴에 1장밖에 발동할 수 없으며, 이 카드를 발동하는 턴에, 자신은 \"환주\" 몬스터밖에 특수 소환할 수 없다. ①: 자신 필드에 몬스터가 존재하지 않을 경우에 발동할 수 있다. 패 / 덱에서 레벨 4 이하의 \"환주\" 몬스터 1장을 특수 소환한다."
+  },
+  "CardType": "Normal Spell",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2015-09-18",
+        "CardNumber": "MP15-EN169",
+        "PackName": "2015 MEGA-TINS MEGA PACK",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2014-12-05",
+        "CardNumber": "NECH-ENS10",
+        "PackName": "THE NEW CHALLENGERS SUPER EDITION",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2014-11-07",
+        "CardNumber": "NECH-EN059",
+        "PackName": "THE NEW CHALLENGERS",
+        "Rarity": "Super Rare"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2015-09-17",
+        "CardNumber": "MP15-DE169",
+        "PackName": "2015 MEGA-TINS MEGA PACK",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2014-12-04",
+        "CardNumber": "NECH-DES10",
+        "PackName": "THE NEW CHALLENGERS SUPER EDITION",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2014-11-06",
+        "CardNumber": "NECH-DE059",
+        "PackName": "THE NEW CHALLENGERS",
+        "Rarity": "Super Rare"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2015-09-17",
+        "CardNumber": "MP15-FR169",
+        "PackName": "2015 MEGA-TINS M&Eacute;GA PACK",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2014-11-06",
+        "CardNumber": "NECH-FR059",
+        "PackName": "LES NOUVEAUX CHALLENGERS",
+        "Rarity": "Super Rare"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2015-09-17",
+        "CardNumber": "MP15-IT169",
+        "PackName": "2015 MEGA-TINS MEGA-PACK",
+        "Rarity": "Super Rara"
+      },
+      {
+        "ReleaseData": "2014-11-06",
+        "CardNumber": "NECH-IT059",
+        "PackName": "I NUOVI SFIDANTI",
+        "Rarity": "Super Rara"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2015-09-17",
+        "CardNumber": "MP15-SP169",
+        "PackName": "2015 MEGA-LATAS MEGA PACK",
+        "Rarity": "S&uacute;per Rara"
+      },
+      {
+        "ReleaseData": "2014-11-06",
+        "CardNumber": "NECH-SP059",
+        "PackName": "LOS NUEVOS CONTENDIENTES",
+        "Rarity": "S&uacute;per Rara"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2015-09-17",
+        "CardNumber": "MP15-PT169",
+        "PackName": "MEGA-PACOTE DA MEGA-LATAS 2015",
+        "Rarity": "Super Rara"
+      },
+      {
+        "ReleaseData": "2014-11-07",
+        "CardNumber": "NECH-PT059",
+        "PackName": "NOVOS DESAFIANTES",
+        "Rarity": "Super Rara"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2016-11-26",
+        "CardNumber": "DBLE-JP009",
+        "PackName": "ディメンションボックス －リミテッド・エディション－",
+        "Rarity": "パラレル仕様"
+      },
+      {
+        "ReleaseData": "2014-07-19",
+        "CardNumber": "NECH-JP059",
+        "PackName": "ネクスト・チャレンジャーズ [ NEXT CHALLENGERS ]",
+        "Rarity": "レア仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2017-01-20",
+        "CardNumber": "DBLE-KR009",
+        "PackName": "디멘션 세트",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2014-10-20",
+        "CardNumber": "NECH-KR059",
+        "PackName": "넥스트 챌린저스",
+        "Rarity": "레어"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

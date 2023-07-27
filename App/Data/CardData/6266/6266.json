@@ -1,0 +1,334 @@
+{
+  "CardID": "6266",
+  "CardNames": {
+    "en": "A Feather of the Phoenix",
+    "de": "Eine Feder vom Ph&ouml;nix",
+    "fr": "Une Plume de Ph&oelig;nix",
+    "it": "Una Piuma di Fenice",
+    "es": "Una Pluma del F&eacute;nix",
+    "pt": "Uma Pena da F&eacute;nix",
+    "ja": "ほうおうしんのはね",
+    "ko": "봉황신의 깃털"
+  },
+  "CardDescriptions": {
+    "en": "Discard 1 card, then target 1 card in your GY; return that target to the top of your Deck.",
+    "de": "Wirf 1 Karte ab und wähle dann 1 Karte in deinem Friedhof; lege das gewählte Ziel auf dein Deck zurück.",
+    "fr": "Défaussez 1 carte, puis ciblez 1 carte dans votre Cimetière ; renvoyez la cible au-dessus de votre Deck.",
+    "it": "Scarta 1 carta, poi scegli come bersaglio 1 carta nel tuo Cimitero; fai ritornare quel bersaglio in cima al tuo Deck.",
+    "es": "Descarta 1 carta, y después selecciona 1 carta en tu Cementerio; devuelve ese objetivo a la parte superior de tu Deck.",
+    "pt": "Descarte 1 card e, depois, escolha 1 card no seu Cemitério; devolva o alvo para o topo do seu Deck.",
+    "ja": "手札を１枚捨て、自分の墓地のカード１枚を選択して発動できる。選択したカードをデッキの一番上に戻す。",
+    "ko": "패를 1장 버리고, 자신 묘지의 카드 1장을 선택하여 발동할 수 있다. 선택한 카드를 덱의 맨 위로 되돌린다."
+  },
+  "CardType": "Normal Spell",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2018-10-12",
+        "CardNumber": "LEHD-ENA26",
+        "PackName": "LEGENDARY HERO DECKS",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2012-10-02",
+        "CardNumber": "LCYW-EN280",
+        "PackName": "LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK",
+        "Rarity": "Secret Rare"
+      },
+      {
+        "ReleaseData": "2007-07-25",
+        "CardNumber": "YSDS-EN029",
+        "PackName": "STARTER DECK SYRUS TRUESDALE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2007-05-15",
+        "CardNumber": "CP03-EN018",
+        "PackName": "CHAMPION PACK GAME THREE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2006-11-25",
+        "CardNumber": "DR3-EN157",
+        "PackName": "DARK REVELATION Volume 3",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-EN037",
+        "PackName": "FLAMING ETERNITY",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-EN037",
+        "PackName": "FLAMING ETERNITY",
+        "Rarity": "Ultimate Rare"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2018-10-04",
+        "CardNumber": "LEHD-DEA26",
+        "PackName": "LEGENDARY HERO DECKS",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2012-09-27",
+        "CardNumber": "LCYW-DE280",
+        "PackName": "LEGENDARY COLLECTION 3 MEGA PACK",
+        "Rarity": "Secret Rare"
+      },
+      {
+        "ReleaseData": "2007-07-25",
+        "CardNumber": "YSDS-DE029",
+        "PackName": "STARTER DECK SYRUS TRUESDALE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2007-05-15",
+        "CardNumber": "CP03-DE018",
+        "PackName": "CHAMPION PACK GAME THREE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2006-11-25",
+        "CardNumber": "DR3-DE157",
+        "PackName": "DARK REVELATION VOLUME 3",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-DE037",
+        "PackName": "FLAMING ETERNITY",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-DE037",
+        "PackName": "FLAMING ETERNITY",
+        "Rarity": "Ultimate Rare"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2018-10-04",
+        "CardNumber": "LEHD-FRA26",
+        "PackName": "DECKS DU H&Eacute;RO L&Eacute;GENDAIRE",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2012-09-27",
+        "CardNumber": "LCYW-FR280",
+        "PackName": "COLLECTION L&Eacute;GENDAIRE 3 LE MONDE DE YUGI M&Eacute;GA PACK",
+        "Rarity": "Secr&egrave;te Rare"
+      },
+      {
+        "ReleaseData": "2007-07-25",
+        "CardNumber": "YSDS-FR029",
+        "PackName": "DECK DE D&Eacute;MARRAGE SYRUS TRUESDALE",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2007-05-15",
+        "CardNumber": "CP03-FR018",
+        "PackName": "PAQUET DU CHAMPION 3&Eacute;ME PARTIE",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2006-11-25",
+        "CardNumber": "DR3-FR157",
+        "PackName": "SOMBRE R&Eacute;V&Eacute;LATION VOLUME 3",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-FR037",
+        "PackName": "ETERNIT&Eacute; BR&Ucirc;LANTE",
+        "Rarity": "Super Rare"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-FR037",
+        "PackName": "ETERNIT&Eacute; BR&Ucirc;LANTE",
+        "Rarity": "Ultime Rare"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2018-10-04",
+        "CardNumber": "LEHD-ITA26",
+        "PackName": "I DECK EROE LEGGENDARIO",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2012-09-27",
+        "CardNumber": "LCYW-IT280",
+        "PackName": "COLLEZIONE LEGGENDARIA 3 MEGA-PACK",
+        "Rarity": "Rara Segreta"
+      },
+      {
+        "ReleaseData": "2007-07-25",
+        "CardNumber": "YSDS-IT029",
+        "PackName": "STARTER DECK SYRUS TRUESDALE",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2007-05-15",
+        "CardNumber": "CP03-IT018",
+        "PackName": "BUSTA DEI CAMPIONI SFIDA TRE",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2006-11-25",
+        "CardNumber": "DR3-IT157",
+        "PackName": "RIVELAZIONE OSCURA VOLUME 3",
+        "Rarity": "Super Rara"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-IT037",
+        "PackName": "ETERNIT&Agrave; FIAMMEGGIANTE",
+        "Rarity": "Super Rara"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-IT037",
+        "PackName": "ETERNIT&Agrave; FIAMMEGGIANTE",
+        "Rarity": "Rara Ultimate"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2018-10-04",
+        "CardNumber": "LEHD-SPA26",
+        "PackName": "BARAJAS H&Eacute;ROE LEGENDARIO",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2012-09-27",
+        "CardNumber": "LCYW-SP280",
+        "PackName": "COLECCI&Oacute;N LEGENDARIA 3 EL MUNDO DE YUGI MEGA PACK",
+        "Rarity": "Rara Secreta"
+      },
+      {
+        "ReleaseData": "2007-07-25",
+        "CardNumber": "YSDS-SP029",
+        "PackName": "LA BARAJA DE PRINCIPIANTE SYRUS TRUESDALE",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2007-05-15",
+        "CardNumber": "CP03-SP018",
+        "PackName": "PAQUET DU CHAMPION 3&Eacute;ME PARTIE",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2006-11-25",
+        "CardNumber": "DR3-SP157",
+        "PackName": "REVELACI&Oacute;N OSCURA VOLUMEN 3",
+        "Rarity": "S&uacute;per Rara"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-SP037",
+        "PackName": "ETERNIDAD LLAMEANTE",
+        "Rarity": "S&uacute;per Rara"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-SP037",
+        "PackName": "ETERNIDAD LLAMEANTE",
+        "Rarity": "Rara Definitiva"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2018-10-04",
+        "CardNumber": "LEHD-PTA26",
+        "PackName": "DECKS DE HER&Oacute;IS LEND&Aacute;RIOS",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-PT037",
+        "PackName": "ETERNIDADE FLAMEJANTE",
+        "Rarity": "Super Rara"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "FET-PT037",
+        "PackName": "ETERNIDADE FLAMEJANTE",
+        "Rarity": "Ultimate Rara"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2013-11-01",
+        "CardNumber": "AT04-JP007",
+        "PackName": "アドバンスド・トーナメントパック2013 Vol.4",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2005-12-08",
+        "CardNumber": "EE3-JP157",
+        "PackName": "EXPERT EDITION Volume 3",
+        "Rarity": "スーパーレア仕様"
+      },
+      {
+        "ReleaseData": "2004-11-25",
+        "CardNumber": "FET-JP037",
+        "PackName": "フレイミング・エターニティ [ FLAMING ETERNITY ]",
+        "Rarity": "スーパーレア仕様"
+      },
+      {
+        "ReleaseData": "2004-11-25",
+        "CardNumber": "FET-JP037",
+        "PackName": "フレイミング・エターニティ [ FLAMING ETERNITY ]",
+        "Rarity": "アルティメットレア仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2014-01-01",
+        "CardNumber": "AE03-KR017",
+        "PackName": "어드밴스드 이벤트 팩 2014 Vol.1",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2012-04-10",
+        "CardNumber": "ESP4-KR034",
+        "PackName": "익스팬션 팩 Vol.4",
+        "Rarity": "레어"
+      },
+      {
+        "ReleaseData": "2008-07-05",
+        "CardNumber": "HGP3-KR157",
+        "PackName": "하이 그레이드 팩 Vol.3",
+        "Rarity": "슈퍼 레어"
+      },
+      {
+        "ReleaseData": "2006-05-19",
+        "CardNumber": "FET-KR037",
+        "PackName": "영원한 화염",
+        "Rarity": "슈퍼 레어"
+      },
+      {
+        "ReleaseData": "2006-05-19",
+        "CardNumber": "FET-KR037",
+        "PackName": "영원한 화염",
+        "Rarity": "얼티미트 레어"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

@@ -1,0 +1,250 @@
+{
+  "CardID": "4806",
+  "CardNames": {
+    "en": "7 Completed",
+    "de": "7 vollendet",
+    "fr": "Brelan de 7",
+    "it": "7 Completati",
+    "es": "7 Completado",
+    "pt": "7 Completados",
+    "ja": "セブンカード",
+    "ko": "7 카드"
+  },
+  "CardDescriptions": {
+    "en": "Activate this card by choosing ATK or DEF; equip only to a Machine monster. It gains 700 ATK or DEF, depending on the choice.",
+    "de": "Aktiviere diese Karte, indem du ATK oder DEF bestimmst; rüste nur ein Maschine-Monster mit dieser Karte aus. Es erhält 700 ATK oder DEF, abhängig von der Entscheidung.",
+    "fr": "Activez cette carte en choisissant ATK ou DEF ; équipable uniquement à un monstre Machine. Il gagne 700 ATK ou DEF, selon le choix.",
+    "it": "Attiva questa carta selezionando ATK o DEF; equipaggia solo a un mostro Macchina. Esso guadagna 700 ATK o DEF, a seconda della tua scelta.",
+    "es": "Activa esta carta eligiendo ATK o DEF; sólo puedes equiparla a un monstruo Máquina. Éste gana 700 ATK o DEF, dependiendo de tu elección.",
+    "pt": "Ative este card ao escolher ATK ou DEF; só pode ser equipado a um monstro Máquina. Ele ganha 700 de ATK ou DEF, dependendo da sua escolha.",
+    "ja": "機械族モンスターのみ装備可能。装備モンスターの攻撃力または守備力は７００ポイントアップする。",
+    "ko": "기계족 몬스터 1장의 공격력이나 수비력을 선택한다. 선택한 수치는 700 포인트 올린다."
+  },
+  "CardType": "Equip Spell",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2023-04-21",
+        "CardNumber": "PSV-EN004",
+        "PackName": "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2019-08-02",
+        "CardNumber": "SBSC-EN029",
+        "PackName": "SPEED DUEL: SCARS OF BATTLE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2014-08-01",
+        "CardNumber": "BP03-EN135",
+        "PackName": "BATTLE PACK 3 MONSTER LEAGUE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2014-08-01",
+        "CardNumber": "BP03-EN135",
+        "PackName": "BATTLE PACK 3 MONSTER LEAGUE",
+        "Rarity": "Shattefoil"
+      },
+      {
+        "ReleaseData": "2010-05-25",
+        "CardNumber": "DT02-EN038",
+        "PackName": "DUEL TERMINAL 2",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2002-10-20",
+        "CardNumber": "PSV-004",
+        "PackName": "PHARAOH'S SERVANT",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-DE004",
+        "PackName": "PHARAOH'S SERVANT (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2019-08-01",
+        "CardNumber": "SBSC-DE029",
+        "PackName": "SPEED DUEL: SCARS OF BATTLE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2014-07-31",
+        "CardNumber": "BP03-DE135",
+        "PackName": "BATTLE PACK 3 MONSTER LEAGUE",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2014-07-31",
+        "CardNumber": "BP03-DE135",
+        "PackName": "BATTLE PACK 3 MONSTER LEAGUE",
+        "Rarity": "Shatterfoil"
+      },
+      {
+        "ReleaseData": "2002-10-20",
+        "CardNumber": "PSV-G004",
+        "PackName": "PHARAOH'S SERVANT",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-FR004",
+        "PackName": "LE SERVITEUR DU PHARAON (LC01 &Eacute;dition 25e Anniversaire)",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2019-08-01",
+        "CardNumber": "SBSC-FR029",
+        "PackName": "SPEED DUEL: CICATRICES DE BATAILLES",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2014-07-31",
+        "CardNumber": "BP03-FR135",
+        "PackName": "BATTLE PACK 3 LA LIGUE DES MONSTRES",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2014-07-31",
+        "CardNumber": "BP03-FR135",
+        "PackName": "BATTLE PACK 3 LA LIGUE DES MONSTRES",
+        "Rarity": "Shatterfoil"
+      },
+      {
+        "ReleaseData": "2002-10-20",
+        "CardNumber": "SDP-F004",
+        "PackName": "LE SERVITEUR DU PHARAON",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-IT004",
+        "PackName": "SERVITORE DEL FARAONE  (LC01 Edizione 25&deg;Anniversario)",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2019-08-01",
+        "CardNumber": "SBSC-IT029",
+        "PackName": "SPEED DUEL: CICATRICI DI BATTAGLIA",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2014-07-31",
+        "CardNumber": "BP03-IT135",
+        "PackName": "BATTLE PACK 3 LEGA DEI MOSTRI",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2014-07-31",
+        "CardNumber": "BP03-IT135",
+        "PackName": "BATTLE PACK 3 LEGA DEI MOSTRI",
+        "Rarity": "Shatterfoil"
+      },
+      {
+        "ReleaseData": "2002-10-20",
+        "CardNumber": "SDF-I004",
+        "PackName": "SERVITORE DEL FARAONE",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-SP004",
+        "PackName": "SERVIDOR DEL FARA&Oacute;N (LC01 Edici&oacute;n 25&ordm; Aniversario)",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2019-08-01",
+        "CardNumber": "SBSC-SP029",
+        "PackName": "SPEED DUEL: CICATRICES DE BATALLA",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2014-07-31",
+        "CardNumber": "BP03-SP135",
+        "PackName": "BATTLE PACK 3 LIGA DE MONSTRUOS",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2014-07-31",
+        "CardNumber": "BP03-SP135",
+        "PackName": "BATTLE PACK 3 LIGA DE MONSTRUOS",
+        "Rarity": "Shatterfoil"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "PSV-PT004",
+        "PackName": "SERVO DO FARA&Oacute; (LC01 Edi&ccedil;&atilde;o do 25&ordm; Anivers&aacute;rio)",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2019-08-01",
+        "CardNumber": "SBSC-PT029",
+        "PackName": "DUELO R&Aacute;PIDO: CICATRIZES DE BATALHA",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2014-08-01",
+        "CardNumber": "BP03-PT135",
+        "PackName": "PACOTE DE BATALHA 3: LIGA DE MONSTROS",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2014-08-01",
+        "CardNumber": "BP03-PT135",
+        "PackName": "PACOTE DE BATALHA 3: LIGA DE MONSTROS",
+        "Rarity": "Metalizadas-Estilha&ccedil;adas"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2008-09-22",
+        "CardNumber": "DT03-JP038",
+        "PackName": "デュエルターミナル 「反撃のジャスティス！！」",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2002-06-20",
+        "CardNumber": "DL1-092",
+        "PackName": "DUELIST LEGACY Volume 1",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2000-09-28",
+        "CardNumber": "CA-04",
+        "PackName": "Curse of Anubis － アヌビスの呪い －",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2004-06-19",
+        "CardNumber": "PSV-K004",
+        "PackName": "파라오의 사도",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

@@ -1,0 +1,108 @@
+{
+  "CardID": "7128",
+  "CardNames": {
+    "en": "&quot;A&quot; Cell Breeding Device",
+    "de": "&bdquo;A&ldquo;-Zellen-Brutkasten",
+    "fr": "Incubateur Cellule &quot;A&quot;",
+    "it": "Camera d'Incubazione &quot;A&quot;",
+    "es": "Aparato Criador de Celdas &quot;A&quot;",
+    "ja": "「エー」さいぼうぞうしょくそうち",
+    "ko": "&quot;A&quot; 세포 증식 장치"
+  },
+  "CardDescriptions": {
+    "en": "During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.",
+    "de": "Während jeder deiner Standby Phasen, lege 1 A-Zählmarke auf 1 offenes Monster, das dein Gegner kontrolliert.",
+    "fr": "Durant chacune de vos Standby Phases, mettez un Compteur-A sur 1 monstre face recto contrôlé par votre adversaire.",
+    "it": "Durante ogni tua Standby Phase, metti un Segnalino-A su 1 mostro scoperto che il tuo avversario controlla.",
+    "es": "Durante cada una de tus Standby Phases, pon 1 Contador-A en 1 monstruo boca arriba que controle tu adversario.",
+    "ja": "自分のスタンバイフェイズ時、相手フィールド上に表側表示で存在するモンスター１体を選択し、Aカウンターを１つ置く。",
+    "ko": "자신의 스텐바이 페이즈시, 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고, A 카운터를 1개 놓는다."
+  },
+  "CardType": "Continuous Spell",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2007-05-16",
+        "CardNumber": "FOTB-EN043",
+        "PackName": "FORCE OF THE BREAKER",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2007-05-16",
+        "CardNumber": "FOTB-DE043",
+        "PackName": "FORCE OF THE BREAKER",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2007-05-05",
+        "CardNumber": "FOTB-FR043",
+        "PackName": "FORCE DU DESTRUCTEUR",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2007-05-16",
+        "CardNumber": "FOTB-IT043",
+        "PackName": "FORZA DEL DISTRUTTORE",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2007-05-05",
+        "CardNumber": "FOTB-SP043",
+        "PackName": "FUERZA DEL ROMPEDOR",
+        "Rarity": "Comune"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2012-05-12",
+        "CardNumber": "DE01-JP149",
+        "PackName": "DUELIST EDITION Volume 1",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2007-02-15",
+        "CardNumber": "FOTB-JP043",
+        "PackName": "フォース・オブ・ザ・ブレイカー [ FORCE OF THE BREAKER ]",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2007-02-15",
+        "CardNumber": "FOTB-JP043",
+        "PackName": "ベンダー版 FORCE OF THE BREAKER [ フォース・オブ・ザ・ブレイカー ]",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2014-03-18",
+        "CardNumber": "PC02-KR072",
+        "PackName": "프레셔스 팩 Vol.2",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2007-11-24",
+        "CardNumber": "FOTB-KR043",
+        "PackName": "파괴자의 힘",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

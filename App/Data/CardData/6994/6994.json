@@ -1,0 +1,108 @@
+{
+  "CardID": "6994",
+  "CardNames": {
+    "en": "&quot;A&quot; Cell Scatter Burst",
+    "de": "&bdquo;A&ldquo;-Zellen-Streuexplosion",
+    "fr": "Charge &agrave; Dispersion Cellule &quot;A&quot;",
+    "it": "Deflagrazione Cellula &quot;A&quot;",
+    "es": "R&aacute;faga de Dispersi&oacute;n de Celda &quot;A&quot;",
+    "ja": "「エー」さいぼうさんぷばくだん",
+    "ko": "&quot;A&quot; 세포 산포 폭탄"
+  },
+  "CardDescriptions": {
+    "en": "Select 1 face-up \"Alien\" monster you control. Destroy it and distribute new A-Counters equal to its Level among your opponent's face-up monsters.",
+    "de": "Wähle 1 offenes „Außerirdischer“-Monster, das du kontrollierst. Zerstöre es und verteile neue A-Zählmarken in Höhe seiner Stufe unter den offenen Monstern deines Gegners.",
+    "fr": "Sélectionnez 1 monstre \"Alien\" face recto que vous contrôlez. Détruisez-le et distribuez un nombre de nouveaux Compteurs-A égal à son Niveau parmi les monstres face recto de votre adversaire.",
+    "it": "Seleziona 1 mostro \"Alieno\" scoperto che controlli. Distruggilo e distribuisci un numero di Segnalini-A pari al suo Livello tra i mostri scoperti del tuo avversario.",
+    "es": "Selecciona 1 monstruo \"Alien\" boca arriba que tú controles. Destrúyelo y distribuye una cantidad de Contadores \"A\" igual al Nivel del monstruo destruido entre los monstruos boca arriba de tu adversario.",
+    "ja": "自分フィールド上の「エーリアン」と名のついたモンスター１体を選択して発動できる。選択した表側表示モンスターを破壊し、そのモンスターのレベルの数だけAカウンターを相手フィールド上に表側表示で存在するモンスターに置く。",
+    "ko": "자신 필드 위의 \"에일리언\"이라는 이름이 붙은 몬스터 1장을 선택하고 발동할 수 있다. 선택한 앞면 표시 몬스터를 파괴하고, 그 몬스터의 레벨 수만큼 A 카운터를 상대 필드 위에 앞면 표시로 존재하는 몬스터에 놓는다."
+  },
+  "CardType": "Quick-Play Spell",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2007-02-28",
+        "CardNumber": "STON-EN041",
+        "PackName": "STRIKE OF NEOS",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2007-02-28",
+        "CardNumber": "STON-DE041",
+        "PackName": "STRIKE OF NEOS",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2007-02-24",
+        "CardNumber": "STON-FR041",
+        "PackName": "L'ATTAQUE DE N&Eacute;OS",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2007-02-28",
+        "CardNumber": "STON-IT041",
+        "PackName": "ATTACCO DI NEOS",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2007-02-28",
+        "CardNumber": "STON-SP041",
+        "PackName": "GOLPE DE NEOS",
+        "Rarity": "Comune"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2012-05-12",
+        "CardNumber": "DE01-JP100",
+        "PackName": "DUELIST EDITION Volume 1",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2006-11-16",
+        "CardNumber": "STON-JP041",
+        "PackName": "ストライク・オブ・ネオス [ STRIKE OF NEOS ]",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2006-11-16",
+        "CardNumber": "STON-JP041",
+        "PackName": "ベンダー版 STRIKE OF NEOS [ ストライク・オブ・ネオス ]",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2014-03-18",
+        "CardNumber": "PC02-KR025",
+        "PackName": "프레셔스 팩 Vol.2",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2008-01-22",
+        "CardNumber": "STON-KR041",
+        "PackName": "네오스의 공격",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

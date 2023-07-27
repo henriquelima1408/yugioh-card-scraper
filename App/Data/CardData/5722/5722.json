@@ -1,0 +1,214 @@
+{
+  "CardID": "5722",
+  "CardNames": {
+    "en": "A Deal with Dark Ruler",
+    "de": "Pakt mit dem Dunklen Herrscher",
+    "fr": "Accord avec le Ma&icirc;tre des T&eacute;n&egrave;bres",
+    "it": "Un Accordo con l'Arcidemone",
+    "es": "Un Trato con el Se&ntilde;or Oscuro",
+    "pt": "Um Acordo com o Senhor das Trevas",
+    "ja": "デーモンとのかけひき",
+    "ko": "데몬과의 거래"
+  },
+  "CardDescriptions": {
+    "en": "(This card is always treated as an \"Archfiend\" card.)If a Level 8 or higher monster under your control was sent to the Graveyard this turn: Special Summon 1 \"Berserk Dragon\" from your hand or Deck.",
+    "de": "(Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)Falls ein Monster der Stufe 8 oder höher unter deiner Kontrolle in diesem Spielzug auf den Friedhof gelegt wurde: Beschwöre 1 „Berserker-Drache“ als Spezialbeschwörung von deiner Hand oder deinem Deck.",
+    "fr": "(Cette carte est toujours traitée comme une carte \"Archdémon\".)Si un monstre de min. Niveau 8 sous votre contrôle a été envoyé au Cimetière ce tour : Invoquez Spécialement 1 \"Dragon Furieux\" depuis votre main ou Deck.",
+    "it": "Se un mostro di Livello 8 o superiore sotto il tuo controllo è stato mandato al Cimitero in questo turno: Evoca Specialmente 1 \"Drago Berserk\" dalla tua mano o Deck.",
+    "es": "(Esta carta se trata siempre como una carta \"Archidemonio\").Si este turno un monstruo de Nivel 8 o mayor que controlas fue mandado al Cementerio: Invoca de Modo Especial, desde tu mano o Deck, 1 \"Dragón Berserker\".",
+    "pt": "(Este card é tratado como um card \"Arquidemônio\".)Se um monstro de Nível 8 ou mais sob o seu controle foi enviado para o Cemitério neste turno: Invoque por Invocação-Especial 1 \"Dragão Furioso\" da sua mão ou Deck.",
+    "ja": "レベル８以上の自分フィールド上のモンスターが墓地へ送られたターンに発動する事ができる。自分の手札またはデッキから「バーサーク・デッド・ドラゴン」１体を特殊召喚する。",
+    "ko": "자신 필드 위의 레벨 8 이상의 몬스터가 묘지로 보내진 턴에 발동할 수 있다. 자신의 패 또는 덱에서 \"버서크 데드 드래곤\" 1장을 특수 소환한다."
+  },
+  "CardType": "Quick-Play Spell",
+  "Species": [],
+  "Attribute": "",
+  "CardLevel": "",
+  "CardRank": "",
+  "CardAtk": "",
+  "CardDefense": "",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2023-04-21",
+        "CardNumber": "DCR-EN030",
+        "PackName": "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2013-10-11",
+        "CardNumber": "LCJW-EN241",
+        "PackName": "LEGENDARY COLLECTION 4 JOEY'S WORLD MEGA PACK",
+        "Rarity": "Rare"
+      },
+      {
+        "ReleaseData": "2007-12-12",
+        "CardNumber": "DCR-EN030",
+        "PackName": "DARK CRISIS (Reprint)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2005-03-19",
+        "CardNumber": "DR1-EN192",
+        "PackName": "DARK REVELATION Volume 1",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2003-12-01",
+        "CardNumber": "DCR-030",
+        "PackName": "DARK CRISIS",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "DCR-DE030",
+        "PackName": "DARK CRISIS (LC01 25th Anniversary Edition)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2013-10-10",
+        "CardNumber": "LCJW-DE241",
+        "PackName": "LEGENDARY COLLECTION 4 MEGA PACK",
+        "Rarity": "Rare"
+      },
+      {
+        "ReleaseData": "2007-12-10",
+        "CardNumber": "DCR-DE030",
+        "PackName": "DARK CRISIS(Nachdruck)",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2005-05-01",
+        "CardNumber": "DR1-DE192",
+        "PackName": "DARK REVELATIONS VOLUME 1",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "DCR-FR030",
+        "PackName": "LA CRISE DES T&Eacute;N&Egrave;BRES (LC01 &Eacute;dition 25e Anniversaire)",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2013-10-10",
+        "CardNumber": "LCJW-FR241",
+        "PackName": "COLLECTION L&Eacute;GENDAIRE 4 LE MONDE DE JOEY M&Eacute;GA PACK",
+        "Rarity": "Rare"
+      },
+      {
+        "ReleaseData": "2007-12-10",
+        "CardNumber": "DCR-FR030",
+        "PackName": "LA CRISE DES T&Eacute;N&Egrave;BRES(R&eacute;&eacute;dition)",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2005-03-19",
+        "CardNumber": "DR1-FR192",
+        "PackName": "SOMBRE R&Eacute;V&Eacute;LATION VOLUME 1",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "DCR-IT030",
+        "PackName": "CRISI OSCURA (LC01 Edizione 25&deg;Anniversario)",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2013-10-10",
+        "CardNumber": "LCJW-IT241",
+        "PackName": "COLLEZIONE LEGGENDARIA 4 MEGA-PACK",
+        "Rarity": "Rara"
+      },
+      {
+        "ReleaseData": "2007-12-10",
+        "CardNumber": "DCR-IT030",
+        "PackName": "CRISI OSCURA(Ristampa)",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2005-03-19",
+        "CardNumber": "DR1-IT192",
+        "PackName": "RIVELAZIONE OSCURA VOLUME 1",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "DCR-SP030",
+        "PackName": "CRISIS OSCURA (LC01 Edici&oacute;n 25&ordm; Aniversario)",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2013-10-10",
+        "CardNumber": "LCJW-SP241",
+        "PackName": "COLECCI&Oacute;N LEGENDARIA 4 EL MUNDO DE JOEY MEGA PACK",
+        "Rarity": "Rara"
+      },
+      {
+        "ReleaseData": "2005-03-19",
+        "CardNumber": "DR1-SP192",
+        "PackName": "REVELACI&Oacute;N OSCURA VOLUMEN 1",
+        "Rarity": "Comune"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2023-04-20",
+        "CardNumber": "DCR-PT030",
+        "PackName": "CRISE OBSCURA (LC01 Edi&ccedil;&atilde;o do 25&ordm; Anivers&aacute;rio)",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2013-10-11",
+        "CardNumber": "LCJW-PT241",
+        "PackName": "MEGA-PACOTE DA COLE&Ccedil;&Atilde;O LEND&Aacute;RIA 4: O MUNDO DE JOEY",
+        "Rarity": "Rara"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "DR1-PT192",
+        "PackName": "REVELA&Ccedil;&Atilde;O NEGRA VOLUME 1",
+        "Rarity": "Comun"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2004-09-23",
+        "CardNumber": "EE1-JP192",
+        "PackName": "EXPERT EDITION Volume 1",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2002-11-21",
+        "CardNumber": "304-030",
+        "PackName": "ガーディアンの力",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2006-05-20",
+        "CardNumber": "HGP1-KR192",
+        "PackName": "하이 그레이드 팩 Vol.1",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2005-05-02",
+        "CardNumber": "DCR-KR030",
+        "PackName": "암흑의 위협",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}

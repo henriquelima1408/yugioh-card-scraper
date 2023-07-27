@@ -1,0 +1,182 @@
+{
+  "CardID": "5520",
+  "CardNames": {
+    "en": "A Cat of Ill Omen",
+    "de": "Katze des Ungl&uuml;cks",
+    "fr": "Un Chat de Mauvais Augure",
+    "it": "Un Gatto della Sfortuna",
+    "es": "Un Gato de Mal Ag&uuml;ero",
+    "pt": "Um Gato do Ill Omen",
+    "ja": "ふこうをつげるくろねこ",
+    "ko": "불행을 알리는 검은고양이"
+  },
+  "CardDescriptions": {
+    "en": "FLIP: Choose 1 Trap from your Deck and place it on top of your Deck, or, if \"Necrovalley\" is on the field, you can add that Trap to your hand instead.",
+    "de": "FLIPP: Bestimme 1 Falle von deinem Deck und lege sie auf dein Deck oder, falls „Tal der Toten“ auf dem Spielfeld liegt, kannst du die Falle stattdessen deiner Hand hinzufügen.",
+    "fr": "FLIP : Choisissez 1 Piège depuis votre Deck et placez-le au-dessus de votre Deck, ou, si \"Vallée Mortuaire\" est sur le Terrain, vous pouvez ajouter le Piège à votre main à la place.",
+    "it": "SCOPRI: Seleziona 1 Trappola dal tuo Deck e mettila in cima al tuo Deck oppure, se \"Necrovalle\" è sul Terreno, puoi invece aggiungere quella Trappola alla tua mano.",
+    "es": "VOLTEO: Elige 1 Trampa en tu Deck y ponla en la parte superior de tu Deck o, si \"Necrovalle\" está en el Campo, puedes añadir esa Trampa a tu mano en su lugar.",
+    "pt": "VIRE: Selecione 1 Armadilha do seu Deck e coloque-a no topo do seu Deck ou, se \"Necro-Vale\" estiver no campo, em vez disso, você pode adicionar essa Armadilha à sua mão.",
+    "ja": "①：このカードがリバースした場合に発動する。デッキから罠カード１枚を選んでデッキの一番上に置く。「王家の眠る谷－ネクロバレー」がフィールドに存在する場合、その罠カードをデッキの一番上に置く代わりに、手札に加える事ができる。",
+    "ko": "①: 이 카드가 리버스했을 경우에 발동한다. 덱에서 함정 카드 1장을 고르고, 덱의 맨 위에 놓는다. \"왕가의 골짜기－네크로밸리\"가 필드에 존재할 경우, 그 함정 카드를 덱의 맨 위에 놓는 대신에, 패에 넣을 수 있다."
+  },
+  "CardType": "Monster",
+  "Species": [
+    "Beast",
+    "Flip",
+    "Effect"
+  ],
+  "Attribute": "DARK",
+  "CardLevel": "Level 2",
+  "CardRank": "",
+  "CardAtk": "500",
+  "CardDefense": "300",
+  "CardPendulumScale": "",
+  "CardLinkType": "",
+  "CardLinkArrows": [],
+  "CardSets": {
+    "en": [
+      {
+        "ReleaseData": "2019-01-25",
+        "CardNumber": "SS01-ENB11",
+        "PackName": "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2005-03-19",
+        "CardNumber": "DR1-EN018",
+        "PackName": "DARK REVELATION Volume 1",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2003-07-18",
+        "CardNumber": "PGD-070",
+        "PackName": "PHARAONIC GUARDIAN",
+        "Rarity": "Common"
+      }
+    ],
+    "de": [
+      {
+        "ReleaseData": "2019-01-24",
+        "CardNumber": "SS01-DEB11",
+        "PackName": "SPEED DUEL STARTER DECK: DESTINY MASTERS",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2005-05-01",
+        "CardNumber": "DR1-DE018",
+        "PackName": "DARK REVELATIONS VOLUME 1",
+        "Rarity": "Common"
+      },
+      {
+        "ReleaseData": "2003-07-01",
+        "CardNumber": "PGD-070",
+        "PackName": "PHARAONIC GUARDIAN",
+        "Rarity": "Common"
+      }
+    ],
+    "fr": [
+      {
+        "ReleaseData": "2019-01-24",
+        "CardNumber": "SS01-FRB11",
+        "PackName": "DECKS DE D&Eacute;MARRAGE SPEED DUEL : LES MA&Icirc;TRES DU DESTIN",
+        "Rarity": "Commun"
+      },
+      {
+        "ReleaseData": "2005-03-19",
+        "CardNumber": "DR1-FR018",
+        "PackName": "SOMBRE R&Eacute;V&Eacute;LATION VOLUME 1",
+        "Rarity": "Commun"
+      }
+    ],
+    "it": [
+      {
+        "ReleaseData": "2019-01-24",
+        "CardNumber": "SS01-ITB11",
+        "PackName": "STARTER DECK SPEED DUEL: MAESTRI DEL DESTINO",
+        "Rarity": "Comuni"
+      },
+      {
+        "ReleaseData": "2005-03-19",
+        "CardNumber": "DR1-IT018",
+        "PackName": "RIVELAZIONE OSCURA VOLUME 1",
+        "Rarity": "Comuni"
+      }
+    ],
+    "es": [
+      {
+        "ReleaseData": "2019-01-24",
+        "CardNumber": "SS01-SPB11",
+        "PackName": "BARAJAS DE PRINCIPIANTE SPEED DUEL: MAESTROS DEL DESTINO",
+        "Rarity": "Comune"
+      },
+      {
+        "ReleaseData": "2005-03-19",
+        "CardNumber": "DR1-SP018",
+        "PackName": "REVELACI&Oacute;N OSCURA VOLUMEN 1",
+        "Rarity": "Comune"
+      }
+    ],
+    "pt": [
+      {
+        "ReleaseData": "2019-01-24",
+        "CardNumber": "SS01-PTB11",
+        "PackName": "DECKS INICIAIS SPEED DUEL: MESTRES DO DESTINO",
+        "Rarity": "Comun"
+      },
+      {
+        "ReleaseData": "2005-03-01",
+        "CardNumber": "DR1-PT018",
+        "PackName": "REVELA&Ccedil;&Atilde;O NEGRA VOLUME 1",
+        "Rarity": "Comun"
+      }
+    ],
+    "ja": [
+      {
+        "ReleaseData": "2015-05-01",
+        "CardNumber": "AT10-JP005",
+        "PackName": "アドバンスド・トーナメントパック2015 Vol.2",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2004-09-23",
+        "CardNumber": "EE1-JP018",
+        "PackName": "EXPERT EDITION Volume 1",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2004-03-25",
+        "CardNumber": "SDM-011",
+        "PackName": "ストラクチャーデッキ － マリク編 －",
+        "Rarity": "ノーマル仕様"
+      },
+      {
+        "ReleaseData": "2002-05-16",
+        "CardNumber": "301-018",
+        "PackName": "新たなる支配者",
+        "Rarity": "ノーマル仕様"
+      }
+    ],
+    "ko": [
+      {
+        "ReleaseData": "2015-08-01",
+        "CardNumber": "AE08-KR005",
+        "PackName": "어드밴스드 이벤트 팩 2015 Vol.2",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2006-05-20",
+        "CardNumber": "HGP1-KR018",
+        "PackName": "하이 그레이드 팩 Vol.1",
+        "Rarity": "노멀"
+      },
+      {
+        "ReleaseData": "2004-12-14",
+        "CardNumber": "PGD-KR070",
+        "PackName": "왕가의 수호자",
+        "Rarity": "노멀"
+      }
+    ]
+  },
+  "Statuses": "None"
+}
